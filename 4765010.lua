@@ -1,0 +1,4 @@
+-- Deskrawl: Idle ARPG Demo (AppID: 4765010)
+addappid(4765010)
+addappid(4765011,0,"28026846eec1d2b76a6d6905b3e68bf9c6db30ea83d6f3b12cf71ea178998b45")
+setManifestid(4765011,"4359705713928401073")
