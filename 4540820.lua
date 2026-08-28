@@ -1,4 +1,3 @@
--- Kin and Conquest (AppID: 4540820)
-addappid(4540820)
-addappid(4540821,0,"eaaad65590522e8c055755f43c02db9041e786eefc36c040fc0f0c0248ca71d2")
+﻿addappid(4540820)
+addappid(4540821)
 setManifestid(4540821,"5142713827073505022")
