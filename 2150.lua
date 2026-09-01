@@ -1,0 +1,12 @@
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2150.lua
+--Gamename Dark Messiah SDK Beta
+addappid(2150) --Mainappid Dark Messiah SDK Beta
+addappid(2101, 1, "4d4345320446ab1d343025b67ae0f961f4467d3dfc7b8a247d70412e33a53254") --Main Windows Depot Dark Messiah SDK Beta
+addappid(2103, 1, "a2069172b15d18bed088b34c852cba073aab71f95958fe11853e4a611218f9c5") --Main Windows Depot Dark Messiah SDK Beta
+addappid(2104, 1, "8016252d2cff6de7319e5b24afd0ec8d83c5c78f7eab5b37f2f3e1e33382fba3") --Main Windows Depot Dark Messiah SDK Beta
+addappid(2105, 1, "c7866ac375aaa8e0572f8564411901f0c95d758a1e9d550c80375442b22ee2a7") --Main Windows Depot Dark Messiah SDK Beta
+addappid(2106, 1, "f154be3230a6550172f8273cc4b4db7b3c742fb7491ba53bea7e3c3cc5f48e91") --Main Windows Depot Dark Messiah SDK Beta
+addappid(2107, 1, "24cbb9d9ec40590555e6089e5cb4cb29825d3d0d7fe2a357a752b91890428fb7") --Main Windows Depot Dark Messiah SDK Beta
+addappid(2108, 1, "9eb3bdb44b01de2e9633f7c0f00ba866f36231f314c991b53c1bf23501d60796") --Main Windows Depot Dark Messiah SDK Beta
+addappid(2109, 1, "762aad1e2dc7c6f57a4c0518bbaacbb07728e24f8d6420ab67f2c758c5a40a12") --Main Windows Depot Dark Messiah SDK Beta
