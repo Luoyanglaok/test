@@ -1,3 +1,3 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 650.lua
-addappid(650, 0, "9a0fc84e3f77ef92fcd9636cce61aab256ff2cdbd0b169d6b0a085c37a700aee")
+addappid(650, 0, "59daf81529df8adfbca0bb295a810d11449aab7a4ee2bd96ac0406917a97c6a2")
