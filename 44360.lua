@@ -1,5 +1,5 @@
-addappid(44360)
-addappid(44361,0,"6b77baab5e63bf2cace804ea7b8c4dde7847ff03d21e5710c3f70afe07e5d1ff")
-setManifestid(44361,"8352165679557423073")
-addappid(44362,0,"f35fa10ea31cba19eb3605d5287cfc9158552a45113953e32ea9b36bd3e645aa")
-setManifestid(44362,"9166524398415930724")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 44360.lua
+--Gamename F1 2011
+addappid(44360) --Mainappid F1 2011
+addappid(44361, 1, "6b77baab5e63bf2cace804ea7b8c4dde7847ff03d21e5710c3f70afe07e5d1ff") --Main Windows Depot F1 2011
