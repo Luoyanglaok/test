@@ -1,3 +1,3 @@
-addappid(2067080)
-addappid(2067080,0,"5435851a617613224c6170470d4c483d0b5f4fe682df0b60a6b52dacc20f8c5f")
-setManifestid(2067080,"3489560343985824568")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2067080.lua
+addappid(2067080, 0, "a4f0ad9a6314bb76a2316ce5a6f7de65b8ee69d9266cbfeb667e8e4af49c654c")
