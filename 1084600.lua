@@ -8,12 +8,6 @@ addappid(1084602, 1, "262b20ffd5fbd41eb4e6993b44dba982695731cf82c7f787236a1bc1b8
 setManifestid(1084602, "5014485731095115828", 8055044272)
 addappid(1084603, 1, "5298981b009169e714731cbf957866f073237c264807e27cc5ddc061d41efb5d") --Main Windows Depot My Time at Sandrock
 setManifestid(1084603, "6318924155206180160", 12875032912)
---Dlcname My Time At Sandrock - OST
-addappid(1720400) --Dlcname My Time At Sandrock - OST
-addappid(1720401, 1, "364495165d936ac2da68067973c99e913edf26ee8e8ef51e220ce33e95fab33d") --Dlc Windows Depot My Time At Sandrock - OST
-setManifestid(1720401, "4650324154701246762", 1920446448)
-addappid(1720402, 1, "6af6a4d4adfddd5e7d518de22f243dbd4187f1c6bea5aad0deddde0e8d15b387") --Dlc Windows Depot My Time At Sandrock - OST
-setManifestid(1720402, "7182821150993537114", 318038640)
 --Dlcname AppID 2090470
 addtoken(2090470, "6523541594591311016")
 addappid(2090470, 1, "171040ef17e40051ff077c37fcfef7510a669fd9d81549403028bc15e0c22015") --Dlcname AppID 2090470
