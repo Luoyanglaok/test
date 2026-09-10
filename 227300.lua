@@ -330,3 +330,8 @@ setManifestid(4348650, "657738104977795892", 0)
 --Dlcname Euro Truck Simulator 2 - Holland Style Tuning Pack
 addappid(4400940, 1, "614cc960cdc89bcf28d665df7004922e4a3289ed8344485e5086634038925fda") --Dlcname Euro Truck Simulator 2 - Holland Style Tuning Pack
 setManifestid(4400940, "1971038981576363293", 0)
+--Missing Dlcs
+--Dlcname Euro Truck Simulator 2 - Iceland
+--Dlcname Euro Truck Simulator 2 - Coaches
+--Dlcname Euro Truck Simulator 2 - Isle of Ireland
+--Dlcname Euro Truck Simulator 2 - Soul of Anatolia
