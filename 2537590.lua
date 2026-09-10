@@ -16,5 +16,3 @@ addappid(3245710) --Dlcname Microsoft Flight Simulator 2024 - Premium Deluxe
 addappid(5068380) --Dlcname Microsoft Flight Simulator 2024 Local Legends Pack 1
 addappid(5068390) --Dlcname Microsoft Flight Simulator 2024 Local Legends Pack 2
 addappid(5068400) --Dlcname Microsoft Flight Simulator 2024 Famous Flyers Pack 3
---Missing Dlcs
---Dlcname Microsoft Flight Simulator Suite: Themes Reimagined
