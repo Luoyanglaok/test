@@ -1,17 +1,27 @@
-addappid(1174180)
-setManifestid(228987,"4302102680580581867")
-setManifestid(228990,"1829726630299308803")
-addappid(1174181,0,"6fbf0f4b33fd5111d0832f0fb63a4d185c5321901ef95776c73e6e10b203bc25")
-setManifestid(1174181,"4757128409362785099")
-addappid(1174182,0,"0824e4e00b9d464a1352b0eaa60416ee3bfe0f3b416459991dc6fca87e84366f")
-setManifestid(1174182,"2258488483491377476")
-addappid(1174183,0,"cd51ee7e8adde797736bc283f9d434fae0aac28753e3f38a29a78aac298c0ccf")
-setManifestid(1174183,"4785346550216140531")
-addappid(1174184,0,"506c8f971b77f5c39f8baa54fac090e79bf32e19d92eca2a34cba9569bbe5d8a")
-setManifestid(1174184,"2698939236196220127")
-addappid(1174185,0,"6fe9c5b4e41f1f91b6a775dd562515e9652570cc607caedef2bc4a9d522fea4d")
-setManifestid(1174185,"8173342615013177810")
-addappid(1174186,0,"0ef7331ad866994474a72131eeb1a5667dc8c9f7be87b4e1d805f288e1d49432")
-setManifestid(1174186,"357926288062992323")
-addappid(1899671,0,"b7921da5e50d00b2238d0fe870a354cb572bc5d397955fef02a439103f62827b")
-setManifestid(1899671,"1313721849634300954")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1174180.lua
+--Gamename Red Dead Redemption 2
+addappid(1174180, 1, "c4ba69ff66208b16fc27679ceefb89d490776fc18bae801311a31b6855b74783") --Mainappid Red Dead Redemption 2
+addappid(1174181, 1, "6fbf0f4b33fd5111d0832f0fb63a4d185c5321901ef95776c73e6e10b203bc25") --Main Windows Depot Red Dead Redemption 2
+setManifestid(1174181, "4757128409362785099", 528)
+addappid(1174182, 1, "0824e4e00b9d464a1352b0eaa60416ee3bfe0f3b416459991dc6fca87e84366f") --Main Windows Depot Red Dead Redemption 2
+setManifestid(1174182, "2258488483491377476", 78293674288)
+addappid(1174183, 1, "cd51ee7e8adde797736bc283f9d434fae0aac28753e3f38a29a78aac298c0ccf") --Main Windows Depot Red Dead Redemption 2
+setManifestid(1174183, "4785346550216140531", 174240)
+addappid(1174184, 1, "506c8f971b77f5c39f8baa54fac090e79bf32e19d92eca2a34cba9569bbe5d8a") --Main Windows Depot Red Dead Redemption 2
+setManifestid(1174184, "2698939236196220127", 5241887744)
+addappid(1174185, 1, "6fe9c5b4e41f1f91b6a775dd562515e9652570cc607caedef2bc4a9d522fea4d") --Main Windows Depot Red Dead Redemption 2
+setManifestid(1174185, "8173342615013177810", 16261263088)
+addappid(1174186, 1, "0ef7331ad866994474a72131eeb1a5667dc8c9f7be87b4e1d805f288e1d49432") --Main Windows Depot Red Dead Redemption 2
+setManifestid(1174186, "357926288062992323", 20901920112)
+--Share Depots
+addappid(228987, 1, "cf0622b6dec67606fdc42e7afa5ede78cb33e38dfab82670c5ec7e1404e4984e") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228987, "4302102680580581867", 22936736)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228990, "1829726630299308803", 100658080)
+addappid(1899671, 1, "b7921da5e50d00b2238d0fe870a354cb572bc5d397955fef02a439103f62827b") --Share Windows Depot RGL/SC
+setManifestid(1899671, "3914969219305676290", 209058416)
+addappid(1190050) --Dlcname AppID 1190050
+addtoken(1190050, "4679005205774328491")
+addappid(1190051) --Dlcname AppID 1190051
+addtoken(1190051, "14772589015440947562")
