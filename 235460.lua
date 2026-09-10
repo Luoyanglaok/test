@@ -1,5 +1,8 @@
-addappid(235460)
-addappid(235461,0,"528bc8a310c4fe4defee57487f61d183ced5856c81a68f4b9818b97e7c60b11f")
-setManifestid(235461,"6603353085526272974")
-addappid(235462,0,"9bd8396f037cbbbc99c00d4acbc1744b2f518b774e4793cbb251a11afdfdca99")
-setManifestid(235462,"3091722681535053275")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 235460.lua
+--Gamename METAL GEAR RISING: REVENGEANCE
+addappid(235460, 1, "7e21419cdd09ae693c5a2579e6c5b19c5a61e4a1bb8ff847885f8b0687139bc8") --Mainappid METAL GEAR RISING: REVENGEANCE
+addappid(235461, 1, "528bc8a310c4fe4defee57487f61d183ced5856c81a68f4b9818b97e7c60b11f") --Main Windows Depot METAL GEAR RISING: REVENGEANCE
+setManifestid(235461, "6603353085526272974", 0)
+addappid(235462, 1, "9bd8396f037cbbbc99c00d4acbc1744b2f518b774e4793cbb251a11afdfdca99") --Main Macos Depot METAL GEAR RISING: REVENGEANCE
+setManifestid(235462, "3091722681535053275", 25489556720)
