@@ -1,5 +1,11 @@
-addappid(1857090)
-setManifestid(228989,"3514306556860204959")
-setManifestid(228990,"1829726630299308803")
-addappid(1857091,0,"370d177702e1721868b4db49904b523b83825e329df24930490ba7b3a7da7131")
-setManifestid(1857091,"1034264613478789361")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1857090.lua
+--Gamename Norland
+addappid(1857090, 1, "a5fab027b43bf50c8de42c4f2121f10c9bf94829e42f823397269966966bf80e") --Mainappid Norland
+addappid(1857091, 1, "370d177702e1721868b4db49904b523b83825e329df24930490ba7b3a7da7131") --Main Windows Depot Norland
+setManifestid(1857091, "1228477902981854726", 885244144)
+--Share Depots
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228989, "5753583882400741046", 25108528)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228990, "1829726630299308803", 100658080)
