@@ -1,113 +1,86 @@
-addappid(239140)
-setManifestid(228983,"8124929965194586177")
-setManifestid(228984,"2547553897526095397")
-setManifestid(228988,"6645201662696499616")
-setManifestid(228990,"1829726630299308803")
-addappid(239153,0,"c6fcdb2d6512b606f1a71ccfd84da3129320ac8e12dbda5697dc44ecf11fad86")
-setManifestid(239153,"5269905560691468335")
-addappid(239142,0,"dd4be4c23d15015c47203ba5e576b7d94b1b6bab2d285a6f1d9907d91dc3afcb")
-setManifestid(239142,"4909222964749487550")
-addappid(239141,0,"d43f22eb50617425e906b808de0508b5668219ed5de743ffb6a96d387ab9a5e4")
-setManifestid(239141,"1884000773730816151")
-addappid(239154,0,"bfd86bba87fa2e2fbc783dae0c2d82ea12dcf704223b5e8792b7f024b8e04783")
-setManifestid(239154,"6849053581776254442")
-addappid(239144,0,"9a7e5678376e0b1680258b1ceb7cc050988ed630e40401332dbb4a2c4c9b6873")
-setManifestid(239144,"248248057168427557")
-addappid(239145,0,"9a406d0152999e5ac765192887fe0e4ddcc7b0cb978a5016096d35b14b7942e5")
-setManifestid(239145,"1437360153133987960")
-addappid(302100,0,"f93071cd8a04fff9d35ac709416db9f5f8ed7cbd2000837e66f1224a24eab514")
-setManifestid(302100,"6851724794477285739")
-addappid(239143,0,"784fc854e9b1df1eb26155a776d4898a0a35798e9378bcef02d4dbaf50c42ad8")
-setManifestid(239143,"3583087257902319723")
-addappid(239146,0,"5dc64f1c81d707eea75c7414b4db341e32e7ec5c51831561475fc1e35085c94c")
-setManifestid(239146,"6977596446358742346")
-addappid(239147,0,"3d07ffce6f87a58f62c4c998419b67751cee4fc6cda63134cfafc11eceba6b06")
-setManifestid(239147,"6818540791695431332")
-addappid(239148,0,"0f888096b96297181839f55ec15549e3a5f45e4d3a95e007faed839ab73c472d")
-setManifestid(239148,"426440171849558497")
-addappid(335818,0,"31412e3233e1f94b35343da3ed6df1b3a0fe4856364a0f1f4f718d77b1ce88f8")
-setManifestid(335818,"4217550357101797215")
-addappid(239149,0,"51ba3027452ff645ac04ebea157e620d5a7dc9e69a2615b489a5bfd0dcc1e397")
-setManifestid(239149,"6910977096862001324")
-addappid(239150,0,"a4beca8cbfb6a2e1724935cc8fc91407fda50404785b56f30c5ee9a8f828af20")
-setManifestid(239150,"6133466168714389736")
-addappid(239152,0,"548581b46d068549522f09d9c16f3db62d67377d2461bd239ef4a9f8046e065f")
-setManifestid(239152,"1116346532221734710")
-addappid(239151,0,"472a27da2bafc64d66eacc81028e86787ec574ef87557c9bfc1c85e007f80e35")
-setManifestid(239151,"768244602174450218")
-addappid(239155,0,"38994ccf16578dd6ecee834c698d9467a4006f2baa52bb4508fda5ba67a1be37")
-setManifestid(239155,"6766532604551960495")
-addappid(239157,0,"2dccf962440b0f9b10bef2dc7c1be9dffbf18628bc7199b2a70c35dbab091c0e")
-setManifestid(239157,"4494733000755699585")
-addappid(239158,0,"ac378571b7679bcdc1d121520eef910fb1594321a3da1c0cb42ddb8861169969")
-setManifestid(239158,"1095500405170472262")
-addappid(239156,0,"7d47deed0dcf10255f1d78245984940a4db077fa63dcfe90d1a43acd73bacfac")
-setManifestid(239156,"5550976966324161531")
-addappid(239159,0,"ca6a14b1a73be972a17a4a74da8c282fa11e21f481faeaac17583b35b3de9d9d")
-setManifestid(239159,"2822939376127183892")
-addappid(325726,0,"df587ce217685b930ca1231ead3c361809aec59d70e1551a9d1bc2e453f775d2")
-setManifestid(325726,"2852561654468516267")
-addappid(325727,0,"8cec0f5de662b30815d9e1fc0b2ed0ddd98c777c17d34c191e5b70e252f85a30")
-setManifestid(325727,"693555123660047091")
-addappid(325728,0,"8cf07633fe357e1530b178be6adc6815c68171db7c52e3724684286ef8224b7e")
-setManifestid(325728,"1059079872503087232")
-addappid(325729,0,"71b442c82934c4edb53e5239ac4be12cc2e3fa08f9cbad06100c422dbd8529ee")
-setManifestid(325729,"3544563061799568236")
-addappid(325723,0,"ea4b42ffe42766d79d3ba8af8fcc61b28901bfab8ebb4ad8ea2920753f4ec442")
-setManifestid(325723,"7023577066684272694")
-addappid(302105,0,"d586eda8faec228ed8216b9f8915785830722cc601d0886fed441b58628fbb86")
-setManifestid(302105,"399683387646040328")
-addappid(302106,0,"ea32e751c5c9265cae9993356eda21134e864331942d960e677fdf088cfe4481")
-setManifestid(302106,"2799419641144961499")
-addappid(325724,0,"59d801db2b871628da195dca8a59d4c582c6b204a3892e1570cfa38d7e971090")
-setManifestid(325724,"2336198624082067070")
-addappid(412921,0,"c1b9d960bc29fb856a820b810396cf7b063e628fdd430fc2f4f5cb29ad1e24e2")
-setManifestid(412921,"7271224940795753457")
-addappid(335813,0,"5c6ec7e26c577c7f4652707d01411361fc5ef05d1db91d85a25e85fd451d90c5")
-setManifestid(335813,"3420159308156054730")
-addappid(412922,0,"550a7a9c831851105926c9a9fbbb20b5ced04aef4e629087164f19ed865e0085")
-setManifestid(412922,"2642029729427707539")
-addappid(302108,0,"8b500ae36679ec190ce7d9ef7fc0ef40702d28d8ce3147147e999c0cfb0a9cb4")
-setManifestid(302108,"2768556406946283181")
-addappid(302109,0,"c3c2748345f430bfc4864f0fa5e64405f9d6b75a923f2fa49fffca25e093db9b")
-setManifestid(302109,"6993473490313646688")
-addappid(335817,0,"005d3890c451828fa134a96a0f5ecfa1493ae139db801af14e46d8926d4d8394")
-setManifestid(335817,"7223779238379908446")
-addappid(412920,0,"49a79ba116a43c0faf88157d3782fa05e87c243b4fa282925833765b40ff40a3")
-setManifestid(412920,"5221493892424834479")
-addappid(412923,0,"38e033dcfd431c291ef7f268b419378ceb258d6293fe5da0964e288ec478c094")
-setManifestid(412923,"1489997561246006607")
-addappid(415370,0,"5b742b871e541b3f673ab3bb9a045d38ddc6611199ad5fb1ee9b4c1511191954")
-setManifestid(415370,"840868460296476634")
-addappid(302104,0,"e20d95329cf0de87109a1ba47f90db1d5d7354f0d1865320020692338667217a")
-setManifestid(302104,"1620437066890858827")
-addappid(325718,0,"a82801b34ca486a45f4186589d34d58143fe2c80fa9381b12a4bc94e5208321c")
-setManifestid(325718,"1826383189552634282")
-addappid(335811,0,"a2bf0d355bf9857928aaa28c99346f578bb5eadcbb712bdc057d04132572b39f")
-setManifestid(335811,"1816973852439471936")
-addappid(335812,0,"af2ed455ce47b41581e161a7726a34fd1de02f6c267a2924b0d87185746a49e7")
-setManifestid(335812,"6093393822374231972")
-addappid(335814,0,"cc74f4dcd4043130d5cb2b80a32ff930c066f4b0762c584e91bb326a08fab33a")
-setManifestid(335814,"6130260265173409911")
-addappid(335815,0,"9190b1cf9453881520747438121484af7007f4bd6ef9ac11fa49b69f8793d89d")
-setManifestid(335815,"1539321561276043047")
-addappid(325719,0,"f259e29c755201c3110814d2abeab64effa4e52fddf38fcd8df8097aa94c124a")
-setManifestid(325719,"8501214080906540715")
-addappid(335816,0,"0127239b7ec09183956a0819dedd109189ebdc1a4fe3da57dba1870660486a9a")
-setManifestid(335816,"2654921391239390103")
-addappid(798540,0,"f2d0fbc465f9f5de6aa4123106369dccde6e646f37497de93c9bd1ace5a8f1fb")
-setManifestid(798540,"122531785649024013")
-addappid(798541,0,"7bc6d5d780053a9fcbbdeefee19589f1f25d0f605257fe728ccad3fdac856b98")
-setManifestid(798541,"3431955321588676176")
-addappid(798542,0,"1e00c500f2e145f7f8a0a8aa8c45ccc4611dfd78861964393520fd17ef6e7b01")
-setManifestid(798542,"8544396478454181413")
-addappid(798543,0,"8bde9e319ea58e4958ac96151ab460a48039a292e0a10a52f919a64197c17f97")
-setManifestid(798543,"4065307748050454193")
-addappid(1034630,0,"e44584224e62e8fb38c5cce8c820311b3417d72e509f5148a8344c0bb8123ad6")
-setManifestid(1034630,"3262027323823027455")
-addappid(335819,0,"40a26d78e3a4bf01c8fab0eb0d87f084049fde55819456e234b90f2d2d9d661b")
-setManifestid(335819,"1819679273627392599")
-addappid(347091,0,"59ef657142ff4d99f9d19904a59b20df2dd95f45aa64000ea026d46692841439")
-setManifestid(347091,"4365157259231002891")
-addappid(347092,0,"bac768ef68e46f172518b62eef2a2ae670199054c7c0e8eec3114b5981a586b8")
-setManifestid(347092,"6682527290744530465")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 239140.lua
+addappid(239140, 0, "b7353d4d8b24a21548b971246f9e4a1e6de2716e36991657f2dc87dd9bd54c22")
+addappid(302100) --Dlcname AppID 302100
+addtoken(302100, "1983212283047127395")
+addappid(302101) --Dlcname Dying Light - Cuisine & Cargo
+addtoken(302101, "11315058037702565365")
+addappid(302102) --Dlcname AppID 302102
+addtoken(302102, "12689017034680641238")
+addappid(302103) --Dlcname AppID 302103
+addtoken(302103, "10181138487772196632")
+addappid(325710) --Dlcname AppID 325710
+addtoken(325710, "8797581396892788228")
+addappid(325711) --Dlcname AppID 325711
+addtoken(325711, "250001739702349011")
+addappid(325712) --Dlcname AppID 325712
+addtoken(325712, "14983854277239379829")
+addappid(325713) --Dlcname AppID 325713
+addtoken(325713, "7751621142622387831")
+addappid(325714) --Dlcname AppID 325714
+addtoken(325714, "2244257922829109278")
+addappid(325715) --Dlcname AppID 325715
+addtoken(325715, "6603694525352168483")
+addappid(325716) --Dlcname AppID 325716
+addtoken(325716, "13388049168963237623")
+addappid(325717) --Dlcname AppID 325717
+addappid(325720) --Dlcname AppID 325720
+addtoken(325720, "14183481406138715157")
+addappid(325721) --Dlcname AppID 325721
+addtoken(325721, "17051987931721726550")
+addappid(325722) --Dlcname AppID 325722
+addtoken(325722, "17021389916891106800")
+addappid(325723) --Dlcname Dying Light - The Bozak Horde
+addappid(325724) --Dlcname Dying Light - The Following
+addappid(335810) --Dlcname AppID 335810
+addtoken(335810, "10419984102394371097")
+addappid(347090) --Dlcname Dying Light Ultimate Survivor Bundle
+addappid(412920) --Dlcname AppID 412920
+addtoken(412920, "8334844681797849777")
+addappid(415360) --Dlcname Dying Light: Razer Nabu Outfit
+addappid(415370) --Dlcname AppID 415370
+addtoken(415370, "9784882241782931738")
+addappid(435110) --Dlcname Dying Light: Outfit and Livery 1
+addappid(435111) --Dlcname Dying Light- Crash Test Skin Pack
+addappid(436080) --Dlcname Dying Light- Harran Ranger Bundle
+addappid(436081) --Dlcname Dying Light- Gun Psycho Bundle
+addappid(436082) --Dlcname Dying Light- Volatile Hunter Bundle
+addappid(436083) --Dlcname AppID 436083
+addappid(675860) --Dlcname Dying Light - Harran Military Rifle
+addappid(748340) --Dlcname Dying Light - White Death Bundle
+addappid(748341) --Dlcname Dying Light - Vintage Gunslinger Bundle
+addappid(798541) --Dlcname Dying Light 3D Printer Models
+addappid(798542) --Dlcname Dying Light Collector’s Artbook
+addappid(798543) --Dlcname Dying Light Wallpaper Pack
+addappid(1034630) --Dlcname Dying Light Book
+addappid(1112520) --Dlcname Dying Light - Rais Elite Bundle
+addappid(1112521) --Dlcname Dying Light - Godfather Bundle
+addappid(1174580) --Dlcname Dying Light - Harran Inmate Bundle
+addappid(1174581) --Dlcname Dying Light - Left 4 Dead 2 Weapon Pack
+addappid(1177880) --Dlcname Dying Light - Retrowave Bundle
+addappid(1184350) --Dlcname Dying Light - SHU Warrior Bundle
+addappid(1184351) --Dlcname Dying Light - Chivalry Weapon Pack
+addappid(1241570) --Dlcname Dying Light - 5th Anniversary Bundle
+addappid(1272090) --Dlcname Dying Light - Unturned Weapon Pack
+addappid(1300710) --Dlcname Dying Light - Hellraid
+addappid(1336220) --Dlcname AppID 1336220
+addtoken(1336220, "7814673084210859085")
+addappid(1354960) --Dlcname Dying Light - Volkan Combat Armor Bundle
+addappid(1454750) --Dlcname Dying Light - L4D2 Bill & Gnome Chompski Pack
+addappid(1468290) --Dlcname Dying Light - Classified Operation Bundle
+addappid(1498210) --Dlcname Dying Light - Viking: Raider of Harran Bundle
+addappid(1524890) --Dlcname Dying Light - Ox Warrior Bundle
+addappid(1543420) --Dlcname Dying Light - Harran Tactical Unit Bundle
+addappid(1599030) --Dlcname Dying Light - Rust Weapon Pack
+addappid(1647900) --Dlcname Dying Light - Savvy Gamer Bundle
+addappid(1697640) --Dlcname AppID 1697640
+addappid(1702060) --Dlcname Dying Light - Astronaut Bundle
+addappid(1762700) --Dlcname Dying Light - Van Crane Bundle
+addtoken(1762700, "18173262258780104649")
+addappid(1822810) --Dlcname Dying Light - Snow Ops Bundle
+addappid(1935540) --Dlcname Dying Light - Dieselpunk Bundle
+addappid(2971370) --Dlcname Dying Light - Standard To Enhanced Upgrade
+addappid(2971380) --Dlcname Dying Light - Standard To Definitive Upgrade
+addappid(3454290) --Dlcname Dying Light - 10th Anniversary Bundle
+--Missing Dlcs
+--Dlcname Dying Light Original Soundtrack
