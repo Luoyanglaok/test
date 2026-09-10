@@ -3,7 +3,7 @@
 --Gamename WheelMates
 addappid(3905450) --Mainappid WheelMates
 addappid(3905451, 1, "65e41de63569430ea95de665bca8b6a2254b980cbf6514cde1b107c420f53626") --Main Windows Depot WheelMates
-setManifestid(3905451, "4550121776381995035", 6948633424)
+setManifestid(3905451, "2964603623773704623", 6840334288)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
