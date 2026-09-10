@@ -1,60 +1,73 @@
-addappid(1551360)
-addappid(3339980)
-addappid(3051730)
-addappid(2997790)
-addappid(2676380)
-addappid(2638820)
-addappid(1613284)
-addappid(1648020)
-addappid(1613282)
-addappid(1613285)
-addappid(1613283)
-addappid(1613280)
-addappid(1613281)
-addappid(1764060)
-addappid(1764061)
-addappid(1764062)
-addappid(1812150)
-addappid(1812151)
-addappid(1812152)
-addappid(1812153)
-addappid(1824140)
-addappid(1824141)
-addappid(1824142)
-addappid(1824143)
-addappid(1846790)
-addappid(1846791)
-addappid(1852790)
-addappid(1846792)
-addappid(1890180)
-addappid(1890181)
-addappid(1890182)
-addappid(1890183)
-addappid(1919260)
-addappid(1919261)
-addappid(1919262)
-addappid(1919263)
-addappid(1949470)
-addappid(1949471)
-addappid(1949472)
-addappid(1949473)
-addappid(1949474)
-addappid(1949475)
-addappid(1949476)
-addappid(1949477)
-addappid(2013600)
-addappid(2013620)
-addappid(2013621)
-addappid(2507010)
-addappid(2614920)
-addappid(2738880)
-addappid(2814020)
-addappid(2868420)
-addappid(2894270)
-addappid(228988,1,"1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358")
-addappid(228990,1,"44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8")
-setManifestid(1551361,"7875698057602846803")
-setManifestid(1613280,"1076978755699820847")
-setManifestid(1613281,"8702078743692499086")
-setManifestid(228988,"6645201662696499616")
-setManifestid(228990,"1829726630299308803")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1551360.lua
+--Gamename Forza Horizon 5
+addappid(1551360, 1, "c82fbc3ff45a4f2e66ad382e8c749e2e1a227555ad87298708d0d814e974b659") --Mainappid Forza Horizon 5
+addappid(1551361, 1, "13b42353469d4bb26905e2c12e73d4cd63ad89c21f438b3cf5b4b9a9bb659227") --Main Windows Depot Forza Horizon 5
+setManifestid(1551361, "7875698057602846803", 148296117072)
+--Dlcname Forza Horizon 5: Hot Wheels
+addtoken(1613280, "8093933008698055561")
+addappid(1613280, 1, "1cc274dec87bdc5651311f72c4c162f4067eafba2d8fb98cac6e3be307f5948a") --Dlcname Forza Horizon 5: Hot Wheels
+setManifestid(1613280, "1076978755699820847", 10380391104)
+--Dlcname Forza Horizon 5 Rally Adventure
+addtoken(1613281, "12349570259425034288")
+addappid(1613281, 1, "d371f628205489a48d2888a29f596b335963d189f3e822ec32978292e989483a") --Dlcname Forza Horizon 5 Rally Adventure
+setManifestid(1613281, "8702078743692499086", 16021991408)
+--Share Depots
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228988, "6645201662696499616", 22411856)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228990, "1829726630299308803", 100658080)
+addappid(1613282) --Dlcname Forza Horizon 5 Formula Drift Pack
+addappid(1613283) --Dlcname Forza Horizon 5 VIP Membership
+addappid(1613284) --Dlcname Forza Horizon 5 Welcome Pack
+addappid(1613285) --Dlcname Forza Horizon 5 Treasure Map
+addappid(1648020) --Dlcname Forza Horizon 5 Car Pass
+addappid(1764060) --Dlcname Forza Horizon 5 2019 SUBARU STI S209
+addappid(1764061) --Dlcname Forza Horizon 5 1967 Renault 8 Gordini
+addappid(1764062) --Dlcname Forza Horizon 5 1970 Mercury Cyclone Spoiler
+addappid(1764063) --Dlcname Forza Horizon 5 Premium VIP
+addappid(1798680) --Dlcname AppID 1798680
+addappid(1812150) --Dlcname Forza Horizon 5 2017 Ferrari J50
+addappid(1812151) --Dlcname Forza Horizon 5 2019 Ferrari Monza SP2
+addappid(1812152) --Dlcname Forza Horizon 5 1979 Lamborghini Espada 400 GT
+addappid(1812153) --Dlcname Forza Horizon 5 2020 Lamborghini Huracán EVO
+addappid(1824140) --Dlcname Forza Horizon 5 1966 Jaguar XJ13
+addappid(1824141) --Dlcname Forza Horizon 5 1993 Jaguar XJ220S
+addappid(1824142) --Dlcname Forza Horizon 5 Ferrari 2018 FXX-K Evo
+addappid(1824143) --Dlcname Forza Horizon 5 2018 Audi TT RS
+addappid(1846790) --Dlcname Forza Horizon 5 2010 Porsche 911 SC
+addappid(1846791) --Dlcname Forza Horizon 5 1992 Mazda 323 GT-R
+addappid(1846792) --Dlcname Forza Horizon 5 2005 MG SV-R
+addappid(1852790) --Dlcname Forza Horizon 5 2021 VW Golf R
+addappid(1890180) --Dlcname Forza Horizon 5 1986 Ford Mustang SVO
+addappid(1890181) --Dlcname Forza Horizon 5 2020 Toyota Tundra TRD
+addappid(1890182) --Dlcname Forza Horizon 5 2006 Noble M400
+addappid(1890183) --Dlcname Forza Horizon 5 2017 #25 Ferrari 488
+addappid(1919260) --Dlcname Forza Horizon 5 1966 Toronado
+addappid(1919261) --Dlcname Forza Horizon 5 2021 McLaren 620R
+addappid(1919262) --Dlcname Forza Horizon 5 2021 MINI JCW GP
+addappid(1919263) --Dlcname Forza Horizon 5 2019 Porsche 911 Speedster
+addappid(1949470) --Dlcname Forza Horizon 5 2003 Ford Lightning
+addappid(1949471) --Dlcname Forza Horizon 5 2014 SafariZ 370Z
+addappid(1949472) --Dlcname Forza Horizon 5 2019 Toyota Tacoma
+addappid(1949473) --Dlcname Forza Horizon 5 2008 Dodge Magnum
+addappid(1949474) --Dlcname Forza Horizon 5 2020 BMW M8 Comp
+addappid(1949475) --Dlcname Forza Horizon 5 2020 Audi RS 3
+addappid(1949476) --Dlcname Forza Horizon 5 2018 Audi RS 5
+addappid(1949477) --Dlcname Forza Horizon 5 1982 VW Pickup
+addappid(2013600) --Dlcname Forza Horizon 5 2021 Aston Martin DBX
+addappid(2013620) --Dlcname Forza Horizon 5 2020 Lexus RC F
+addappid(2013621) --Dlcname Forza Horizon 5 2019 Nissan 370Z Nismo
+addappid(2111240) --Dlcname Forza Horizon 5 D DLC
+addappid(2440490) --Dlcname Horizon Racing Car Pack
+addappid(2507010) --Dlcname Forza Horizon 5 Italian Exotics Car Pack
+addappid(2614920) --Dlcname Forza Horizon 5 Super Speed Car Pack
+addappid(2638820) --Dlcname Forza Horizon 5 American Automotive Car Pack
+addappid(2676380) --Dlcname Forza Horizon 5 Fast X Car Pack
+addappid(2738880) --Dlcname Forza Horizon 5 Chinese Lucky Stars Car Pack
+addappid(2814020) --Dlcname Forza Horizon 5 European Automotive Car Pack
+addappid(2868420) --Dlcname Forza Horizon 5 Acceleration Car Pack
+addappid(2894270) --Dlcname Forza Horizon 5 Apex Allstars Car Pack
+addappid(2997790) --Dlcname Forza Horizon 5 Universal Icons Car Pack
+addappid(3051730) --Dlcname Forza Horizon 5 JDM Jewels Car Pack
+addappid(3339980) --Dlcname Forza Horizon 5 Nissan Retro Rides Pack
