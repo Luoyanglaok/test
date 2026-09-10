@@ -129,24 +129,6 @@ setManifestid(373952, "7987515327562995934", 385395312)
 addappid(373953, 1, "2b8b7f1f6d49cea5915d446c63860d74f36b43b1958a8da09df550a545a9e5dd") --Dlc Windows Language Depot Koreana The Witcher 3: Wild Hunt - Hearts of Stone
 setManifestid(373953, "2993703975089049690", 380910144)
 setManifestid(378649, "9216322386755119484", 1743391952)
---Dlcname The Witcher 3: Wild Hunt Soundtrack
-addappid(1229320) --Dlcname The Witcher 3: Wild Hunt Soundtrack
-addappid(1229321, 1, "aabffdf335260ba3a1609a699afe267f038bd26f104d5080c6c84f4c2f954c5e") --Dlc Windows Depot The Witcher 3: Wild Hunt Soundtrack
-setManifestid(1229321, "2956293257306390314", 216737456)
-addappid(1229322, 1, "c8f0226c60c667cc2115ac95cc5b2fd10b11f3c924812ed419147a480bfc5e74") --Dlc Windows Depot The Witcher 3: Wild Hunt Soundtrack
-setManifestid(1229322, "951359575970231120", 579639456)
---Dlcname The Witcher 3: Wild Hunt - Hearts of Stone Soundtrack
-addappid(1233280) --Dlcname The Witcher 3: Wild Hunt - Hearts of Stone Soundtrack
-addappid(1233281, 1, "4a5e8e0f4729f38afb17748f565f7a342968b6345f622d9031d51370acd5175a") --Dlc Windows Depot The Witcher 3: Wild Hunt - Hearts of Stone Soundtrack
-setManifestid(1233281, "7944135146154053598", 58619344)
-addappid(1233282, 1, "c496f66738b7af1b4fd7c233acf5b28d8b408aa255df02cf8d811b179bcf63dd") --Dlc Windows Depot The Witcher 3: Wild Hunt - Hearts of Stone Soundtrack
-setManifestid(1233282, "8832847868008237537", 163451312)
---Dlcname The Witcher 3: Wild Hunt - Blood and Wine Soundtrack
-addappid(1233340) --Dlcname The Witcher 3: Wild Hunt - Blood and Wine Soundtrack
-addappid(1233341, 1, "a33c68d0a6b2a32c5ec9e5ed21783cd10e74fea9c71f94069fbee96e580dc9a3") --Dlc Windows Depot The Witcher 3: Wild Hunt - Blood and Wine Soundtrack
-setManifestid(1233341, "8748510798880361623", 133957200)
-addappid(1233342, 1, "4a4d2b29d5ca7726300c3bf228bf951bb4d2da5bcde3b206c6417d1f4a5ce40c") --Dlc Windows Depot The Witcher 3: Wild Hunt - Blood and Wine Soundtrack
-setManifestid(1233342, "5094747183155722711", 414754384)
 --Share Depots
 addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228984, "2547553897526095397", 13436144)
