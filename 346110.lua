@@ -95,6 +95,14 @@ setManifestid(1887565, "8813640760145155438", 2855771120)
 --Dlcname Aquatica - ARK Expansion Map
 addappid(3537070, 1, "9a07e220390d63d22b6fca95fca32f71bcad2d28494d72ee2c79b5afcb84c473") --Dlcname Aquatica - ARK Expansion Map
 setManifestid(3537070, "4062438905818018280", 5276023840)
+--Dlcname ARK: Aquatica - Luminati Suns Song
+addappid(3761020) --Dlcname ARK: Aquatica - Luminati Suns Song
+addappid(3761021, 1, "014f2af8839a4964cf5c957f5fd49833d9b22717887e02c132266b3ae74951b1") --Dlc Windows Depot ARK: Aquatica - Luminati Suns Song
+setManifestid(3761021, "6417303618500064550", 6609392)
+--Dlcname ARK: Aquatica Original Soundtrack
+addappid(3820060) --Dlcname ARK: Aquatica Original Soundtrack
+addappid(3820061, 1, "83C4455101B8E21BB22C295E7F0B0C9B5B7530624BB3AD3B1BC53B933746D049") --Dlc Windows Depot ARK: Aquatica Original Soundtrack
+setManifestid(3820061, "8402848240653047855", 36537584)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
@@ -105,3 +113,11 @@ setManifestid(228985, "3966345552745568756", 13244128)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(696680) --Dlcname ARK: Survival Evolved Season Pass
+addappid(1646550) --Dlcname ARK: Survival Evolved Original Soundtrack
+addtoken(1646550, "2789243375787517774")
+addappid(1646690) --Dlcname ARK: Expansion Packs Original Soundtrack
+addtoken(1646690, "5000450121281393136")
+addappid(1646700) --Dlcname ARK: Genesis Part 1 Original Soundtrack
+addtoken(1646700, "17188204630189073134")
+addappid(1646720) --Dlcname ARK: Genesis Part 2 Original Soundtrack
+addtoken(1646720, "3965590415632377873")
