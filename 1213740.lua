@@ -1,3 +1,6 @@
-addappid(1213740)
-addappid(1213741,0,"5d89cf41d288683ea3ad182f112aaf1d9a7c7a81ad1a53fa0d5db7cea25c6d9c")
-setManifestid(1213741,"6691659312348765917")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1213740.lua
+--Gamename She Will Punish Them
+addappid(1213740, 1, "a6b3a22900fbeed3043101321c55d72e4c56dcf50d72cc5107ce3f3c7c41292e") --Mainappid She Will Punish Them
+addappid(1213741, 1, "5d89cf41d288683ea3ad182f112aaf1d9a7c7a81ad1a53fa0d5db7cea25c6d9c") --Main Windows Depot She Will Punish Them
+setManifestid(1213741, "6691659312348765917", 5102977152)
