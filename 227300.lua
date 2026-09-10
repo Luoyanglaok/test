@@ -1,35 +1,332 @@
-addappid(227300)
-addappid(227301,1,"1baf18f6181ad3f9ce663dab07f93ba0f3f5194c82b64785e4cd9f63f3a56b28")
-addappid(227302,1,"edfb6f81d8ec91175145051344fdf788840b2235df88cca912a7602de47f54af")
-addappid(227310,1,"b06666dc044784f4331b6572132630cb7b36fd1c83688aa215f808fc8460729d")
-addappid(388478,1,"37e441d79e75d5e2fc7af4075ea3afbb4309ce05a27fc63f81419867ee29cc84")
-addappid(531130,1,"2009ea02e74e2e3438c16df3475863ac4fea7a409bef60a339fad9781f1b3185")
-addappid(558244,1,"9719afc41fd0ac583693e96fb57d47629e70b466ed8e1ba653f9e584741551ff")
-addappid(925580,1,"aec0bb982622c145e437172016f65040db8b8d005d7de9ddff758f292f035ab1")
-addappid(1068290,1,"1107c219b4ea21a4ac372e06a6a62dec61bcd18479e1ac038b0a6ad52cb6a3c8")
-addappid(1650650,1,"18a31f4193d242da5acc55e09f2959070cfe4a0260c63766f4b90962382a4f26")
-addappid(2371170,1,"1fcd77106389d142c555008bba4ce9bff600547c679de34c5193180067dbc949")
-addappid(2611740,1,"72f023418f51891b17a771cd733b110c092a6a17d8dddbecc476f0fdc506fcfd")
-addappid(2932420,1,"1bb65d2da60e4acf76f3539c02dc2a89ca727e99a4276f7c7dc3084abe451f46")
-addappid(3035040,1,"265987b6be428d11dfc1ce48fabe6cd08e1382d83f8f4fea2b873f5bf04413cc")
-addappid(3323350,1,"f052b8b9da688d69eb6b7d9162ddf68fb0caa23dcb84a22cbf5f4125399db031")
-addappid(3323360,1,"3759b4df13b1da02928e0a58473807f4ddc07f9b1f3513dff867458136e36715")
-addappid(3354860,1,"7ab4299e2db99a337ec4ecbda76dcd0530766e8c3790e8a0419e98f8847fa833")
-addappid(3977520,1,"7aaa899d41f514cf7cb89c490327d090fd2b07fb94d058ead93b4656b71bb09b")
-setManifestid(227301,"924276640658760907")
-setManifestid(227302,"7931557150959809249")
-setManifestid(227310,"3285618179161299062")
-setManifestid(388478,"614205605403850615")
-setManifestid(531130,"6740129701081387574")
-setManifestid(558244,"6486884865822405387")
-setManifestid(925580,"1444956238234315357")
-setManifestid(1068290,"1067637122708666818")
-setManifestid(1650650,"923355335401043994")
-setManifestid(2371170,"5017340455997296962")
-setManifestid(2611740,"5009768597697504470")
-setManifestid(2932420,"8290080232077515320")
-setManifestid(3035040,"230683164030405047")
-setManifestid(3323350,"470794840861341618")
-setManifestid(3323360,"6312086033646729789")
-setManifestid(3354860,"3319782812285912884")
-setManifestid(3977520,"6287716840700711608")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 227300.lua
+--Gamename Euro Truck Simulator 2
+addappid(227300, 1, "4efc6eb3aea74680b954e5b88327ec42ef52984cb390f9dc905aab42a4ae6652") --Mainappid Euro Truck Simulator 2
+addappid(227301, 1, "1baf18f6181ad3f9ce663dab07f93ba0f3f5194c82b64785e4cd9f63f3a56b28") --Main Windows Depot Euro Truck Simulator 2
+setManifestid(227301, "924276640658760907", 35232582528)
+addappid(227302, 1, "edfb6f81d8ec91175145051344fdf788840b2235df88cca912a7602de47f54af") --Main Windows Depot Euro Truck Simulator 2
+setManifestid(227302, "7931557150959809249", 20503296)
+addappid(227303, 1, "f764a1a949001dd100176a10f3f0b50531c353122118ba0e41bea9eaafb0437f") --Main Linux Depot Euro Truck Simulator 2
+setManifestid(227303, "4050779356842704859", 20795904)
+addappid(227304, 1, "32ab4f23d2cb9a8cb610b299d0012509d1b2b64dc694616d8a8c711a2d605057") --Main Macos Depot Euro Truck Simulator 2
+setManifestid(227304, "1747322555557312947", 31872304)
+--Dlcname Euro Truck Simulator 2 - Going East!
+addappid(227310, 1, "b06666dc044784f4331b6572132630cb7b36fd1c83688aa215f808fc8460729d") --Dlcname Euro Truck Simulator 2 - Going East!
+setManifestid(227310, "3285618179161299062", 37771440)
+--Dlcname Euro Truck Simulator 2 - Halloween Paint Jobs Pack
+addappid(258460, 1, "a3f49706464f613855bdb86f4aa8ad16370390f18c059398495dbd76e22bae01") --Dlcname Euro Truck Simulator 2 - Halloween Paint Jobs Pack
+setManifestid(258460, "7921356351300426751", 0)
+--Dlcname Euro Truck Simulator 2 - Ice Cold Paint Jobs Pack
+addappid(266930, 1, "f4d470f5465831a9dd38238f63c9cb1dc198f2c71fbfd95ec811c3d536083afb") --Dlcname Euro Truck Simulator 2 - Ice Cold Paint Jobs Pack
+setManifestid(266930, "3283532009505007756", 0)
+--Dlcname Euro Truck Simulator 2 - Prehistoric Paint Jobs Pack
+addappid(266931, 1, "e7e3ea706608c68f2c98adad6195b9e99224b03a061dab06708283110249b71e") --Dlcname Euro Truck Simulator 2 - Prehistoric Paint Jobs Pack
+setManifestid(266931, "4309460561061129218", 0)
+--Dlcname Euro Truck Simulator 2 - Force of Nature Paint Jobs Pack
+addappid(292320, 1, "90f9db92d02b768332a169e698883316b4f8390294a000dbb728bf8db4bb6ea6") --Dlcname Euro Truck Simulator 2 - Force of Nature Paint Jobs Pack
+setManifestid(292320, "6527425934994182475", 0)
+--Dlcname Euro Truck Simulator 2 - Metallic Paint Jobs Pack
+addappid(297790, 1, "0233fe7dd02c1e88ba24e3f1d37532b77a850bf9ab456d7ebc6277b8a40360ef") --Dlcname Euro Truck Simulator 2 - Metallic Paint Jobs Pack
+setManifestid(297790, "8979825731496411430", 0)
+--Dlcname Euro Truck Simulator 2 - UK Paint Jobs Pack
+addappid(297791, 1, "59ec65b036441b6041336c12e035f557aa24ec9a76339b833b97eea3bc599f5f") --Dlcname Euro Truck Simulator 2 - UK Paint Jobs Pack
+setManifestid(297791, "7907072597469392319", 0)
+--Dlcname Euro Truck Simulator 2 - Irish Paint Jobs Pack
+addappid(297792, 1, "bdfd47562c2dbc16d82fd2874062d5ec0719c39f0e4651a024750b36efb56aeb") --Dlcname Euro Truck Simulator 2 - Irish Paint Jobs Pack
+setManifestid(297792, "2957245413978440635", 0)
+--Dlcname Euro Truck Simulator 2 - Scottish Paint Jobs Pack
+addappid(297793, 1, "6884199428ed7ac5db8a1c7fce8fff2dfe0b9c64f83bc5e2c5983a055e7b31a3") --Dlcname Euro Truck Simulator 2 - Scottish Paint Jobs Pack
+setManifestid(297793, "2905133123341935477", 0)
+--Dlcname Euro Truck Simulator 2 - Flip Paint Designs
+addappid(301180, 1, "1392869053d38e8512ccf586fafc2dcf914a4a7e5eb73c11b4ce7a5f0dbc19a6") --Dlcname Euro Truck Simulator 2 - Flip Paint Designs
+setManifestid(301180, "380357946844704080", 0)
+--Dlcname Euro Truck Simulator 2 - Polish Paint Jobs Pack
+addappid(304020, 1, "da29a5daa49c3470f56dd4cac21ad1ad4e1b4a3fa9c9d0ba84936ec1b14f81ec") --Dlcname Euro Truck Simulator 2 - Polish Paint Jobs Pack
+setManifestid(304020, "7623190349550009080", 0)
+--Dlcname Euro Truck Simulator 2 - Brazilian Paint Jobs Pack
+addappid(304140, 1, "3eda1b6792cc2682797d1c86e5d38cb50fa601d5f2f62d367ab00b03254e23a9") --Dlcname Euro Truck Simulator 2 - Brazilian Paint Jobs Pack
+setManifestid(304140, "8467607110335293908", 0)
+--Dlcname Euro Truck Simulator 2 - Fantasy Paint Jobs Pack
+addappid(304210, 1, "ca10ce279520e0e9a9d898a436497106b4dbb5afd82e990c56309ea5f6ea7f16") --Dlcname Euro Truck Simulator 2 - Fantasy Paint Jobs Pack
+setManifestid(304210, "4860658739016211282", 0)
+--Dlcname Euro Truck Simulator 2 - USA Paint Jobs Pack
+addappid(304211, 1, "0aca8cf58b08cbc0381262d0e6ba19d5dccb4aebd904243553cb8fab44358890") --Dlcname Euro Truck Simulator 2 - USA Paint Jobs Pack
+setManifestid(304211, "5999359468502785165", 0)
+--Dlcname Euro Truck Simulator 2 - Scandinavia
+addappid(304212, 1, "e4eb05d826bd438b1cf3adbd187291b77b593745a3d9cb20a415c85cfc380bb6") --Dlcname Euro Truck Simulator 2 - Scandinavia
+setManifestid(304212, "565411050346262700", 180859936)
+--Dlcname Euro Truck Simulator 2 - Canadian Paint Jobs Pack
+addappid(304213, 1, "faf0dd632893269bcc953ed6acba65f4cc31d09fbf7ba4d52c73e21bf5f5f5d2") --Dlcname Euro Truck Simulator 2 - Canadian Paint Jobs Pack
+setManifestid(304213, "4371874931215817064", 0)
+--Dlcname Euro Truck Simulator 2 - High Power Cargo Pack
+addappid(304214, 1, "884afba8823c2c7f29594929bea51b3b4d104c94d1eed509f7cbb74e6879a4b9") --Dlcname Euro Truck Simulator 2 - High Power Cargo Pack
+setManifestid(304214, "5664607073299318301", 0)
+--Dlcname Euro Truck Simulator 2 - German Paint Jobs Pack
+addappid(318500, 1, "d4684f2f1f482c5946d5ee03422739c055a78754c205f6817efe66c40a028bd0") --Dlcname Euro Truck Simulator 2 - German Paint Jobs Pack
+setManifestid(318500, "7202789966674546018", 0)
+--Dlcname Euro Truck Simulator 2 - French Paint Jobs Pack
+addappid(318510, 1, "70f48e349fc6d019a92411b5390a3ca0ea301ced3b96a234ce62b843a9aaf5a2") --Dlcname Euro Truck Simulator 2 - French Paint Jobs Pack
+setManifestid(318510, "7992617693705249682", 0)
+--Dlcname Euro Truck Simulator 2 - Czech Paint Jobs Pack
+addappid(318511, 1, "a2af29b1f466408287baa92fe53a054c5edee9ad5bbcbbd31c518a6af9664281") --Dlcname Euro Truck Simulator 2 - Czech Paint Jobs Pack
+setManifestid(318511, "4628475804235513753", 0)
+--Dlcname Euro Truck Simulator 2 - Christmas Paint Jobs Pack
+addappid(318520, 1, "2c83753aedd232b4abaadc6192612fb42037a951ffd0c5a7704f6049f90e6fc0") --Dlcname Euro Truck Simulator 2 - Christmas Paint Jobs Pack
+setManifestid(318520, "5568977514805005034", 0)
+--Dlcname Euro Truck Simulator 2 - Raven Truck Design Pack
+addappid(318521, 1, "e86fdf8ee51e4b5f471c801c2685c034bf527852dd45e2b7875a1148bad09920") --Dlcname Euro Truck Simulator 2 - Raven Truck Design Pack
+setManifestid(318521, "483676476628106674", 0)
+--Dlcname Euro Truck Simulator 2 - Norwegian Paint Jobs Pack
+addappid(347190, 1, "6e38118275d80be4547dbc47591536f9115b7371c9740190eb84e9b28ea2cf4a") --Dlcname Euro Truck Simulator 2 - Norwegian Paint Jobs Pack
+setManifestid(347190, "2376290245923035824", 0)
+--Dlcname Euro Truck Simulator 2 - Danish Paint Jobs Pack
+addappid(347210, 1, "c6f97f2a29f4373af3f5f4288de1c7652edaf2ccdc83d19b0908abdb920699c7") --Dlcname Euro Truck Simulator 2 - Danish Paint Jobs Pack
+setManifestid(347210, "8538423298506949843", 0)
+--Dlcname Euro Truck Simulator 2 - Swedish Paint Jobs Pack
+addappid(347211, 1, "3e727c3f2459b02345df4ba755343cc85e568f11e00d2921a6ae7a3eaaea80ea") --Dlcname Euro Truck Simulator 2 - Swedish Paint Jobs Pack
+setManifestid(347211, "8493126685151868489", 0)
+--Dlcname Euro Truck Simulator 2 - Viking Legends
+addappid(347212, 1, "d45d628eb639b8998835fd40634312e5b41366ab44f7041d4e712934c6687753") --Dlcname Euro Truck Simulator 2 - Viking Legends
+setManifestid(347212, "280180584531605044", 0)
+--Dlcname Euro Truck Simulator 2 - Russian Paint Jobs Pack
+addappid(347213, 1, "891169b29f28bd734fcd67f7711d95cbb9d6f8ebf9a9dfe0bbd257a4b0505ccb") --Dlcname Euro Truck Simulator 2 - Russian Paint Jobs Pack
+setManifestid(347213, "1648858371444446407", 0)
+--Dlcname Euro Truck Simulator 2 - Cabin Accessories
+addappid(388470, 1, "a729fbd028cfa164dba072e2c6c9ee3c1766f0c59f99b4a208f3e8e3b87e2702") --Dlcname Euro Truck Simulator 2 - Cabin Accessories
+setManifestid(388470, "4716220128845186726", 0)
+--Dlcname Euro Truck Simulator 2 - Michelin Fan Pack
+addappid(388471, 1, "f3a39ad83fc8e32da3e0cb5795388a19c1b9ffa33408f14dbc6a8d00324f5d08") --Dlcname Euro Truck Simulator 2 - Michelin Fan Pack
+setManifestid(388471, "763490717740367964", 0)
+--Dlcname Euro Truck Simulator 2 - Japanese Paint Jobs Pack
+addappid(388472, 1, "aeb199820883929e63403f977bbc64a9074e190bc15e9c63c69c62b207828d8c") --Dlcname Euro Truck Simulator 2 - Japanese Paint Jobs Pack
+setManifestid(388472, "5261877216088621057", 0)
+--Dlcname Euro Truck Simulator 2 - PC Gamer DLC
+addappid(388473, 1, "22cd4aa20d6c0e57938157b6ad3001ebb15b2b82ed99ee59b7beeda3d720d358") --Dlcname Euro Truck Simulator 2 - PC Gamer DLC
+setManifestid(388473, "7958922419590227872", 0)
+--Dlcname Euro Truck Simulator 2 - Turkish Paint Jobs Pack
+addappid(388474, 1, "77991e467d4682641e5ce0cecec31522985864eb6fb73ed256452da4406a536e") --Dlcname Euro Truck Simulator 2 - Turkish Paint Jobs Pack
+setManifestid(388474, "7023847166734251609", 0)
+--Dlcname Euro Truck Simulator 2 - Wheel Tuning Pack
+addappid(388475, 1, "ab0619b51d856c6c0de489a9bb68bc90dd7719b154438352d22ca0d3cb19bcb1") --Dlcname Euro Truck Simulator 2 - Wheel Tuning Pack
+setManifestid(388475, "5508406148406286721", 0)
+--Dlcname Euro Truck Simulator 2 - Italian Paint Jobs Pack
+addappid(388476, 1, "87711c8a894df742f5b3b2bef8de98b514577fd683c89d40d2341bcfef24ddef") --Dlcname Euro Truck Simulator 2 - Italian Paint Jobs Pack
+setManifestid(388476, "5959653895141705458", 0)
+--Dlcname Euro Truck Simulator 2 - Schwarzmüller Trailer Pack
+addappid(388477, 1, "68c0c97eb4e09492c0a3e486fb76265f9e16869ccbb5dda4bf6d4025d075724c") --Dlcname Euro Truck Simulator 2 - Schwarzmüller Trailer Pack
+setManifestid(388477, "318719124303882667", 0)
+--Dlcname Euro Truck Simulator 2 - Rocket League Promo
+addtoken(388478, "11677420652001697311")
+addappid(388478, 1, "37e441d79e75d5e2fc7af4075ea3afbb4309ce05a27fc63f81419867ee29cc84") --Dlcname Euro Truck Simulator 2 - Rocket League Promo
+setManifestid(388478, "614205605403850615", 0)
+--Dlcname Euro Truck Simulator 2 - Hungarian Paint Jobs Pack
+addappid(388479, 1, "dbe25d6a318f8f1c1596ed31f20e1b46d80d8a8c6bd6132d1de4aacee59e3c4f") --Dlcname Euro Truck Simulator 2 - Hungarian Paint Jobs Pack
+setManifestid(388479, "2087101940542741745", 0)
+--Dlcname Euro Truck Simulator 2 - Slovak Paint Jobs Pack
+addappid(461240, 1, "fa0637146d19b8b2d950139cf43a17d6e9cb310e1890e6b51bbd8c0dd7a86667") --Dlcname Euro Truck Simulator 2 - Slovak Paint Jobs Pack
+setManifestid(461240, "7432566952650997396", 0)
+--Dlcname Euro Truck Simulator 2 - Spanish Paint Jobs Pack
+addappid(461241, 1, "7646ba3063910ff501e7eaf351220bbca90e90966948eab097163537b4b4094e") --Dlcname Euro Truck Simulator 2 - Spanish Paint Jobs Pack
+setManifestid(461241, "4905364748903397876", 0)
+--Dlcname Euro Truck Simulator 2 - Window Flags
+addappid(461242, 1, "55b64424abcb936aa720b487af255b65658fb43250fda2182e3e9a78db56eeae") --Dlcname Euro Truck Simulator 2 - Window Flags
+setManifestid(461242, "5400260333145696346", 0)
+--Dlcname Euro Truck Simulator 2 - Austrian Paint Jobs Pack
+addappid(461243, 1, "ec1615229bc77d971fe9d99fddb9ea4208b87edad45b7d374724592b13409b73") --Dlcname Euro Truck Simulator 2 - Austrian Paint Jobs Pack
+setManifestid(461243, "7217290017793550202", 0)
+--Dlcname Euro Truck Simulator 2 - Mighty Griffin Tuning Pack
+addappid(461244, 1, "5179b4667e35b10483b6e4d6e920cae7aa1466119c369d60f817daf39a182b6b") --Dlcname Euro Truck Simulator 2 - Mighty Griffin Tuning Pack
+setManifestid(461244, "8722492570923931470", 0)
+--Dlcname Euro Truck Simulator 2 - South Korean Paint Jobs Pack
+addappid(461245, 1, "d8594320bae45917c8c163c392d336c6b2434a7864476f0a362522a401769aeb") --Dlcname Euro Truck Simulator 2 - South Korean Paint Jobs Pack
+setManifestid(461245, "627390679225060384", 0)
+--Dlcname Euro Truck Simulator 2 - Swiss Paint Jobs Pack
+addappid(461246, 1, "478e411d19999bd79bb97f6bdfd26bcde124255f77758980b6b1eb5b941ebee3") --Dlcname Euro Truck Simulator 2 - Swiss Paint Jobs Pack
+setManifestid(461246, "6215803422112305490", 0)
+--Dlcname Euro Truck Simulator 2 - Chinese Paint Jobs Pack
+addappid(461247, 1, "85e8e82506156b32a06db9dcc41e42060f78434b047c7ce8e24b9757efe117fd") --Dlcname Euro Truck Simulator 2 - Chinese Paint Jobs Pack
+setManifestid(461247, "2564821458389052219", 0)
+--Dlcname Euro Truck Simulator 2 - Pirate Paint Jobs Pack
+addappid(461248, 1, "170a233de5371a3103a336b9e16c8af6af2231301cbe72d3c95defa393526e62") --Dlcname Euro Truck Simulator 2 - Pirate Paint Jobs Pack
+setManifestid(461248, "9211433779081099616", 0)
+--Dlcname Euro Truck Simulator 2 - XF Tuning Pack
+addappid(461249, 1, "1d99a3412d2a4c03edeeeb15e8a0a8058556a2982f93ea3d90ded2a92c289dce") --Dlcname Euro Truck Simulator 2 - XF Tuning Pack
+setManifestid(461249, "1714236825747095403", 0)
+--Dlcname Euro Truck Simulator 2 - Lunar New Year Pack
+addappid(526950, 1, "cc767e163423b6b03dc66f7c695212b4deb1978c89bb0000a4427db2a39bcf0d") --Dlcname Euro Truck Simulator 2 - Lunar New Year Pack
+setManifestid(526950, "2333631855110248746", 0)
+--Dlcname Euro Truck Simulator 2 - Vive la France !
+addappid(531130, 1, "2009ea02e74e2e3438c16df3475863ac4fea7a409bef60a339fad9781f1b3185") --Dlcname Euro Truck Simulator 2 - Vive la France !
+setManifestid(531130, "6740129701081387574", 91517312)
+--Dlcname Euro Truck Simulator 2 - Heavy Cargo Pack
+addappid(531131, 1, "3cac01adc92d11de7a91d5e413a3762670847261f8cf7bb131faec3ba9b99db3") --Dlcname Euro Truck Simulator 2 - Heavy Cargo Pack
+setManifestid(531131, "620015009428909093", 0)
+--Dlcname Euro Truck Simulator 2 - Finnish Paint Jobs Pack
+addappid(540720, 1, "b3f6c3fbc60c3b5ebafb8b7d8f80a3b1985e8958f41920fd4f12777d266a90f5") --Dlcname Euro Truck Simulator 2 - Finnish Paint Jobs Pack
+setManifestid(540720, "1646764676298902558", 0)
+--Dlcname Euro Truck Simulator 2 - Belgian Paint Jobs Pack
+addappid(540721, 1, "273635bd103f2ca132ec8ca31f65b805ee59b498741edeea4a037d62edb1f9e4") --Dlcname Euro Truck Simulator 2 - Belgian Paint Jobs Pack
+setManifestid(540721, "5995400305895737089", 0)
+--Dlcname Euro Truck Simulator 2 - Dragon Truck Design Pack
+addtoken(558240, "7693758108019961089")
+addappid(558240, 1, "998330b0c6bf49c43a810186d568047bce0cca54226dec5195eaef5f1e06d997") --Dlcname Euro Truck Simulator 2 - Dragon Truck Design Pack
+setManifestid(558240, "702960128756830977", 0)
+--Dlcname Euro Truck Simulator 2 - Romanian Paint Jobs Pack
+addappid(558241, 1, "3f1d8d6a37ec6ac17285059ac7ffceaac561e83b78c5e3f8c19159393a0fcb1c") --Dlcname Euro Truck Simulator 2 - Romanian Paint Jobs Pack
+setManifestid(558241, "7516040781686027632", 0)
+--Dlcname Euro Truck Simulator 2 - Australian Paint Jobs Pack
+addappid(558242, 1, "7748a8e37c27b371b7692d2ad50f4d210e8c3bb6683047a4b97774c89bfd247c") --Dlcname Euro Truck Simulator 2 - Australian Paint Jobs Pack
+setManifestid(558242, "5361107034067998893", 0)
+--Dlcname Euro Truck Simulator 2 - Valentine's Paint Jobs Pack
+addappid(558243, 1, "84f20ef511071ab8920d5d2a1396660e156023cfa9dbb74ab956dbc58fbeba8e") --Dlcname Euro Truck Simulator 2 - Valentine's Paint Jobs Pack
+setManifestid(558243, "7485045655295992031", 0)
+--Dlcname Euro Truck Simulator 2 - Italia
+addappid(558244, 1, "9719afc41fd0ac583693e96fb57d47629e70b466ed8e1ba653f9e584741551ff") --Dlcname Euro Truck Simulator 2 - Italia
+setManifestid(558244, "6486884865822405387", 87680272)
+--Dlcname Euro Truck Simulator 2 - Special Transport
+addappid(558245, 1, "78a96462ea125cfa8fcc98f7832146f9e1e8a3205a57b18773cd243b535f47ce") --Dlcname Euro Truck Simulator 2 - Special Transport
+setManifestid(558245, "553771190614744972", 0)
+--Dlcname Euro Truck Simulator 2 - Portuguese Paint Jobs Pack
+addappid(876980, 1, "cf85cedf09ec405f21338fce1cf9efa360710fd5be02c97420b2534d871680bd") --Dlcname Euro Truck Simulator 2 - Portuguese Paint Jobs Pack
+setManifestid(876980, "6406937035159279794", 0)
+--Dlcname Euro Truck Simulator 2 - Dutch Paint Jobs Pack
+addappid(909640, 1, "93a0622d37996d65d3ebccfe109847c6be9118dcb5f980bb5d317d29c89f4616") --Dlcname Euro Truck Simulator 2 - Dutch Paint Jobs Pack
+setManifestid(909640, "1919550032765055462", 0)
+--Dlcname Euro Truck Simulator 2 - Beyond the Baltic Sea
+addappid(925580, 1, "aec0bb982622c145e437172016f65040db8b8d005d7de9ddff758f292f035ab1") --Dlcname Euro Truck Simulator 2 - Beyond the Baltic Sea
+setManifestid(925580, "1444956238234315357", 101860144)
+--Dlcname Euro Truck Simulator 2 - Space Paint Jobs Pack
+addappid(925650, 1, "754a3ef9021990cf28a11008df0387fb87e9b799e83ad10090edc69bf0bbc276") --Dlcname Euro Truck Simulator 2 - Space Paint Jobs Pack
+setManifestid(925650, "135950957944302344", 0)
+--Dlcname Euro Truck Simulator 2 - Krone Trailer Pack
+addappid(933610, 1, "ddec5ac79ef43babb022170583cf8dde89b8806caccfca75ead38d8adf53ee3f") --Dlcname Euro Truck Simulator 2 - Krone Trailer Pack
+setManifestid(933610, "5991883449228130297", 0)
+--Dlcname Euro Truck Simulator 2 - Estonian Paint Jobs Pack
+addappid(980590, 1, "e94dd3368f57beea8e661d243f7106b88befdd6e6f448810fa65a00de6a2300f") --Dlcname Euro Truck Simulator 2 - Estonian Paint Jobs Pack
+setManifestid(980590, "3465626021269207986", 0)
+--Dlcname Euro Truck Simulator 2 - Latvian Paint Jobs Pack
+addappid(980591, 1, "5f01151bee644c449f49705841a63539f3c18cface0c0475f004a8d766595ebf") --Dlcname Euro Truck Simulator 2 - Latvian Paint Jobs Pack
+setManifestid(980591, "7545485906113247155", 0)
+--Dlcname Euro Truck Simulator 2 - Lithuanian Paint Jobs Pack
+addappid(980592, 1, "6938e01c6c62fc7cf4492da3d71ae843704d183710e00f3f5b853dc6facd4d42") --Dlcname Euro Truck Simulator 2 - Lithuanian Paint Jobs Pack
+setManifestid(980592, "3931725649050572730", 0)
+--Dlcname Euro Truck Simulator 2 - Road to the Black Sea
+addappid(1056760, 1, "1e46ab2ee8de2d7e67a7c961d64814862e8323729f0be7deeb7f9ac75820e83e") --Dlcname Euro Truck Simulator 2 - Road to the Black Sea
+setManifestid(1056760, "2643797254395305546", 210291904)
+--Dlcname Euro Truck Simulator 2 - Actros Tuning Pack
+addappid(1056761, 1, "0407379a627760ba025f05a1d3ea50ce1bb0dfc7b8491b768b688b225e05e2c4") --Dlcname Euro Truck Simulator 2 - Actros Tuning Pack
+setManifestid(1056761, "4671341810091804714", 0)
+--Dlcname Euro Truck Simulator 2 - Pink Ribbon Charity Pack
+addappid(1068290, 1, "1107c219b4ea21a4ac372e06a6a62dec61bcd18479e1ac038b0a6ad52cb6a3c8") --Dlcname Euro Truck Simulator 2 - Pink Ribbon Charity Pack
+setManifestid(1068290, "1067637122708666818", 0)
+--Dlcname Euro Truck Simulator 2 - Goodyear Tyres Pack
+addappid(1117140, 1, "416b302255b34e7a36475012121166f0bdeeabec65ad6819ac2f7f36535d041f") --Dlcname Euro Truck Simulator 2 - Goodyear Tyres Pack
+setManifestid(1117140, "7178260226727326542", 0)
+--Dlcname Euro Truck Simulator 2 - Bulgarian Paint Jobs Pack
+addappid(1159030, 1, "7817bf09d17d1f4323c498b4dfba69731fe237a79c1880d2d5d5ffa631795084") --Dlcname Euro Truck Simulator 2 - Bulgarian Paint Jobs Pack
+setManifestid(1159030, "1121503996381158582", 0)
+--Dlcname Euro Truck Simulator 2 - Iberia
+addappid(1209460, 1, "f0e1ecc5f7ea5b844363c51ecf8ba76ab4f0166bbbb36f93e51a45134426a924") --Dlcname Euro Truck Simulator 2 - Iberia
+setManifestid(1209460, "7843009645412110381", 342534592)
+--Dlcname Euro Truck Simulator 2 - HS-Schoch Tuning Pack
+addappid(1209461, 1, "b7f8219f8fed4e94ff74b2b35e16da761eea7fd3e9ef505d77a90e4208cd050a") --Dlcname Euro Truck Simulator 2 - HS-Schoch Tuning Pack
+setManifestid(1209461, "3324815250320656782", 0)
+--Dlcname Euro Truck Simulator 2 - FH Tuning Pack
+addappid(1299530, 1, "b2782485e3ba8e8c186d72a545cc77af9a7f535768efd8f7be77f8486ac1e6fa") --Dlcname Euro Truck Simulator 2 - FH Tuning Pack
+setManifestid(1299530, "2379835362999603702", 0)
+--Dlcname Euro Truck Simulator 2 - Super Stripes Paint Jobs Pack
+addappid(1415700, 1, "4e2401eead464d941dad26b180105b715e5d5116066c00176789f32001b6ad59") --Dlcname Euro Truck Simulator 2 - Super Stripes Paint Jobs Pack
+setManifestid(1415700, "4489366073136472613", 0)
+--Dlcname Euro Truck Simulator 2 - Farm Machinery
+addappid(1456860, 1, "d686ee647b9eb5e7fcd89fd7c82e7b0d201e7ca7402129d7e2de233b8bffcf8e") --Dlcname Euro Truck Simulator 2 - Farm Machinery
+setManifestid(1456860, "61394928207200532", 0)
+--Dlcname Euro Truck Simulator 2 - Heart of Russia
+addappid(1536500, 1, "5697737424b8d29800546d84491088d03d5c7f0699e919a59c0580262efa735c") --Dlcname Euro Truck Simulator 2 - Heart of Russia
+setManifestid(1536500, "8389667999836149861", 417952672)
+--Dlcname Euro Truck Simulator 2 - DAF XG/XG+
+addappid(1650650, 1, "18a31f4193d242da5acc55e09f2959070cfe4a0260c63766f4b90962382a4f26") --Dlcname Euro Truck Simulator 2 - DAF XG/XG+
+setManifestid(1650650, "923355335401043994", 0)
+--Dlcname Euro Truck Simulator 2 - Volvo Construction Equipment
+addappid(1704460, 1, "38c81d058e71a846f9021921aa37ddd348f9af87fd48670737deef33385cc2f9") --Dlcname Euro Truck Simulator 2 - Volvo Construction Equipment
+setManifestid(1704460, "5696023247663018301", 0)
+--Dlcname Euro Truck Simulator 2 - Ukrainian Paint Jobs Pack
+addappid(1918370, 1, "33151097e4f013798a168cca80b589372225a7ac4c36f618632464a0f38629d2") --Dlcname Euro Truck Simulator 2 - Ukrainian Paint Jobs Pack
+setManifestid(1918370, "657377999788582318", 0)
+--Dlcname Euro Truck Simulator 2 - Renault Trucks T Tuning Pack
+addappid(1967640, 1, "12ad16eb6961ac01cbbb168c905eef4913188ee2ff7ee94083de1399ea9a1b08") --Dlcname Euro Truck Simulator 2 - Renault Trucks T Tuning Pack
+setManifestid(1967640, "8368596210107716972", 0)
+--Dlcname Euro Truck Simulator 2 - Street Art Paint Jobs Pack
+addappid(1967650, 1, "8ef5c45e8e7037babf87a4985e6dbff0963fe9fbce85cea103fec9e58701335d") --Dlcname Euro Truck Simulator 2 - Street Art Paint Jobs Pack
+setManifestid(1967650, "739091211669558842", 0)
+--Dlcname Euro Truck Simulator 2 - West Balkans
+addappid(2004210, 1, "c9d6379e66ca8737ffb17de5f52a289094a0fef253746a049d15576d849d6235") --Dlcname Euro Truck Simulator 2 - West Balkans
+setManifestid(2004210, "6764209730818639217", 435584784)
+--Dlcname Euro Truck Simulator 2 - Feldbinder Trailer Pack
+addappid(2193220, 1, "b215faf14c32591707fbef62e913ce317843165ca9b2927ccd681a0509c2b817") --Dlcname Euro Truck Simulator 2 - Feldbinder Trailer Pack
+setManifestid(2193220, "3225902090318410395", 0)
+--Dlcname Euro Truck Simulator 2 - MAN TGX
+addappid(2371170, 1, "1fcd77106389d142c555008bba4ce9bff600547c679de34c5193180067dbc949") --Dlcname Euro Truck Simulator 2 - MAN TGX
+setManifestid(2371170, "5017340455997296962", 0)
+--Dlcname Euro Truck Simulator 2 - Wielton Trailer Pack
+addappid(2455690, 1, "aaca7608313f96a5a2ce8adc1e5ad98340690c6f2ed4c506d4efc67be45c2f31") --Dlcname Euro Truck Simulator 2 - Wielton Trailer Pack
+setManifestid(2455690, "7895863578875893287", 0)
+--Dlcname Euro Truck Simulator 2 - Tirsan Trailer Pack
+addappid(2569750, 1, "27584c1ad2058a5cc6660a7728f2a7d7901d9ed31f8f6fe15d4500aac2554d32") --Dlcname Euro Truck Simulator 2 - Tirsan Trailer Pack
+setManifestid(2569750, "7050590935326206917", 0)
+--Dlcname Euro Truck Simulator 2 - Modern Lines Paint Jobs Pack
+addappid(2579670, 1, "ef02b23e6509e898231b08901860784e12be5be0480fec8e271171d7c79c1528") --Dlcname Euro Truck Simulator 2 - Modern Lines Paint Jobs Pack
+setManifestid(2579670, "1464287371127825179", 0)
+--Dlcname Euro Truck Simulator 2 - Greece
+addappid(2604420, 1, "322d1b2e394c5b4a188fffc43809b8f8c4bb9c260e14a27c24ea217a4cb26a0c") --Dlcname Euro Truck Simulator 2 - Greece
+setManifestid(2604420, "9084504400002616774", 491411472)
+--Dlcname Euro Truck Simulator 2 - DAF XD
+addappid(2611740, 1, "72f023418f51891b17a771cd733b110c092a6a17d8dddbecc476f0fdc506fcfd") --Dlcname Euro Truck Simulator 2 - DAF XD
+setManifestid(2611740, "5009768597697504470", 0)
+--Dlcname Euro Truck Simulator 2 - JCB Equipment Pack
+addappid(2780800, 1, "3e7a55f4a90a70ff249cbab7994485d13859bfb8922f22265b09b21f4b25b19c") --Dlcname Euro Truck Simulator 2 - JCB Equipment Pack
+setManifestid(2780800, "6125692916729941617", 0)
+--Dlcname Euro Truck Simulator 2 - Nordic Horizons
+addappid(2780810, 1, "c68b6cdbf16729474fb886f2a7d3a77f113ed7d4f606b0001144a95591035627") --Dlcname Euro Truck Simulator 2 - Nordic Horizons
+setManifestid(2780810, "8470193213449499724", 567422720)
+--Dlcname Euro Truck Simulator 2 - Schmitz Cargobull Trailer Pack
+addappid(2833100, 1, "c4a281a6503a6911a8ed7f583a3bcfcd95738ed8f9302533c3fc53a24199ed5e") --Dlcname Euro Truck Simulator 2 - Schmitz Cargobull Trailer Pack
+setManifestid(2833100, "5415401881972765138", 0)
+--Dlcname Euro Truck Simulator 2 - Renault Trucks E-Tech T
+addappid(2932420, 1, "1bb65d2da60e4acf76f3539c02dc2a89ca727e99a4276f7c7dc3084abe451f46") --Dlcname Euro Truck Simulator 2 - Renault Trucks E-Tech T
+setManifestid(2932420, "8290080232077515320", 0)
+--Dlcname Euro Truck Simulator 2 - Kögel Trailer Pack
+addappid(3034940, 1, "6169b53b430db7a91db51a83ed73aa01c33f330c9f34ce1c67742a678b43b561") --Dlcname Euro Truck Simulator 2 - Kögel Trailer Pack
+setManifestid(3034940, "2502892389353986377", 0)
+--Dlcname Euro Truck Simulator 2 - Kässbohrer Trailer Pack
+addappid(3034950, 1, "97726a24a42f14c92d1be5d998742e20c7dfaebe3c517719c0406100e472dbc1") --Dlcname Euro Truck Simulator 2 - Kässbohrer Trailer Pack
+setManifestid(3034950, "3942582452463801047", 0)
+--Dlcname Euro Truck Simulator 2 - Scania S BEV
+addappid(3035040, 1, "265987b6be428d11dfc1ce48fabe6cd08e1382d83f8f4fea2b873f5bf04413cc") --Dlcname Euro Truck Simulator 2 - Scania S BEV
+setManifestid(3035040, "230683164030405047", 0)
+--Dlcname Euro Truck Simulator 2 - Volvo FH Series 5
+addappid(3323350, 1, "f052b8b9da688d69eb6b7d9162ddf68fb0caa23dcb84a22cbf5f4125399db031") --Dlcname Euro Truck Simulator 2 - Volvo FH Series 5
+setManifestid(3323350, "470794840861341618", 0)
+--Dlcname Euro Truck Simulator 2 - Volvo FH Series 6
+addappid(3323360, 1, "3759b4df13b1da02928e0a58473807f4ddc07f9b1f3513dff867458136e36715") --Dlcname Euro Truck Simulator 2 - Volvo FH Series 6
+setManifestid(3323360, "6312086033646729789", 0)
+--Dlcname Euro Truck Simulator 2 - Greek Mythology Pack
+addappid(3335300, 1, "2a256b173394ae795423eeb99d57400944ea92248ee22379541c4f63b5e5273c") --Dlcname Euro Truck Simulator 2 - Greek Mythology Pack
+setManifestid(3335300, "803517503413443551", 0)
+--Dlcname Euro Truck Simulator 2 - Iveco S-Way
+addappid(3354860, 1, "7ab4299e2db99a337ec4ecbda76dcd0530766e8c3790e8a0419e98f8847fa833") --Dlcname Euro Truck Simulator 2 - Iveco S-Way
+setManifestid(3354860, "3319782812285912884", 0)
+--Dlcname Euro Truck Simulator 2 - KRONE Agriculture Equipment
+addappid(3872920, 1, "b8e6dce270a9c23586386a0b33b8815e9ca3dfaf0c0061353832ef483047ea1e") --Dlcname Euro Truck Simulator 2 - KRONE Agriculture Equipment
+setManifestid(3872920, "1123451156927013286", 0)
+--Dlcname Euro Truck Simulator 2 - DAF XF Electric
+addappid(3977520, 1, "7aaa899d41f514cf7cb89c490327d090fd2b07fb94d058ead93b4656b71bb09b") --Dlcname Euro Truck Simulator 2 - DAF XF Electric
+setManifestid(3977520, "6287716840700711608", 0)
+--Dlcname Euro Truck Simulator 2 - Forest Machinery
+addappid(4159240, 1, "904248995cb6ad9e37ff4571f34b9b6a7f9ad213b63aed13fda017cd070c8bc0") --Dlcname Euro Truck Simulator 2 - Forest Machinery
+setManifestid(4159240, "2587848077194228934", 0)
+--Dlcname Euro Truck Simulator 2 - Bobcat Cargo Pack
+addappid(4348650, 1, "91bb5110513cc294bb6c83abbc92ad36f742a1c2069803635f24322c383d5617") --Dlcname Euro Truck Simulator 2 - Bobcat Cargo Pack
+setManifestid(4348650, "657738104977795892", 0)
+--Dlcname Euro Truck Simulator 2 - Holland Style Tuning Pack
+addappid(4400940, 1, "614cc960cdc89bcf28d665df7004922e4a3289ed8344485e5086634038925fda") --Dlcname Euro Truck Simulator 2 - Holland Style Tuning Pack
+setManifestid(4400940, "1971038981576363293", 0)
