@@ -4,6 +4,10 @@
 addappid(858820) --Mainappid Tribes of Midgard
 addappid(858821, 1, "396cc73b4dbae399058e283549bd4e3a305081d85808c286ab9989f1c9d0bade") --Main Windows Depot Tribes of Midgard
 setManifestid(858821, "7381483353528618062", 6287205264)
+--Dlcname Tribes of Midgard - Soundtrack
+addappid(2377550) --Dlcname Tribes of Midgard - Soundtrack
+addappid(2377551, 1, "0a24b77c07cd5faa4a2dfff6311936947247a056bffb44fd4d1b9392d83b2146") --Dlc Windows Depot Tribes of Midgard - Soundtrack
+setManifestid(2377551, "1746512163109114217", 206677872)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
