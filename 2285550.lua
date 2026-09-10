@@ -11,5 +11,3 @@ setManifestid(3617062, "6247867880497680031", 1363313440)
 --Dlcname Doloc Town Soundtrack
 addtoken(3617060, "15110001161586445678")
 addappid(3617060) --Dlcname Doloc Town Soundtrack
---Dlcname Doloc Town - Digital Artbook
-addappid(4864710, 1, "c34fa204d78f384e6f7ec57a29104b92733a43a34859328efd6163ac77e8b4e8") --Dlcname Doloc Town - Digital Artbook
