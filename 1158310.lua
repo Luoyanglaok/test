@@ -1,59 +1,123 @@
-addappid(1158310)
-setManifestid(228981,"7613356809904826842")
-setManifestid(228988,"6645201662696499616")
-addappid(1158311,0,"d2ead3e2e963a05fbe46ed87bce1375e97e07940fb0b73551acbd416d7d789f7")
-setManifestid(1158311,"8063709342074529553")
-addappid(1158312,0,"d178a07d53f6aaef043e6e015c9d656307e459426598b5d568ebb2b3b82b9608")
-setManifestid(1158312,"4012156153518765142")
-addappid(1158313,0,"28cca6706c1df3cb12bb0916470bd295e7955dbf8b58e0289eedd6548ed74fcd")
-setManifestid(1158313,"2335873972379783030")
-addappid(1158314,0,"5f74c6004a102908c726784d9666f0b99e0dcf4182f0d6c7f619d1a2d8f448d6")
-setManifestid(1158314,"6629428501602830975")
-addappid(1158315,0,"5ef7e854e3cbd7d65529fcbefeffce4ac0ef29e88b86d27cee52a7690216107e")
-setManifestid(1158315,"3410626830189132206")
-addappid(1158316,0,"2d319308690b3ea4dcf9bddf50556eb622d60c1534b8c0b99635b1411c4b7c38")
-setManifestid(1158316,"4400447675668560137")
-addappid(1158317,0,"f469b8ff863146cdc8807b811af2798498548e8fa479d8baee48794844fbe69a")
-setManifestid(1158317,"7065319447905806257")
-addappid(1296730,0,"b6ad131a6dddf0333ec7e0519152d2036618fec07c4922d84d37fbaf067c87da")
-setManifestid(1296730,"4673314442703562503")
-addappid(1296731,0,"5e91c15e76962952a2ffbe32036896af3f12a1b3e2d7d85e0aa3bd5b591371f4")
-setManifestid(1296731,"6186085975311389712")
-addappid(1303183,0,"ac6a757b30c2f011d2f051972671d12edf33cf45e667631816aa4d474e4accfa")
-setManifestid(1303183,"3242879317253838653")
-addappid(1303182,0,"a0c0f39c8f73b18c0b6e1deeb859d6eecd1aa2206ca3f14446ad2b5d19e0d8bb")
-setManifestid(1303182,"2134240088881590924")
-addappid(1303184,0,"41092a88d0a8e3e850bd4869fdfec371e9e650cdd6b899830e1514b2d8aa4e60")
-setManifestid(1303184,"3416995173751642927")
-addappid(2114760,0,"83b72504fb9aee8d29f7ddec0b8d8442a0c27c0a3faf006ec844a763e2347ed8")
-setManifestid(2114760,"5586811822863938551")
-addappid(2311920,0,"f23bbe66881920bd3128bcfa53a3f68585a269530fcd32b5cf5894ea6152e772")
-setManifestid(2311920,"2798209139550673960")
-addappid(2311930,0,"307dd1f72030f402ad1847685f13aeb63b991298ccc38cb81513b53162f22974")
-setManifestid(2311930,"6473405525877152548")
-addappid(2313541,0,"ca2c9bbbbac59f89ad2a71415477022a649d86e76d91f84db5f3e1308c5408d0")
-setManifestid(2313541,"1973333297323428354")
-addappid(2313540,0,"73bfc84892c44a72fc1f626d89eafa482dc9039cce8101245f94de0ac49f0a6c")
-setManifestid(2313540,"891925597274952696")
-addappid(2671060,0,"55a99a7a6b4f42c4b154f1756d13a20580eb53f2d5074260db1c7f31802ce475")
-setManifestid(2671060,"720600870912683724")
-addappid(2671030,0,"9d19bb3c128d767ebde19658b1082953029550afad6b0371eb37a8b73d6b9835")
-setManifestid(2671030,"5278886681444747695")
-addappid(2671040,0,"ebaacffd86656bfa93c26fa5eca1c15e3b11d61f0d7f44962ecd3470f8889b68")
-setManifestid(2671040,"6943932038941728839")
-addappid(2671070,0,"98957a792feb520525cb64fc2b99dce35e9da85fef8471647cff2efe3079c6df")
-setManifestid(2671070,"3023912120119347358")
-addappid(3077630,0,"03afe5bbf64b8a6dca9bb88c107cafd75e37b9b0a6f20dc93f5dfc12f4da46e7")
-setManifestid(3077630,"1712003839548962838")
-addappid(2671080,0,"64e40bc9a04cce7bb5af0374919cefc33d612c92878821b9ff3a6083e1b1c361")
-setManifestid(2671080,"4340206838279069052")
-addappid(3275760,0,"c64a167b91870cb86562eac586d49817780eac22209e08d7b9978a3f23884bb0")
-setManifestid(3275760,"4288366890699939411")
-addappid(3315550,0,"d0ffe0a4152529a8088f9cc8908da50a1cff62ed6735944a34ada2db3bcd0ee2")
-setManifestid(3315550,"7935267638872917970")
-addappid(3315540,0,"67fe76e558dfbb3d6235797bb8fd0c7ed47591aee7bf9e759a11a2550c7a48f9")
-setManifestid(3315540,"4626049522195732303")
-addappid(3315500,0,"326bb902af35becc78da24d218f245765d6b9f4fd116512d7af59a11197aed43")
-setManifestid(3315500,"4503344207642007609")
-addappid(3315510,0,"e5950d6c9dce6f6e1bf120573842c181a5ade24429635500f86e9e30a4f53f9b")
-setManifestid(3315510,"1511298436604192265")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1158310.lua
+--Gamename Crusader Kings III
+addappid(1158310, 1, "557ad61973b671765b3fa06419cd0aea2fa1690ea60a5cee5baa28525120b818") --Mainappid Crusader Kings III
+addappid(1158311, 1, "d2ead3e2e963a05fbe46ed87bce1375e97e07940fb0b73551acbd416d7d789f7") --Main Windows Depot Crusader Kings III
+setManifestid(1158311, "8524712589436043292", 7350550848)
+addappid(1158312, 1, "d178a07d53f6aaef043e6e015c9d656307e459426598b5d568ebb2b3b82b9608") --Main Windows Depot Crusader Kings III
+setManifestid(1158312, "2353751695153560927", 44080576)
+addappid(1158313, 1, "28cca6706c1df3cb12bb0916470bd295e7955dbf8b58e0289eedd6548ed74fcd") --Main Macos Depot Crusader Kings III
+setManifestid(1158313, "2860988701951258536", 175282416)
+addappid(1158314, 1, "5f74c6004a102908c726784d9666f0b99e0dcf4182f0d6c7f619d1a2d8f448d6") --Main Linux Depot Crusader Kings III
+setManifestid(1158314, "2706334437092115269", 68676912)
+addappid(1158315, 1, "5ef7e854e3cbd7d65529fcbefeffce4ac0ef29e88b86d27cee52a7690216107e") --Main Windows Depot Crusader Kings III
+setManifestid(1158315, "8434810841865307855", 184891776)
+addappid(1158316, 1, "2d319308690b3ea4dcf9bddf50556eb622d60c1534b8c0b99635b1411c4b7c38") --Main Macos Depot Crusader Kings III
+setManifestid(1158316, "6995133868056784121", 379383440)
+addappid(1158317, 1, "f469b8ff863146cdc8807b811af2798498548e8fa479d8baee48794844fbe69a") --Main Linux Depot Crusader Kings III
+setManifestid(1158317, "3170663083615009736", 181397408)
+--Dlcname Crusader Kings III: Garments of the Holy Roman Empire
+addtoken(1296730, "1097817278931358754")
+addappid(1296730, 1, "b6ad131a6dddf0333ec7e0519152d2036618fec07c4922d84d37fbaf067c87da") --Dlcname Crusader Kings III: Garments of the Holy Roman Empire
+setManifestid(1296730, "4673314442703562503", 85744)
+--Dlcname Crusader Kings III: Fashion of the Abbasid Court
+addtoken(1296731, "3896636678119466816")
+addappid(1296731, 1, "5e91c15e76962952a2ffbe32036896af3f12a1b3e2d7d85e0aa3bd5b591371f4") --Dlcname Crusader Kings III: Fashion of the Abbasid Court
+setManifestid(1296731, "6186085975311389712", 65984)
+--Dlcname Crusader Kings III: Royal Court
+addappid(1303182, 1, "a0c0f39c8f73b18c0b6e1deeb859d6eecd1aa2206ca3f14446ad2b5d19e0d8bb") --Dlcname Crusader Kings III: Royal Court
+setManifestid(1303182, "8349193067317801238", 21668384)
+--Dlcname Crusader Kings III: Northern Lords
+addappid(1303183, 1, "ac6a757b30c2f011d2f051972671d12edf33cf45e667631816aa4d474e4accfa") --Dlcname Crusader Kings III: Northern Lords
+setManifestid(1303183, "319832865587329166", 23659168)
+--Dlcname Crusader Kings III: Fate of Iberia
+addappid(1303184, 1, "41092a88d0a8e3e850bd4869fdfec371e9e650cdd6b899830e1514b2d8aa4e60") --Dlcname Crusader Kings III: Fate of Iberia
+setManifestid(1303184, "5526476400820247778", 8411120)
+--Dlcname Crusader Kings III: Friends & Foes
+addappid(2114760, 1, "83b72504fb9aee8d29f7ddec0b8d8442a0c27c0a3faf006ec844a763e2347ed8") --Dlcname Crusader Kings III: Friends & Foes
+setManifestid(2114760, "3994555691751599121", 9093360)
+--Dlcname Crusader Kings III: Tours & Tournaments
+addappid(2311920, 1, "f23bbe66881920bd3128bcfa53a3f68585a269530fcd32b5cf5894ea6152e772") --Dlcname Crusader Kings III: Tours & Tournaments
+setManifestid(2311920, "369571786361796926", 29172624)
+--Dlcname Crusader Kings III: Elegance of the Empire
+addappid(2311930, 1, "307dd1f72030f402ad1847685f13aeb63b991298ccc38cb81513b53162f22974") --Dlcname Crusader Kings III: Elegance of the Empire
+setManifestid(2311930, "6473405525877152548", 80912)
+--Dlcname Crusader Kings III: Legacy of Persia
+addappid(2313540, 1, "73bfc84892c44a72fc1f626d89eafa482dc9039cce8101245f94de0ac49f0a6c") --Dlcname Crusader Kings III: Legacy of Persia
+setManifestid(2313540, "5292219204640282308", 14163728)
+--Dlcname Crusader Kings III: Wards & Wardens
+addappid(2313541, 1, "ca2c9bbbbac59f89ad2a71415477022a649d86e76d91f84db5f3e1308c5408d0") --Dlcname Crusader Kings III: Wards & Wardens
+setManifestid(2313541, "3449603529685425916", 6621200)
+--Dlcname Crusader Kings III Creator Pack: North African Attire
+addappid(2671030, 1, "9d19bb3c128d767ebde19658b1082953029550afad6b0371eb37a8b73d6b9835") --Dlcname Crusader Kings III Creator Pack: North African Attire
+setManifestid(2671030, "2257513862370412160", 101504)
+--Dlcname Crusader Kings III: Couture of the Capets
+addappid(2671040, 1, "ebaacffd86656bfa93c26fa5eca1c15e3b11d61f0d7f44962ecd3470f8889b68") --Dlcname Crusader Kings III: Couture of the Capets
+setManifestid(2671040, "836968934287748787", 65104)
+--Dlcname Crusader Kings III: Legends of the Dead
+addappid(2671060, 1, "55a99a7a6b4f42c4b154f1756d13a20580eb53f2d5074260db1c7f31802ce475") --Dlcname Crusader Kings III: Legends of the Dead
+setManifestid(2671060, "4277321347182715431", 14419264)
+--Dlcname Crusader Kings III: Roads to Power
+addappid(2671070, 1, "98957a792feb520525cb64fc2b99dce35e9da85fef8471647cff2efe3079c6df") --Dlcname Crusader Kings III: Roads to Power
+setManifestid(2671070, "7287565713113083837", 19827920)
+--Dlcname Crusader Kings III: Wandering Nobles
+addappid(2671080, 1, "64e40bc9a04cce7bb5af0374919cefc33d612c92878821b9ff3a6083e1b1c361") --Dlcname Crusader Kings III: Wandering Nobles
+setManifestid(2671080, "4340206838279069052", 83776)
+--Dlcname Crusader Kings III: Many Roads to Power - Comic Book
+addappid(3077630, 1, "03afe5bbf64b8a6dca9bb88c107cafd75e37b9b0a6f20dc93f5dfc12f4da46e7") --Dlcname Crusader Kings III: Many Roads to Power - Comic Book
+setManifestid(3077630, "1712003839548962838", 68732496)
+--Dlcname Crusader Kings III Creator Pack: West Slavic Attire
+addappid(3275760, 1, "c64a167b91870cb86562eac586d49817780eac22209e08d7b9978a3f23884bb0") --Dlcname Crusader Kings III Creator Pack: West Slavic Attire
+setManifestid(3275760, "4288366890699939411", 100128)
+--Dlcname Crusader Kings III: Crowns of the World
+addappid(3315500, 1, "326bb902af35becc78da24d218f245765d6b9f4fd116512d7af59a11197aed43") --Dlcname Crusader Kings III: Crowns of the World
+setManifestid(3315500, "4503344207642007609", 72864)
+--Dlcname Crusader Kings III: Khans of the Steppe
+addappid(3315510, 1, "e5950d6c9dce6f6e1bf120573842c181a5ade24429635500f86e9e30a4f53f9b") --Dlcname Crusader Kings III: Khans of the Steppe
+setManifestid(3315510, "3363609404063344386", 16904304)
+--Dlcname Crusader Kings III: Coronations
+addappid(3315520, 1, "c502a0bca4f49ccfeb8fc7d4e417c4c4cabcdbdc80b3b33015230ffb4781311e") --Dlcname Crusader Kings III: Coronations
+setManifestid(3315520, "7521553339934362737", 84112)
+--Dlcname Crusader Kings III: All Under Heaven
+addappid(3315530, 1, "8a468dd5a5093bba8f051b45c03d5b2b9603809ceaa338f623172b9c45796fa3") --Dlcname Crusader Kings III: All Under Heaven
+setManifestid(3315530, "8595022041963600613", 89257312)
+--Dlcname Crusader Kings III Creator Pack: Medieval Monuments
+addappid(3315540, 1, "67fe76e558dfbb3d6235797bb8fd0c7ed47591aee7bf9e759a11a2550c7a48f9") --Dlcname Crusader Kings III Creator Pack: Medieval Monuments
+setManifestid(3315540, "1359283799129796893", 6405168)
+--Dlcname Crusader Kings III Creator Pack: Arctic Attire
+addappid(3315550, 1, "d0ffe0a4152529a8088f9cc8908da50a1cff62ed6735944a34ada2db3bcd0ee2") --Dlcname Crusader Kings III Creator Pack: Arctic Attire
+setManifestid(3315550, "2840621713410264825", 1851840)
+--Dlcname Crusader Kings III Creator Pack: High Medieval Warfare Attire
+addappid(3315560, 1, "2e2efbfc8a4fab2c7da7df1b69f5fb0dcbaaac57b03156e03babd0462d902f20") --Dlcname Crusader Kings III Creator Pack: High Medieval Warfare Attire
+setManifestid(3315560, "5111920289037265676", 98816)
+--Dlcname Crusader Kings III Creator Pack: Holy Buildings
+addappid(3315570, 1, "64b1967e37b5dab375d76bcd85fc0bb57ca2bb7ce41bcf653fcb9e8b150b0250") --Dlcname Crusader Kings III Creator Pack: Holy Buildings
+setManifestid(3315570, "409066589632915157", 98800)
+--Dlcname Crusader Kings III Creator Pack: North Pacific Attire
+addappid(3315580, 1, "8a9863b7a03af1c278712db25bd7789527c599c8b6d9c39b84c7fbd0b0a2ca5a") --Dlcname Crusader Kings III Creator Pack: North Pacific Attire
+setManifestid(3315580, "6705959764445437481", 2040288)
+--Dlcname Crusader Kings III: Songs of the Realm
+addappid(3315590, 1, "f83e2975806db41d2d9ccb7e1d90e57834851f8aedcff4a325c76d8dedcfb321") --Dlcname Crusader Kings III: Songs of the Realm
+setManifestid(3315590, "8046445785273377193", 35704384)
+--Dlcname Crusader Kings III Creator Pack: East Asian Wonders
+addappid(4232860, 1, "8da903c8473b9b73ed7d162d555f15fc2b69dae4d0b46f65f179216ec0c318cf") --Dlcname Crusader Kings III Creator Pack: East Asian Wonders
+setManifestid(4232860, "2743333143025069241", 94960)
+--Dlcname Crusader Kings III Creator Pack: Celestial Court Attire
+addappid(4232870, 1, "3d88dcaf5dae5cc78b4f34a345672015051ee4e0cf803f04ed2ec1efa11d9ae7") --Dlcname Crusader Kings III Creator Pack: Celestial Court Attire
+setManifestid(4232870, "6970199339967430673", 96112)
+--Dlcname Crusader Kings III: Symbols of Authority
+addappid(4232890, 1, "a5d1b14c4b644dd84406d846c84fdbf6d282b3bac55bed41a3bad79acfe26f5c") --Dlcname Crusader Kings III: Symbols of Authority
+setManifestid(4232890, "9211152866378443319", 70048)
+--Share Depots
+addappid(228981, 1, "9afdbd47677424be993f6b516a15ebdb5281aa318114631d14b2b23999ae97ac") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228981, "7613356809904826842", 5804736)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228988, "6645201662696499616", 22411856)
+addappid(1359040) --Dlcname AppID 1359040
+addappid(2812400) --Dlcname Crusader Kings III: Chapter III
+addappid(3486700) --Dlcname Crusader Kings III: Chapter IV
+addappid(4208220) --Dlcname Crusader Kings III: Subscription
+addappid(4232880) --Dlcname Crusader Kings III: Chapter V
+--Missing Dlcs
+--Dlcname Crusader Kings III: By God Alone
+--Dlcname Crusader Kings III: Silk & Silver
