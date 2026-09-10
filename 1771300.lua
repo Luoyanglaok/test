@@ -18,21 +18,9 @@ addappid(1771309, 1, "1f8b55f9f4ac27eac8ffa310ca46163ee5aaad0937438035274a30b78d
 setManifestid(1771309, "8473341515705503999", 11188903776)
 addappid(3118101, 1, "69d3aecd16754fea50cf46182e56be5d29647e571e45c1dd1ef3294b966d0ee4") --Main Windows Language Depot Spanish Kingdom Come: Deliverance II
 setManifestid(3118101, "4032169301022912555", 11440973808)
---Dlcname Kingdom Come: Deliverance II Soundtrack
-addappid(3468550) --Dlcname Kingdom Come: Deliverance II Soundtrack
-addappid(3468551, 1, "25b35bae1bb9e7a4cce9c03f6de8e02f15249954fc825b32b3d36db9844e04f2") --Dlc Windows Depot Kingdom Come: Deliverance II Soundtrack
-setManifestid(3468551, "6872057523820499398", 197462128)
-addappid(3468552, 1, "1af88e054ff8a58910611d28559791d4cf5f49bf9f51d60536284f2ce725d341") --Dlc Windows Depot Kingdom Come: Deliverance II Soundtrack
-setManifestid(3468552, "5959204188281972405", 937519728)
 --Dlcname Kingdom Come: Deliverance II Artbook
 addappid(4075290, 1, "5719ab17163fb31ff02aedc90c95c0b06a0a0d66b687706cbef92a539a773b1b") --Dlcname Kingdom Come: Deliverance II Artbook
 setManifestid(4075290, "7365651604166421259", 335265472)
---Dlcname Kingdom Come: Deliverance II Extended Official Soundtrack
-addappid(4184930) --Dlcname Kingdom Come: Deliverance II Extended Official Soundtrack
-addappid(4184931, 1, "80fc59ddf0f2637edab1af14b4f50e33cbf8e215f3923185de8d987df8fcd8bc") --Dlc Windows Depot Kingdom Come: Deliverance II Extended Official Soundtrack
-setManifestid(4184931, "1485580813939646155", 868716144)
-addappid(4184932, 1, "edbca866c82878c859fafffc256d4804fac8e7e9fcca9b7e4f10b7e7c182bc79") --Dlc Windows Depot Kingdom Come: Deliverance II Extended Official Soundtrack
-setManifestid(4184932, "5938459508071642275", 6502510656)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
