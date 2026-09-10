@@ -1,3 +1,6 @@
-addappid(3020510)
-addappid(3020511,0,"139eea24aed3d56dc572b215fc4ea1845c3238d246a98ccef727f3eec863f528")
-setManifestid(3020511,"6833991641999778686")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 3020510.lua
+--Gamename Heroes' Vow: Three Kingdoms
+addappid(3020510, 1, "532f81ac5c609577203b243849af2a39d38c00f6a29344ee31dea0fcc812beb0") --Mainappid Heroes' Vow: Three Kingdoms
+addappid(3020511, 1, "139eea24aed3d56dc572b215fc4ea1845c3238d246a98ccef727f3eec863f528") --Main Windows Depot Heroes' Vow: Three Kingdoms
+setManifestid(3020511, "3431969566613376622", 4243857312)
