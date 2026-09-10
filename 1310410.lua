@@ -4,6 +4,12 @@
 addappid(1310410) --Mainappid Alone in the Dark
 addappid(1310411, 1, "2d39fddfd2e106911e6b2163a3bad7f70ba00af107fe1e777f8768c28d16205a") --Main Windows Depot Alone in the Dark
 setManifestid(1310411, "1599423929991799385", 30457314336)
+--Dlcname Alone in the Dark Soundtrack
+addappid(2450970) --Dlcname Alone in the Dark Soundtrack
+addappid(2450971, 1, "69c3b29b16198c61484b01ded056d3a1bbd739a7445b9fe46bcf7f7bf9b93ba6") --Dlc Windows Depot Alone in the Dark Soundtrack
+setManifestid(2450971, "8003740945073011237", 167987536)
+addappid(2450972, 1, "9a7e27470305d222181970ffcec27538389c5e45267bebabdda487662f4227ac") --Dlc Windows Depot Alone in the Dark Soundtrack
+setManifestid(2450972, "2506528293302667066", 585304368)
 --Dlcname Alone in the Dark - Vintage Horror Filter Pack
 addappid(2450980, 1, "830385766c9907cd940ae7ed43a699dc2a0b711e2ee4010cb7ee2266083b7980") --Dlcname Alone in the Dark - Vintage Horror Filter Pack
 setManifestid(2450980, "4188049365323835729", 0)
