@@ -25,6 +25,11 @@ setManifestid(2764950, "6279348019110604381", 192421136)
 addtoken(2764960, "10039634942498840576")
 addappid(2764960, 1, "00140a77be9fb80581f68904948537eb5ba3ca04ffc9b2c024d128d98cbf9365") --Dlcname Scroll Of Taiwu - 新衣贺春
 setManifestid(2764960, "4096172026402743863", 1540416)
+--Dlcname Scroll Of Taiwu - OST 2
+addtoken(2819320, "2893316619928666294")
+addappid(2819320) --Dlcname Scroll Of Taiwu - OST 2
+addappid(2819321, 1, "cf201c9ac473365627823aa8be965fb9fdd38aa72279ba31180be819e182d994") --Dlc Windows Depot Scroll Of Taiwu - OST 2
+setManifestid(2819321, "7080424961267127743", 183282800)
 --Dlcname Scroll Of Taiwu - 碧霄蛇影
 addtoken(3464590, "17260488847850872888")
 addappid(3464590, 1, "34a15558cad10dbf91bbb3f82e56f56bfdce3e80ca105b90fb69296f4c94d94f") --Dlcname Scroll Of Taiwu - 碧霄蛇影
