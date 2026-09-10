@@ -1,10 +1,29 @@
-addappid(1361210)
-setManifestid(228983,"8124929965194586177")
-setManifestid(228988,"6645201662696499616")
-setManifestid(229006,"1784011429307107530")
-addappid(1361211,0,"91a13a5dcfb61da0b70e706684905b0c2aa90d8287d89e17507c0b94bc0f6e62")
-setManifestid(1361211,"8025453286402911981")
-addappid(1361212,0,"4d49f54fcf910bba344e8488b85616043a21cf7d6d486b8ad37085ffc6bf9401")
-setManifestid(1361212,"2639934707954061880")
-addappid(1361213,0,"5b665c11f3ab71ed186993ab184691c52af53a8d86ffd0c2fd8fbc8ec33b757d")
-setManifestid(1361213,"6538761100562027466")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1361210.lua
+--Gamename Warhammer 40,000: Darktide
+addappid(1361210, 1, "d8f8f9d34cd33dc89c6b15b6f066ddae9fb4c640efe172c2320ddb86764c0a1a") --Mainappid Warhammer 40,000: Darktide
+addappid(1361211, 1, "91a13a5dcfb61da0b70e706684905b0c2aa90d8287d89e17507c0b94bc0f6e62") --Main Windows Depot Warhammer 40,000: Darktide
+setManifestid(1361211, "8996611047797368886", 86232382784)
+addappid(1361212, 1, "4d49f54fcf910bba344e8488b85616043a21cf7d6d486b8ad37085ffc6bf9401") --Main Windows Depot Warhammer 40,000: Darktide
+setManifestid(1361212, "5990150591810997331", 243600832)
+addappid(1361213, 1, "5b665c11f3ab71ed186993ab184691c52af53a8d86ffd0c2fd8fbc8ec33b757d") --Main Windows Depot Warhammer 40,000: Darktide
+setManifestid(1361213, "9209862899812953262", 131664144)
+--Share Depots
+addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228983, "8124929965194586177", 19214528)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228988, "6645201662696499616", 22411856)
+addappid(229006, 1, "9bc3e05ce55153e5c315cb18024602ca15958a7be03adc5ffbe53b00a8524416") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(229006, "1784011429307107530", 84953712)
+addappid(1981790) --Dlcname Warhammer 40,000: Darktide - Imperial Edition Upgrade
+addappid(2215000) --Dlcname AppID 2215000
+addtoken(2215000, "487721349057472204")
+addappid(3710910) --Dlcname Warhammer 40,000: Darktide - Arbites Class
+addappid(3710950) --Dlcname Warhammer 40,000: Darktide - Arbites Class Deluxe Edition
+addappid(3710980) --Dlcname Warhammer 40,000: Darktide - Arbites Class Cosmetic Upgrade
+addappid(4013290) --Dlcname Warhammer 40,000: Darktide - Hive Scum Class
+addappid(4013300) --Dlcname Warhammer 40,000: Darktide - Hive Scum Class Cosmetic Upgrade
+addappid(4013310) --Dlcname Warhammer 40,000: Darktide - Hive Scum Class Deluxe Edition
+addappid(4355570) --Dlcname Warhammer 40,000: Darktide - Skitarii Class
+addappid(4355580) --Dlcname Warhammer 40,000: Darktide - Skitarii Class Deluxe Edition
+addappid(4355590) --Dlcname Warhammer 40,000: Darktide - Skitarii Class Cosmetic Upgrade
