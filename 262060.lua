@@ -14,6 +14,11 @@ addappid(262065, 1, "1ed93be3fc9b6d8911781b16ee38ea20b01a601089cc8ea554a0acb19ef
 setManifestid(262065, "8201359037676991345", 48715536)
 addappid(262066, 1, "5ac9e3783153c138b4fbe2ca2fad3c3fde61883c56b8a4a6945fd186c3503e1c") --Main Linux Depot Darkest Dungeon®
 setManifestid(262066, "3206384093720084", 1641905840)
+--Dlcname Darkest Dungeon®: The Soundtrack
+addappid(345800, 1, "d0c6957e6a89dfb89fd6cf0f017b1448300968a3108d6911916b044b47f3d50f") --Dlcname Darkest Dungeon®: The Soundtrack
+setManifestid(345800, "327891070323686523", 208444816)
+addappid(345801, 1, "0465a0167dbb5eaa48e0ba784df7c02d3ffccf8f9514f4c5798dae1988ede93a") --Dlc Windows Depot Darkest Dungeon®: The Soundtrack
+setManifestid(345801, "1427482243163334847", 1244108368)
 --Dlcname Darkest Dungeon®: The Musketeer
 addappid(445700, 1, "f49dbb1bf10058d543c577196757756572d32615971242e63d9a5a945903741b") --Dlcname Darkest Dungeon®: The Musketeer
 setManifestid(445700, "1910576351267588826", 13538784)
