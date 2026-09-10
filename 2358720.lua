@@ -8,12 +8,6 @@ addappid(2672610, 1, "18481a455087c1d3332fddf1ecf3e33cbd46fb135f3f9546c3cb904948
 --Dlcname Black Myth: Wukong Deluxe Edition Upgrade
 addappid(2672611, 1, "9f7513ce3953f71d2f994a9a331b862c8a41aeae89b0ff0933336aeef1796220") --Dlc Windows Depot Black Myth: Wukong Deluxe Edition Upgrade
 setManifestid(2672611, "1995373587248188296", 0)
---Dlcname Black Myth: Wukong Soundtrack Selection
-addappid(3288260) --Dlcname Black Myth: Wukong Soundtrack Selection
-addappid(3288261, 1, "dd58656a765e3490f9479f111d16728b1ffa1b0b474076884b122c344153ff52") --Dlc Windows Depot Black Myth: Wukong Soundtrack Selection
-setManifestid(3288261, "1420688854810981808", 283758448)
-addappid(3288262, 1, "d00c5648814e85abd2a3d949042a2a715d5a3b9b437c754479b01ef7fd74e42a") --Dlc Windows Depot Black Myth: Wukong Soundtrack Selection
-setManifestid(3288262, "7921052030878882502", 1301605744)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
