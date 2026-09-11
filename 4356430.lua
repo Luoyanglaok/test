@@ -4,7 +4,7 @@
 addappid(4356430, 1, "da0457cd701ea98a184543bf867722ae607be456e2fd7da486ff49e8e7275c09") --Mainappid NBA 2K27
 addtoken(4356430, "13716260120817756824")
 addappid(4356431, 1, "a1ccdda87579dfa269b9015cc7ba18b7eb8339848b5eb408bfea8bdfb31eb8a4") --Main Windows Depot NBA 2K27
-setManifestid(4356431, "2271080181003010218", 79258324384)
+setManifestid(4356431, "7031185802084950134", 79259903040)
 --Dlcname NBA 2K27 - High Resolution Textures
 addtoken(4687050, "7614811867666966860")
 addappid(4687050, 1, "c96a0954f3836680afb31e3b837546bb92606ccaebcc3e1bf8cd3761b8221c25") --Dlcname NBA 2K27 - High Resolution Textures
