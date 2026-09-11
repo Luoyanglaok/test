@@ -9,6 +9,12 @@ setManifestid(261552, "652956066029874796", 3832992864)
 addappid(2240110, 1, "305559a9a6ef58d7981b6e10beb7e104acb806407314b6a2b7cbc3cabb239fcf") --Main Windows Depot Mount & Blade II: Bannerlord
 addappid(4456490, 1, "77bd4b511a0c5823331372155f4cc406df167f9a3181fe3cbfec32d41b5183ed") --Main Windows Depot Mount & Blade II: Bannerlord
 setManifestid(4456490, "1015157637537524692", 14716764640)
+--Dlcname Mount & Blade II: Bannerlord Soundtrack
+addappid(2194520) --Dlcname Mount & Blade II: Bannerlord Soundtrack
+addappid(2194521, 1, "37b0e0ec7e17d59a6134c8537144e8a03d3b659627a6f8cb219f6318c5daef66") --Dlc Windows Depot Mount & Blade II: Bannerlord Soundtrack
+setManifestid(2194521, "6400901825798180743", 176229008)
+addappid(2194523, 1, "3ca163dc7ae2e8b921eaf3da66b9d60d253a7e031689202dbb830ff20511c4c2") --Dlc Windows Depot Mount & Blade II: Bannerlord Soundtrack
+setManifestid(2194523, "8721140348870055028", 809172992)
 --Dlcname Mount & Blade II: Bannerlord - Digital Companion
 addappid(2240111, 1, "172d8d7fb867c14dfe3251829c334dd13bd3fa452eca4f34a3c583ed9928efea") --Dlc Windows Depot Mount & Blade II: Bannerlord - Digital Companion
 setManifestid(2240111, "6194812840481947105", 978224800)
