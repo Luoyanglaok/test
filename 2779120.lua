@@ -8,3 +8,5 @@ setManifestid(2779121, "8204126685010731379", 2069028592)
 addappid(4428400, 1, "4ba54950c9c4b0b9a8ea652b6d1c4950fca97f7ea0d224d811f7bf9080866b93") --Dlcname Modulus: Digital Artbook
 setManifestid(4428400, "4729507790709378811", 39295792)
 addappid(4013900) --Dlcname Modulus: Factory Automation Deluxe Upgrade Pack
+--Missing Dlcs
+--Dlcname Modulus Soundtrack
