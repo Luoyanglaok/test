@@ -3,7 +3,7 @@
 --Gamename ICARUS
 addappid(1149460, 1, "fecfa8dae0f009276447d67ac2d4aad77ce51ed669d1cad33af05676f6d99699") --Mainappid ICARUS
 addappid(1149461, 1, "c71fc47ef9e1e718df06677c0d6cf06fc0f01145d8481e0db444a26eed261296") --Main Windows Depot ICARUS
-setManifestid(1149461, "1648123548408384195", 42990325712)
+setManifestid(1149461, "883743181648771830", 43091740112)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
