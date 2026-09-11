@@ -2627,27 +2627,6 @@ addappid(3052087, 1, "d876567b131b8de8d6de102d0ebd019493d4bcf4e43fe1c1f9cd3a1488
 setManifestid(3052087, "4576819696433460506", 297904)
 addappid(3052088, 1, "a1199cab52304fe2e809472f9733f2b0f2b7d484e8be754b4ef252ac4970a4ab") --Dlc Windows Language Depot Brazilian The Sims™ 4 Life & Death Expansion Pack
 setManifestid(3052088, "7701349043002761824", 255824)
---Dlcname The Sims™ 4 Businesses & Hobbies Expansion Pack
-addappid(2815310, 1, "151dc71ffb125ef837c26533c0b7ba710dcdb34937a0a63338437152c199edb2") --Dlcname The Sims™ 4 Businesses & Hobbies Expansion Pack
-setManifestid(2815310, "7888750986993921051", 1513966720)
-addappid(2815311, 1, "2dfb4e345a5cdbe824f6d6ea756437fd3c47353c9e63a165e791815146f25312") --Dlc Windows Language Depot English The Sims™ 4 Businesses & Hobbies Expansion Pack
-setManifestid(2815311, "4028391890679824619", 126288)
-addappid(2815312, 1, "1f2d916450cefe8b187628b393ce2d8a6d5eb8d52381410cf5924ef6bf21f5c5") --Dlc Windows Language Depot German The Sims™ 4 Businesses & Hobbies Expansion Pack
-setManifestid(2815312, "3986808613631928751", 142240)
-addappid(2815313, 1, "445c5bcf19185ec9a25ae0a1030693cde89bf89354089b0a1a6f9c40e4d4f9a7") --Dlc Windows Language Depot French The Sims™ 4 Businesses & Hobbies Expansion Pack
-setManifestid(2815313, "5963435564108307234", 142896)
-addappid(2815316, 1, "576dc62a86e6c7c8c663bf1afefde738ab6628218f78bbb6c2596ec036d58470") --Dlc Windows Language Depot Spanish The Sims™ 4 Businesses & Hobbies Expansion Pack
-setManifestid(2815316, "6193327048330348084", 140784)
-addappid(2815317, 1, "6e295b75631169bc22a46bb59afa497a85c8b4b8d5fbfb3322d839fd58105b8b") --Dlc Windows Language Depot Schinese The Sims™ 4 Businesses & Hobbies Expansion Pack
-setManifestid(2815317, "3352313271908523742", 129968)
-addappid(2815319, 1, "cd38a8dc4495031b5f8437eaecd3842cdb513973009a31cb5edf3ab9c58a3674") --Dlc Windows Language Depot Russian The Sims™ 4 Businesses & Hobbies Expansion Pack
-setManifestid(2815319, "8815491916583678641", 157264)
-addappid(3171041, 1, "441e8578e4b3591820187622e0f5db6248c4eba2840a865db042c231392ac99d") --Dlc Windows Language Depot Polish The Sims™ 4 Businesses & Hobbies Expansion Pack
-setManifestid(3171041, "6775274089434341441", 144000)
-addappid(3171047, 1, "9ff08187595cc6d786178223e04b8868c793d4a8256e70477c9e37ae3a7f6f3c") --Dlc Windows Language Depot Czech The Sims™ 4 Businesses & Hobbies Expansion Pack
-setManifestid(3171047, "438296953913949726", 150976)
-addappid(3171048, 1, "d3f46aa4037b7640328c806d4b60d6b0ba4aef323f4c5929c8de0266845c995c") --Dlc Windows Language Depot Brazilian The Sims™ 4 Businesses & Hobbies Expansion Pack
-setManifestid(3171048, "2392993002272448559", 133312)
 --Dlcname The Sims™ 4 Artist Studio Kit
 addappid(2815420, 1, "1ef5526bf3d00fe67183535ae0ad39b58fe4ff02b31db93d6cabcff87d82a72d") --Dlcname The Sims™ 4 Artist Studio Kit
 setManifestid(2815420, "2575168762504722300", 47266656)
