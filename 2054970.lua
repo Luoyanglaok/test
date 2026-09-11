@@ -84,3 +84,4 @@ addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74
 setManifestid(228988, "6645201662696499616", 22411856)
 --Missing Dlcs
 --Dlcname Dragon’s Dogma 2: Dark Arisen Expansion
+--Dlcname Dragon's Dogma 2 Original Soundtrack
