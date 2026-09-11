@@ -12,6 +12,14 @@ setManifestid(2744050, "4732525787723924801", 10888258032)
 --Dlcname FINAL FANTASY XVI The Rising Tide
 addappid(2744060, 1, "e57aab17d957ce339fc8bfa53c929fdaa17fa91f3355b40c9bd25e8ba1f1ff83") --Dlcname FINAL FANTASY XVI The Rising Tide
 setManifestid(2744060, "8940147577278755183", 15077195216)
+--Dlcname FINAL FANTASY XVI Original Soundtrack
+addappid(3372350) --Dlcname FINAL FANTASY XVI Original Soundtrack
+addappid(3372351, 1, "08563a78682af9b68bfba279c1bbaac0547124141da786614bcbf79d4721dd91") --Dlc Windows Depot FINAL FANTASY XVI Original Soundtrack
+setManifestid(3372351, "6786888266892353058", 1057945424)
+--Dlcname FINAL FANTASY XVI - Original DLC Soundtrack - From Spire to Sea
+addappid(3372360) --Dlcname FINAL FANTASY XVI - Original DLC Soundtrack - From Spire to Sea
+addappid(3372361, 1, "925873942a1404520bdac75d984b41af4be65f647df751cd6c9381c032f347d4") --Dlc Windows Depot FINAL FANTASY XVI - Original DLC Soundtrack - From Spire to Sea
+setManifestid(3372361, "4787512207030061586", 144268192)
 addappid(2886900) --Dlcname FINAL FANTASY XVI Expansion Pass
 addappid(3142080) --Dlcname FINAL FANTASY XVI - Brave Blade
 addappid(3142090) --Dlcname FINAL FANTASY XVI - Cait Sith Charm
