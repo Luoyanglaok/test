@@ -1,21 +1,30 @@
-addappid(55100)
-addappid(55101,0,"dfc944e966b55ec196f81516d517aef2eea598c50b0f53a749c8ad46e38e4d1d")
-setManifestid(55101,"2080726431353825072")
-addappid(55102,0,"5eedf45bc96fb030ed232bf919314259a98c5921e76c00be4a48f825b81f463d")
-setManifestid(55102,"4874858309514325185")
-addappid(55103,0,"02b74dfd091fb3250270bd03f8ab50756f02679bedef4fb9657b3523a7db223a")
-setManifestid(55103,"7323991471541515493")
-addappid(55104,0,"b5d7086499381c054653c3f2faab11cdf8877b7cabadc742bb4170224768b259")
-setManifestid(55104,"4083672700384568100")
-addappid(55105,0,"0f565f3bba8702f4e8da994d5b7d7aeeba28de85cce94abade3455c0e0f77264")
-setManifestid(55105,"1859328522595036082")
-addappid(55106,0,"67951f33c15fb7d97013c1ec537d46d64879eb0548eeb46cfebe2ec02516fba9")
-setManifestid(55106,"5871432233020925208")
-addappid(55107,0,"874ae5a64b5b328d9e3667946f32bd562d61e21a5eb9ac7f00aa0cd1ff8b96b9")
-setManifestid(55107,"5217930093875129957")
-addappid(55108,0,"04603bc07905ef8c5cd4b6a3362e2a08b0e054de6cd53b676a199c46af5a210a")
-setManifestid(55108,"1695963287512095786")
-addappid(55109,0,"b8efe3d51d8fde67d168eff0024ebfc367a342e0c34b0fe3dbf0e02b801f57fd")
-setManifestid(55109,"898374337284558150")
-addappid(55202,0,"26ec7d11c69cad564f561ecc40b513e9a9a7a025686cf54122ef4ba56ceb478f")
-setManifestid(55202,"223689028594339770")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 55100.lua
+--Gamename Homefront
+addappid(55100) --Mainappid Homefront
+addappid(55101, 1, "dfc944e966b55ec196f81516d517aef2eea598c50b0f53a749c8ad46e38e4d1d") --Main Windows Depot Homefront
+setManifestid(55101, "2080726431353825072", 0)
+addappid(55102, 1, "5eedf45bc96fb030ed232bf919314259a98c5921e76c00be4a48f825b81f463d") --Main Windows Language Depot English Homefront
+setManifestid(55102, "4874858309514325185", 0)
+addappid(55103, 1, "02b74dfd091fb3250270bd03f8ab50756f02679bedef4fb9657b3523a7db223a") --Main Windows Language Depot French Homefront
+setManifestid(55103, "7323991471541515493", 0)
+addappid(55104, 1, "b5d7086499381c054653c3f2faab11cdf8877b7cabadc742bb4170224768b259") --Main Windows Language Depot Italian Homefront
+setManifestid(55104, "4083672700384568100", 0)
+addappid(55105, 1, "0f565f3bba8702f4e8da994d5b7d7aeeba28de85cce94abade3455c0e0f77264") --Main Windows Language Depot German Homefront
+setManifestid(55105, "1859328522595036082", 0)
+addappid(55106, 1, "67951f33c15fb7d97013c1ec537d46d64879eb0548eeb46cfebe2ec02516fba9") --Main Windows Language Depot Spanish Homefront
+setManifestid(55106, "5871432233020925208", 0)
+addappid(55107, 1, "874ae5a64b5b328d9e3667946f32bd562d61e21a5eb9ac7f00aa0cd1ff8b96b9") --Main Windows Language Depot Czech Homefront
+setManifestid(55107, "5217930093875129957", 0)
+addappid(55108, 1, "04603bc07905ef8c5cd4b6a3362e2a08b0e054de6cd53b676a199c46af5a210a") --Main Windows Language Depot Russian Homefront
+setManifestid(55108, "1695963287512095786", 0)
+addappid(55109, 1, "b8efe3d51d8fde67d168eff0024ebfc367a342e0c34b0fe3dbf0e02b801f57fd") --Main Windows Language Depot Polish Homefront
+setManifestid(55109, "898374337284558150", 0)
+addappid(55202, 1, "26ec7d11c69cad564f561ecc40b513e9a9a7a025686cf54122ef4ba56ceb478f") --Main Windows Language Depot Dutch Homefront
+setManifestid(55202, "223689028594339770", 0)
+addappid(55203) --Dlcname Homefront Fire Sale Map Pack DLC
+addappid(55204) --Dlcname Homefront - The Rock Map Pack
+addappid(55205) --Dlcname Homefront - Exclusive Multiplayer Shotgun DLC
+addappid(55206) --Dlcname Homefront - Multiplayer Advance Unlock Pack
+addappid(55207) --Dlcname Homefront - Camo Skin Pack
+addappid(55208) --Dlcname Homefront - Steam Exclusive
