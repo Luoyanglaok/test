@@ -50,7 +50,7 @@ setManifestid(3405714, "6155538128257137927", 5209786928)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
 addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") --Share Windows Depot EA APP Installer
-setManifestid(3340991, "5874704072306837744", 246482576)
+setManifestid(3340991, "3755387105551220105", 246722480)
 addappid(3893181, 1, "7f675c2fe8e758d16f3cf8d3b493956afaee78e96d78cdb668a5edb8ac1580f6") --Share Windows Depot EA Javelin Anticheat Installer
 setManifestid(3893181, "3685412901435514107", 318033232)
 addappid(3405710) --Dlcname EA SPORTS FC 26 - EA Play Trial Key
