@@ -16,3 +16,5 @@ setManifestid(228990, "1829726630299308803", 100658080)
 addappid(3954470) --Dlcname REANIMAL - Foxhead and Muttonhead Masks
 addappid(4112550) --Dlcname REANIMAL – Season Pass
 addappid(4733900) --Dlcname REANIMAL - The Prisoner
+--Missing Dlcs
+--Dlcname REANIMAL Soundtrack
