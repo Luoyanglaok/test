@@ -16,12 +16,6 @@ setManifestid(1766021, "7860095987267006881", 49754768)
 --Dlcname Medieval Dynasty - Map Pack
 addappid(1766022, 1, "42d607c1515fec47b5c19b04778c4c52bbfe10cac2d0acb459d0f61a02eebacf") --Dlcname Medieval Dynasty - Map Pack
 setManifestid(1766022, "9195790049611468482", 130719200)
---Dlcname Medieval Dynasty - Original Soundtrack Vol. 2
-addappid(3214760) --Dlcname Medieval Dynasty - Original Soundtrack Vol. 2
-addappid(3214761, 1, "eca4676503d291016a05d1eba062320bcb338ccf294d0b8ea55d2fb69c344b10") --Dlc Windows Depot Medieval Dynasty - Original Soundtrack Vol. 2
-setManifestid(3214761, "4750399889280094829", 408185520)
-addappid(3214762, 1, "bb842d206582aea08c09e1e6288567829067db21c049c89f23959a731a9dfa9b") --Dlc Windows Depot Medieval Dynasty - Original Soundtrack Vol. 2
-setManifestid(3214762, "2075981207196233190", 1293418960)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
