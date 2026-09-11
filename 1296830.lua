@@ -22,9 +22,3 @@ setManifestid(2612952, "5973679343989166898", 2240354464)
 addtoken(2936000, "15755738597420251343")
 addappid(2936000, 1, "3f9660fd9153125226d5a791c896e95e7f91196474916e114a6b5a7cc6bc82ed") --Dlcname 暖雪 Warm Snow - 美术设定集
 setManifestid(2936000, "1496916447034636149", 367431120)
---Dlcname 暖雪 Warm Snow Soundtrack
-addappid(3103920) --Dlcname 暖雪 Warm Snow Soundtrack
-addappid(3103921, 1, "262d55135ec30ece5d5a40aea542e08860544a172174e1fa3fb83f5b5f280865") --Dlc Windows Depot 暖雪 Warm Snow Soundtrack
-setManifestid(3103921, "3287194078086963114", 319199440)
-addappid(3103922, 1, "3d789642a8d9be48d90d3e01dde8a11252e004366b92ffe75bb4b8ca9fc4935c") --Dlc Windows Depot 暖雪 Warm Snow Soundtrack
-setManifestid(3103922, "5154427019078743632", 2193717888)
