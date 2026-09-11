@@ -1,6 +1,5 @@
--- Downloaded using DepotBox - https://depotbox.org/
--- Original file: 2377930.lua
---Gamename Destiny of Immortal
-addappid(2377930) --Mainappid Destiny of Immortal
-addtoken(2377930, "2748845361097440783")
-addappid(2377931, 1, "a7aab48ba132b6f9fbcd2899a7c80cb6f6ed94999f415f98fd40fd06dea370f5") --Main Windows Depot Destiny of Immortal
+addappid(2377930)
+addappid(2377931,1,"a7aab48ba132b6f9fbcd2899a7c80cb6f6ed94999f415f98fd40fd06dea370f5")
+addappid(228988,1,"1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358")
+setManifestid(2377931,"1011579635114395825")
+setManifestid(228988,"6645201662696499616")
