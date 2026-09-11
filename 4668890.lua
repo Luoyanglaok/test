@@ -3,7 +3,7 @@
 --Gamename Mall Together
 addappid(4668890) --Mainappid Mall Together
 addappid(4668891, 1, "9dc3bedf92fa9b0a20fcd0fd74bd85b4985af941ea8db23d8a6ead97d7845a78") --Main Windows Depot Mall Together
-setManifestid(4668891, "7931750230780161745", 2968009136)
+setManifestid(4668891, "1042132793091426553", 2958766352)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
