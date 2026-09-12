@@ -6,5 +6,9 @@ addappid(2776781, 1, "afa10f600fdbcfa388448072896e37c7d362a5efbbf2f49e6e85493d0e
 setManifestid(2776781, "8301452533099928834", 4012524992)
 addappid(2776782, 1, "e018e66dc491c66e51db146b43901006c0de6494db6cb7be71c2c8aa0098b19f") --Main Macos Depot Blood Bar Tycoon
 setManifestid(2776782, "9179996216241977472", 4039546048)
+--Dlcname Blood Bar Tycoon Soundtrack
+addappid(3487210) --Dlcname Blood Bar Tycoon Soundtrack
+addappid(3487211, 1, "f2cc7ca03d2983013ad3398a9f7ae00fedcdc63ecd18e7ea1cf6e76545962f30") --Dlc Windows Depot Blood Bar Tycoon Soundtrack
+setManifestid(3487211, "1040230883740202760", 95429600)
 --Missing Dlcs
 --Dlcname Blood Bar Tycoon - Supporter Pack
