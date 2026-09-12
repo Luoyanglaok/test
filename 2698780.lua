@@ -3,7 +3,7 @@
 --Gamename ContractVille
 addappid(2698780) --Mainappid ContractVille
 addappid(2698781, 1, "828d5f7224a4a0900737bb184f8ebcb2f7db10894724f2ca7d7d06c9904cf1cd") --Main Windows Depot ContractVille
-setManifestid(2698781, "5059187893259448596", 9127494000)
+setManifestid(2698781, "6672590902537340390", 9127375248)
 --Share Depots
 addappid(228982, 1, "fa2997f03c3576c41174f200596ab2246fd1e39c0911f9b869e92635ae5b0ff5") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228982, "6413394087650432851", 9650016)
