@@ -92,28 +92,6 @@ setManifestid(941973, "8505788485278530046", 128)
 addtoken(945600, "11164922436573908868")
 addappid(945600, 1, "75c3bd851a87a16db2f06576a3c2fe55a5a46fadd905763369ac503d9f4d6b34") --Dlcname AppID 945600
 setManifestid(945600, "1049804611294232219", 2027584)
---Dlcname Devil May Cry 5 Original Soundtrack
-addappid(1050460) --Dlcname Devil May Cry 5 Original Soundtrack
-addappid(1050461, 1, "6fceef47cd5bd1b29636c65582c0cb8ee3d03717a888e0932455686860aef1da") --Dlc Windows Depot Devil May Cry 5 Original Soundtrack
-setManifestid(1050461, "3050092049700362523", 722296160)
-addappid(1050462, 1, "12c7ffb76f8329f075547c4ffdfac4d55b2d3f9daac8ee3a960d35da41643378") --Dlc Windows Depot Devil May Cry 5 Original Soundtrack
-setManifestid(1050462, "5698634514631475076", 2135473248)
-addappid(1050463, 1, "34da08cba74dfc017f338c347030b16971cd70e954814555ba2456556b0cf440") --Dlc Windows Depot Devil May Cry 5 Original Soundtrack
-setManifestid(1050463, "8318623171155215665", 927759168)
-addappid(1050464, 1, "852989f2d761b45f143ff7cec75124bfd00ad5cbbbec30101d20b14fc45178e6") --Dlc Windows Language Depot Japanese Devil May Cry 5 Original Soundtrack
-setManifestid(1050464, "1330623587797596291", 723353360)
-addappid(1050465, 1, "e23657c8ffa04b0635ef382ac4a04c221ed5bfa2cd3de6c07c2fedf98af6173a") --Dlc Windows Language Depot Japanese Devil May Cry 5 Original Soundtrack
-setManifestid(1050465, "5953132337778376558", 2134420016)
-addappid(1050466, 1, "5716c178a6836c823d18ee2fd44e99e01122a2bd812470f9c607c66b5ad5b5bd") --Dlc Windows Language Depot Japanese Devil May Cry 5 Original Soundtrack
-setManifestid(1050466, "4817432693296480562", 926705200)
---Dlcname Devil May Cry 5 Vergil's Rebirth Sound Selection
-addappid(1426700) --Dlcname Devil May Cry 5 Vergil's Rebirth Sound Selection
-addappid(1426701, 1, "dd1c38e85a8cf875e5b61e397ec6df2990cc68dbdd7faf923053e40a3530768d") --Dlc Windows Depot Devil May Cry 5 Vergil's Rebirth Sound Selection
-setManifestid(1426701, "534293846341001454", 130391824)
-addappid(1426702, 1, "7317abf67f555128a335ba70495b864195bb2f81bcfbe9a69601d79d24a7888e") --Dlc Windows Depot Devil May Cry 5 Vergil's Rebirth Sound Selection
-setManifestid(1426702, "6511712278583038047", 489349520)
-addappid(1426703, 1, "8021b4edc4037bf105667279bea9e5651645602dbad122d44c0d0c4353d56d21") --Dlc Windows Depot Devil May Cry 5 Vergil's Rebirth Sound Selection
-setManifestid(1426703, "6126913193264887723", 175072112)
 --Dlcname Devil May Cry 5 - Playable Character: Vergil
 addappid(1432640, 1, "ad27e4adecfeebddb59585bb0cc782ff19110b37e71727db16773fc7f163c5f2") --Dlcname Devil May Cry 5 - Playable Character: Vergil
 setManifestid(1432640, "5156559174384676617", 224)
