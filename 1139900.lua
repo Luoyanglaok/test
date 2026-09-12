@@ -4,6 +4,12 @@
 addappid(1139900, 1, "b5628f62a987d51d0b00fa2e44ee9b7350875840b8eca368f0f3483ab0382520") --Mainappid Ghostrunner
 addappid(1139901, 1, "b1a4614bd74ba48ab2546570b5d66bc0d1380a4b1dce45acc370be5fc5fb9c1f") --Main Windows Depot Ghostrunner
 setManifestid(1139901, "732659811379795654", 16471087360)
+--Dlcname Ghostrunner Soundtrack
+addappid(1741240) --Dlcname Ghostrunner Soundtrack
+addappid(1741241, 1, "d0c46184813765018c3673e7df96df323690776c084cb921a72f141429750129") --Dlc Windows Depot Ghostrunner Soundtrack
+setManifestid(1741241, "7397428717577397892", 120324960)
+addappid(1741242, 1, "1674c3d97f093b66246a074f1611811a01eccff652fdba50f349f2bb831dbccd") --Dlc Windows Depot Ghostrunner Soundtrack
+setManifestid(1741242, "3988357156147961655", 990465056)
 --Dlcname Ghostrunner Digital Artbook
 addappid(1741380, 1, "f8bc115f6677008301df4a15b02a362d568e2b6e5e6b1443de1d146cb01892ba") --Dlcname Ghostrunner Digital Artbook
 setManifestid(1741380, "2198570130799634824", 14196960)
