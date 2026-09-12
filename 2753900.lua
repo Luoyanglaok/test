@@ -4,6 +4,7 @@
 addappid(2753900, 1, "9c508ce17fc01c7952b90ead8e86425ba705f9f8c34bfe2077230b58c1b6062e") --Mainappid The King is Watching
 addappid(2753901, 1, "416d49c23e9d45fbd519129ae945ff52e8e57b2e8a0170688a8623c6ca0d3941") --Main Windows Depot The King is Watching
 setManifestid(2753901, "4723183641092796383", 496987040)
+addappid(3951501, 1, "7cdd236b524881b86a557b5ef1c13e5fca735182b5ac2aa135ffee30e05ebdd7") --Main Windows Depot The King is Watching
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
