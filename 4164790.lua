@@ -1,2 +1,6 @@
-addappid(4164790)
-setManifestid(4164791,"5890401368737314470")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 4164790.lua
+--Gamename Survival Log
+addappid(4164790) --Mainappid Survival Log
+addappid(4164791, 1, "ea042cfee2f842c31ecd3da8061c7dcd086ba70e586991035ef463d0b71ce284") --Main Windows Depot Survival Log
+setManifestid(4164791, "8217574971248371809", 3896860464)
