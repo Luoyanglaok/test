@@ -3,7 +3,7 @@
 --Gamename Whiskerwood
 addappid(2489330, 1, "83e1125a9ee59e054a471647a3a548a629c99664c91200a62e579b1ad2cae973") --Mainappid Whiskerwood
 addappid(2489331, 1, "480ca1efcc3cec10d331e77610da0a69b91cd36364ebff34f181ca0e36e63eb6") --Main Windows Depot Whiskerwood
-setManifestid(2489331, "4881486203988886377", 2208709984)
+setManifestid(2489331, "3248589980869513447", 2213206336)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
