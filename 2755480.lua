@@ -4,10 +4,6 @@
 addappid(2755480, 1, "c286569c5a52094adae88ba151cd7148c60246821a2ffa060e81c6b056c56e57") --Mainappid The Censor DX Edition
 addappid(2755481, 1, "b5c225997ce7a240b0666f448a99189ebe6ac7fd0d3fc0be8bd148bc6aa3cf7f") --Main Windows Depot The Censor DX Edition
 setManifestid(2755481, "4152286130615104709", 841978480)
---Dlcname The Censor DX Edition - Soundtrack
-addappid(3985140) --Dlcname The Censor DX Edition - Soundtrack
-addappid(3985141, 1, "5d04b10d562fbe06bdfc4110ef63ba157563559f6d32359993fb9c6a106ee8c1") --Dlc Windows Depot The Censor DX Edition - Soundtrack
-setManifestid(3985141, "733762560899494275", 8042144)
 --Dlcname The Censor DX Edition - ArtBook
 addappid(3985240) --Dlcname The Censor DX Edition - ArtBook
 addappid(3985241, 1, "6d0c26da70e7fdc64b17ef27250dc75d3aa964997eb9e5ba6f3c53830277fb60") --Dlc Windows Language Depot English The Censor DX Edition - ArtBook
