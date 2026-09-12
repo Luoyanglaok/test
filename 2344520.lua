@@ -37,6 +37,12 @@ setManifestid(2452976, "150799551373092020", 2430839824)
 --Dlcname Diablo® IV - High-Resolution Assets
 addappid(2453170, 1, "962a85322d266e4dc3ca0de3fe2d065dd2c270c3322c73ceb0d742f960ceb77e") --Dlcname Diablo® IV - High-Resolution Assets
 setManifestid(2453170, "3767424134030614753", 75080189552)
+--Dlcname Diablo® IV - Soundtrack
+addappid(2626040) --Dlcname Diablo® IV - Soundtrack
+addappid(2626041, 1, "12037318a8d14f27e88b60fe13a327fdc78ac5beaac32720ef817874d1d7c337") --Dlc Windows Depot Diablo® IV - Soundtrack
+setManifestid(2626041, "7893910240267598693", 159859328)
+addappid(2646090, 1, "d30b1ea788761e576aa6aad5ff1cfc9b831cbd92bbb390592d509a57f7d57c9f") --Dlc Windows Depot Diablo® IV - Soundtrack
+setManifestid(2646090, "2687332066995649943", 2718889680)
 --Dlcname Diablo® IV: Vessel of Hatred™
 addappid(3043530, 1, "c82a86d812fde68fbdc2c2776a7abb9c72442001ebc4b38d84b413215facd76e") --Dlcname Diablo® IV: Vessel of Hatred™
 --Dlcname Diablo® IV: Lord of Hatred™
@@ -59,5 +65,3 @@ addappid(3559880) --Dlcname AppID 3559880
 addappid(3958700) --Dlcname Diablo® IV: Lord of Hatred™ - Standard Edition
 addappid(3958710) --Dlcname Diablo® IV: Lord of Hatred™ - Deluxe Edition
 addappid(3958720) --Dlcname Diablo® IV: Lord of Hatred™ - Ultimate Edition
---Missing Dlcs
---Dlcname Diablo® IV - Soundtrack
