@@ -34,6 +34,10 @@ setManifestid(881965, "3182330635426176422", 2755417152)
 addtoken(881960, "16001553025725405273")
 addappid(881960, 1, "9a205eb5d636da4082eef0bd4c83938e1eaf7f313cc8f19e3daaae78989b2b24") --Dlcname Tropico 6 El Prez Edition Pack
 setManifestid(881960, "7166363854253545793", 514288896)
+--Dlcname Tropico 6 - Original Soundtrack
+addappid(1224940) --Dlcname Tropico 6 - Original Soundtrack
+addappid(1224941, 1, "098faf903d473c1d990ae386b46126fa5b17f29619db28faa2df3a942f1decc6") --Dlc Windows Depot Tropico 6 - Original Soundtrack
+setManifestid(1224941, "289319977696074653", 406903216)
 --Share Depots
 addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228986, "8782296191957114623", 23045488)
