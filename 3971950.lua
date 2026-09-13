@@ -3,7 +3,7 @@
 --Gamename In Falsus
 addappid(3971950) --Mainappid In Falsus
 addappid(3971951, 1, "a4c52a8c29eaa0924805618903820a93efa6148d1942b1e2abaab445b92e3f62") --Main Windows Depot In Falsus
-setManifestid(3971951, "479563667435485719", 7192978320)
+setManifestid(3971951, "1123155390945253867", 6250642480)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
