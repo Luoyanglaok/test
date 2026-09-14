@@ -49,9 +49,15 @@ setManifestid(442051, "8949581938271775085", 2597043536)
 --Dlcname Just Cause™ 3 DLC: Reaper Missile Mech
 addappid(442052, 1, "007706667aa5a7c2c2c312b2569f2a3e6487d71f33df9ba92135a3b6f9c32219") --Dlcname Just Cause™ 3 DLC: Reaper Missile Mech
 setManifestid(442052, "6242256647832589882", 34824160)
---Share Depots
-addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
+--Dlcname Just Cause™ 3: Multiplayer Mod
+addappid(619910) --Dlcname Just Cause™ 3: Multiplayer Mod
+addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Dlc Windows Depot Just Cause™ 3: Multiplayer Mod
 setManifestid(228983, "8124929965194586177", 19214528)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Dlc Windows Depot Just Cause™ 3: Multiplayer Mod
+setManifestid(228989, "5753583882400741046", 25108528)
+addappid(619911, 1, "1312b2d2d2e9792e79a995a10ee5673316b4222e22287e7d452dcbe29c2c523d") --Dlc Windows Depot Just Cause™ 3: Multiplayer Mod
+setManifestid(619911, "6687909204846815980", 226687824)
+--Share Depots
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(401850) --Dlcname Just Cause™ 3 DLC: Air, Land & Sea Expansion Pass
