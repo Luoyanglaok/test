@@ -1,3 +1,6 @@
-addappid(1520380)
-addappid(1520381,0,"d9ee02250cf9e8c0beb69d7c8324c0fc8e635a4f318d3e67f340583cdd1b4205")
-setManifestid(1520381,"2995486290850104595")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1520380.lua
+--Gamename HALF DEAD 3
+addappid(1520380) --Mainappid HALF DEAD 3
+addappid(1520381, 1, "d9ee02250cf9e8c0beb69d7c8324c0fc8e635a4f318d3e67f340583cdd1b4205") --Main Windows Depot HALF DEAD 3
+setManifestid(1520381, "2995486290850104595", 3699854672)
