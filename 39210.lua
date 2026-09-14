@@ -4,6 +4,8 @@
 addappid(39210, 1, "c61ef3c549c9baf199512ffc455c3f14fd8ddac725cc5f3630085ff481140239") --Mainappid FINAL FANTASY XIV Online
 addappid(39211, 1, "d0c623233763e6f93f011efe694adc0da08240833523dce4dd7c33452faefd98") --Main Windows Depot FINAL FANTASY XIV Online
 setManifestid(39211, "8665979780740027235", 15993216)
+addappid(4425351, 1, "3c33329f33edb65f455a8948c863542d5452935266944d5d26cab27f23ceb373") --Main Windows Depot FINAL FANTASY XIV Online
+setManifestid(4425351, "8124975679884930743", 215245696)
 --Dlcname Before Meteor: FINAL FANTASY XIV Original Soundtrack
 addappid(3372220) --Dlcname Before Meteor: FINAL FANTASY XIV Original Soundtrack
 addappid(3372221, 1, "be64eda4f2dc8f9b44b54e3bf49be5687cbf0079ff96b70b985c1045551c460f") --Dlc Windows Depot Before Meteor: FINAL FANTASY XIV Original Soundtrack
@@ -48,6 +50,8 @@ setManifestid(3372321, "4971628679217837777", 872341440)
 addappid(3372330) --Dlcname DAWNTRAIL: FINAL FANTASY XIV Original Soundtrack
 addappid(3372331, 1, "cdb17111854df71a0876717ddccaf0a9ae3155e49d71e745fae1036fb159df8d") --Dlc Windows Depot DAWNTRAIL: FINAL FANTASY XIV Original Soundtrack
 setManifestid(3372331, "9119777665321781675", 636573440)
+--Dlcname Piano Collections FINAL FANTASY XIV
+addappid(4425350) --Dlcname Piano Collections FINAL FANTASY XIV
 addappid(262340) --Dlcname FINAL FANTASY XIV Online Starter Edition (JP)
 addappid(262341) --Dlcname FINAL FANTASY XIV Online Starter Edition (NA)
 addappid(262342) --Dlcname FINAL FANTASY XIV Online Starter Edition (PAL)
@@ -121,7 +125,6 @@ addappid(2649350) --Dlcname FINAL FANTASY XIV Online Complete Edition (EX5 PAL)
 --Dlcname Forge Ahead: FINAL FANTASY XIV ～ Arrangement Album ～
 --Dlcname And Back Again: Live Performances from the FINAL FANTASY XIV Fan Festival 2024
 --Dlcname Pulse: FINAL FANTASY XIV Remix Album Vol. 2 (B-sides)
---Dlcname Piano Collections FINAL FANTASY XIV
 --Dlcname THE PRIMALS Dark Decades Tour BUDOKAN
 --Dlcname Eorzean Symphony: FINAL FANTASY XIV Orchestral Album Vol. 4
 --Dlcname Eorzean Symphony: FINAL FANTASY XIV Orchestral Album Vol. 4 (Concert version)
