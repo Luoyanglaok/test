@@ -16,11 +16,12 @@ setManifestid(268052, "1263818844251762323", 6699941072)
 --Dlcname The Evil Within: The Executioner
 addappid(359930, 1, "bad4fe532d4b0af4716ada1632250ca9a4993e693615aee74b8a5cd50872b8e2") --Dlcname The Evil Within: The Executioner
 setManifestid(359930, "5306620168622236739", 4240685008)
+--Dlcname The Evil Within - Soundtrack
+addappid(446950, 1, "bf30aa6a29252e5fedf5bb424228fa5549eb907f08ffebe3769e98c9d32e36cd") --Dlcname The Evil Within - Soundtrack
+setManifestid(446950, "8864889076466158208", 105196448)
 --Share Depots
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
-addappid(446950, 1, "bf30aa6a29252e5fedf5bb424228fa5549eb907f08ffebe3769e98c9d32e36cd") --Share Windows Depot The Evil Within - Soundtrack
-setManifestid(446950, "8864889076466158208", 105196448)
 addappid(318750) --Dlcname AppID 318750
 addtoken(318750, "6843027824690960282")
 addappid(318751) --Dlcname AppID 318751
