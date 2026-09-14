@@ -1,7 +1,18 @@
-addappid(1227890)
-addappid(1227891,0,"2e2a6b921fea7098aab8c03d4a70aca9e6fae899b964523f7facd4756ab77567")
-setManifestid(1227891,"2973056220810366993")
-addappid(1227892,0,"d44403a5f1de2fc5dfa7d8b11f80764f066518f373c1740f71453b796343688d")
-setManifestid(1227892,"5641962359534525607")
-addappid(1227893,0,"ece222869909275dbc208a0825925b4b79126b1c16980f4852ac7e0e423221ba")
-setManifestid(1227893,"2521754645270273491")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1227890.lua
+--Gamename Summer Memories
+addappid(1227890, 1, "ba119c194b3de3b73ad296b6a2062231073144bb8d818fabdbc46ff349c7b5e0") --Mainappid Summer Memories
+addappid(1227891, 1, "2e2a6b921fea7098aab8c03d4a70aca9e6fae899b964523f7facd4756ab77567") --Main Windows Depot Summer Memories
+setManifestid(1227891, "2973056220810366993", 644688464)
+addappid(1227892, 1, "d44403a5f1de2fc5dfa7d8b11f80764f066518f373c1740f71453b796343688d") --Main Windows Language Depot Schinese Summer Memories
+setManifestid(1227892, "5641962359534525607", 21518112)
+addappid(1227893, 1, "ece222869909275dbc208a0825925b4b79126b1c16980f4852ac7e0e423221ba") --Main Windows Language Depot Japanese Summer Memories
+setManifestid(1227893, "2521754645270273491", 33949920)
+--Dlcname Summer Memories+ - Expansion DLC
+addappid(1390150) --Dlcname Summer Memories+ - Expansion DLC
+addappid(1390151, 1, "609fc609a8f7331a13bd828804e541b1d1828a0bb17be063ce45b4e609a4d07c") --Dlc Windows Depot Summer Memories+ - Expansion DLC
+setManifestid(1390151, "3301250508211564818", 2210704)
+addappid(1390152, 1, "21326afe0d63411f4d163d64e57458dc1f85ee06da2043a310985ad856d049e6") --Dlc Windows Language Depot Schinese Summer Memories+ - Expansion DLC
+setManifestid(1390152, "1992105448028326267", 610867376)
+addappid(1390153, 1, "0afc28edbdc9fc9e6d5af5c2b52ad5b45e202ac8845aecf4a7e54c99b455bed4") --Dlc Windows Language Depot Japanese Summer Memories+ - Expansion DLC
+setManifestid(1390153, "4641570236997998332", 580276048)
