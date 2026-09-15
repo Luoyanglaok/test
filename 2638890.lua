@@ -90,3 +90,4 @@ setManifestid(228988, "6645201662696499616", 22411856)
 --Dlcname Onimusha: WotS - Materials Pack: Red Souls II
 --Dlcname Onimusha: WotS - Materials Pack: Offerings II
 --Dlcname Onimusha: WotS - Materials Pack: Enhancements III
+--Dlcname Onimusha: Way of the Sword Original Sound Track
