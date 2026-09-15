@@ -7,5 +7,3 @@ setManifestid(1256671, "96563032411238562", 3411346480)
 --Dlcname ArtBook
 addappid(1735680, 1, "7eec92553b09b2fd957f4be63eae32b05f0a496d42c8b311aea081606362b81c") --Dlcname ArtBook
 setManifestid(1735680, "8865581939697287877", 1734381632)
---Missing Dlcs
---Dlcname Library Of Ruina Soundtrack
