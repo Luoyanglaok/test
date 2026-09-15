@@ -3,7 +3,7 @@
 --Gamename WARDOGS
 addappid(1867240) --Mainappid WARDOGS
 addappid(1867242, 1, "54c641e6fc8cd622a0cd3a2eba3bae0f4b29ba18c88fb4c83c31303d474c04a7") --Main Windows Depot WARDOGS
-setManifestid(1867242, "1225069958611383720", 44789984640)
+setManifestid(1867242, "5232764749909337392", 44790192032)
 --Dlcname WARDOGS Playtest
 addappid(4809930) --Dlcname WARDOGS Playtest
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Dlc Windows Depot WARDOGS Playtest
