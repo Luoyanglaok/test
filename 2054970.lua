@@ -10,6 +10,8 @@ addappid(2054973, 1, "26687268229e99b88102170590ad39df0aa4bbc80190480af56ee3c54c
 setManifestid(2054973, "7326349851344674520", 64927980144)
 addappid(2054974, 1, "4ebc5021915c7e4cc3c5ba1a4a08015289788d290c3ed14a772893ee8ebb6a60") --Main Windows Depot Dragon's Dogma 2
 setManifestid(2054974, "6839022010412597171", 64922591456)
+addappid(3350021, 1, "f909021c49122e54311e89af4a9372aebabe87aee748e00dea186a6599ea74d6") --Main Windows Depot Dragon's Dogma 2
+setManifestid(3350021, "6738674124230396336", 391997232)
 --Dlcname Dragon's Dogma 2: Superior Weapons Quartet - A Boon in Early Battles
 addappid(2581000, 1, "34f71230c21f8dd552d994e4b39d8f177624b293956965b29c56fe5cad1afba1") --Dlcname Dragon's Dogma 2: Superior Weapons Quartet - A Boon in Early Battles
 setManifestid(2581000, "6150746279967323915", 784)
@@ -79,9 +81,10 @@ setManifestid(2757140, "3192862444394827561", 784)
 --Dlcname Dragon's Dogma 2: 2500 Rift Crystals - Points to Spend Beyond the Rift (A)
 addappid(2757170, 1, "005ecbf1bfbad5b8d86810a628037653c0639076bbd85de52088656954a1f670") --Dlcname Dragon's Dogma 2: 2500 Rift Crystals - Points to Spend Beyond the Rift (A)
 setManifestid(2757170, "3408012598466658697", 784)
+--Dlcname Dragon's Dogma 2 Original Soundtrack
+addappid(3350020) --Dlcname Dragon's Dogma 2 Original Soundtrack
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
 --Missing Dlcs
 --Dlcname Dragon’s Dogma 2: Dark Arisen Expansion
---Dlcname Dragon's Dogma 2 Original Soundtrack
