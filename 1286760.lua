@@ -1,5 +1,8 @@
-addappid(1286760)
-addappid(1286761,0,"fe1f5c1aa43c2b20ced2cd057779325ecce557cb042e9e7b0495f4121835f040")
-setManifestid(1286761,"2113840346735518444")
-addappid(1286762,0,"072b2e0718e046f8123748103b16f4429876b372296e1a1f1abaa03131ca6ec8")
-setManifestid(1286762,"261450155689233405")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1286760.lua
+--Gamename Outer Wilds - Original Soundtrack
+addappid(1286760) --Mainappid Outer Wilds - Original Soundtrack
+addappid(1286761, 1, "fe1f5c1aa43c2b20ced2cd057779325ecce557cb042e9e7b0495f4121835f040") --Main Windows Depot Outer Wilds - Original Soundtrack
+setManifestid(1286761, "2113840346735518444", 149562688)
+addappid(1286762, 1, "072b2e0718e046f8123748103b16f4429876b372296e1a1f1abaa03131ca6ec8") --Main Windows Depot Outer Wilds - Original Soundtrack
+setManifestid(1286762, "261450155689233405", 1109471184)
