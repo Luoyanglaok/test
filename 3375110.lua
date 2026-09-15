@@ -3,9 +3,9 @@
 --Gamename Tiny Eden
 addappid(3375110, 1, "0931ebd61f9fbe10c85642adfd885d77b3b0be04ab8a50e374522d647b007e24") --Mainappid Tiny Eden
 addappid(3375111, 1, "bba143af40bfa92b1a34d0912b4a57b125ef18f6016debcc54cfd592a5cb145b") --Main Windows Depot Tiny Eden
-setManifestid(3375111, "3159615278223643391", 2988123344)
+setManifestid(3375111, "6325082359881620169", 2988242112)
 addappid(3375112, 1, "86b4af037855951e69e205b86cdfe1535be7b2c1c35bb6b2bb4bf942ef16648b") --Main Linux Depot Tiny Eden
-setManifestid(3375112, "7874536225647129309", 3200589808)
+setManifestid(3375112, "5116928658692466074", 3200705760)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
