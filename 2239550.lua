@@ -1,28 +1,43 @@
-addappid(2239550)
-setManifestid(228984,"2547553897526095397")
-setManifestid(228988,"6645201662696499616")
-setManifestid(228990,"1829726630299308803")
-addappid(2239551,0,"62572c9c866092b5d5c24f9d76b0d30e122ec188a384cf332863c2354a16e499")
-setManifestid(2239551,"5409223134227379956")
-addappid(1716751,0,"84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675")
-setManifestid(1716751,"818295193716041715")
-addappid(2239553,0,"aedafe5b1f90390eead5c8b1284c9135978cb376a92d63f3cc50f72cfc25c1b9")
-setManifestid(2239553,"861626495949591325")
-addappid(2239554,0,"7c56b1185c417eb03429ae8d45ac5f601ad32ea1b165aeb4e865d8be81b38057")
-setManifestid(2239554,"150776765054703772")
-addappid(2239555,0,"5264cd8b1760303e1252fddcd7c22b8737ee4072a06c949c17a70567c46f91d0")
-setManifestid(2239555,"1126084741540836795")
-addappid(2239556,0,"cf5f6a46e9a1570e6233eb2635494823fbb6500438ff91f9d9bf5e15dd7f1015")
-setManifestid(2239556,"1246586549978281605")
-addappid(2239557,0,"7ef880457a787df11e53915796a5683e5b4cecbdf13e652cf6b241258670fc46")
-setManifestid(2239557,"1708196626566240967")
-addappid(2239558,0,"96a2343878739aa83ae1594e8308477aae7103b27c47275413b29faf2467962e")
-setManifestid(2239558,"5263627914238077400")
-addappid(2239559,0,"6e573031c1f7df976ba2afd51dc5d9ad29867474e9c89336c319a28746479ba6")
-setManifestid(2239559,"1849129399140238585")
-addappid(2239578,0,"ab14e233729a7f7aa201e66ca2561e17606d2b5ef892d3c3d5576393ad51a296")
-setManifestid(2239578,"1722712900383029919")
-addappid(2239579,0,"c9a01759f720b3981960152bf9935ad070d46a90896d63866b2f5628c2cfda75")
-setManifestid(2239579,"4016126354565287573")
-addappid(2239581,0,"8780ca840c8994c0aea640128c1627f27ed861e147aebcbe0b965a1645a1eb4e")
-setManifestid(2239581,"2185846408303563524")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2239550.lua
+--Gamename Watch Dogs®: Legion
+addappid(2239550, 1, "c48f02481d40724181e1ba041664818a55be2d06768695001a83b10f9b239380") --Mainappid Watch Dogs®: Legion
+addappid(2239551, 1, "62572c9c866092b5d5c24f9d76b0d30e122ec188a384cf332863c2354a16e499") --Main Windows Depot Watch Dogs®: Legion
+setManifestid(2239551, "5409223134227379956", 46557155088)
+addappid(2239553, 1, "aedafe5b1f90390eead5c8b1284c9135978cb376a92d63f3cc50f72cfc25c1b9") --Main Windows Depot Watch Dogs®: Legion
+setManifestid(2239553, "861626495949591325", 5024245920)
+addappid(2239554, 1, "7c56b1185c417eb03429ae8d45ac5f601ad32ea1b165aeb4e865d8be81b38057") --Main Windows Depot Watch Dogs®: Legion
+setManifestid(2239554, "150776765054703772", 5320195184)
+addappid(2239555, 1, "5264cd8b1760303e1252fddcd7c22b8737ee4072a06c949c17a70567c46f91d0") --Main Windows Depot Watch Dogs®: Legion
+setManifestid(2239555, "1126084741540836795", 5477559616)
+addappid(2239556, 1, "cf5f6a46e9a1570e6233eb2635494823fbb6500438ff91f9d9bf5e15dd7f1015") --Main Windows Depot Watch Dogs®: Legion
+setManifestid(2239556, "1246586549978281605", 7727579120)
+addappid(2239557, 1, "7ef880457a787df11e53915796a5683e5b4cecbdf13e652cf6b241258670fc46") --Main Windows Depot Watch Dogs®: Legion
+setManifestid(2239557, "1708196626566240967", 5697372368)
+addappid(2239558, 1, "96a2343878739aa83ae1594e8308477aae7103b27c47275413b29faf2467962e") --Main Windows Depot Watch Dogs®: Legion
+setManifestid(2239558, "5263627914238077400", 5061486736)
+addappid(2239559, 1, "6e573031c1f7df976ba2afd51dc5d9ad29867474e9c89336c319a28746479ba6") --Main Windows Depot Watch Dogs®: Legion
+setManifestid(2239559, "1849129399140238585", 5523418912)
+addappid(2239578, 1, "ab14e233729a7f7aa201e66ca2561e17606d2b5ef892d3c3d5576393ad51a296") --Main Windows Depot Watch Dogs®: Legion
+setManifestid(2239578, "1722712900383029919", 5507306048)
+addappid(2239579, 1, "c9a01759f720b3981960152bf9935ad070d46a90896d63866b2f5628c2cfda75") --Main Windows Depot Watch Dogs®: Legion
+setManifestid(2239579, "4016126354565287573", 14826955744)
+addappid(2239581, 1, "8780ca840c8994c0aea640128c1627f27ed861e147aebcbe0b965a1645a1eb4e") --Main Windows Depot Watch Dogs®: Legion
+setManifestid(2239581, "2185846408303563524", 368)
+--Share Depots
+addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228984, "2547553897526095397", 13436144)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228988, "6645201662696499616", 22411856)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228990, "1829726630299308803", 100658080)
+addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
+setManifestid(1716751, "6659642105086821873", 264636800)
+addappid(2239570) --Dlcname Watch Dogs: Legion Gold Edition Ubisoft Activation
+addappid(2239571) --Dlcname Watch Dogs: Legion Deluxe Edition Ubisoft Activation
+addappid(2239573) --Dlcname Watch Dogs: Legion Ultimate Edition Ubisoft Activation
+addappid(2239574) --Dlcname Watch Dogs: Legion Season Pass Ubisoft Activation
+addappid(2239575) --Dlcname Watch Dogs: Legion Season Pass
+addappid(2239576) --Dlcname Watch Dogs: Legion DLC Bloodline Ubisoft Activation
+addappid(2239577) --Dlcname Watch Dogs: Legion DLC Bloodline
+addappid(2239580) --Dlcname Watch Dogs: Legion Ubisoft Activation
