@@ -3,7 +3,7 @@
 --Gamename Caribbean Legend: Age of Pirates
 addappid(3549020, 1, "4f7f973e7c556497e26830bb453bf127459632d5d14b57a0e234fb4080f2712a") --Mainappid Caribbean Legend: Age of Pirates
 addappid(3549021, 1, "160945e93b5d049b7bff421558fed9b170f6cae8a60ab4b01942837731bbc6ff") --Main Windows Depot Caribbean Legend: Age of Pirates
-setManifestid(3549021, "8795204892425721977", 24480174224)
+setManifestid(3549021, "2648444475724704594", 24482085744)
 addappid(3549022, 1, "86a067e810534fe43250e86d71700ac719f575efe91399780077b5b4737eac21") --Main Windows Depot Caribbean Legend: Age of Pirates
 setManifestid(3549022, "663016823467430445", 886144)
 --Share Depots
