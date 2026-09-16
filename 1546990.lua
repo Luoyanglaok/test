@@ -1,7 +1,13 @@
-addappid(1546990)
-setManifestid(228988,"6645201662696499616")
-setManifestid(228990,"1829726630299308803")
-addappid(1546991,0,"8ffae608bee3a6766651bc7b0b2122f7248955251de38eafb6161ea30434979d")
-setManifestid(1546991,"6147427494442580236")
-addappid(1899671,0,"b7921da5e50d00b2238d0fe870a354cb572bc5d397955fef02a439103f62827b")
-setManifestid(1899671,"1313721849634300954")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1546990.lua
+--Gamename Grand Theft Auto: Vice City – The Definitive Edition
+addappid(1546990, 1, "4f32d3506c690f43ee97ce40f3ceb2a5105cf42554bea78d07fa68bfd419887d") --Mainappid Grand Theft Auto: Vice City – The Definitive Edition
+addappid(1546991, 1, "8ffae608bee3a6766651bc7b0b2122f7248955251de38eafb6161ea30434979d") --Main Windows Depot Grand Theft Auto: Vice City – The Definitive Edition
+setManifestid(1546991, "6147427494442580236", 9449468800)
+--Share Depots
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228988, "6645201662696499616", 22411856)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228990, "1829726630299308803", 100658080)
+addappid(1899671, 1, "b7921da5e50d00b2238d0fe870a354cb572bc5d397955fef02a439103f62827b") --Share Windows Depot RGL/SC
+setManifestid(1899671, "3914969219305676290", 209058416)
