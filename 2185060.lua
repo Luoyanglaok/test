@@ -24,6 +24,14 @@ addappid(2999852, 1, "6a30c41e89a00e6dccd56cde848599d00d6f98edb86f68d8ad3ca11a77
 setManifestid(2999852, "8132875642203899476", 21706624)
 addappid(2999853, 1, "02e1edb27de1b992bbac282fe43c00b39aced6b5b1ff1e6dce02a711d64adbe4") --Dlc Linux Depot Two Point Museum: Explorer Upgrade Pack
 setManifestid(2999853, "4203121068208814481", 21150080)
+--Dlcname Two Point Museum Soundtrack
+addappid(3550890) --Dlcname Two Point Museum Soundtrack
+addappid(3550891, 1, "0b413d643b23a02433f192a28bc9cdef1389fbbd57f9edb503ba66c37a1ec8ea") --Dlc Windows Depot Two Point Museum Soundtrack
+setManifestid(3550891, "560410874869870059", 392996032)
+addappid(3550892, 1, "9f4eb9c8ed94d96d3cb6e97512ad180bc130a8fc28196d97d400d19d470e3822") --Dlc Windows Depot Two Point Museum Soundtrack
+setManifestid(3550892, "3627695999022846465", 1829880000)
+addappid(3550893, 1, "891555f4178a19299622ef380abb647b396297dd278828ac474cdf3c86177d27") --Dlc Windows Depot Two Point Museum Soundtrack
+setManifestid(3550893, "4171474945216658406", 2755709648)
 --Dlcname Two Point Museum: Fantasy Finds
 addappid(3592600) --Dlcname Two Point Museum: Fantasy Finds
 addappid(3592601, 1, "8fc6c6248dc796e6fd5cc6834560bebbe05cd43fca1209ce06cd28d42a3421b1") --Dlc Windows Depot Two Point Museum: Fantasy Finds
@@ -51,3 +59,5 @@ setManifestid(4114073, "7962553413517880080", 45530560)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
+--Missing Dlcs
+--Dlcname Two Point Museum: Rides & Relics
