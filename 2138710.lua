@@ -4,6 +4,10 @@
 addappid(2138710, 1, "74d4a05e74098d220d35e2bbba100a19cbadaeed357bb503d152a1b4294219ca") --Mainappid Sifu
 addappid(2138711, 1, "640993870daafc721632280e9e612a93f957d22bd8a16dcc526c3b8f73be0e33") --Main Windows Depot Sifu
 setManifestid(2138711, "5545504035024010382", 22697896976)
+--Dlcname Sifu Digital Original Soundtrack
+addappid(2253840) --Dlcname Sifu Digital Original Soundtrack
+addappid(2253842, 1, "55875a536cc5beb3d7e3438d67b9cc5f6b3099dfe240d729c4b0ea75bc7e6085") --Dlc Windows Depot Sifu Digital Original Soundtrack
+setManifestid(2253842, "5475028752976584646", 173375168)
 --Dlcname Sifu Digital Official Artbook
 addappid(2253841, 1, "27dc031b34fbcd34f1a8d7fd5658680f030c63aa34e8cfeb1a6c982888552d7f") --Dlcname Sifu Digital Official Artbook
 setManifestid(2253841, "3893356194676043314", 31170208)
