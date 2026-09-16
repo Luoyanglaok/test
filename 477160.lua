@@ -3,9 +3,9 @@
 --Gamename Human Fall Flat
 addappid(477160, 1, "6183f2ec8046e4576180f01e2e88d7934ca49dc5db95f178bc343e50c852b770") --Mainappid Human Fall Flat
 addappid(477161, 1, "8bc8773aa491fcab031c973d15bae81a5139cd9d28bdbe82776e9f39dba071d1") --Main Windows Depot Human Fall Flat
-setManifestid(477161, "8546845114557955722", 2337703888)
+setManifestid(477161, "2267875670966340544", 2301280704)
 addappid(477162, 1, "3e1b0a746178eda39e69d130aac41e225a61f7777ccd8907b3b81f02918242ac") --Main Macos Depot Human Fall Flat
-setManifestid(477162, "8083533861768738269", 2346418944)
+setManifestid(477162, "1300440409976273283", 2309951872)
 addappid(477163, 1, "48a9d63f348dcd848df0af0fe2eb01efddbb549c03d113bfca9d88015d8b6b7d") --Main Linux Depot Human Fall Flat
 setManifestid(477163, "129240740414445083", 616680464)
 addappid(477164, 1, "d05522bd5e3f6e7f6bc455253be55a9d3057b94b95da110d6365a246121a5fdc") --Main Windows Depot Human Fall Flat
