@@ -3,9 +3,9 @@
 --Gamename theHunter: Call of the Wild™
 addappid(518790, 1, "e05cc7be14786efefc664724a6358b5e1a54532838a2eb508538c87fdd682f9c") --Mainappid theHunter: Call of the Wild™
 addappid(518791, 1, "c56059a25b086342342b536c815b9903ee3faa35b8358fe7556346fe60a9081e") --Main Windows Depot theHunter: Call of the Wild™
-setManifestid(518791, "7347212052527316668", 67018291264)
+setManifestid(518791, "6922288050906191955", 68173744832)
 addappid(518792, 1, "a50ac267e9bb6647ae465bebbe952989e1e6b3dc7f9e20c5a2a96fd2addf2788") --Main Windows Depot theHunter: Call of the Wild™
-setManifestid(518792, "3125085761261358713", 499885472)
+setManifestid(518792, "7867204403163055022", 508743712)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
