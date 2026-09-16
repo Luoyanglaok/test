@@ -48,6 +48,9 @@ addappid(2060313, 1, "e4840e97b028bf1877c6173d714b377621610d8caba91bf5077da9ce67
 setManifestid(2060313, "1938057724979497570", 4936649232)
 addappid(2060314, 1, "ff813dcc60265582f65f61e4ab399689124c32d7147dc5add8ccc9cb3077310e") --Main Macos Depot Cyberpunk 2077
 setManifestid(2060314, "965414302594932117", 52846304)
+--Dlcname Cyberpunk 2077 Bonus Content
+addtoken(1495710, "13440227389371067611")
+addappid(1495710, 1, "d1eee983c6b6dc175c3ec89ae337fe4e4435d19bf689ed1607e19f0887ca1e3c") --Dlcname Cyberpunk 2077 Bonus Content
 --Dlcname Cyberpunk 2077 REDmod
 addappid(2060310, 1, "45cf0829a4dae87f0f1b263c92df30079111d1dd697bb87d6830f21e04fdf8a0") --Dlcname Cyberpunk 2077 REDmod
 setManifestid(2060310, "2810178366748735393", 22920704)
@@ -100,5 +103,3 @@ setManifestid(2224089, "2868368683526045092", 23427312080)
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
 addappid(2441600) --Dlcname Phantom Liberty: Quadra "Vigilante" Pre-Order Bonus
-addappid(1495710) --Dlcname Cyberpunk 2077 Bonus Content
-addtoken(1495710, "13440227389371067611")
