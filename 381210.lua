@@ -3,7 +3,7 @@
 --Gamename Dead by Daylight
 addappid(381210, 1, "f17be424bd1dc965706d5527f803a0c4ae2c7aae87449be6f5bab17b7ac3a20c") --Mainappid Dead by Daylight
 addappid(381211, 1, "66477a849ed619510d127ff3f05d4d37b38a04fd7074654337053dfe817798ca") --Main Windows Depot Dead by Daylight
-setManifestid(381211, "7492657323105270481", 63919006752)
+setManifestid(381211, "4869487477266310410", 63897956096)
 addappid(381213, 1, "525dbbc5d40bca2cd810f8cb48945f893aa16ca7c1ea90895e0d0c498f183ff5") --Main Windows Depot Dead by Daylight
 setManifestid(381213, "6590975724534196178", 78111024)
 --Dlcname Dead by Daylight: Original Soundtrack
