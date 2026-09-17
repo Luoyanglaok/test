@@ -1,3 +1,10 @@
-addappid(3496000)
-addappid(3496001,0,"ab5f7aa3985fbccdb6589b71db8c36547133ecf078cf8935abd0f2964f35f10a")
-setManifestid(3496001,"3476029494904497801")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 3496000.lua
+--Gamename Ship, Inc.
+addappid(3496000, 1, "c474b869b072933480fe35303b58522cfc58458d7beaa7b1ac7d2cb05eb12efc") --Mainappid Ship, Inc.
+addappid(3496001, 1, "ab5f7aa3985fbccdb6589b71db8c36547133ecf078cf8935abd0f2964f35f10a") --Main Windows Depot Ship, Inc.
+setManifestid(3496001, "1909255080480093800", 221418528)
+addappid(3496002, 1, "77B869ACA5E686B9829A458C3570F5995BCB7F3338AD5FF03C885C08798BCBC9") --Main Macos Depot Ship, Inc.
+setManifestid(3496002, "6100479004220160757", 229122784)
+addappid(3496003, 1, "79D8E58BF474D19192C3E85F00303ED311F2870726D7CAEA4B2B2EE66ABDF2C9") --Main Linux Depot Ship, Inc.
+setManifestid(3496003, "6407760310781686059", 218988528)
