@@ -3,7 +3,7 @@
 --Gamename Backrooms: Escape Together
 addappid(2141730, 1, "aaf3b1238f920baec05279c2de2478fbf37c5380c19660e6b4a2a09f7e176e66") --Mainappid Backrooms: Escape Together
 addappid(2141731, 1, "cfcbb1b05a371faabeb03500c308dbae345a2c7d9a45417a910283c9201e084d") --Main Windows Depot Backrooms: Escape Together
-setManifestid(2141731, "2167984175935939828", 13663896832)
+setManifestid(2141731, "2210991160432316982", 13463821888)
 addappid(2141732, 1, "1038f744a70ce5b445cdbfc9ce77601ae45a36279d0a9ad02b59b714acfba762") --Main Macos Depot Backrooms: Escape Together
 setManifestid(2141732, "6866044377255604924", 7801338224)
 --Share Depots
