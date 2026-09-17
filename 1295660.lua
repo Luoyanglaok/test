@@ -4,15 +4,15 @@
 addappid(1295660, 1, "f23c385f4f13e1385d24f0f6033c70e9dd9fbbbbc955227df88693a31db9411b") --Mainappid Sid Meier's Civilization® VII
 addtoken(1295660, "16771268434109846988")
 addappid(1295661, 1, "59cf929fe0be7af1bba7498247138b359bcc8141d6921f65f06f5d3c4e604430") --Main Windows Depot Sid Meier's Civilization® VII
-setManifestid(1295661, "2169683721877823435", 20010120576)
+setManifestid(1295661, "1255731605425410088", 20683446080)
 addappid(1295662, 1, "2d91bb0ac40f79f21d133921c8092cee1bbc5622c1e429d5d5e65a5543a440eb") --Main Windows Depot Sid Meier's Civilization® VII
-setManifestid(1295662, "4956434543758512240", 1230545344)
+setManifestid(1295662, "13224300019835896", 1215264416)
 addappid(1295663, 1, "129446ed0c86a3cecf211aca2aca7c0ef0b14248fe2e7229afb79e90f2b07531") --Main Macos Depot Sid Meier's Civilization® VII
-setManifestid(1295663, "1081703995254963718", 19425926112)
+setManifestid(1295663, "1391677408519502389", 20116724896)
 addappid(1295665, 1, "ad00cf603a7538a190b6f7e523a9f9b1ff48759aacb39f2b35a70c5302fcef37") --Main Linux Depot Sid Meier's Civilization® VII
-setManifestid(1295665, "1138836125388027140", 40628096)
+setManifestid(1295665, "6418440092992117803", 40758704)
 addappid(1295666, 1, "68e1686bc8f5a23173a86f6a5c3fb61ae2714081bf956976f7f837a1f03a9779") --Main Linux Depot Sid Meier's Civilization® VII
-setManifestid(1295666, "2119085612154290477", 19107730784)
+setManifestid(1295666, "9115924926766847165", 19762785072)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
@@ -66,3 +66,9 @@ addappid(4657140) --Dlcname Sid Meier's Civilization® VII: Goryeo
 addappid(4657150) --Dlcname Sid Meier's Civilization® VII: Joseon Pack
 addappid(4657160) --Dlcname Sid Meier's Civilization® VII: Brush and Blade Collection - Wonder Pack
 addappid(5032500) --Dlcname Sid Meier's Civilization® VII: Earthrise
+addappid(5032530) --Dlcname Sid Meier's Civilization® VII: Hall of History Collection
+addappid(5067840) --Dlcname Sid Meier's Civilization® VII: Elizabeth I Pack
+addappid(5067850) --Dlcname Sid Meier's Civilization® VII: George Washington Pack
+addappid(5067860) --Dlcname Sid Meier's Civilization® VII: Gauls Pack
+addappid(5067870) --Dlcname Sid Meier's Civilization® VII: Babylon Pack
+addappid(5067880) --Dlcname Sid Meier's Civilization® VII: England Pack
