@@ -3,7 +3,7 @@
 --Gamename Ruins of Dawn
 addappid(4364910) --Mainappid Ruins of Dawn
 addappid(4364911, 1, "1ca0d151f24d942dd4e67ca79073604c05339db9cacb13362be1e7343aef6f59") --Main Windows Depot Ruins of Dawn
-setManifestid(4364911, "6262516179122129666", 2287534320)
+setManifestid(4364911, "1406217731728474474", 2301516768)
 --Dlcname 破晓之墟Demo
 addappid(4743300) --Dlcname 破晓之墟Demo
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Dlc Windows Depot 破晓之墟Demo
