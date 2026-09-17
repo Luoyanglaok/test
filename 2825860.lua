@@ -11,5 +11,6 @@ addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f69
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(4265340) --Dlcname The Sinking City 2 – The Arkham Field Kit
 addappid(4265420) --Dlcname The Sinking City 2 – The Holloway Manor
-addappid(4265440) --Dlcname AppID 4265440
-addappid(4265460) --Dlcname AppID 4265460
+addappid(4265440) --Dlcname The Sinking City 2 – Chthonic Arsenal
+--Missing Dlcs
+--Dlcname The Sinking City 2 – Original Soundtrack
