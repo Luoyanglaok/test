@@ -3,16 +3,16 @@
 --Gamename Euro Truck Simulator 2
 addappid(227300, 1, "4efc6eb3aea74680b954e5b88327ec42ef52984cb390f9dc905aab42a4ae6652") --Mainappid Euro Truck Simulator 2
 addappid(227301, 1, "1baf18f6181ad3f9ce663dab07f93ba0f3f5194c82b64785e4cd9f63f3a56b28") --Main Windows Depot Euro Truck Simulator 2
-setManifestid(227301, "924276640658760907", 35232582528)
+setManifestid(227301, "5602165946209005165", 35520443040)
 addappid(227302, 1, "edfb6f81d8ec91175145051344fdf788840b2235df88cca912a7602de47f54af") --Main Windows Depot Euro Truck Simulator 2
-setManifestid(227302, "7931557150959809249", 20503296)
+setManifestid(227302, "3174982108994255598", 21037520)
 addappid(227303, 1, "f764a1a949001dd100176a10f3f0b50531c353122118ba0e41bea9eaafb0437f") --Main Linux Depot Euro Truck Simulator 2
-setManifestid(227303, "4050779356842704859", 20795904)
+setManifestid(227303, "4534380392310440184", 21364912)
 addappid(227304, 1, "32ab4f23d2cb9a8cb610b299d0012509d1b2b64dc694616d8a8c711a2d605057") --Main Macos Depot Euro Truck Simulator 2
-setManifestid(227304, "1747322555557312947", 31872304)
+setManifestid(227304, "126790452054408456", 32316832)
 --Dlcname Euro Truck Simulator 2 - Going East!
 addappid(227310, 1, "b06666dc044784f4331b6572132630cb7b36fd1c83688aa215f808fc8460729d") --Dlcname Euro Truck Simulator 2 - Going East!
-setManifestid(227310, "3285618179161299062", 37771440)
+setManifestid(227310, "5461220265410748509", 37781216)
 --Dlcname Euro Truck Simulator 2 - Halloween Paint Jobs Pack
 addappid(258460, 1, "a3f49706464f613855bdb86f4aa8ad16370390f18c059398495dbd76e22bae01") --Dlcname Euro Truck Simulator 2 - Halloween Paint Jobs Pack
 setManifestid(258460, "7921356351300426751", 0)
@@ -54,7 +54,7 @@ addappid(304211, 1, "0aca8cf58b08cbc0381262d0e6ba19d5dccb4aebd904243553cb8fab443
 setManifestid(304211, "5999359468502785165", 0)
 --Dlcname Euro Truck Simulator 2 - Scandinavia
 addappid(304212, 1, "e4eb05d826bd438b1cf3adbd187291b77b593745a3d9cb20a415c85cfc380bb6") --Dlcname Euro Truck Simulator 2 - Scandinavia
-setManifestid(304212, "565411050346262700", 180859936)
+setManifestid(304212, "3841805199732846533", 181940224)
 --Dlcname Euro Truck Simulator 2 - Canadian Paint Jobs Pack
 addappid(304213, 1, "faf0dd632893269bcc953ed6acba65f4cc31d09fbf7ba4d52c73e21bf5f5f5d2") --Dlcname Euro Truck Simulator 2 - Canadian Paint Jobs Pack
 setManifestid(304213, "4371874931215817064", 0)
@@ -157,7 +157,7 @@ addappid(526950, 1, "cc767e163423b6b03dc66f7c695212b4deb1978c89bb0000a4427db2a39
 setManifestid(526950, "2333631855110248746", 0)
 --Dlcname Euro Truck Simulator 2 - Vive la France !
 addappid(531130, 1, "2009ea02e74e2e3438c16df3475863ac4fea7a409bef60a339fad9781f1b3185") --Dlcname Euro Truck Simulator 2 - Vive la France !
-setManifestid(531130, "6740129701081387574", 91517312)
+setManifestid(531130, "6843214636487957926", 91521600)
 --Dlcname Euro Truck Simulator 2 - Heavy Cargo Pack
 addappid(531131, 1, "3cac01adc92d11de7a91d5e413a3762670847261f8cf7bb131faec3ba9b99db3") --Dlcname Euro Truck Simulator 2 - Heavy Cargo Pack
 setManifestid(531131, "620015009428909093", 0)
@@ -182,7 +182,7 @@ addappid(558243, 1, "84f20ef511071ab8920d5d2a1396660e156023cfa9dbb74ab956dbc58fb
 setManifestid(558243, "7485045655295992031", 0)
 --Dlcname Euro Truck Simulator 2 - Italia
 addappid(558244, 1, "9719afc41fd0ac583693e96fb57d47629e70b466ed8e1ba653f9e584741551ff") --Dlcname Euro Truck Simulator 2 - Italia
-setManifestid(558244, "6486884865822405387", 87680272)
+setManifestid(558244, "8626970884745541554", 87690160)
 --Dlcname Euro Truck Simulator 2 - Special Transport
 addappid(558245, 1, "78a96462ea125cfa8fcc98f7832146f9e1e8a3205a57b18773cd243b535f47ce") --Dlcname Euro Truck Simulator 2 - Special Transport
 setManifestid(558245, "553771190614744972", 0)
@@ -194,7 +194,7 @@ addappid(909640, 1, "93a0622d37996d65d3ebccfe109847c6be9118dcb5f980bb5d317d29c89
 setManifestid(909640, "1919550032765055462", 0)
 --Dlcname Euro Truck Simulator 2 - Beyond the Baltic Sea
 addappid(925580, 1, "aec0bb982622c145e437172016f65040db8b8d005d7de9ddff758f292f035ab1") --Dlcname Euro Truck Simulator 2 - Beyond the Baltic Sea
-setManifestid(925580, "1444956238234315357", 101860144)
+setManifestid(925580, "211065474228170828", 101922464)
 --Dlcname Euro Truck Simulator 2 - Space Paint Jobs Pack
 addappid(925650, 1, "754a3ef9021990cf28a11008df0387fb87e9b799e83ad10090edc69bf0bbc276") --Dlcname Euro Truck Simulator 2 - Space Paint Jobs Pack
 setManifestid(925650, "135950957944302344", 0)
@@ -212,7 +212,7 @@ addappid(980592, 1, "6938e01c6c62fc7cf4492da3d71ae843704d183710e00f3f5b853dc6fac
 setManifestid(980592, "3931725649050572730", 0)
 --Dlcname Euro Truck Simulator 2 - Road to the Black Sea
 addappid(1056760, 1, "1e46ab2ee8de2d7e67a7c961d64814862e8323729f0be7deeb7f9ac75820e83e") --Dlcname Euro Truck Simulator 2 - Road to the Black Sea
-setManifestid(1056760, "2643797254395305546", 210291904)
+setManifestid(1056760, "1364950832065954115", 189055904)
 --Dlcname Euro Truck Simulator 2 - Actros Tuning Pack
 addappid(1056761, 1, "0407379a627760ba025f05a1d3ea50ce1bb0dfc7b8491b768b688b225e05e2c4") --Dlcname Euro Truck Simulator 2 - Actros Tuning Pack
 setManifestid(1056761, "4671341810091804714", 0)
@@ -227,7 +227,7 @@ addappid(1159030, 1, "7817bf09d17d1f4323c498b4dfba69731fe237a79c1880d2d5d5ffa631
 setManifestid(1159030, "1121503996381158582", 0)
 --Dlcname Euro Truck Simulator 2 - Iberia
 addappid(1209460, 1, "f0e1ecc5f7ea5b844363c51ecf8ba76ab4f0166bbbb36f93e51a45134426a924") --Dlcname Euro Truck Simulator 2 - Iberia
-setManifestid(1209460, "7843009645412110381", 342534592)
+setManifestid(1209460, "4482762112902695256", 342572320)
 --Dlcname Euro Truck Simulator 2 - HS-Schoch Tuning Pack
 addappid(1209461, 1, "b7f8219f8fed4e94ff74b2b35e16da761eea7fd3e9ef505d77a90e4208cd050a") --Dlcname Euro Truck Simulator 2 - HS-Schoch Tuning Pack
 setManifestid(1209461, "3324815250320656782", 0)
@@ -242,7 +242,7 @@ addappid(1456860, 1, "d686ee647b9eb5e7fcd89fd7c82e7b0d201e7ca7402129d7e2de233b8b
 setManifestid(1456860, "61394928207200532", 0)
 --Dlcname Euro Truck Simulator 2 - Heart of Russia
 addappid(1536500, 1, "5697737424b8d29800546d84491088d03d5c7f0699e919a59c0580262efa735c") --Dlcname Euro Truck Simulator 2 - Heart of Russia
-setManifestid(1536500, "8389667999836149861", 417952672)
+setManifestid(1536500, "1518872992144513515", 417951584)
 --Dlcname Euro Truck Simulator 2 - DAF XG/XG+
 addappid(1650650, 1, "18a31f4193d242da5acc55e09f2959070cfe4a0260c63766f4b90962382a4f26") --Dlcname Euro Truck Simulator 2 - DAF XG/XG+
 setManifestid(1650650, "923355335401043994", 0)
@@ -260,7 +260,7 @@ addappid(1967650, 1, "8ef5c45e8e7037babf87a4985e6dbff0963fe9fbce85cea103fec9e587
 setManifestid(1967650, "739091211669558842", 0)
 --Dlcname Euro Truck Simulator 2 - West Balkans
 addappid(2004210, 1, "c9d6379e66ca8737ffb17de5f52a289094a0fef253746a049d15576d849d6235") --Dlcname Euro Truck Simulator 2 - West Balkans
-setManifestid(2004210, "6764209730818639217", 435584784)
+setManifestid(2004210, "1305331406681500874", 433888432)
 --Dlcname Euro Truck Simulator 2 - Feldbinder Trailer Pack
 addappid(2193220, 1, "b215faf14c32591707fbef62e913ce317843165ca9b2927ccd681a0509c2b817") --Dlcname Euro Truck Simulator 2 - Feldbinder Trailer Pack
 setManifestid(2193220, "3225902090318410395", 0)
@@ -278,7 +278,7 @@ addappid(2579670, 1, "ef02b23e6509e898231b08901860784e12be5be0480fec8e271171d7c7
 setManifestid(2579670, "1464287371127825179", 0)
 --Dlcname Euro Truck Simulator 2 - Greece
 addappid(2604420, 1, "322d1b2e394c5b4a188fffc43809b8f8c4bb9c260e14a27c24ea217a4cb26a0c") --Dlcname Euro Truck Simulator 2 - Greece
-setManifestid(2604420, "9084504400002616774", 491411472)
+setManifestid(2604420, "1910188882535274216", 491176416)
 --Dlcname Euro Truck Simulator 2 - DAF XD
 addappid(2611740, 1, "72f023418f51891b17a771cd733b110c092a6a17d8dddbecc476f0fdc506fcfd") --Dlcname Euro Truck Simulator 2 - DAF XD
 setManifestid(2611740, "5009768597697504470", 0)
@@ -287,7 +287,7 @@ addappid(2780800, 1, "3e7a55f4a90a70ff249cbab7994485d13859bfb8922f22265b09b21f4b
 setManifestid(2780800, "6125692916729941617", 0)
 --Dlcname Euro Truck Simulator 2 - Nordic Horizons
 addappid(2780810, 1, "c68b6cdbf16729474fb886f2a7d3a77f113ed7d4f606b0001144a95591035627") --Dlcname Euro Truck Simulator 2 - Nordic Horizons
-setManifestid(2780810, "8470193213449499724", 567422720)
+setManifestid(2780810, "6902695029914962691", 568224608)
 --Dlcname Euro Truck Simulator 2 - Schmitz Cargobull Trailer Pack
 addappid(2833100, 1, "c4a281a6503a6911a8ed7f583a3bcfcd95738ed8f9302533c3fc53a24199ed5e") --Dlcname Euro Truck Simulator 2 - Schmitz Cargobull Trailer Pack
 setManifestid(2833100, "5415401881972765138", 0)
