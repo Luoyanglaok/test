@@ -12,3 +12,5 @@ addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f69
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(229007, 1, "eba9fa9ff4f811929c119074450f49f739113bcae9317ded9bea262aa21ec58d") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(229007, "4477590687906973371", 118846656)
+--Missing Dlcs
+--Dlcname 宗门起源 Soundtrack
