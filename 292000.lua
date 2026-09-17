@@ -3,7 +3,7 @@
 --Gamename No More Room in Hell 2
 addappid(292000, 1, "4a7cdda160ead514fee5cc6330491cea03bcfd7a56ff3696ccbf51568cf18069") --Mainappid No More Room in Hell 2
 addappid(292001, 1, "2bb3dfcc7245e9a85e6adcb82c91257dfd6e3ca66bdc188476820020395cc812") --Main Windows Depot No More Room in Hell 2
-setManifestid(292001, "5742437652247501692", 21153429504)
+setManifestid(292001, "4970183757325420921", 21214479264)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
