@@ -3,7 +3,7 @@
 --Gamename Gray Zone Warfare
 addappid(2479810, 1, "49ada9d51358b95a5416b3f17c6c2ead1b8171c2fe362c9266ed1489ce6a0576") --Mainappid Gray Zone Warfare
 addappid(2479811, 1, "c89db92b0e186d8c1e9db781270fc739b23f152b3e11ed7733f93bba19ce6716") --Main Windows Depot Gray Zone Warfare
-setManifestid(2479811, "1773837463786738408", 20415624368)
+setManifestid(2479811, "4240291362629339521", 20413637472)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
