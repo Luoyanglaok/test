@@ -3,7 +3,7 @@
 --Gamename Palworld
 addappid(1623730, 1, "214e5bcf1036d2bc62193cf2bc15e148899db0ed4799c3a2c0d41f2490d136f5") --Mainappid Palworld
 addappid(1623731, 1, "7a422988135296505205dd489945d4b17ed7414734dd627744adac84aade7b73") --Main Windows Depot Palworld
-setManifestid(1623731, "868868087024202254", 35943136912)
+setManifestid(1623731, "3164835476547629219", 31755444704)
 --Dlcname Palworld - Soundtrack
 addappid(2771110) --Dlcname Palworld - Soundtrack
 addappid(2771111, 1, "802dd0505be5518464fe77ed7afa2c28611463bf00ec5ef400643b323d09c4c7") --Dlc Windows Depot Palworld - Soundtrack
