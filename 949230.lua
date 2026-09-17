@@ -3,7 +3,7 @@
 --Gamename Cities: Skylines II
 addappid(949230, 1, "2a4970e8d95903b25232f2b52969d28e3d67edd6f90b3b8105649ff5175c0322") --Mainappid Cities: Skylines II
 addappid(949231, 1, "eadf0796a624164bd8838fc14a95bd34b9c41e87048bbb4a23b86f0b77c1fb67") --Main Windows Depot Cities: Skylines II
-setManifestid(949231, "6091180795836380374", 70164376528)
+setManifestid(949231, "759759680630981357", 74477358464)
 addappid(2427741, 1, "d2166f8c2e87ec7b0900a190c9cc19ee010fdd65fd616e23a0f5e7c86ab7f6b4") --Main Windows Depot Cities: Skylines II
 setManifestid(2427741, "438974973343020455", 661469248)
 addappid(2427742, 1, "10f591eaa4714450e076677b7e7769008213ced4a34ee7d8680ab9e56ef4fe49") --Main Windows Depot Cities: Skylines II
@@ -72,8 +72,16 @@ addappid(2427740) --Dlcname Cities: Skylines II - Beach Properties
 addappid(2887600) --Dlcname Cities: Skylines II - Beach Properties Bundle
 addappid(3350700) --Dlcname Cities: Skylines II - Modern City Bundle
 addappid(3535990) --Dlcname Cities: Skylines II - Leisure & Legacy Bundle
+addappid(3579840) --Dlcname Cities: Skylines II - Expansion Pass 2
 addappid(3740440) --Dlcname Cities: Skylines II - Bridges & Ports Bundle
 addappid(4156790) --Dlcname Cities: Skylines II - Skyscrapers & Supply Chains Bundle
 addappid(4331590) --Dlcname Cities: Skylines II - Office Evolution & City Stations Bundle
+addappid(4544310) --Dlcname Cities: Skylines II - Park Adventures
+addappid(4544320) --Dlcname Cities: Skylines II - Creator Pack: First Response
+addappid(4544340) --Dlcname Cities: Skylines II - Creator Pack: Modern Suburbs
+addappid(4544350) --Dlcname Cities: Skylines II - Corner Street Beats
+addappid(4544360) --Dlcname Cities: Skylines II - City Vacations
+addappid(4544370) --Dlcname Cities: Skylines II - Creator Pack: Map Pack
 --Missing Dlcs
 --Dlcname Cities: Skylines II - Deluxe Relax Station
+--Dlcname Cities: Skylines II - Downtown Market Set
