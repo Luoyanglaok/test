@@ -10,8 +10,10 @@ addappid(646573, 1, "7b0997618ad03031136f9caa6811f5d2c08ee7e0ac4b9c745675f12fd03
 setManifestid(646573, "5221386008033040636", 426709056)
 addappid(646574, 1, "85867004baa33349870d65ae84baac02f1a0e0280462a7b6f41912a30e008955") --Main Windows Depot Slay the Spire
 setManifestid(646574, "6089130681980710352", 421207264)
+--Dlcname Slay the Spire - Soundtrack
+addappid(877620) --Dlcname Slay the Spire - Soundtrack
+addappid(877621, 1, "9aebfbce314584af6e967104be1d5060284feca4baef886010adc9c4a983b4fc") --Dlc Windows Depot Slay the Spire - Soundtrack
+setManifestid(877621, "1616206291221819177", 148973696)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
-addappid(877621, 1, "9aebfbce314584af6e967104be1d5060284feca4baef886010adc9c4a983b4fc") --Share Windows Depot Slay the Spire - Soundtrack
-setManifestid(877621, "1616206291221819177", 148973696)
