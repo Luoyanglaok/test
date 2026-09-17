@@ -3,7 +3,7 @@
 --Gamename The Outlast Trials
 addappid(1304930, 1, "7e1bcb0ff8a4d9f5b812334dcb1b6683cef2c631a9bd65d41ec64e6264cc1f8c") --Mainappid The Outlast Trials
 addappid(1304931, 1, "81611074b6fd0d2e108d34562aca73115d01d6bea3f08092b8d98aad42c2f0fb") --Main Windows Depot The Outlast Trials
-setManifestid(1304931, "5388239427091944033", 57015340960)
+setManifestid(1304931, "4476185162994989690", 57015790384)
 --Dlcname The Outlast Trials - Reageant starter pack
 addappid(2328320, 1, "e910a7544e5001ac7650a8acbfc5180e3be595d70c4331b2c8ad9e6b4f511843") --Dlcname The Outlast Trials - Reageant starter pack
 --Dlcname The Outlast Trials - Exotica Pack
