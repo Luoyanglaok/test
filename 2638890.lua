@@ -88,6 +88,7 @@ setManifestid(228988, "6645201662696499616", 22411856)
 --Missing Dlcs
 --Dlcname Onimusha: WotS - Materials Pack: Personal Effects I
 --Dlcname Onimusha: WotS - Materials Pack: Red Souls II
+--Dlcname Onimusha: WotS - Materials Pack: Red Souls III
 --Dlcname Onimusha: WotS - Materials Pack: Offerings II
 --Dlcname Onimusha: WotS - Materials Pack: Enhancements III
 --Dlcname Onimusha: Way of the Sword Original Sound Track
