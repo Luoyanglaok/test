@@ -3,7 +3,7 @@
 --Gamename Beast of Reincarnation
 addappid(2001760, 1, "5a7d287208fe812255055e80d0e5f02b15836607d90c100f2760a85cbf70cb33") --Mainappid Beast of Reincarnation
 addappid(2001761, 1, "0d843c3fd4bba4400b829693c665e6394ad8311f3f7f6c0acf31c71eab887c0c") --Main Windows Depot Beast of Reincarnation
-setManifestid(2001761, "5820605326682716309", 31561982976)
+setManifestid(2001761, "213779639312988020", 31556397968)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
