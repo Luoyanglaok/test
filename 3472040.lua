@@ -2,6 +2,7 @@
 -- Original file: 3472040.lua
 --Gamename NBA 2K26
 addappid(3472040, 1, "c2067181fc839a93369d2d8df998fca7213274e236d2b2653bb1e3341d7bf336") --Mainappid NBA 2K26
+addtoken(3472040, "15326816064063831177")
 addappid(3472041, 1, "98720ddedf5fb5a37faf70ca90602a9949e727a7f7b6b9171ecc2764ee2d3b21") --Main Windows Depot NBA 2K26
 setManifestid(3472041, "3082440378392835231", 76441308400)
 --Dlcname High Resolution Textures
