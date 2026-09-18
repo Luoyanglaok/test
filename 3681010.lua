@@ -3,7 +3,7 @@
 --Gamename Nioh 3
 addappid(3681010, 1, "accea0016c6c5df7d031a08df7a460e90673b8da5c7cfb57432bb7e962893897") --Mainappid Nioh 3
 addappid(3681011, 1, "1c16eb875f0bd40521cc0ddb2ff4eb5772f0b1976252122abc5f9a09ddaaf995") --Main Windows Depot Nioh 3
-setManifestid(3681011, "3263091631415092125", 98067450384)
+setManifestid(3681011, "8211520559917432631", 98067442880)
 addappid(3681012, 1, "b7bbd78bac448c4d49e1373da25413b0d4cd06a418cd429a4d89dc9da6a9bfe8") --Main Windows Depot Nioh 3
 setManifestid(3681012, "2784576299370497423", 152848)
 addappid(3681013, 1, "b97a4048032dc27c3cf1c6887e6069b0f0d51da2c352c671278b00eb4423de35") --Main Windows Depot Nioh 3
