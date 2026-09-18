@@ -3,7 +3,7 @@
 --Gamename Trails in the Sky 2nd Chapter
 addappid(4225980) --Mainappid Trails in the Sky 2nd Chapter
 addappid(4225981, 1, "e2f69dd5a8a01d4cf7d8c36743a5389f87f090207cf209ab2b21e2aa6d048ad5") --Main Windows Depot Trails in the Sky 2nd Chapter
-setManifestid(4225981, "5745377515794956771", 39607553024)
+setManifestid(4225981, "31058432868913611", 39607552544)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
