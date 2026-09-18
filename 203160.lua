@@ -100,43 +100,43 @@ addappid(440604, 1, "df62c5b80439a363592a1ee983069e38754fbe26d2a9d9b04b7a513dee8
 setManifestid(440604, "357474473073951759", 50368)
 --Dlcname Tomb Raider: Mountaineer Skin
 addappid(208809, 1, "a8e2fe60204ea69775c44156a809f92253bce8aad1823a806ef36731f4edd96c") --Dlcname Tomb Raider: Mountaineer Skin
---Dlcname AppID 208810
-addappid(208810, 1, "3cfa43884715f368d8b2dad9bfa28fc087ddd410df13da33b8f294f3b55dac67") --Dlcname AppID 208810
+--Dlcname Tomb Raider: MP Map - Shanty Town
+addappid(208810, 1, "3cfa43884715f368d8b2dad9bfa28fc087ddd410df13da33b8f294f3b55dac67") --Dlcname Tomb Raider: MP Map - Shanty Town
 setManifestid(208810, "3849166016491976395", 62800416)
-addappid(237457, 1, "a249501c98fbf6545731af9f8ab85af2b5d7256de6a6d92abe34b26dca89eac4") --Dlc Macos Depot AppID 208810
+addappid(237457, 1, "a249501c98fbf6545731af9f8ab85af2b5d7256de6a6d92abe34b26dca89eac4") --Dlc Macos Depot Tomb Raider: MP Map - Shanty Town
 setManifestid(237457, "258205796996777006", 62803472)
-addappid(440606, 1, "38521192fd13905227c7dbb59d3fcfbb3b30de61fdf05cfbea95b9902fc515ae") --Dlc Linux Depot AppID 208810
+addappid(440606, 1, "38521192fd13905227c7dbb59d3fcfbb3b30de61fdf05cfbea95b9902fc515ae") --Dlc Linux Depot Tomb Raider: MP Map - Shanty Town
 setManifestid(440606, "100941034871829048", 62563120)
---Dlcname AppID 208811
-addappid(208811, 1, "1d442f8e0515ec2863511a06103ef5b433825abac89acc5aeec29ebf0180bf2d") --Dlcname AppID 208811
+--Dlcname Tomb Raider: Caves and Cliffs Multiplayer Map Pack
+addappid(208811, 1, "1d442f8e0515ec2863511a06103ef5b433825abac89acc5aeec29ebf0180bf2d") --Dlcname Tomb Raider: Caves and Cliffs Multiplayer Map Pack
 setManifestid(208811, "4516305040932421733", 286248768)
-addappid(237458, 1, "2a77cf47e00e579378c9dcaf7a225394191008805c12d66ce925a8d0ce0cf9bd") --Dlc Macos Depot AppID 208811
+addappid(237458, 1, "2a77cf47e00e579378c9dcaf7a225394191008805c12d66ce925a8d0ce0cf9bd") --Dlc Macos Depot Tomb Raider: Caves and Cliffs Multiplayer Map Pack
 setManifestid(237458, "213429337703824649", 287298736)
-addappid(440607, 1, "d0b1c061556fb963b76deadb1c1885157bb73b6ec30f640ee8888f3b3ca513f7") --Dlc Linux Depot AppID 208811
+addappid(440607, 1, "d0b1c061556fb963b76deadb1c1885157bb73b6ec30f640ee8888f3b3ca513f7") --Dlc Linux Depot Tomb Raider: Caves and Cliffs Multiplayer Map Pack
 setManifestid(440607, "91893288272464053", 288237936)
---Dlcname AppID 208812
-addappid(208812, 1, "36b097c22c87912ceb3065529cf17734e858329344cdd0146dcc193acd8b7e8d") --Dlcname AppID 208812
+--Dlcname Tomb Raider: Tomb of the Lost Adventurer
+addappid(208812, 1, "36b097c22c87912ceb3065529cf17734e858329344cdd0146dcc193acd8b7e8d") --Dlcname Tomb Raider: Tomb of the Lost Adventurer
 setManifestid(208812, "2242108116796868778", 34445744)
-addappid(237459, 1, "aeef7ba03236fa05e24d64bb0d185794b1bce9b8df9ffb67303f181c3b4c8d9b") --Dlc Macos Depot AppID 208812
+addappid(237459, 1, "aeef7ba03236fa05e24d64bb0d185794b1bce9b8df9ffb67303f181c3b4c8d9b") --Dlc Macos Depot Tomb Raider: Tomb of the Lost Adventurer
 setManifestid(237459, "30328455661219517", 34440736)
-addappid(440608, 1, "31484bd8a45d93f55a03d301daa3e0ba8132660f30ffb254e34f48a91f2d5aa0") --Dlc Linux Depot AppID 208812
+addappid(440608, 1, "31484bd8a45d93f55a03d301daa3e0ba8132660f30ffb254e34f48a91f2d5aa0") --Dlc Linux Depot Tomb Raider: Tomb of the Lost Adventurer
 setManifestid(440608, "169708167060440312", 34218128)
---Dlcname AppID 208813
-addappid(208813, 1, "16dc24c6ef722950c5df43d929c2d89256f4b7123b42dbadf4c4888faf1bbfc4") --Dlcname AppID 208813
+--Dlcname Tomb Raider: Shipwrecked Multiplayer Map Pack
+addappid(208813, 1, "16dc24c6ef722950c5df43d929c2d89256f4b7123b42dbadf4c4888faf1bbfc4") --Dlcname Tomb Raider: Shipwrecked Multiplayer Map Pack
 setManifestid(208813, "9089747663761388950", 181159200)
-addappid(237460, 1, "ab0b7115a2c210a037846d36d95ab39c4e34f2fa6b77da8dac28b1df4d227d28") --Dlc Macos Depot AppID 208813
+addappid(237460, 1, "ab0b7115a2c210a037846d36d95ab39c4e34f2fa6b77da8dac28b1df4d227d28") --Dlc Macos Depot Tomb Raider: Shipwrecked Multiplayer Map Pack
 setManifestid(237460, "68243511687155423", 182202128)
-addappid(440609, 1, "d393b24757bf76803e08c469daf0986c89f2b4938ce2c5d1ad20a0b709241b40") --Dlc Linux Depot AppID 208813
+addappid(440609, 1, "d393b24757bf76803e08c469daf0986c89f2b4938ce2c5d1ad20a0b709241b40") --Dlc Linux Depot Tomb Raider: Shipwrecked Multiplayer Map Pack
 setManifestid(440609, "98653675563851327", 182731104)
---Dlcname AppID 208814
-addappid(208814, 1, "91aeef621ab95387902eeabaf5b70788934234d242ece22a6982093358264c4f") --Dlcname AppID 208814
+--Dlcname Tomb Raider: 1939 Multiplayer Map Pack
+addappid(208814, 1, "91aeef621ab95387902eeabaf5b70788934234d242ece22a6982093358264c4f") --Dlcname Tomb Raider: 1939 Multiplayer Map Pack
 setManifestid(208814, "3065129487810682314", 89924624)
-addappid(237455, 1, "74e49ea35c1168af45bb67994811af9e09f311ecd6a05f8ecdaae81b6455a2d8") --Dlc Linux Depot AppID 208814
+addappid(237455, 1, "74e49ea35c1168af45bb67994811af9e09f311ecd6a05f8ecdaae81b6455a2d8") --Dlc Linux Depot Tomb Raider: 1939 Multiplayer Map Pack
 setManifestid(237455, "119770789988999687", 89855872)
-addappid(237461, 1, "772e1391a58143897265094469df430c11778fdf159f5000f23a0aa4cfec599f") --Dlc Macos Depot AppID 208814
+addappid(237461, 1, "772e1391a58143897265094469df430c11778fdf159f5000f23a0aa4cfec599f") --Dlc Macos Depot Tomb Raider: 1939 Multiplayer Map Pack
 setManifestid(237461, "16604663053197898", 89923920)
---Dlcname AppID 208816
-addappid(208816, 1, "7b1433cb7e4f09d837e4ded167d1aaa1b0c298f377b9f53cdb59aa7e140dea83") --Dlcname AppID 208816
+--Dlcname Survival Edition Bonus Content
+addappid(208816, 1, "7b1433cb7e4f09d837e4ded167d1aaa1b0c298f377b9f53cdb59aa7e140dea83") --Dlcname Survival Edition Bonus Content
 setManifestid(208816, "56818866596074144", 1708929120)
 --Dlcname Tomb Raider: Demolition
 addappid(208817, 1, "59413fc579eeba9444ac6e85753c1dd408a3397ec4a3aa1d7d397961f936f487") --Dlcname Tomb Raider: Demolition
@@ -161,5 +161,5 @@ addappid(208804) --Dlcname Tomb Raider: Pistol Burst
 addappid(208805) --Dlcname Tomb Raider: Pistol Silencer
 addappid(208806) --Dlcname Tomb Raider: Hunter Skin
 addappid(208807) --Dlcname Tomb Raider: Aviatrix Skin
-addappid(208808) --Dlcname AppID 208808
+addappid(208808) --Dlcname Tomb Raider: Guerilla Skin
 addappid(208818) --Dlcname Tomb Raider: Sure-Shot
