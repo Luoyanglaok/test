@@ -3,9 +3,9 @@
 --Gamename Crimson Desert Enhanced
 addappid(3321460, 1, "dc014470e47064263f3003feb526a87cc64784292e2a608455d18fa70ec2c1e0") --Mainappid Crimson Desert Enhanced
 addappid(3321461, 1, "e2e570c84eb8b4cfe9c20268cd30b84f8c1c7c076691c92ae8c5ba7b510b8a95") --Main Windows Depot Crimson Desert Enhanced
-setManifestid(3321461, "6937953032300562656", 115752762576)
+setManifestid(3321461, "1190168329432671189", 115929964464)
 addappid(3321462, 1, "6eb3bfe7d16b9eb6441dba4f7d18b341fe83ab2f1e9385d042ce622f38a600cb") --Main Macos Depot Crimson Desert Enhanced
-setManifestid(3321462, "6236736467837671899", 123690819552)
+setManifestid(3321462, "2139887153243454213", 124019802160)
 --Dlcname Crimson Desert Original Soundtrack Volume 1
 addappid(4572870) --Dlcname Crimson Desert Original Soundtrack Volume 1
 addappid(4572871, 1, "fd5557767303d9a63b0b31b6a22cd1368e5d82a692e64d041890100ea0c330c4") --Dlc Windows Depot Crimson Desert Original Soundtrack Volume 1
