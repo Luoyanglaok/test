@@ -42,7 +42,7 @@ setManifestid(228990, "1829726630299308803", 100658080)
 addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") --Share Windows Depot EA APP Installer
 setManifestid(3340991, "3755387105551220105", 246722480)
 addappid(3893181, 1, "7f675c2fe8e758d16f3cf8d3b493956afaee78e96d78cdb668a5edb8ac1580f6") --Share Windows Depot EA Javelin Anticheat Installer
-setManifestid(3893181, "3685412901435514107", 318033232)
+setManifestid(3893181, "4878189275181659469", 317406032)
 addappid(1262292) --Dlcname AppID 1262292
 addtoken(1262292, "2710406141061830502")
 addappid(1317080) --Dlcname Plants vs. Zombies: Battle for Neighborville™ Season’s Eatingz Upgrade
