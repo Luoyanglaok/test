@@ -10,42 +10,29 @@ setManifestid(1944340, "322555549106022213", 48)
 --Dlcname Construction Simulator - Customization Kit
 addappid(1944341, 1, "fff00853888f489491f77e33f4b0abfdb9e4f274f7abb2db7e4a473c75710ad2") --Dlcname Construction Simulator - Customization Kit
 setManifestid(1944341, "8807678063382063768", 48)
---Dlcname Construction Simulator - Official Guide
-addappid(2153870) --Dlcname Construction Simulator - Official Guide
-addappid(2153871, 1, "35ec66577bad165531ed3faa7d57db174dc5c411d7fa334cfac933a406119c7b") --Dlc Windows Language Depot German Construction Simulator - Official Guide
-setManifestid(2153871, "8605968922934877579", 29105136)
-addappid(2153872, 1, "8d457689bea1359a61b8bc676238db49b96aec8e56ad39efd92741e9d2db04a6") --Dlc Windows Depot Construction Simulator - Official Guide
-setManifestid(2153872, "425545223924338255", 36947952)
 --Dlcname Construction Simulator - Kramer Pack
 addappid(2203420, 1, "936a535f06583e664a84071a3e5ef1442c263230dfccb079ed73cf6b1632531f") --Dlcname Construction Simulator - Kramer Pack
 setManifestid(2203420, "8739100311331388793", 48)
---Dlcname Construction Simulator - JCB Pack
-addappid(2291420) --Dlcname Construction Simulator - JCB Pack
-addappid(2291424, 1, "aa1e4588ba76e6e1723d055f0ac651747fd4f70363d870bfd3bfcc0a9b0641d6") --Dlc Windows Depot Construction Simulator - JCB Pack
+addappid(2291420) --Dlcname AppID 2291420
+addappid(2291424, 1, "aa1e4588ba76e6e1723d055f0ac651747fd4f70363d870bfd3bfcc0a9b0641d6") --Dlc Windows Depot AppID 2291420
 setManifestid(2291424, "8453066766368453847", 48)
---Dlcname Construction Simulator - Airfield Expansion
-addappid(2295780) --Dlcname Construction Simulator - Airfield Expansion
-addappid(2295781, 1, "e934f73594337e0e6026594ced95237670b45cb3b0a4a8afe5afb168cf7c96b9") --Dlc Windows Depot Construction Simulator - Airfield Expansion
+addappid(2295780) --Dlcname AppID 2295780
+addappid(2295781, 1, "e934f73594337e0e6026594ced95237670b45cb3b0a4a8afe5afb168cf7c96b9") --Dlc Windows Depot AppID 2295780
 setManifestid(2295781, "685349866155445181", 48)
---Dlcname Construction Simulator - SANY Pack
-addappid(2295810) --Dlcname Construction Simulator - SANY Pack
-addappid(2295811, 1, "81149cf5bfb357c4d5e9ca09e28b9bb871218513bf57671f45b4db19322e3987") --Dlc Windows Depot Construction Simulator - SANY Pack
+addappid(2295810) --Dlcname AppID 2295810
+addappid(2295811, 1, "81149cf5bfb357c4d5e9ca09e28b9bb871218513bf57671f45b4db19322e3987") --Dlc Windows Depot AppID 2295810
 setManifestid(2295811, "3383914678723808175", 48)
---Dlcname Construction Simulator - Spaceport Expansion
-addappid(2295820) --Dlcname Construction Simulator - Spaceport Expansion
-addappid(2295821, 1, "0238a85d92c1efd94f87882d80f94f274a9642622803775ac612597cc3900a37") --Dlc Windows Depot Construction Simulator - Spaceport Expansion
+addappid(2295820) --Dlcname AppID 2295820
+addappid(2295821, 1, "0238a85d92c1efd94f87882d80f94f274a9642622803775ac612597cc3900a37") --Dlc Windows Depot AppID 2295820
 setManifestid(2295821, "8580441773329478911", 48)
---Dlcname Construction Simulator - Cosmetic Pack #1
-addappid(2322970) --Dlcname Construction Simulator - Cosmetic Pack #1
-addappid(2322971, 1, "e259ebb0698e11fea131e2432dc3fb90a1deb703381e24c6f86da0a5b873260c") --Dlc Windows Depot Construction Simulator - Cosmetic Pack #1
+addappid(2322970) --Dlcname AppID 2322970
+addappid(2322971, 1, "e259ebb0698e11fea131e2432dc3fb90a1deb703381e24c6f86da0a5b873260c") --Dlc Windows Depot AppID 2322970
 setManifestid(2322971, "320280581201002583", 48)
---Dlcname Construction Simulator - Cosmetic Pack #2
-addappid(2322980) --Dlcname Construction Simulator - Cosmetic Pack #2
-addappid(2322981, 1, "5b18f6aa61fc834076274cf99d042aaf7a103e39ae6c2e916b2ca6c157969162") --Dlc Windows Depot Construction Simulator - Cosmetic Pack #2
+addappid(2322980) --Dlcname AppID 2322980
+addappid(2322981, 1, "5b18f6aa61fc834076274cf99d042aaf7a103e39ae6c2e916b2ca6c157969162") --Dlc Windows Depot AppID 2322980
 setManifestid(2322981, "5743210225651998743", 48)
---Dlcname Construction Simulator - Year 1 Season Pass Helmet
-addappid(2322990) --Dlcname Construction Simulator - Year 1 Season Pass Helmet
-addappid(2322991, 1, "e6cef62d582f8932a2108656f1f9bd325b154bfbfd77bc4e334d201f50bd367f") --Dlc Windows Depot Construction Simulator - Year 1 Season Pass Helmet
+addappid(2322990) --Dlcname AppID 2322990
+addappid(2322991, 1, "e6cef62d582f8932a2108656f1f9bd325b154bfbfd77bc4e334d201f50bd367f") --Dlc Windows Depot AppID 2322990
 setManifestid(2322991, "7520794540910599885", 48)
 --Dlcname Construction Simulator - Liebherr Pack
 addappid(2657380) --Dlcname Construction Simulator - Liebherr Pack
@@ -76,3 +63,5 @@ addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306f
 setManifestid(228989, "5753583882400741046", 25108528)
 addappid(2323000) --Dlcname Construction Simulator - Year 1 Season Pass
 addappid(2666240) --Dlcname Construction Simulator - Year 2 Season Pass
+--Missing Dlcs
+--Dlcname Construction Simulator - Official Guide
