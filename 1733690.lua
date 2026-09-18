@@ -4,7 +4,7 @@
 addappid(1733690) --Mainappid Mandate Order
 addtoken(1733690, "12179485395462989180")
 addappid(1733691, 1, "63fd390e7dee4070c4502e1d6108ecf41ec357c93839d7e9399b9bd0c6e67470") --Main Windows Depot Mandate Order
-setManifestid(1733691, "3515671379978647843", 11910350528)
+setManifestid(1733691, "7748537484045236206", 11907895696)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
