@@ -17,9 +17,9 @@ setManifestid(782337, "7595167059955801744", 9206805168)
 addappid(782338, 1, "5bed7bb7b23d1d00ec8ec0db60fa7b92f4cbfe02e12dbc481c89c0b627933216") --Main Windows Depot DOOM Eternal
 setManifestid(782338, "8642366102070535855", 304)
 addappid(782339, 1, "eda659b514b48a17be8e2619052fae93c7b37578ee6bfc3fd648a8844246e86b") --Main Windows Depot DOOM Eternal
-setManifestid(782339, "7935278702241685666", 161095632)
+setManifestid(782339, "963513668557023129", 161097984)
 addappid(1098294, 1, "4853f1060dba902f3a474dbd6710c8e8f8db4fbec981d3fc90da7dc51ec85d62") --Main Windows Depot DOOM Eternal
-setManifestid(1098294, "8086652904798375734", 79712992)
+setManifestid(1098294, "3134552666578893556", 79722080)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
