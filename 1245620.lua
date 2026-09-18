@@ -14,11 +14,9 @@ setManifestid(1896300, "7130086783926325209", 936446208)
 --Dlcname ELDEN RING Adventure Guide
 addappid(1896320, 1, "de7086b709fdfc7d151bfce5d07509fd80a6c318a21e8fb1e820db5b1cda5860") --Dlcname ELDEN RING Adventure Guide
 setManifestid(1896320, "5664821938092422533", 673563792)
---Dlcname ELDEN RING Shadow of the Erdtree
-addappid(2778580, 1, "9f1556645ea8ef43529f920cf02a2682a6da5756b29e630ba376a0cde24e3908") --Dlcname ELDEN RING Shadow of the Erdtree
+addappid(2778580, 1, "9f1556645ea8ef43529f920cf02a2682a6da5756b29e630ba376a0cde24e3908") --Dlcname AppID 2778580
 setManifestid(2778580, "1674424364022381183", 16035698400)
---Dlcname ELDEN RING Shadow of the Erdtree - Artbook & Soundtrack
-addappid(2855520, 1, "476eca9191866d6743aa7ad82d4d7ce1fcd5e0f0613f2f4b6559635d68f8c0e3") --Dlcname ELDEN RING Shadow of the Erdtree - Artbook & Soundtrack
+addappid(2855520, 1, "476eca9191866d6743aa7ad82d4d7ce1fcd5e0f0613f2f4b6559635d68f8c0e3") --Dlcname AppID 2855520
 setManifestid(2855520, "2785904640065824767", 830901184)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
@@ -26,8 +24,8 @@ setManifestid(228988, "6645201662696499616", 22411856)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(1922350) --Dlcname ELDEN RING - EU Pre-Purchase DLC Bundle
-addappid(2778590) --Dlcname ELDEN RING Shadow of the Erdtree Premium Bundle
-addappid(2855530) --Dlcname ELDEN RING Shadow of the Erdtree Bonus Gesture
+addappid(2778590) --Dlcname AppID 2778590
+addappid(2855530) --Dlcname AppID 2855530
 --Missing Dlcs
 --Dlcname ELDEN RING Bonus Gesture
---Dlcname ELDEN RING Tarnished Pack
+addappid(3655690) --Dlcname ELDEN RING Tarnished Pack
