@@ -3,9 +3,9 @@
 --Gamename Borderlands 4
 addappid(1285190, 1, "8e3b6ca08795b1f1eedfaecae2826907cb959185d8c42ecd658c614bc0e3529c") --Mainappid Borderlands 4
 addappid(1285191, 1, "aabb315ef5573fc2633c461cd2ac9b553e2713ca90a67ad2df09781274cbb20f") --Main Windows Depot Borderlands 4
-setManifestid(1285191, "8130589401361791797", 146962034640)
+setManifestid(1285191, "6847828889073012111", 147587335616)
 addappid(1285192, 1, "3e212ce90691e4e8f2f1418c35495c50a725bb0d012d9f415b0a8a9119dfb0f4") --Main Windows Depot Borderlands 4
-setManifestid(1285192, "8910794691661796452", 509435920)
+setManifestid(1285192, "41313272314624057", 523672624)
 addappid(1285193, 1, "5c38ce39a639096877f707cb88dea4250f2a4b53ae5e1b67654e243d2b988ede") --Main Windows Depot Borderlands 4
 setManifestid(1285193, "1587472964084640951", 0)
 addappid(1285195, 1, "ccf45efe0bf7e329f6b3fa0b29af3c0c7a609c49f6e9b7018bf644fe2f158a82") --Main Windows Depot Borderlands 4
