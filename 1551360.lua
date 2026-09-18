@@ -13,16 +13,17 @@ addtoken(1613281, "12349570259425034288")
 addappid(1613281, 1, "d371f628205489a48d2888a29f596b335963d189f3e822ec32978292e989483a") --Dlcname Forza Horizon 5 Rally Adventure
 setManifestid(1613281, "8702078743692499086", 16021991408)
 --Share Depots
-addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot AppID 228980
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
-addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot AppID 228980
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228990, "1829726630299308803", 100658080)
 addappid(1613282) --Dlcname Forza Horizon 5 Formula Drift Pack
 addappid(1613283) --Dlcname Forza Horizon 5 VIP Membership
-addappid(1613284) --Dlcname AppID 1613284
-addappid(1613285) --Dlcname AppID 1613285
-addappid(1648020) --Dlcname AppID 1648020
-addappid(1764060) --Dlcname AppID 1764060
-addappid(1764061) --Dlcname AppID 1764061
+addappid(1613284) --Dlcname Forza Horizon 5 Welcome Pack
+addappid(1613285) --Dlcname Forza Horizon 5 Treasure Map
+addappid(1648020) --Dlcname Forza Horizon 5 Car Pass
+addappid(1764060) --Dlcname Forza Horizon 5 2019 SUBARU STI S209
+addappid(1764061) --Dlcname Forza Horizon 5 1967 Renault 8 Gordini
 addappid(1764062) --Dlcname Forza Horizon 5 1970 Mercury Cyclone Spoiler
 addappid(1764063) --Dlcname Forza Horizon 5 Premium VIP
 addappid(1798680) --Dlcname AppID 1798680
