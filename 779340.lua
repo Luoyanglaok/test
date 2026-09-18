@@ -3,9 +3,9 @@
 --Gamename Total War: THREE KINGDOMS
 addappid(779340, 1, "3b8f8502e227a5ed9d8ffe754a6b5f35bd016e606e815e8304c7305da8da5b86") --Mainappid Total War: THREE KINGDOMS
 addappid(779341, 1, "26509b7ee264e6455f001a33acbc0d4dfcffd04bd84cecfc1d758532bda5d2d3") --Main Windows Depot Total War: THREE KINGDOMS
-setManifestid(779341, "6805036328918787539", 169102112)
+setManifestid(779341, "8716874195928468173", 46445616)
 addappid(779342, 1, "3731a2e539a56985c559d353c0ebd3bc05c7f20f634eda2c31447d25594be73f") --Main Windows Depot Total War: THREE KINGDOMS
-setManifestid(779342, "701257731915716276", 37774553744)
+setManifestid(779342, "7248085912293370823", 37904803344)
 addappid(779343, 1, "b10d804e86fc7f87e9ed344436510dfd697c46c265b1c1bdeb5d5899d13c17f3") --Main Windows Language Depot English Total War: THREE KINGDOMS
 setManifestid(779343, "6811352873591035718", 48)
 addappid(779344, 1, "2247f386f028d849203150d827ce46008ebf938593cdaae9bf2391fa988180d1") --Main Windows Language Depot Brazilian Total War: THREE KINGDOMS
