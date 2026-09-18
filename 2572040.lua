@@ -10,7 +10,7 @@ addappid(4795612, 1, "33d2e8b6f2e76291882952b82e7ab7f03cdbb0051b5a8f3cf0afcfa929
 setManifestid(4795612, "579421348445038891", 1167940560)
 --Dlcname Woodo - Supporter Pack
 addappid(4795600, 1, "8e5a554fc3fabc5b761e661c59efe00edfe468e9dd029a40fb6a082feb20ee33") --Dlcname Woodo - Supporter Pack
-setManifestid(4795600, "7295233514928971248", 571245856)
+setManifestid(4795600, "7550260466705471757", 573027120)
 --Dlcname Woodo - Soundtrack Pack
 addappid(4795610) --Dlcname Woodo - Soundtrack Pack
 --Share Depots
