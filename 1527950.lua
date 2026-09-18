@@ -3,7 +3,7 @@
 --Gamename Wartales
 addappid(1527950, 1, "df3fb79e39a23369ab2a734aa3168b065638b173cb7cc3842a16f676adbfbeee") --Mainappid Wartales
 addappid(1527951, 1, "95bd24e7b06dd6b363b41cd5735569fe66f9d030ec1b11d30e46c13171a17852") --Main Windows Depot Wartales
-setManifestid(1527951, "703474146168077072", 16271262560)
+setManifestid(1527951, "7272628915245037014", 16271289248)
 --Dlcname Wartales - Music: The Official Soundtrack
 addappid(3533110) --Dlcname Wartales - Music: The Official Soundtrack
 addappid(3533111, 1, "3354e8e7365b10273c0c78b9cd7518719e8363fd3a2b09af934059b80307d624") --Dlc Windows Depot Wartales - Music: The Official Soundtrack
