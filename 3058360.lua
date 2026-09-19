@@ -3,7 +3,7 @@
 --Gamename Parisian Bistro Simulator
 addappid(3058360) --Mainappid Parisian Bistro Simulator
 addappid(3058361, 1, "26406a7886eee2c23db04271be53ba949b04ea41e7f2626113e76c244f89f9b1") --Main Windows Depot Parisian Bistro Simulator
-setManifestid(3058361, "3686906771159532846", 3518540544)
+setManifestid(3058361, "4672546206586205432", 4085289264)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
