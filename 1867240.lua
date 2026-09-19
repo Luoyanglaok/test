@@ -11,6 +11,6 @@ setManifestid(228989, "5753583882400741046", 25108528)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Dlc Windows Depot WARDOGS Playtest
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(4809932, 1, "276e216889f9a00dbaa4bed1b78e1ad0f91ab6eaf0095efa06d1d6153f453048") --Dlc Windows Depot WARDOGS Playtest
-setManifestid(4809932, "7432187899858722470", 44797001504)
+setManifestid(4809932, "213166619639388156", 44795982240)
 --Share Depots
 addappid(4809960) --Dlcname WARDOGS - Supporter Pack
