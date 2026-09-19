@@ -25,12 +25,12 @@ addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c
 setManifestid(1716751, "6659642105086821873", 264636800)
 addappid(4496490) --Dlcname Assassin's Creed Black Flag Resynced - Master Assassin Character Pack
 addappid(4496500) --Dlcname Assassin's Creed Black Flag Resynced - Master Assassin Character Pack - Ubisoft Activation
-addappid(4496510) --Dlcname Assassin's Creed Black Flag Resynced - Master Assassin Naval Pack
-addappid(4496520) --Dlcname Assassin's Creed Black Flag Resynced - Master Assassin Naval Pack - Ubisoft Activation
-addappid(4496530) --Dlcname Assassin's Creed Black Flag Resynced - Hellfire Character Pack
-addappid(4496540) --Dlcname Assassin's Creed Black Flag Resynced - Hellfire Character Pack - Ubisoft Activation
-addappid(4496550) --Dlcname Assassin's Creed Black Flag Resynced - Hellfire Naval Pack
-addappid(4496560) --Dlcname Assassin's Creed Black Flag Resynced - Hellfire Naval Pack - Ubisoft Activation
+addappid(4496510) --Dlcname AppID 4496510
+addappid(4496520) --Dlcname AppID 4496520
+addappid(4496530) --Dlcname AppID 4496530
+addappid(4496540) --Dlcname AppID 4496540
+addappid(4496550) --Dlcname AppID 4496550
+addappid(4496560) --Dlcname AppID 4496560
 addappid(4496580) --Dlcname Assassin's Creed Black Flag Resynced - Sea Serpent Character Pack
 addappid(4496590) --Dlcname Assassin's Creed Black Flag Resynced - Sea Serpent Character Pack - Ubisoft Activation
 addappid(4496600) --Dlcname Assassin's Creed Black Flag Resynced - Sea Serpent Naval Pack
