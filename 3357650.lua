@@ -12,8 +12,9 @@ setManifestid(3859920, "4731286747379700304", 89996576)
 --Dlcname PRAGMATA: Shelter Variety Pack
 addappid(3859930, 1, "14001799a6877a14751af43adbd59ca3cc037cf202aa5615e0c70e057090ddce") --Dlcname PRAGMATA: Shelter Variety Pack
 setManifestid(3859930, "6714427611547107917", 298515120)
+--Dlcname PRAGMATA: Mega Man Pack
+addappid(4093670, 1, "f1984e352feac253895c79996cda789f9fb70d37fba106257e9544f19dc6fe3b") --Dlcname PRAGMATA: Mega Man Pack
+setManifestid(4093670, "8120693761038431619", 186532640)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
---Missing Dlcs
---Dlcname PRAGMATA: Mega Man Pack
