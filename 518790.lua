@@ -73,13 +73,3 @@ addappid(3106720) --Dlcname theHunter: Call of the Wild™ - Scopes and Crosshai
 addappid(3244800) --Dlcname theHunter: Call of the Wild™ - German Shorthaired Pointer
 addappid(3244810) --Dlcname theHunter: Call of the Wild™ - Salzwiesen Park
 addappid(3244820) --Dlcname theHunter: Call of the Wild™ - Hunters' Choice: Bolt-Action Rifle Pack
-addappid(3447720) --Dlcname theHunter: Call of the Wild™ - Rapid Hunt Rifle Pack
-addappid(3570290) --Dlcname theHunter: Call of the Wild™ - Alberta Hunting Preserve
-addappid(3750770) --Dlcname theHunter: Call of the Wild™ – Pump, Flip and Fire Pack
-addappid(3992110) --Dlcname theHunter: Call of the Wild™ - Game Feeder Pack
-addappid(4010590) --Dlcname theHunter: Call of the Wild™ - Scotland Hunting Reserve
-addappid(4089880) --Dlcname theHunter: Call of the Wild™ - Premium Trophy Mount Pack
-addappid(4182010) --Dlcname theHunter: Call of the Wild™ - Game Feeder Pack 2
-addappid(4424610) --Dlcname theHunter: Call of the Wild™ - Multi-Class Weapon Pack
-addappid(4467980) --Dlcname theHunter: Call of the Wild™ - Peru Hunting Reserve
-addappid(4868870) --Dlcname theHunter: Call of the Wild™ - Old West Weapon Pack
