@@ -3,13 +3,13 @@
 --Gamename Hearts of Iron IV
 addappid(394360, 1, "a09cbdd6eeae20e20407d50e195fedab8839228dcc83cc6987b8aef41685a596") --Mainappid Hearts of Iron IV
 addappid(394361, 1, "da88f81230255452b07b325f7be45cd8687fecfeff239c0710f2d72b8bffd282") --Main Windows Depot Hearts of Iron IV
-setManifestid(394361, "5160844398159557201", 2502021136)
+setManifestid(394361, "5714581591752887071", 2502450960)
 addappid(394362, 1, "80b524708536855cdbc85dbd45a0bdb6274e1ab1b06961b5e6cd4a5f63779df0") --Main Windows Depot Hearts of Iron IV
-setManifestid(394362, "2731534386967510061", 174750304)
+setManifestid(394362, "2949225837943588021", 177369216)
 addappid(394363, 1, "b578cbe65008f0d3cc71bb38fbc935a1b6e2fb05b4c1b4fb9059e3b0d10d425f") --Main Linux Depot Hearts of Iron IV
-setManifestid(394363, "138550321753052401", 187124880)
+setManifestid(394363, "2483066677378773473", 187149440)
 addappid(394364, 1, "ef69e4ac301c2cd428a66f4461d055a1845a65138a390d204fbf212930328342") --Main Macos Depot Hearts of Iron IV
-setManifestid(394364, "7307719759167156261", 361712528)
+setManifestid(394364, "3008302370560483485", 361724208)
 addtoken(460550, "9585617095825466956")
 addappid(460550, 1, "c10f169a7f5cff556e46550868b5ae8b5ff11851d16fdb3524dc1420c975cfe7") --Dlcname AppID 460550
 setManifestid(460550, "5911192872142258248", 2926688)
@@ -107,10 +107,10 @@ addappid(1317250, 1, "b19bdf31327b07945efbf7cb689df20880b2312fe9797f030844bd8251
 setManifestid(1317250, "5590993095464206705", 202171616)
 --Dlcname Country Pack - Hearts of Iron IV: Battle for the Bosporus
 addappid(1348660, 1, "442d4c3ced2da36e4728ea1225129227b54a92264e3d7ceb36b37061cb772a65") --Dlcname Country Pack - Hearts of Iron IV: Battle for the Bosporus
-setManifestid(1348660, "1613674608493294063", 90998848)
+setManifestid(1348660, "2633790543177453095", 90999328)
 --Dlcname Hearts of Iron IV: No Step Back
 addappid(1348661, 1, "90210499739763009b116193b4dfa4f9660c987fe76c5b57fa4ebf5ae9d791d8") --Dlcname Hearts of Iron IV: No Step Back
-setManifestid(1348661, "3877753269913429230", 279717040)
+setManifestid(1348661, "3578673394977108706", 279717104)
 --Dlcname Cosmetic Pack - Hearts of Iron IV: Eastern Front Planes
 addappid(1579991, 1, "3d68de74eaadbaf29c12201591f7643c5d61c738ac124fc97ff61c53ee586c78") --Dlcname Cosmetic Pack - Hearts of Iron IV: Eastern Front Planes
 setManifestid(1579991, "5265963005161277519", 239682656)
