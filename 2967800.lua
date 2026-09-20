@@ -3,7 +3,7 @@
 --Gamename Sex on the beach
 addappid(2967800) --Mainappid Sex on the beach
 addappid(2967801, 1, "b7a46e12d41bc63d19fa4e59b973a2ead9e218c69c1e40a79033112a34d899a2") --Main Windows Depot Sex on the beach
-setManifestid(2967801, "7987460592984170234", 24451169920)
+setManifestid(2967801, "7945755867774909969", 24451889296)
 --Dlcname Sex on the beach Soundtrack
 addappid(3854070) --Dlcname Sex on the beach Soundtrack
 addappid(3854071, 1, "22CD4760E579235D8C12BE58ECA6F7666A3A384421025F860A0606ED56393186") --Dlc Windows Depot Sex on the beach Soundtrack
