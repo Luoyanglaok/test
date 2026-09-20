@@ -4,7 +4,7 @@
 addappid(2938460, 1, "c48792206149a539e273312e913212b2c2794f065508ac30160dc37e1b551f59") --Mainappid Police Chief Simulator
 addappid(2938461, 1, "c48792206149a539e273312e913212b2c2794f065508ac30160dc37e1b551f59") --Main Windows Depot Police Chief Simulator
 addappid(2938462, 1, "5b1100926b4ad8336b8a199494bbb34ace4a46a8848d3cb34b6d48aea1e97764") --Main Windows Depot Police Chief Simulator
-setManifestid(2938462, "2373877061329775999", 16961094144)
+setManifestid(2938462, "2238755705646402213", 16965152272)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
