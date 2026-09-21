@@ -17,4 +17,6 @@ addappid(4168630) --Dlcname Batman Beyond Pack
 addtoken(4168630, "17750122315834084647")
 addappid(4168640) --Dlcname Party Music Pack
 addtoken(4168640, "10837524983767176435")
+addappid(4168650) --Dlcname Sinister Pack
+addappid(4168660) --Dlcname Mayhem Mode
 addappid(4468750) --Dlcname LEGO® Batman™: Legacy of the Dark Knight Deluxe Edition Upgrade
