@@ -10,9 +10,3 @@ addappid(1929293, 1, "8ed9a633f088e50d10c11fedf9b4780cbbede6974f96d9502322ae84a2
 setManifestid(1929293, "7591245809968537285", 969345328)
 addappid(1929294, 1, "7c1731d6590b9e7c43e6bfb3a413657bc494a857f00c283f40e18f0ab4a88a5c") --Main Linux Depot Bits & Bops
 setManifestid(1929294, "1010890559940960030", 957998512)
---Dlcname Bits & Bops Soundtrack
-addappid(4201430) --Dlcname Bits & Bops Soundtrack
-addappid(4201431, 1, "4f2ceb46c3acc37920986223c3d900316adfba4f4c2cea96c43be0b7f45af5c5") --Dlc Windows Depot Bits & Bops Soundtrack
-setManifestid(4201431, "2257519196349875391", 51099472)
-addappid(4201432, 1, "66497b241bbc6fd84d0529ce4bae222bf239cd360613b13cf428ea6cc4523115") --Dlc Windows Depot Bits & Bops Soundtrack
-setManifestid(4201432, "516231066668844307", 688277104)
