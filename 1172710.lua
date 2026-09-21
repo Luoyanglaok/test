@@ -3,7 +3,7 @@
 --Gamename Dune: Awakening
 addappid(1172710, 1, "69dc68fc6a5bb50adb32e772e7746d731a85cd2e24df94d25f3208cd3526f454") --Mainappid Dune: Awakening
 addappid(1172711, 1, "fca2f8a025b411ec4d846fe6bf97d1d0589a93bb56a2527fb857a4bfe4aac2b3") --Main Windows Depot Dune: Awakening
-setManifestid(1172711, "1624791797683907617", 36066496864)
+setManifestid(1172711, "2855365163091076078", 36070493312)
 --Dlcname Dune: Awakening - Digital Artbook
 addappid(3604190) --Dlcname Dune: Awakening - Digital Artbook
 addappid(3604191, 1, "c572ef768fbab850c416f10be050771ed650c63967a64819d1b61d1a34e3cbaa") --Dlc Windows Depot Dune: Awakening - Digital Artbook
