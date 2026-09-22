@@ -8,5 +8,3 @@ setManifestid(4048301, "1276792124480682490", 2844059120)
 addappid(4579960) --Dlcname 緋月仙行錄 美術設定集
 addappid(4579961, 1, "0263bac6a0758341a7b546e074566da3e9a74fcb74b1099374ec102971309092") --Dlc Windows Depot 緋月仙行錄 美術設定集
 setManifestid(4579961, "2360373448587687651", 462965888)
---Missing Dlcs
---Dlcname 緋月仙行錄 原聲帶
