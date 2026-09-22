@@ -1,3 +1,6 @@
-addappid(2459420)
-addappid(2459421,0,"73a87df86ca8e806923eeb8c95e92c9bc1a3f0a75b82743b00019d499310553a")
-setManifestid(2459421,"4821485379509124324")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2459420.lua
+--Gamename 無職転生 ～異世界行ったら本気だす～ Quest of Memories(Mushoku Tensei: Jobless Reincarnation Quest of Memories)
+addappid(2459420) --Mainappid 無職転生 ～異世界行ったら本気だす～ Quest of Memories(Mushoku Tensei: Jobless Reincarnation Quest of Memories)
+addappid(2459421, 1, "73a87df86ca8e806923eeb8c95e92c9bc1a3f0a75b82743b00019d499310553a") --Main Windows Depot 無職転生 ～異世界行ったら本気だす～ Quest of Memories(Mushoku Tensei: Jobless Reincarnation Quest of Memories)
+setManifestid(2459421, "4821485379509124324", 4490526656)
