@@ -10,12 +10,6 @@ addappid(251577, 1, "53a3478a67db1f8ed8030e845ec1be174a60cea2448401ffd4dda0c4838
 setManifestid(251577, "1155325717857946076", 16251001312)
 addappid(251578, 1, "4550672ef4a498246530208707b36b490dd3bb73c6b54ba6b832dd48db88f71a") --Main Linux Depot 7 Days to Die
 setManifestid(251578, "6197483310039483353", 16333572416)
---Dlcname 7 Days to Die - Soundtrack
-addappid(2721510) --Dlcname 7 Days to Die - Soundtrack
-addappid(2721511, 1, "41d26a497295b9a2272150763884d4ade69473388e6fa3eb1d62270127c1fe18") --Dlc Windows Depot 7 Days to Die - Soundtrack
-setManifestid(2721511, "5342576852196769776", 232732624)
-addappid(2721512, 1, "2e2cff02218afbdbac08aa587c8fd5a9b82ea9a266eb3953620e6cfa67abcdbe") --Dlc Windows Depot 7 Days to Die - Soundtrack
-setManifestid(2721512, "3713042900877315858", 470360288)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
