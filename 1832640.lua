@@ -1,26 +1,43 @@
-addappid(1832640)
-setManifestid(228988,"6645201662696499616")
-setManifestid(228989,"3514306556860204959")
-setManifestid(228990,"1829726630299308803")
-addappid(1832641,0,"970934aa628b52c8114ee3eb92acbf3fe8c82b89a163716538aa643338d6ba87")
-setManifestid(1832641,"479344344198100709")
-addappid(1881490,0,"d9002538071908e840b72dd5b49299719a28736fce078b4706a2dd3171acf753")
-setManifestid(1881490,"6774182500208264870")
-addappid(1867630,0,"78e5a8a02c238dc46de22770c09096bb5552da0b9ac27bdd94cadd519de6877c")
-setManifestid(1867630,"224466493230926400")
-addappid(1858305,0,"a628bcff89534de6bb986a7f98dbf8c7f989ab6f548ef521054cc7fe6b733d52")
-setManifestid(1858305,"2726838834382724318")
-addappid(1858300,0,"fe43b71d94ccd9415067411fff5fbba04bc6676ebe5fcd89e20dec30a69e2996")
-setManifestid(1858300,"5409299788610186459")
-addappid(1858301,0,"11cf3d4ef335f0c09ae0f17a346c65481ea93c76641b4cef07e2896ac571262d")
-setManifestid(1858301,"2643723619674755813")
-addappid(1960780,0,"266a47b6b2e5431361a8f932cc393afccb4f0be44165b91b7b1c9bf919f7e2d7")
-setManifestid(1960780,"81636740273799355")
-addappid(1976460,0,"ac503e06c3f6b2719ed95b84b8d8451e1828535b833ad8e272c74f163ef9bb67")
-setManifestid(1976460,"4919993283535120815")
-addappid(1960781,0,"17c32a4c805d8b71bfe71a6227d7c4a61d69212e7c257697a517cef9404638d9")
-setManifestid(1960781,"8389155978969072116")
-addappid(1960782,0,"ca7b75cc0d9db9e2e52dc726b7a64f1d56102c844b7992eb8a5e0098267f7b4b")
-setManifestid(1960782,"6922244076506896931")
-addappid(2058650,0,"a315411192724253b46e1eec3f9940fd64b0b79256be1b7c872833c2dbeb633c")
-setManifestid(2058650,"161666599253753925")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1832640.lua
+--Gamename Mirror 2: Project X
+addappid(1832640, 1, "3276f6a71df02d41ee2928027719d181831cbf5c6928fd4e38215c2476fb194c") --Mainappid Mirror 2: Project X
+addappid(1832641, 1, "970934aa628b52c8114ee3eb92acbf3fe8c82b89a163716538aa643338d6ba87") --Main Windows Depot Mirror 2: Project X
+setManifestid(1832641, "479344344198100709", 10419434288)
+--Dlcname Mirror 2: Project X - Ringtone
+addappid(1858300, 1, "fe43b71d94ccd9415067411fff5fbba04bc6676ebe5fcd89e20dec30a69e2996") --Dlcname Mirror 2: Project X - Ringtone
+setManifestid(1858300, "5409299788610186459", 255412704)
+--Dlcname Mirror 2: Project X - Emoji
+addappid(1858301, 1, "11cf3d4ef335f0c09ae0f17a346c65481ea93c76641b4cef07e2896ac571262d") --Dlcname Mirror 2: Project X - Emoji
+setManifestid(1858301, "2643723619674755813", 14449056)
+--Dlcname Mirror 2: Project X - Cosplay Album
+addappid(1858305, 1, "a628bcff89534de6bb986a7f98dbf8c7f989ab6f548ef521054cc7fe6b733d52") --Dlcname Mirror 2: Project X - Cosplay Album
+setManifestid(1858305, "2726838834382724318", 1061853040)
+--Dlcname Mirror 2: Project X - Beckoning Relections
+addappid(1867630, 1, "78e5a8a02c238dc46de22770c09096bb5552da0b9ac27bdd94cadd519de6877c") --Dlcname Mirror 2: Project X - Beckoning Relections
+setManifestid(1867630, "224466493230926400", 119645040)
+--Dlcname Mirror 2: Project X - Costumes
+addappid(1881490, 1, "d9002538071908e840b72dd5b49299719a28736fce078b4706a2dd3171acf753") --Dlcname Mirror 2: Project X - Costumes
+setManifestid(1881490, "6774182500208264870", 163253136)
+--Dlcname Mirror 2: Project X - Home - Leah's Costumes
+addappid(1960780, 1, "266a47b6b2e5431361a8f932cc393afccb4f0be44165b91b7b1c9bf919f7e2d7") --Dlcname Mirror 2: Project X - Home - Leah's Costumes
+setManifestid(1960780, "81636740273799355", 106931888)
+--Dlcname Mirror 2: Project X - Home - Rita's Costumes
+addappid(1960781, 1, "17c32a4c805d8b71bfe71a6227d7c4a61d69212e7c257697a517cef9404638d9") --Dlcname Mirror 2: Project X - Home - Rita's Costumes
+setManifestid(1960781, "8389155978969072116", 70976832)
+--Dlcname Mirror 2: Project X - Home - Lani's Costumes
+addappid(1960782, 1, "ca7b75cc0d9db9e2e52dc726b7a64f1d56102c844b7992eb8a5e0098267f7b4b") --Dlcname Mirror 2: Project X - Home - Lani's Costumes
+setManifestid(1960782, "6922244076506896931", 58151424)
+--Dlcname Mirror 2: Project X - Home - Accessories
+addappid(1976460, 1, "ac503e06c3f6b2719ed95b84b8d8451e1828535b833ad8e272c74f163ef9bb67") --Dlcname Mirror 2: Project X - Home - Accessories
+setManifestid(1976460, "4919993283535120815", 25127344)
+--Dlcname Mirror 2: Project X - Home - Caiyun&Qianxi's Costumes
+addappid(2058650, 1, "a315411192724253b46e1eec3f9940fd64b0b79256be1b7c872833c2dbeb633c") --Dlcname Mirror 2: Project X - Home - Caiyun&Qianxi's Costumes
+setManifestid(2058650, "161666599253753925", 115538976)
+--Share Depots
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228988, "6645201662696499616", 22411856)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228989, "5753583882400741046", 25108528)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228990, "1829726630299308803", 100658080)
