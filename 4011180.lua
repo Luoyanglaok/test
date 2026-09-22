@@ -8,3 +8,5 @@ setManifestid(4011181, "6069859317959917275", 3381802928)
 addappid(4340680) --Dlcname NTR Idol: Déjà Vu Artbook
 addappid(4340681, 1, "3a30173dd61441e7b251f08fc0cecce9e086dfc78205c50ea22376003af38bcc") --Dlc Windows Depot NTR Idol: Déjà Vu Artbook
 setManifestid(4340681, "6007369577231587917", 373393680)
+--Missing Dlcs
+--Dlcname NTR Idol: Déjà Vu Soundtrack
