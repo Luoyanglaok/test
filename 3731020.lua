@@ -8,10 +8,6 @@ addappid(3731022, 1, "5d4c8a8e068df7858e0d251b09176989427f7d8a1dea3a51504bc212c6
 setManifestid(3731022, "7368016707050734069", 25969278160)
 addappid(3731023, 1, "78c4a80de6a91458000fe0446749ac0292901895d5d98c712da2fdfba9d6b3c0") --Main Linux Depot Five Hearts Under One Roof season 2
 setManifestid(3731023, "1957700352921458078", 27573978064)
---Dlcname Five Hearts Under One Roof season2 - Soundtrack
-addappid(3994370) --Dlcname Five Hearts Under One Roof season2 - Soundtrack
-addappid(3994371, 1, "9af044152f1ae5a909b05c146587e84a822ddfd19acda6264359eee283e0a810") --Dlc Windows Depot Five Hearts Under One Roof season2 - Soundtrack
-setManifestid(3994371, "7584353851468313637", 1012571088)
 --Dlcname Five Hearts Under One Roof season2 Photobook
 addappid(4054090, 1, "a8181a87732e029df7a081f3c88557a7ff70410aa33046867eb281dc34604c48") --Dlcname Five Hearts Under One Roof season2 Photobook
 setManifestid(4054090, "859826515876099767", 539173776)
