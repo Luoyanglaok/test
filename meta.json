@@ -1,0 +1,8 @@
+{
+  "generated": "2026-09-23T14:17:14",
+  "source": "g仓 _versions 基线 + deepened 克隆挖出的历史版本 + NAS 本地增量(含 ver)",
+  "appids": 60722,
+  "shards": 91,
+  "appids_multi_version": 146,
+  "format": "appid -> versions[]: {date,src,sha,ver?,depots:{depot:gid}}（时间升序，末项=当前）"
+}
