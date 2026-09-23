@@ -3,13 +3,13 @@
 --Gamename Stellaris
 addappid(281990, 1, "9f3e7feb17a97b529e54c128210775b97eddc78321652f0a7dd42b1774fd18bf") --Mainappid Stellaris
 addappid(281991, 1, "f7e7dc0ebbd8af57b97ebdf6a1c60cab11601c659735dec52b75c2041c253bbd") --Main Windows Depot Stellaris
-setManifestid(281991, "3922771984290037884", 14182704928)
+setManifestid(281991, "3692489496021768339", 14561463840)
 addappid(281992, 1, "e4875742b695f223ab3bfa079d2b2e33c6785bb1e31b88e82964f1391b63066a") --Main Windows Depot Stellaris
-setManifestid(281992, "3306222774754384885", 178800448)
+setManifestid(281992, "6317231788227995865", 180429872)
 addappid(281993, 1, "d91e08fd5eb94b1d5dfe65bc3ff860a28d2142856c6df540c8fcb04e5f358b57") --Main Macos Depot Stellaris
-setManifestid(281993, "3550514751965101572", 369715856)
+setManifestid(281993, "2746479951762201938", 390133984)
 addappid(281994, 1, "40a3fc66b54ac44ad3bc479bddd05655e7a3a444003e9d8792fa8309f7184093") --Main Linux Depot Stellaris
-setManifestid(281994, "290069498413929006", 202778640)
+setManifestid(281994, "2162292455599837529", 210166240)
 --Dlcname Stellaris: Symbols of Domination
 addappid(447680, 1, "01d10eee648eebfb7b14598ac27e9f2fe08c69218951c65666b6403f76ec4b68") --Dlcname Stellaris: Symbols of Domination
 setManifestid(447680, "3796462871416536945", 77872)
