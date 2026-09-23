@@ -47,4 +47,3 @@ addappid(476635, 1, "65109ea39a765ec04f9bff25c62e251655da249791ae5211ba4a36235b4
 setManifestid(476635, "7627761434797320894", 3445352304)
 addappid(476636, 1, "d51749eddbb9d76ed9ebade554b62844c17099527affdd173734c2603e5bd32e") --Share Windows Language Depot Brazilian Call of Duty: WWII - Multiplayer
 setManifestid(476636, "68597473526899926", 3958142896)
-addappid(683100) --Dlcname Call of Duty: WWII - Season Pass
