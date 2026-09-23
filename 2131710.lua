@@ -1,4 +1,3 @@
-addappid(2131710)
-addtoken(2131710,"7211698039188411880")
-addappid(2131710,0,"d081c2190195947def0c58e5d54c20546d8a23190f1d0334546aa575e2032ad8")
-setManifestid(2131710,"3501847841804328371")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2131710.lua
+addappid(2131710, 0, "486401c3bf97dea088f39ba46579331fbc6df798b984bbbc5c5ff5275cb4ac48")
