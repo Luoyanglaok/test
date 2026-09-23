@@ -17,12 +17,6 @@ addappid(897670, 1, "9e9fdd83057e0d41385fd8bb3461125aecaed7e3ff3cc7890834639322e
 setManifestid(897670, "4413745635411486049", 2613622256)
 addappid(897671, 1, "deefcab56ed487ca3ff25be38f578ead6650ae4e1b1fbe39450cdd9ccd737333") --Dlc Windows Depot Grim Dawn - Forgotten Gods Expansion
 setManifestid(897671, "7604532180778486959", 2487216)
---Dlcname Grim Dawn Soundtrack
-addappid(1250890) --Dlcname Grim Dawn Soundtrack
-addappid(1250891, 1, "1f16ac54f3e02d0c013403cfd71a1bb5a5895358bda186ccef33da47630b8308") --Dlc Windows Depot Grim Dawn Soundtrack
-setManifestid(1250891, "2225171464510547547", 806738544)
-addappid(1250892, 1, "9e522b4f14bbb1b833b2603b336efd50bda02f238fd1cdb4ffb2dec2613b3073") --Dlc Windows Depot Grim Dawn Soundtrack
-setManifestid(1250892, "6933926943299188951", 3844041440)
 --Dlcname Grim Dawn - Fangs of Asterkarn
 addappid(2699230, 1, "4843e2630d30639c182670a20fcd1a15b455f6917c345f7824fc2062fdc46a11") --Dlcname Grim Dawn - Fangs of Asterkarn
 setManifestid(2699230, "1509728266051519769", 4928958864)
@@ -44,3 +38,4 @@ setManifestid(229003, "8740933542064151477", 42914928)
 addappid(565610) --Dlcname Grim Dawn - Steam Loyalist Upgrade
 addappid(1088290) --Dlcname Grim Dawn - Steam Loyalist 2 DLC
 addappid(2701090) --Dlcname Grim Dawn - Steam Loyalist 3 DLC
+addappid(4964960) --Dlcname Grim Dawn - Steam Loyalist 4 DLC
