@@ -27,20 +27,6 @@ addappid(1335165, 1, "3977935e565374b625ae89a2951068619bf9b08b7715f17d11fdf01253
 setManifestid(1335165, "5969709782251354894", 445772928)
 addappid(1335166, 1, "77d4d9e72193312bc904e676c1c423efbc9eab94ff20c0f665821731097c5ed1") --Main Windows Language Depot Japanese Phoenix Wright: Ace Attorney Trilogy
 setManifestid(1335166, "9129160447779904163", 197510160)
---Dlcname Phoenix Wright: Ace Attorney Trilogy - Turnabout Tunes
-addappid(1032760) --Dlcname Phoenix Wright: Ace Attorney Trilogy - Turnabout Tunes
-addappid(1032761, 1, "31e5103081f6718fb15d5632a83a541b24e13599f8c4e18ccb5235300d4f6cf7") --Dlc Windows Depot Phoenix Wright: Ace Attorney Trilogy - Turnabout Tunes
-setManifestid(1032761, "5474027449965208217", 169413232)
-addappid(1032762, 1, "7ba072ffb7c2d7d67aedfb29bddbedf50f9e0bc270ad1b7a63a731a0e7a6f90e") --Dlc Windows Depot Phoenix Wright: Ace Attorney Trilogy - Turnabout Tunes
-setManifestid(1032762, "4219034964509969620", 473836256)
-addappid(1032763, 1, "bd6adedebee07a136b08d92685afdbdf9eede76f6390fb639c6e2ba8dd2d8de7") --Dlc Windows Depot Phoenix Wright: Ace Attorney Trilogy - Turnabout Tunes
-setManifestid(1032763, "4548522945940583456", 215291520)
-addappid(1032764, 1, "7648bb2342ab3fae12c46a51184d2e4d625f5c13dab7666cb48605a04618d591") --Dlc Windows Language Depot Japanese Phoenix Wright: Ace Attorney Trilogy - Turnabout Tunes
-setManifestid(1032764, "4695207193065142738", 169384000)
-addappid(1032765, 1, "026d9df7afaaf5c1d36f42934a843b9329e9d01f17148febd5728268a013c6a0") --Dlc Windows Language Depot Japanese Phoenix Wright: Ace Attorney Trilogy - Turnabout Tunes
-setManifestid(1032765, "5870508246175722387", 473807840)
-addappid(1032766, 1, "011f13d9b8fa09c316b4808e7391ef1508ae14dc8fb2519d1f01bb56f652a792") --Dlc Windows Language Depot Japanese Phoenix Wright: Ace Attorney Trilogy - Turnabout Tunes
-setManifestid(1032766, "7835843548254387927", 215319984)
 --Dlcname Phoenix Wright: Ace Attorney Original Soundtrack
 addappid(1335140) --Dlcname Phoenix Wright: Ace Attorney Original Soundtrack
 addappid(1335141, 1, "3f0f6b8ce32e9e908faffd68ccfa6e315b94a935d698682e6f21666c5eeab3a6") --Dlc Windows Depot Phoenix Wright: Ace Attorney Original Soundtrack
