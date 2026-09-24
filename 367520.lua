@@ -8,13 +8,3 @@ addappid(367522, 1, "c7e67c6bf87d7128302920e88b17cb6ee322e69585472cbcd2a3d913c7d
 setManifestid(367522, "6809616861563627670", 1107565712)
 addappid(367523, 1, "61dd4c0fd624c81feb31fc22cb61a228c4d8077cf3927e9058f736026d9dd838") --Main Linux Depot Hollow Knight
 setManifestid(367523, "708613018541602983", 1101974432)
---Dlcname Hollow Knight - Official Soundtrack
-addappid(598190, 1, "e7c8deffd5beac85ab80b4cc64c5f0ca462a43813b5502a6a477650927e5f656") --Dlcname Hollow Knight - Official Soundtrack
-setManifestid(598190, "1510257616747890764", 164484240)
-addappid(598191, 1, "28de6be11136081355170d4d8a3574a02f72f0c537bb232e2b8fb7cd930a8c03") --Dlc Windows Depot Hollow Knight - Official Soundtrack
-setManifestid(598191, "6210840168070385587", 394988912)
---Dlcname Hollow Knight - Gods & Nightmares
-addappid(916000, 1, "af84b679432131daee1e1c3e9dcbcd6a605061f41251668e85204b8173467680") --Dlcname Hollow Knight - Gods & Nightmares
-setManifestid(916000, "182639465886548454", 103621984)
-addappid(916001, 1, "2a18398ce363db7a829c4b166bb586dd965d082a1aa39f0375fb9808a5eb0b43") --Dlc Windows Depot Hollow Knight - Gods & Nightmares
-setManifestid(916001, "3835708265674326898", 241874704)
