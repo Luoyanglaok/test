@@ -53,3 +53,4 @@ addappid(4913470) --Dlcname Forza Horizon 6 1983 Nissan Skyline 2000 Turbo RS
 addappid(4913480) --Dlcname Forza Horizon 6 1957 Ford Thunderbird
 addappid(4949510) --Dlcname Forza Horizon 6 2023 Dodge Challenger SRT Demon 170
 addappid(4949520) --Dlcname Forza Horizon 6 2025 McLaren W1
+addappid(4949540) --Dlcname Forza Horizon 6 1998 Renault Sport Spider
