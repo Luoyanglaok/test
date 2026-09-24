@@ -42,6 +42,8 @@ addappid(3579820, 1, "b3cdc2b0984a50cd02e4bed24d6689dbab0f8abfc30513718d774d6f2d
 setManifestid(3579820, "8038891213862972712", 63640800)
 addappid(3579830, 1, "4da3896587e0ac89aa98ffd0073c5938c251bc528711e9691e862d787a5dd738") --Main Windows Depot Cities: Skylines II
 setManifestid(3579830, "524071386827207299", 61940640)
+addappid(3725980, 1, "1c1d48ab7734f60ef027e4703280440a746e7a01995512246a66664e26bb29b6") --Main Windows Depot Cities: Skylines II
+setManifestid(3725980, "933722368976876498", 437126416)
 --Dlcname Cities: Skylines II - Creator Pack: Modern Architecture
 --Dlcname Cities: Skylines II - Creator Pack: Urban Promenades
 --Dlcname Cities: Skylines II - Bridges & Ports
@@ -61,6 +63,7 @@ setManifestid(3579830, "524071386827207299", 61940640)
 --Dlcname Cities: Skylines II - Cloud Lounge FM
 --Dlcname Cities: Skylines II - Smooth Vibes FM
 --Dlcname Cities: Skylines II - Skyrail Radio
+--Dlcname Cities: Skylines II - Downtown Market Set
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
@@ -84,4 +87,3 @@ addappid(4544360) --Dlcname Cities: Skylines II - City Vacations
 addappid(4544370) --Dlcname Cities: Skylines II - Creator Pack: Map Pack
 --Missing Dlcs
 --Dlcname Cities: Skylines II - Deluxe Relax Station
---Dlcname Cities: Skylines II - Downtown Market Set
