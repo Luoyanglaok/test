@@ -3,9 +3,9 @@
 --Gamename Total War: WARHAMMER III
 addappid(1142710, 1, "ea64ef77605ae9352273e58066c4eeb8f461b8754e74e777fe291eadfc198b8f") --Mainappid Total War: WARHAMMER III
 addappid(1142711, 1, "ceca36efa000ee6431388ab086221aa72bb202dd8584a6c67e7e370a0b647e07") --Main Windows Depot Total War: WARHAMMER III
-setManifestid(1142711, "5218949771588546813", 158860720)
+setManifestid(1142711, "7500362296305550739", 149827216)
 addappid(1142712, 1, "305eb94a277165cc8f9e260016c8cacb52164ee5cbd10bec417ab3e298827804") --Main Windows Depot Total War: WARHAMMER III
-setManifestid(1142712, "1959622576716276016", 82952405088)
+setManifestid(1142712, "4512102377651127604", 91007608768)
 addappid(1142713, 1, "adfd66adb2d6907493709244a246b6e6081a9c328240a9cb5e59b62b793a441f") --Main Windows Language Depot English Total War: WARHAMMER III
 setManifestid(1142713, "6088472991362806035", 48)
 addappid(1142714, 1, "fc50835c8f532aa19375891b494905559ab374571c0ddbec6a0c78e8db3660d9") --Main Windows Language Depot Brazilian Total War: WARHAMMER III
@@ -92,23 +92,13 @@ addappid(1143215, 1, "e31362e142e89fe457e497eb27917c37ecee4e58b343e56e1f0f2b2a4a
 setManifestid(1143215, "8950676985659340451", 48)
 addappid(1143216, 1, "020cacb5cdbee1d62f84b532e29e1a5f7b5a105b6ffbc856773a2f48d3e529fc") --Main Linux Language Depot Tchinese Total War: WARHAMMER III
 setManifestid(1143216, "7688045990442624232", 48)
---Dlcname Total War: WARHAMMER - Chaos Warriors
-addappid(404010, 1, "d7cf30ce0fedbbc0a07692d21963a2ed598051d190d2944bebd46d0d3a7cb040") --Dlcname Total War: WARHAMMER - Chaos Warriors
---Dlcname Total War: WARHAMMER - Call of the Beastmen
-addappid(404012, 1, "0a62ca5d341d59833ba36f05ec80fa8bde37f1b7b9ac6ff09666b462488f5d2d") --Dlcname Total War: WARHAMMER - Call of the Beastmen
---Dlcname Total War: WARHAMMER - The Grim and the Grave
-addappid(404013, 1, "e4a5c87e22c80b5483b45507b6268b7e7f0edf7172a56d566b1a6e918efd996e") --Dlcname Total War: WARHAMMER - The Grim and the Grave
---Dlcname Total War: WARHAMMER - The King and the Warlord
-addappid(404014, 1, "f48925d3c272b102f386b747cd89fb47e2f2a1bf0b90d6dd4e497b7f826e1f48") --Dlcname Total War: WARHAMMER - The King and the Warlord
---Dlcname Total War: WARHAMMER - Realm of The Wood Elves
-addappid(534331, 1, "9c03dacf137e5ec8ecb19fbc2cf4eaca75abe18b198f1c27a761cce9c1ee9443") --Dlcname Total War: WARHAMMER - Realm of The Wood Elves
 --Dlcname Total War: WARHAMMER III - Blood for the Blood God III
 addappid(1374300, 1, "fd608c58eb76cbd1822c0ef899bddcf9548a386c06530234942970c7f172e846") --Dlcname Total War: WARHAMMER III - Blood for the Blood God III
 addappid(1143201, 1, "b2e15305f5fab46302258f8e7209235c196bb9d64c0436f414aaf881ae229ffb") --Dlc Macos Depot Total War: WARHAMMER III - Blood for the Blood God III
 setManifestid(1143201, "7409023150596106190", 3426144)
 addappid(1143217, 1, "2b459ab249153f0b65c1592212d9c1f6e9cf94a359fc4ef7cab15b782aceee68") --Dlc Linux Depot Total War: WARHAMMER III - Blood for the Blood God III
 setManifestid(1143217, "7988827090490807819", 3426144)
-setManifestid(1374300, "866517638047156002", 5089984)
+setManifestid(1374300, "2256595602879488106", 4962336)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
@@ -122,17 +112,6 @@ addappid(372531, 1, "85fd9e7e0a0f07b17dcb14263b94e436306270f02200d7a6669de0ba706
 setManifestid(372531, "1128077100884847891", 57465616)
 addappid(372533, 1, "0a27eae2b29df800cf6fe0ff6a101e28a9ab2c1a2cfd41192f4f6efb6bb942ac") --Share Windows Depot AppID 372530
 setManifestid(372533, "5678300758159441741", 1845728)
-addappid(455040) --Dlcname Total War: WARHAMMER - Norsca
-addappid(617870) --Dlcname Total War: WARHAMMER II - Rise of the Tomb Kings
-addappid(779880) --Dlcname Total War: WARHAMMER II - The Queen & The Crone
-addappid(835670) --Dlcname Total War: WARHAMMER II - Curse of the Vampire Coast
-addappid(965220) --Dlcname Total War: WARHAMMER II - The Prophet & The Warlock
-addappid(1074320) --Dlcname Total War: WARHAMMER II - The Hunter and the Beast
-addappid(1158180) --Dlcname Total War: WARHAMMER II - The Shadow & The Blade
-addappid(1209120) --Dlcname Total War: WARHAMMER II - The Warden & The Paunch
-addappid(1315750) --Dlcname Total War: WARHAMMER II – The Twisted & The Twilight
-addappid(1556110) --Dlcname Total War: WARHAMMER II – The Silence & The Fury
-addtoken(1556110, "254225489639312539")
 addappid(1824060) --Dlcname Total War: WARHAMMER III - Champions of Chaos
 addappid(1834020) --Dlcname Total War: WARHAMMER III - Chaos Warriors
 addappid(1834021) --Dlcname Total War: WARHAMMER III - Blood for the Blood God
@@ -196,9 +175,5 @@ addappid(3450980) --Dlcname Total War: WARHAMMER III - Dechala – Tides of Torm
 addappid(3589650) --Dlcname Total War: WARHAMMER III - Nagash – Lords of the End Times
 addappid(3589660) --Dlcname Total War: WARHAMMER III - Thanquol – Lords of the End Times
 addappid(3589670) --Dlcname Total War: WARHAMMER III - Boris Todbringer – Lords of the End Times
-addappid(3589680) --Dlcname Total War: WARHAMMER III - The Glottkin – Lords of the End Times
-addappid(3858050) --Dlcname Total War: WARHAMMER III - UPGRADE PACK
-addappid(4399460) --Dlcname Total War: WARHAMMER III - Bhashiva – Character Pack
 --Missing Dlcs
 --Dlcname Total War: WARHAMMER III - Ogre Kingdoms
---Dlcname Total War: WARHAMMER III - Original Soundtrack
