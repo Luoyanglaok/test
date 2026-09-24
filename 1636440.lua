@@ -4,17 +4,17 @@
 addappid(1636440, 1, "7b557e5bf973f343233a3b034f3cb02815f94ba267a7c92e0b335b30c4176e5a") --Mainappid SILENT HILL: Townfall
 addappid(1636441, 1, "62c41fd0ab66ae0f82f86b835f333bc9ec55fb5d28ee696b599a745059bb62ce") --Main Windows Depot SILENT HILL: Townfall
 setManifestid(1636441, "5846939894323649224", 57722516672)
---Dlcname AppID 4126670
+--Dlcname SILENT HILL: Townfall – CRTV Style: Rusted
 addtoken(4126670, "4534485472292409398")
-addappid(4126670, 1, "7d1a555b80ecea1b26fe05d48beafaf2745f6f3851e6e691bb8d085421892f99") --Dlcname AppID 4126670
+addappid(4126670, 1, "7d1a555b80ecea1b26fe05d48beafaf2745f6f3851e6e691bb8d085421892f99") --Dlcname SILENT HILL: Townfall – CRTV Style: Rusted
 setManifestid(4126670, "2957044820498811960", 23599504)
---Dlcname AppID 4235620
+--Dlcname SILENT HILL: Townfall – Simon's Outfit: Alternate
 addtoken(4235620, "4379559952951711258")
-addappid(4235620, 1, "556a8c2ff138b8d8b54f00f607af240c1bd58e07e3a9ea92f9a1881fcb1ab522") --Dlcname AppID 4235620
+addappid(4235620, 1, "556a8c2ff138b8d8b54f00f607af240c1bd58e07e3a9ea92f9a1881fcb1ab522") --Dlcname SILENT HILL: Townfall – Simon's Outfit: Alternate
 setManifestid(4235620, "1453085193393980489", 52661248)
---Dlcname AppID 4663210
+--Dlcname SILENT HILL: Townfall - Bonus Application
 addtoken(4663210, "13545024821267551421")
-addappid(4663210, 1, "86c4decc818889e1d669912dd971ff721cc2136ab9fdbb68de06c2f2e919daf1") --Dlcname AppID 4663210
+addappid(4663210, 1, "86c4decc818889e1d669912dd971ff721cc2136ab9fdbb68de06c2f2e919daf1") --Dlcname SILENT HILL: Townfall - Bonus Application
 setManifestid(4663210, "879371378507688417", 1179259040)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
