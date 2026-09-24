@@ -3,7 +3,7 @@
 --Gamename 捣蛋蛙（Croak Squad）
 addappid(3675400) --Mainappid 捣蛋蛙（Croak Squad）
 addappid(3675401, 1, "bc0baae8bc5b487838e73c4fb6ff38933edc952753a1694506c5354fa342441c") --Main Windows Depot 捣蛋蛙（Croak Squad）
-setManifestid(3675401, "8374522003356217795", 304800384)
+setManifestid(3675401, "7704977023841542822", 304796400)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
