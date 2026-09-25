@@ -5,10 +5,6 @@ addappid(1948980, 1, "6d0e4344aa93ffe73f7fe7bb24d37aed4024fb6abc21e376e1e5511575
 addtoken(1948980, "15007247341427304635")
 addappid(1948981, 1, "e24e21853fcf27393c4424978740b631785a618ee8356eb9fa135070ade87f1b") --Main Windows Depot 大侠立志传
 setManifestid(1948981, "1096125930821706249", 1688271440)
---Dlcname 大侠立志传：碧血丹心 Soundtrack
-addappid(2680270) --Dlcname 大侠立志传：碧血丹心 Soundtrack
-addappid(2680271, 1, "fbe9342c087a8749040fef7d66fc818dec7c79787b96c98b326d21511605fc51") --Dlc Windows Depot 大侠立志传：碧血丹心 Soundtrack
-setManifestid(2680271, "7004318294318620163", 85003536)
 --Dlcname 大侠立志传：碧血丹心 - DLC
 addappid(2924120, 1, "1ee9dbc5a2205fa53b8290d7b9444ba5bcbee983bf5c04a92851b83c8edca2ce") --Dlcname 大侠立志传：碧血丹心 - DLC
 setManifestid(2924120, "6211561909410193898", 188554768)
