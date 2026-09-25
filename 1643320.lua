@@ -3,12 +3,13 @@
 --Gamename S.T.A.L.K.E.R. 2: Heart of Chornobyl
 addappid(1643320, 1, "b783726cbbe01aa0588ea0829164ac9b24665c7394b3d13497e62639b8c083ea") --Mainappid S.T.A.L.K.E.R. 2: Heart of Chornobyl
 addappid(1643321, 1, "71c29e58911c13991edea02ac06db5f5991e43e52cdcd76c19126d657c4a38e7") --Main Windows Depot S.T.A.L.K.E.R. 2: Heart of Chornobyl
-setManifestid(1643321, "4518958509884143477", 155718642624)
+setManifestid(1643321, "795450846361212187", 155715314736)
+addappid(1643322, 1, "71c29e58911c13991edea02ac06db5f5991e43e52cdcd76c19126d657c4a38e7") --Main Windows Depot S.T.A.L.K.E.R. 2: Heart of Chornobyl
 addappid(3765020, 1, "b1b8603692741b1a378078069c67a9908bda61991fdec23100fef15970450358") --Main Windows Depot S.T.A.L.K.E.R. 2: Heart of Chornobyl
 setManifestid(3765020, "4750257545716219112", 0)
 --Dlcname S.T.A.L.K.E.R. 2: Cost of Hope
 addappid(3765021, 1, "e876a04dbb1e5e6acbfd5615bb7fef20660736442090c3eb1454398f00b7dd4f") --Dlc Windows Depot S.T.A.L.K.E.R. 2: Cost of Hope
-setManifestid(3765021, "6104496397739427170", 18751498208)
+setManifestid(3765021, "3391070190357536673", 18751463056)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
