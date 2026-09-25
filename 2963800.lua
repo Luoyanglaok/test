@@ -3,7 +3,7 @@
 --Gamename DrainSim
 addappid(2963800) --Mainappid DrainSim
 addappid(2963801, 1, "378db61e0fba6945aa38162f21ab98cd80c6f68a85a64b0bdeffc76895b8fdbb") --Main Windows Depot DrainSim
-setManifestid(2963801, "2415830037738737675", 3350581952)
+setManifestid(2963801, "1746740374397661819", 17055569008)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
