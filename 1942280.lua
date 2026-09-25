@@ -13,10 +13,4 @@ setManifestid(1942283, "2748719760099278892", 177672096)
 addtoken(2868390, "17992809593575622817")
 addappid(2868390, 1, "d7b9838655889932b120a4bd3426b37af101b334e6602a5898a1d54e4dc8f0f8") --Dlcname Brotato: Abyssal Terrors
 setManifestid(2868390, "5627320447442986624", 55272624)
---Dlcname Brotato Soundtrack
-addappid(3281080) --Dlcname Brotato Soundtrack
-addappid(3281081, 1, "e6d0a71df9e37dbb1c69621d45ab42a35f0bc52e1c716e17bac88ffb29fa6cc6") --Dlc Windows Depot Brotato Soundtrack
-setManifestid(3281081, "5219183446974776720", 83591856)
-addappid(3281082, 1, "0b62d5b0ce0ca5679ccbfafa9035fcbd744dccf03d97e6f2305ef8d28bcb8c58") --Dlc Windows Depot Brotato Soundtrack
-setManifestid(3281082, "8742789198982800516", 424931792)
 addappid(4498220) --Dlcname Brotato: Primal Dread
