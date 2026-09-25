@@ -42,9 +42,15 @@ addappid(1468569, 1, "bab0fad2a278921d63f60926fe6e504b7c8bdd66061415a3d500fd22ea
 setManifestid(1468569, "8356485670520647364", 0)
 addappid(1468573, 1, "e6ee3526293b32a5ae22920f4055e6696e1380faf5dbaea3c1b43a7d42e638a8") --Main Windows Depot DEATHLOOP
 setManifestid(1468573, "8895710705102938684", 593824560)
+addappid(1822571, 1, "74b0cfbdaa28b6a3b8e520a3818a4c0e3fb109715e2dadbea88c188550637dc3") --Main Windows Depot DEATHLOOP
+setManifestid(1822571, "3319120956663528674", 343775936)
+addappid(1822572, 1, "2ab4dab3f86090324029e85227338e9e56f49531d25844e067856cca76fe70e5") --Main Windows Depot DEATHLOOP
+setManifestid(1822572, "4230625613394031849", 1366374032)
 --Dlcname DEATHLOOP - PreOrder
 addappid(1457700, 1, "2f2dd5204db57e08ba78a9d1ad9c8318862be2d71bab34746a320112bd8715f7") --Dlcname DEATHLOOP - PreOrder
 setManifestid(1457700, "7343692912472751833", 0)
+--Dlcname DEATHLOOP Original Game Soundtrack
+addappid(1822570) --Dlcname DEATHLOOP Original Game Soundtrack
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
