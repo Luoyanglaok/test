@@ -11,10 +11,5 @@ setManifestid(602963, "32495984955377582", 1075149120)
 --Dlcname Barotrauma - Supporter Pack
 addappid(1197650, 1, "179a1e7986e8029892a8442b25794a7e3e6ca59e33a87f8b00233ab4a8fe5ddb") --Dlcname Barotrauma - Supporter Pack
 setManifestid(1197650, "4582887644478638575", 432726192)
---Dlcname Barotrauma - Soundtrack
-addappid(1197651, 1, "880374e21d84e1b54d094f73147f62e9aef49552b1e0a9a2f0bbfc04ae2ac069") --Dlcname Barotrauma - Soundtrack
-setManifestid(1197651, "6346527442254387436", 431963696)
-addappid(1670640, 1, "1e35785f229c02d68d16234645fcccb600afc2be5783df82a77896c835d4759b") --Dlc Windows Depot Barotrauma - Soundtrack
-setManifestid(1670640, "6625677740856929075", 1861930416)
 --Missing Dlcs
 --Dlcname Barotrauma - Home & Harbor Expansion
