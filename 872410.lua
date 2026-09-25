@@ -157,6 +157,12 @@ setManifestid(1638310, "4519985131428191727", 2864)
 --Dlcname RTK14: KT's ROMANCE OF THE THREE KINGDOMS Series App Officer CG Set
 addappid(1638311, 1, "edd94190771b3fbebd9620bf176354ec340ed9c886b1636f5e1a50f48c726a91") --Dlcname RTK14: KT's ROMANCE OF THE THREE KINGDOMS Series App Officer CG Set
 setManifestid(1638311, "355277098172238882", 34612416)
+--Dlcname ROMANCE OF THE THREE KINGDOMS XIV Complete Edition Upgrade Pack
+addappid(4508240, 1, "9482c485957091e0c40d884b6bdcd203cca8e1bb55d70bc1f5be6b0c8ace07df") --Dlcname ROMANCE OF THE THREE KINGDOMS XIV Complete Edition Upgrade Pack
+setManifestid(4508240, "7946659053514602182", 7382973120)
+--Dlcname RTK14CE: Scenario [Bold Ambition]
+addappid(4598960, 1, "2636b8ad298d762ff638c4d8eb423720bdedfbcfb43aeee291c231309eec9954") --Dlcname RTK14CE: Scenario [Bold Ambition]
+setManifestid(4598960, "1921642133311921964", 530000)
 --Share Depots
 addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228986, "8782296191957114623", 23045488)
@@ -166,6 +172,4 @@ addappid(1198833) --Dlcname ROMANCE OF THE THREE KINGDOMS XIV Season Pass
 addappid(1258153) --Dlcname AppID 1258153
 addappid(1431482) --Dlcname ROMANCE OF THE THREE KINGDOMS XIV Season Pass 2
 --Missing Dlcs
---Dlcname ROMANCE OF THE THREE KINGDOMS XIV Complete Edition Upgrade Pack
 --Dlcname RTK14CE: Scenario [Cao Cao's Miscalculation]
---Dlcname RTK14CE: Scenario [Bold Ambition]
