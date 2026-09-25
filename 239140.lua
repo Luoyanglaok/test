@@ -1,6 +1,6 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 239140.lua
-addappid(239140, 0, "b7353d4d8b24a21548b971246f9e4a1e6de2716e36991657f2dc87dd9bd54c22")
+addappid(239140, 0, "a6db659c237a76ff7eda1ab222eb7fa5a6d9494c2b673f8aaff010b70e84c8e7")
 addappid(302100) --Dlcname AppID 302100
 addtoken(302100, "1983212283047127395")
 addappid(302101) --Dlcname Dying Light - Cuisine & Cargo
@@ -45,7 +45,7 @@ addappid(435111) --Dlcname Dying Light- Crash Test Skin Pack
 addappid(436080) --Dlcname Dying Light- Harran Ranger Bundle
 addappid(436081) --Dlcname Dying Light- Gun Psycho Bundle
 addappid(436082) --Dlcname Dying Light- Volatile Hunter Bundle
-addappid(436083) --Dlcname AppID 436083
+addappid(436083) --Dlcname Dying Light: CD-Action Anniversary Pack
 addappid(675860) --Dlcname Dying Light - Harran Military Rifle
 addappid(748340) --Dlcname Dying Light - White Death Bundle
 addappid(748341) --Dlcname Dying Light - Vintage Gunslinger Bundle
@@ -73,7 +73,6 @@ addappid(1524890) --Dlcname Dying Light - Ox Warrior Bundle
 addappid(1543420) --Dlcname Dying Light - Harran Tactical Unit Bundle
 addappid(1599030) --Dlcname Dying Light - Rust Weapon Pack
 addappid(1647900) --Dlcname Dying Light - Savvy Gamer Bundle
-addappid(1697640) --Dlcname AppID 1697640
 addappid(1702060) --Dlcname Dying Light - Astronaut Bundle
 addappid(1762700) --Dlcname Dying Light - Van Crane Bundle
 addtoken(1762700, "18173262258780104649")
@@ -82,5 +81,3 @@ addappid(1935540) --Dlcname Dying Light - Dieselpunk Bundle
 addappid(2971370) --Dlcname Dying Light - Standard To Enhanced Upgrade
 addappid(2971380) --Dlcname Dying Light - Standard To Definitive Upgrade
 addappid(3454290) --Dlcname Dying Light - 10th Anniversary Bundle
---Missing Dlcs
---Dlcname Dying Light Original Soundtrack
