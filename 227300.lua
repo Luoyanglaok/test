@@ -3,13 +3,13 @@
 --Gamename Euro Truck Simulator 2
 addappid(227300, 1, "4efc6eb3aea74680b954e5b88327ec42ef52984cb390f9dc905aab42a4ae6652") --Mainappid Euro Truck Simulator 2
 addappid(227301, 1, "1baf18f6181ad3f9ce663dab07f93ba0f3f5194c82b64785e4cd9f63f3a56b28") --Main Windows Depot Euro Truck Simulator 2
-setManifestid(227301, "5602165946209005165", 35520443040)
+setManifestid(227301, "1569097334523890221", 35520442176)
 addappid(227302, 1, "edfb6f81d8ec91175145051344fdf788840b2235df88cca912a7602de47f54af") --Main Windows Depot Euro Truck Simulator 2
-setManifestid(227302, "3174982108994255598", 21037520)
+setManifestid(227302, "5591922016093973154", 21037632)
 addappid(227303, 1, "f764a1a949001dd100176a10f3f0b50531c353122118ba0e41bea9eaafb0437f") --Main Linux Depot Euro Truck Simulator 2
-setManifestid(227303, "4534380392310440184", 21364912)
+setManifestid(227303, "2076680229121734136", 21369680)
 addappid(227304, 1, "32ab4f23d2cb9a8cb610b299d0012509d1b2b64dc694616d8a8c711a2d605057") --Main Macos Depot Euro Truck Simulator 2
-setManifestid(227304, "126790452054408456", 32316832)
+setManifestid(227304, "7854760596280575789", 32317456)
 --Dlcname Euro Truck Simulator 2 - Going East!
 addappid(227310, 1, "b06666dc044784f4331b6572132630cb7b36fd1c83688aa215f808fc8460729d") --Dlcname Euro Truck Simulator 2 - Going East!
 setManifestid(227310, "5461220265410748509", 37781216)
@@ -330,8 +330,3 @@ setManifestid(4348650, "657738104977795892", 0)
 --Dlcname Euro Truck Simulator 2 - Holland Style Tuning Pack
 addappid(4400940, 1, "614cc960cdc89bcf28d665df7004922e4a3289ed8344485e5086634038925fda") --Dlcname Euro Truck Simulator 2 - Holland Style Tuning Pack
 setManifestid(4400940, "1971038981576363293", 0)
---Missing Dlcs
---Dlcname Euro Truck Simulator 2 - Iceland
---Dlcname Euro Truck Simulator 2 - Coaches
---Dlcname Euro Truck Simulator 2 - Isle of Ireland
---Dlcname Euro Truck Simulator 2 - Soul of Anatolia
