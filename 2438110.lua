@@ -3,7 +3,7 @@
 --Gamename Emergency Room Simulator
 addappid(2438110) --Mainappid Emergency Room Simulator
 addappid(2438111, 1, "419aca58b5376b3ea49d013450b85a805a708cb1fe429ba7b0cd846534a85b4f") --Main Windows Depot Emergency Room Simulator
-setManifestid(2438111, "6302828478794278746", 4938121760)
+setManifestid(2438111, "9033832062401888744", 5202662448)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
