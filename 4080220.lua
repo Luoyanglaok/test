@@ -18,6 +18,8 @@ addappid(4080229, 1, "847343c0863a7cb9671b65ab73c5a1189b40336f6f730dc4fd59cb5cb8
 setManifestid(4080229, "5098736551728113761", 1522071856)
 addappid(4080261, 1, "82236ba461d7223a5639914e8e3218f4bed8dffa99eaa6e1126eac8302c7d6d8") --Main Windows Language Depot Schinese EA SPORTS FC™ 27
 setManifestid(4080261, "7904953109832351883", 1288844192)
+addappid(4080262, 1, "7623a491ada9aa3c66fb115e6806b1d18e76952ce5ab3e23b25632eb2f214254") --Main Windows Language Depot Tchinese EA SPORTS FC™ 27
+setManifestid(4080262, "6533660563905174976", 60624)
 addappid(4080265, 1, "3fb5f73a06b7503c3bd74958ce1321884230ed85b835658e95d9b855cf96d2c4") --Main Windows Language Depot Portuguese EA SPORTS FC™ 27
 setManifestid(4080265, "4296006107485876479", 63120)
 addappid(4080266, 1, "454be933df9a0720926f2edd97d069e879460f5545abfb62169a1924490ba7d5") --Main Windows Language Depot Polish EA SPORTS FC™ 27
@@ -32,9 +34,10 @@ setManifestid(4160764, "2370751177763844527", 1501181200)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
 addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") --Share Windows Depot EA APP Installer
-setManifestid(3340991, "3755387105551220105", 246722480)
+setManifestid(3340991, "2872608919245318765", 246896672)
 addappid(3893181, 1, "7f675c2fe8e758d16f3cf8d3b493956afaee78e96d78cdb668a5edb8ac1580f6") --Share Windows Depot EA Javelin Anticheat Installer
 setManifestid(3893181, "4878189275181659469", 317406032)
+addappid(4080260) --Dlcname EA SPORTS FC™ 27
 addappid(4314910) --Dlcname EA SPORTS FC™ 27 - FC Points
 addappid(4458650) --Dlcname EA SPORTS FC™ 27
 addappid(4458660) --Dlcname EA SPORTS FC™ 27 Standard Edition Pre-Purchase content
@@ -42,4 +45,5 @@ addappid(4458680) --Dlcname EA SPORTS FC™ 27 Ultimate Edition Pre-Purchase con
 addappid(4458690) --Dlcname EA SPORTS FC™ 27 Ultimate Edition Pre-Purchase content
 addappid(4458700) --Dlcname EA SPORTS FC 27 - Press Offer Key
 addappid(4574040) --Dlcname EA SPORTS FC™ 27 Ultimate Plus Edition content
+addappid(4636910) --Dlcname EA SPORTS FC™ 27 Ultimate Edition content
 addappid(4917970) --Dlcname EA SPORTS FC™ 27
