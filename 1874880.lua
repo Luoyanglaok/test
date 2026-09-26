@@ -6,12 +6,6 @@ addappid(1874881, 1, "f1bc308d3a58a8d144a76dc02d552819b433bda49c325060fcab53e810
 setManifestid(1874881, "7768706146966449237", 21568984704)
 addappid(1874882, 1, "c964efe3e6ee7295beeb474f46e6c78d1f2f62097dc3c793b1474cfab9f2f055") --Main Windows Depot Arma Reforger
 setManifestid(1874882, "1650233779375073015", 234859456)
---Dlcname Arma Reforger Soundtrack
-addappid(1982980) --Dlcname Arma Reforger Soundtrack
-addappid(1982981, 1, "fb9b19f4018873d6112446a8991e8911cd8d4452a8c7bd27f4251b07638e89d5") --Dlc Windows Depot Arma Reforger Soundtrack
-setManifestid(1982981, "4663975222407329777", 426926688)
-addappid(1982982, 1, "305012a57de8f65ba31415383f9ef1e29a6e6abcee5d86bcf04cac01b927906e") --Dlc Windows Depot Arma Reforger Soundtrack
-setManifestid(1982982, "8175811065148517847", 1926158384)
 --Dlcname Refrogger Supporter Pack
 addappid(3923950) --Dlcname Refrogger Supporter Pack
 addappid(3923951, 1, "6093cb5032a8d98863652c35177f7653c823c16613b35ac3d61f6814d00e5e89") --Dlc Windows Depot Refrogger Supporter Pack
