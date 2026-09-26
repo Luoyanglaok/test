@@ -3,7 +3,7 @@
 --Gamename 007 First Light
 addappid(3768760, 1, "6f7c66b16f0ee1cfe2e337a85cf54359c812b65f322a21fbd1c9725197e60062") --Mainappid 007 First Light
 addappid(3768761, 1, "8284c5e8921ec5acbe53f4d45af0260905841dc698ca179dd218ce5a2657ef09") --Main Windows Depot 007 First Light
-setManifestid(3768761, "6091853794411167391", 53133700544)
+setManifestid(3768761, "7715305678058929086", 53137229088)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
