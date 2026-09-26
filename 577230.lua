@@ -3,7 +3,7 @@
 --Gamename Three Kingdoms The Last Warlord
 addappid(577230, 1, "43ee897087b5231758d95b8983edc9fd4008038379421c6ff71a28cd01e33d96") --Mainappid Three Kingdoms The Last Warlord
 addappid(577231, 1, "9637d76aa413d336de9550b3932653ee37f71ac30d96721a9bcc5e14a87ec788") --Main Windows Depot Three Kingdoms The Last Warlord
-setManifestid(577231, "7535379394640906272", 946443104)
+setManifestid(577231, "5325827563837393837", 948749040)
 addappid(577232, 1, "6bf9dba002c2cb8ed0fd82bc69393ca8464cffc170225416f7aee00fa0ad82a3") --Main Macos Depot Three Kingdoms The Last Warlord
 setManifestid(577232, "7064935290680373039", 0)
 addappid(577233, 1, "9bb32a976cd5c911f2cf02d5251dc28fbce00f9a991701c09532e03cd630637e") --Main Windows Depot Three Kingdoms The Last Warlord
@@ -11,7 +11,7 @@ setManifestid(577233, "4207556517142600435", 1202492880)
 addappid(4539291, 1, "606b8b892eecce31b30c6195d879cd5be06d521b2441230496383d6bb874b7fa") --Main Windows Depot Three Kingdoms The Last Warlord
 setManifestid(4539291, "17041924909653273", 197532880)
 addappid(4753561, 1, "e85ad7b63fd7ab718a0328019db31d3438367056d93a5fec682e65812bfe8228") --Main Windows Depot Three Kingdoms The Last Warlord
-setManifestid(4753561, "5754396438458850314", 124249920)
+setManifestid(4753561, "629073364322204798", 124249984)
 --Dlcname Three Kingdoms: The Last Warlord - Duel Expansion
 addappid(692770, 1, "734864f43752da53d568bad96aa891198e82e6a075216df18913d3133cf15d6f") --Dlcname Three Kingdoms: The Last Warlord - Duel Expansion
 setManifestid(692770, "914501564318341998", 144)
