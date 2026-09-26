@@ -9,5 +9,3 @@ setManifestid(3812602, "6341355155354872355", 652345616)
 --Dlcname Restory: Chill Electronics Repairs - Digital Artbook
 addappid(5034500, 1, "7b50eb279041c0949418aece25a74fc3c349e149ad3cfdfe093f5ea2c6954065") --Dlcname Restory: Chill Electronics Repairs - Digital Artbook
 setManifestid(5034500, "4573138219617442396", 50167840)
---Missing Dlcs
---Dlcname ReStory: Chill Electronics Repairs Soundtrack
