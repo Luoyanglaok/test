@@ -67,6 +67,7 @@ setManifestid(3872750, "3294195697823073321", 6608624)
 --Dlcname Accessory: Square-Framed Glasses
 addappid(3879360, 1, "723fb6344fb84d8a3fac559c578182a09d5b65956eb5cb578b2e9f0094c3cb62") --Dlcname Accessory: Square-Framed Glasses
 setManifestid(3879360, "5572507035609083706", 1266080)
+--Dlcname AppID 3879370
 addappid(3879370, 1, "08972fb6b7cf121e1fcf663996d010a299888ee70c547ac806821cf31ad4b088") --Dlcname AppID 3879370
 setManifestid(3879370, "3533586002260635852", 1046864)
 --Dlcname Accessory: Pom-Pom Earrings
@@ -93,5 +94,3 @@ setManifestid(4007520, "5191904910392251962", 499086016)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
---Missing Dlcs
---Dlcname Monster Hunter Stories 3: Twisted Reflection Original Soundtrack
