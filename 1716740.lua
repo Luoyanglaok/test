@@ -22,12 +22,6 @@ setManifestid(2401180, "1350450549444461803", 51092320)
 --Dlcname Starfield - Preorder
 addappid(2401181, 1, "9382f0b0fee3c8ccb0cf9fc2389a52eab89fdf1c4e6f408635a82b30037aed9e") --Dlcname Starfield - Preorder
 setManifestid(2401181, "9009164480135609609", 14823792)
---Dlcname STARFIELD OFFICIAL SOUNDTRACK
-addappid(2561880) --Dlcname STARFIELD OFFICIAL SOUNDTRACK
-addappid(2561881, 1, "ef3e5627630f1223639cace742a3a0cb21039e71ed9fdde4cc8fa62d41b64a6d") --Dlc Windows Depot STARFIELD OFFICIAL SOUNDTRACK
-setManifestid(2561881, "1792993759553594235", 572171136)
-addappid(2561882, 1, "8c9b474435c4bc69fc3c16004dca803ad314128372ef670bbdf25d5828bf0beb") --Dlc Windows Depot STARFIELD OFFICIAL SOUNDTRACK
-setManifestid(2561882, "1759119827406415985", 4940815744)
 --Dlcname Starfield - Shattered Space
 addappid(2721670, 1, "34f5ffb0f43b8e1e3de155a0cea2f5e9f53c87b19431cf7e1bfe08e4d3806ff9") --Dlcname Starfield - Shattered Space
 setManifestid(2721670, "8614401350451913562", 6811938640)
