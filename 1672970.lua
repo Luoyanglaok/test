@@ -4,12 +4,6 @@
 addappid(1672970, 1, "10ef1f37796e917fa6b2109aa8c4ab1baaf3f1dd69f9d8e4a5ce194a615d5dc8") --Mainappid Minecraft Dungeons
 addappid(1672971, 1, "b42295e44d98b2ed35338c9f96b4c65ad99a839023e9e4ddef8e19ddc7addac4") --Main Windows Depot Minecraft Dungeons
 setManifestid(1672971, "4325055371153456789", 2316929296)
---Dlcname Minecraft Dungeons Ultimate Edition Soundtrack
-addappid(1717450) --Dlcname Minecraft Dungeons Ultimate Edition Soundtrack
-addappid(1717451, 1, "537a4254a9eb6f712e387077aea3440baed45fecc5d77804bbae0186e98ba92b") --Dlc Windows Depot Minecraft Dungeons Ultimate Edition Soundtrack
-setManifestid(1717451, "1493749821264086954", 1639013904)
-addappid(1717452, 1, "e24b4a2f0fc286cc4d2c8589889bccdf8735e4b9f76d4ee5bd9200e78baf25d0") --Dlc Windows Depot Minecraft Dungeons Ultimate Edition Soundtrack
-setManifestid(1717452, "1157092614209266083", 7514593760)
 --Dlcname Minecraft Dungeons Ultimate Edition Digital Artwork
 addappid(1726570, 1, "0e89af5042b93fdac6bf07b8155a9addf8bc19a556fed00a326ece6e7c9e7a14") --Dlcname Minecraft Dungeons Ultimate Edition Digital Artwork
 setManifestid(1726570, "2582615933734748879", 43718240)
