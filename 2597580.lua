@@ -1,3 +1,6 @@
-addappid(2597580)
-addappid(2597581,0,"8602daf05989f80eb6e821ee7dc2c33d90dd42eb824bddcc2c25835b55fd32c7")
-setManifestid(2597581,"3934641544771499654")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2597580.lua
+--Gamename Porno Empire [18+]
+addappid(2597580) --Mainappid Porno Empire [18+]
+addappid(2597581, 1, "8602daf05989f80eb6e821ee7dc2c33d90dd42eb824bddcc2c25835b55fd32c7") --Main Windows Depot Porno Empire [18+]
+setManifestid(2597581, "3934641544771499654", 2227263120)
