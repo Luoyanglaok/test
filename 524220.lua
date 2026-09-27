@@ -29,34 +29,6 @@ setManifestid(583994, "6837545457254028528", 1021600)
 addtoken(1017430, "1808551213462367460")
 addappid(1017430, 1, "3f639279ce3e6f19d6e4093f0af4032334e31a0e1203288a5da6419f82d04720") --Dlcname AppID 1017430
 setManifestid(1017430, "1820157406263693639", 16207504)
---Dlcname NieR:Automata Original Soundtrack
-addappid(3514130) --Dlcname NieR:Automata Original Soundtrack
-addappid(3514131, 1, "a7c343b68119cbafd502126c39bcac4c3e44bc3deaddfb0a050815a575c9fa6d") --Dlc Windows Depot NieR:Automata Original Soundtrack
-setManifestid(3514131, "3619695901002137478", 469542480)
---Dlcname NieR Orchestral Arrangement Album - Addendum
-addappid(3514210) --Dlcname NieR Orchestral Arrangement Album - Addendum
-addappid(3514211, 1, "383835575355f7d435bd6e96dbc7bfa4ddaec0f6da0b22baa5a0290b9071b64c") --Dlc Windows Depot NieR Orchestral Arrangement Album - Addendum
-setManifestid(3514211, "6587449000233746566", 112824560)
---Dlcname NieR:Automata Arranged & Unreleased Tracks
-addappid(3514270) --Dlcname NieR:Automata Arranged & Unreleased Tracks
-addappid(3514271, 1, "74a6d5af8f7912a270a42e76331e9ced787f32089f9b469f70500766cbb81752") --Dlc Windows Depot NieR:Automata Arranged & Unreleased Tracks
-setManifestid(3514271, "8247361657920876053", 228639392)
---Dlcname NieR:Automata Orchestral Arrangement Album
-addappid(3514280) --Dlcname NieR:Automata Orchestral Arrangement Album
-addappid(3514281, 1, "215d3d1c1591b55f764135c014c87f3b5ec406be3a6f385c659f780901b56c57") --Dlc Windows Depot NieR:Automata Orchestral Arrangement Album
-setManifestid(3514281, "3239115518060299221", 108626704)
---Dlcname Piano Collections NieR:Automata
-addappid(3514300) --Dlcname Piano Collections NieR:Automata
-addappid(3514301, 1, "5049979f26229e43132a32293ce6d091ad4111640f3da4c6229d0a9c1b439134") --Dlc Windows Depot Piano Collections NieR:Automata
-setManifestid(3514301, "5727053876295354879", 130772048)
---Dlcname NieR:Piano Journeys
-addappid(3518710) --Dlcname NieR:Piano Journeys
-addappid(3518711, 1, "9afad0e47752127621377caa2ccd43789006934beff0513df4decc4bd5933867") --Dlc Windows Depot NieR:Piano Journeys
-setManifestid(3518711, "3821622139177109291", 108830528)
---Dlcname NieR:Orchestra Concert re:12024 [ the end of data ] Music CD
-addappid(4267420) --Dlcname NieR:Orchestra Concert re:12024 [ the end of data ] Music CD
-addappid(4267421, 1, "c4aca6e568c2e3f5ae4a164745fc044e0f8d31336388bff841447dfed9d45285") --Dlc Windows Depot NieR:Orchestra Concert re:12024 [ the end of data ] Music CD
-setManifestid(4267421, "2998556727204715887", 226636752)
 --Share Depots
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
