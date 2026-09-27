@@ -10,5 +10,3 @@ setManifestid(3830692, "4706614662425489149", 1697565232)
 addappid(4209540) --Dlcname Flee, My Elven Ninja! 3D - Artbook
 addappid(4209541, 1, "daba8942e158f08028623cd7393d181a3ae668a5c316fd657d0329d846ac2e91") --Dlc Windows Depot Flee, My Elven Ninja! 3D - Artbook
 setManifestid(4209541, "4414725775365648680", 73700160)
---Missing Dlcs
---Dlcname Flee, My Elven Ninja! 3D - Soundtrack
