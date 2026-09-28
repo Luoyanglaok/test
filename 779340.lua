@@ -117,18 +117,6 @@ setManifestid(1102310, "4713270222318393168", 354358384)
 addtoken(1493250, "3875493348049827274")
 addappid(1493250, 1, "c9edab1317ed8640a178ce68802fc7be5d928b7a78ae5ebe879f035eedfd5eb1") --Dlcname Total War: THREE KINGDOMS - Fates Divided
 setManifestid(1493250, "7425816379686603859", 1501408)
---Dlcname Total War: THREE KINGDOMS – The Furious Wild Original Soundtrack
-addappid(1637330) --Dlcname Total War: THREE KINGDOMS – The Furious Wild Original Soundtrack
-addappid(1637331, 1, "786118195045d416578fb71a1b78e876b024a85a1f4c19ff61e674f37154d616") --Dlc Windows Depot Total War: THREE KINGDOMS – The Furious Wild Original Soundtrack
-setManifestid(1637331, "3527068674572545898", 239719536)
-addappid(1637332, 1, "c4334e821101742d5f52bac5928f789616d332f15f4eae18995a2c0c00e82ac6") --Dlc Windows Depot Total War: THREE KINGDOMS – The Furious Wild Original Soundtrack
-setManifestid(1637332, "3641362735100326937", 84248000)
---Dlcname Total War: THREE KINGDOMS - Original Soundtrack
-addappid(1970200) --Dlcname Total War: THREE KINGDOMS - Original Soundtrack
-addappid(1970202, 1, "f31e16d1e4c61b405b4e56aef49c2284523eb109e07117fa6f14a7307e750266") --Dlc Windows Depot Total War: THREE KINGDOMS - Original Soundtrack
-setManifestid(1970202, "7010346969812327271", 187783792)
-addappid(1970203, 1, "39f46069fff85011c27527f2d1306f230029625ca07e23b930821e09facbb521") --Dlc Windows Depot Total War: THREE KINGDOMS - Original Soundtrack
-setManifestid(1970203, "9107919310165550256", 556031264)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
