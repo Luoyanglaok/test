@@ -23,12 +23,6 @@ setManifestid(661, "8164832528872470690", 27596896)
 --Dlcname Portal 2 Sixense MotionPack
 addappid(660, 1, "759d2251fd0bb050f088c166dc269ea869ddafde525032db3095fbf06cc0dfc3") --Dlcname Portal 2 Sixense MotionPack
 setManifestid(660, "2679694482538379167", 444528944)
---Dlcname Portal 2 Soundtrack
-addappid(323180, 1, "3845d6afedc1ae0879cd7af31df2bf42724e94bc07e672023ee4d12c422befee") --Dlcname Portal 2 Soundtrack
-addappid(323184, 1, "e20344b3d3b8542dd688df9c0ea6c68482dabe0d49774a297fc06782acd1d952") --Dlc Windows Depot Portal 2 Soundtrack
-setManifestid(323184, "658642952988970250", 1149287072)
-addappid(323185, 1, "33658cb0a5a5c9d74b8bb94b2307030da8b8925b41edc06674458a1d094cabba") --Dlc Windows Depot Portal 2 Soundtrack
-setManifestid(323185, "8466984105877234385", 450495456)
 addappid(650) --Dlcname Portal 2 - Gamestop PS3 DLC
 addappid(651) --Dlcname Portal 2 - Bot Paint Job DLC
 addappid(652) --Dlcname Portal 2 - Bot Roll Cage DLC
