@@ -3,15 +3,15 @@
 --Gamename Anno 117: Pax Romana
 addappid(3274580, 1, "353c6ea14a59554350687fbc679379bf5094473ae8792b1324bb55536ae4d88e") --Mainappid Anno 117: Pax Romana
 addappid(3274581, 1, "29f1b2f2b84b5981fe5e3ebadc14b925e747eea87b6556a95001d576acb9beb9") --Main Windows Depot Anno 117: Pax Romana
-setManifestid(3274581, "5845007920181389140", 69215831760)
+setManifestid(3274581, "4939944766550030512", 70943140016)
 addappid(3274582, 1, "f04b6ff10311fb1d95b43528e4681da8a1b615a31d69275af308d77f93602a4f") --Main Windows Depot Anno 117: Pax Romana
-setManifestid(3274582, "2323456942143318593", 334050784)
+setManifestid(3274582, "789801293752443096", 334068432)
 addappid(3274583, 1, "dc97a69d99aeaea85bf8ec545b63e9a140606870c2f17f9fec7967c463060618") --Main Windows Depot Anno 117: Pax Romana
-setManifestid(3274583, "4939646312621748083", 371903584)
+setManifestid(3274583, "5563637206002201941", 371924208)
 addappid(3274584, 1, "e8679d4318f2f44fc44ff183048c09321b4b84000680a1675fe1dd5463d2f24e") --Main Windows Depot Anno 117: Pax Romana
-setManifestid(3274584, "3648053476570262086", 386455264)
+setManifestid(3274584, "1381500153433211330", 386472672)
 addappid(3274585, 1, "b08a4e3e71782afe4166e047a91bed2a236df33c2b0d0fe02a7ca3dba1a15912") --Main Windows Depot Anno 117: Pax Romana
-setManifestid(3274585, "174882112856049611", 355312800)
+setManifestid(3274585, "2323988109610745051", 355330240)
 --Share Depots
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
 setManifestid(1716751, "6659642105086821873", 264636800)
@@ -27,6 +27,8 @@ addappid(3874230) --Dlcname Anno 117 - Marvellous Mosaic Pack
 addappid(3874240) --Dlcname Anno 117 - CDLC 01 Ubisoft Activation
 addappid(3874260) --Dlcname Anno 117: Pax Romana – Blooming Cities Pack
 addappid(3874270) --Dlcname Anno 117: Pax Romana – Blooming Cities Pack Ubisoft Activation
+addappid(3874280) --Dlcname Anno 117: Pax Romana - Echoes of Kassandra Pack
+addappid(3874290) --Dlcname Anno 117: Pax Romana - Echoes of Kassandra Pack Ubisoft Activation
 addappid(3875910) --Dlcname Anno 117 - Closed Beta Ubisoft Activation
 addappid(4168120) --Dlcname Anno 117: Pax Romana Standard Edition Launch - Ubisoft Activation
 addappid(4168130) --Dlcname Anno 117: Pax Romana Gold Edition Launch - Ubisoft Activation
