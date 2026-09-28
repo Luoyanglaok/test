@@ -12,11 +12,6 @@ addappid(224265, 1, "405e32e56a563553f8c3b22f9b6655e1a871f43b6b4fd95220243cf46e9
 setManifestid(224265, "3771566521610106510", 1870912272)
 addappid(224266, 1, "db5c882cdbfa354e9db8b98d5fdec7cb2f631225c5bed500ed5ffab7ef77cb0a") --Main Linux Depot No More Room in Hell
 setManifestid(224266, "9078342065902040751", 1798987520)
---Dlcname No More Room in Hell - Original Soundtrack Volume 1
-addappid(310660, 1, "44f3049ae1bb29b26b1c535721495f8370ee4afbe571513bd445820746bcdf0c") --Dlcname No More Room in Hell - Original Soundtrack Volume 1
-setManifestid(310660, "7170683187232556788", 134944272)
-addappid(310661, 1, "721f1ffb29533b2278f000d9154dee5f5d34ba53257a31fba77091abed03ccb8") --Dlc Windows Depot No More Room in Hell - Original Soundtrack Volume 1
-setManifestid(310661, "758102933840971922", 538884528)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
