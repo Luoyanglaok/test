@@ -1,5 +1,9 @@
-addappid(1839810)
-addappid(1839811,0,"b86d28be2ce99299dbc3db1499c914ce7f15674cf0e72b57198e772c2f1d72d7")
-setManifestid(1839811,"3708763628177562531")
-addappid(3627570,0,"eeae46b3c3a3fe4436f401da403094032b0f05928202f0e430fa6d53e3abd4a8")
-setManifestid(3627570,"4306062235564715740")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1839810.lua
+--Gamename Out Of Hands
+addappid(1839810, 1, "12e6592d5eeab1320e6af22078df95723a560d7027eddffe653e1fcbfc3c833e") --Mainappid Out Of Hands
+addappid(1839811, 1, "b86d28be2ce99299dbc3db1499c914ce7f15674cf0e72b57198e772c2f1d72d7") --Main Windows Depot Out Of Hands
+setManifestid(1839811, "7347646811256244607", 1153842720)
+--Dlcname Out of hands - Collector's Edition Upgrade Package
+addappid(3627570, 1, "eeae46b3c3a3fe4436f401da403094032b0f05928202f0e430fa6d53e3abd4a8") --Dlcname Out of hands - Collector's Edition Upgrade Package
+setManifestid(3627570, "4306062235564715740", 646526752)
