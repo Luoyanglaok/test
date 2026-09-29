@@ -70,12 +70,6 @@ addappid(880640, 1, "b104cdc6fff9d11907a3d10b050d1253ca16a2066389ba224bac1e222f2
 setManifestid(880640, "5028798400746426703", 112)
 addappid(880641, 1, "5e938fad1154750107d16a5b43ec7680a49c73f0470f925f16950bb9665da120") --Dlc Macos Depot Divinity: Original Sin 2 - Companion: Sir Lora the Squirrel
 setManifestid(880641, "1700988001881828326", 112)
---Dlcname Divinity: Original Sin 2 Soundtrack
-addappid(1247270) --Dlcname Divinity: Original Sin 2 Soundtrack
-addappid(1247271, 1, "a29c0296550948b07ae00fa316334a5f2cc6cf48c4db684110e70ca76dd405bd") --Dlc Windows Depot Divinity: Original Sin 2 Soundtrack
-setManifestid(1247271, "2682621339829912931", 1162406624)
-addappid(1247272, 1, "efacfd54dc1fbda27791ac954f9416a6a82319c5606bf3bcf1dcbabe5c6d1928") --Dlc Windows Depot Divinity: Original Sin 2 Soundtrack
-setManifestid(1247272, "4167505404076432971", 688428576)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
