@@ -1,9 +1,16 @@
-addappid(870780)
-addappid(870782,0,"22f225623a05b2132b01df734187f47fe3aa8d7f0f3133134257c8faa8a320d1")
-setManifestid(870782,"363650279708717036")
-addappid(870781,0,"ba516099bc56d74a9189e3d8a3a363a66125773c0cd91188544030b33eb14989")
-setManifestid(870781,"2726368927565702926")
-addappid(1538740,0,"27264fde6ec20e213bd590f18d54320d14046bdd4468568248dc374b6d6d672d")
-setManifestid(1538740,"801426863500063984")
-addappid(1538741,0,"e09efa0197dd8d6793517591863fc31bc4fb6592003e357f027282f6d92bc640")
-setManifestid(1538741,"3718703897375892326")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 870780.lua
+--Gamename CONTROL Ultimate Edition
+addappid(870780, 1, "e8487fbc6596502264a91a83f921940da34d46ab12c97430f7c805e013a496b4") --Mainappid CONTROL Ultimate Edition
+addappid(870781, 1, "ba516099bc56d74a9189e3d8a3a363a66125773c0cd91188544030b33eb14989") --Main Windows Depot CONTROL Ultimate Edition
+setManifestid(870781, "2726368927565702926", 24047687488)
+addappid(870782, 1, "22f225623a05b2132b01df734187f47fe3aa8d7f0f3133134257c8faa8a320d1") --Main Windows Depot CONTROL Ultimate Edition
+setManifestid(870782, "363650279708717036", 24038295632)
+addappid(870785, 1, "e8f3d5bed3e25356b820db927d52bc95acc1a4ce443d0c52ceed208cc5daff43") --Main Macos Depot CONTROL Ultimate Edition
+setManifestid(870785, "8533237800063700314", 27356978560)
+--Dlcname Control - The Foundation
+addappid(1538740, 1, "27264fde6ec20e213bd590f18d54320d14046bdd4468568248dc374b6d6d672d") --Dlcname Control - The Foundation
+setManifestid(1538740, "801426863500063984", 64)
+--Dlcname Control - AWE
+addappid(1538741, 1, "e09efa0197dd8d6793517591863fc31bc4fb6592003e357f027282f6d92bc640") --Dlcname Control - AWE
+setManifestid(1538741, "3718703897375892326", 48)
