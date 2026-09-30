@@ -3,13 +3,7 @@
 --Gamename Back to the Dawn
 addappid(1735700, 1, "113c82b120b76ed1b42a4cec94e104fec92fb04156aee028698ce1fe161f5fa9") --Mainappid Back to the Dawn
 addappid(1735701, 1, "f2bbd7e59cb9050efe964f132c6edcb6059ffefaa0995f9b658989c95a85d7df") --Main Windows Depot Back to the Dawn
-setManifestid(1735701, "3293226214379797659", 1238568576)
---Dlcname Back to the Dawn - Original Soundtrack
-addappid(2646420) --Dlcname Back to the Dawn - Original Soundtrack
-addappid(2646421, 1, "10604d3dec843e1666b3fee920169e1c9758852911109b08f24d9783d8e07398") --Dlc Windows Depot Back to the Dawn - Original Soundtrack
-setManifestid(2646421, "1621856909135907349", 132333072)
-addappid(2646422, 1, "126aa0345576d873662ac1e268c5ad98f102a41a45561155e8a4ef640e976277") --Dlc Windows Depot Back to the Dawn - Original Soundtrack
-setManifestid(2646422, "598068047997893263", 941563328)
+setManifestid(1735701, "492482781007724142", 1240391552)
 --Dlcname Back to the Dawn - Supporter Pack
 addappid(3700590) --Dlcname Back to the Dawn - Supporter Pack
 addappid(3700591, 1, "999ea4a5f7c7406dcf832770bb051d0ba6d4dbe8df09e6412ccdf3464379b120") --Dlc Windows Depot Back to the Dawn - Supporter Pack
