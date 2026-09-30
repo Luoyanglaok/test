@@ -5,17 +5,17 @@ addappid(872410, 1, "b35001f8360a070729e1ed0aa5f7c1f2ff3a86b4bedb1dcfff942753304
 addappid(872411, 1, "7816f4f3dc21fd070c471c51bd6edb0f1875e0dcd71a5f8225d7543186b677e4") --Main Windows Depot ROMANCE OF THE THREE KINGDOMS XIV
 setManifestid(872411, "247060224827963761", 107680432)
 addappid(872412, 1, "a7a9b2aa07ea6f65c6e11c82e528819858b22b723696ee0bc7f62b567cc55602") --Main Windows Depot ROMANCE OF THE THREE KINGDOMS XIV
-setManifestid(872412, "1821258790151557907", 11752857392)
+setManifestid(872412, "2389216902883305032", 11757130096)
 addappid(872413, 1, "64FB6A1A445D7541305BEBD0BDF500B61FAD204978FC76A4E74C5DE12E5A925F") --Main Windows Depot ROMANCE OF THE THREE KINGDOMS XIV
 setManifestid(872413, "2708382053934172341", 0)
 addappid(872414, 1, "182b089b1582dd47ba82e8efa49e4be9ae1d2d8cc6427fb409e59fb0fa9189f6") --Main Windows Depot ROMANCE OF THE THREE KINGDOMS XIV
 setManifestid(872414, "8553357306661913417", 558249472)
 --Dlcname RTK14: Scenario [Battle of Yiling]
 addappid(1198830, 1, "edd2d961ed4a31223af649b16eba8fc4e3c7f1057b352cae94acc5b262cb9a7e") --Dlcname RTK14: Scenario [Battle of Yiling]
-setManifestid(1198830, "4537773435072559451", 1758864)
+setManifestid(1198830, "5645698232442849908", 1758864)
 --Dlcname RTK14: Scenario [Autumn Winds in Wuzhangyuan]
 addappid(1198831, 1, "FDA99AC90D09602F2CF30F845C5D1EFBD762A6E04F638A41AA8921F204A1592D") --Dlcname RTK14: Scenario [Autumn Winds in Wuzhangyuan]
-setManifestid(1198831, "4773667971732112719", 1741664)
+setManifestid(1198831, "1852074642499439707", 1741664)
 --Dlcname RTK14: Scenario [The Start of Change]
 addappid(1198832, 1, "cbfb276398ff7639cf91e26db7cc00aee7869d1c9a63fa8d7d285e2d1de32a75") --Dlcname RTK14: Scenario [The Start of Change]
 setManifestid(1198832, "4729672140666924474", 1210624)
@@ -84,7 +84,7 @@ addappid(1258152, 1, "9291779e848113da1b7de59663c0473a1ed7dc7970a584d37207f8a6a2
 setManifestid(1258152, "1609349454990144848", 7520)
 --Dlcname RTK14: "Legend of the Galactic Heroes" Collab Scenario "In the Midst of an Endless Dream" & Reinhard & Yang Officer Data Set
 addappid(1258154, 1, "18c6dbffd52866092690b6e676249d6edbc95a653f3719db4062ee7c50fb248c") --Dlcname RTK14: "Legend of the Galactic Heroes" Collab Scenario "In the Midst of an Endless Dream" & Reinhard & Yang Officer Data Set
-setManifestid(1258154, "225361991569734678", 1730448)
+setManifestid(1258154, "722678050490485000", 1730448)
 --Dlcname RTK14: Tie-up Officer "Zhuge Liang" Data
 addappid(1258155, 1, "6d4ffdf50180101da5d16051e93e2a213587dbb4d404738c09851063c8989313") --Dlcname RTK14: Tie-up Officer "Zhuge Liang" Data
 setManifestid(1258155, "3090505027647891977", 992)
@@ -96,7 +96,7 @@ addappid(1427650, 1, "b1d1308079c2208633cea7b2e9d4f4bef64d3635d80917c59c8fff7f06
 setManifestid(1427650, "6260143535053874155", 4908146176)
 --Dlcname RTK14 EP: Scenario [The Fall of Shu Han]
 addappid(1431480, 1, "76ff1f00483ca80b75580c6021650cee27320215d2a7dac9c4fc46b20a569a15") --Dlcname RTK14 EP: Scenario [The Fall of Shu Han]
-setManifestid(1431480, "537728245166833856", 1591600)
+setManifestid(1431480, "4017942043570574950", 1591600)
 --Dlcname RTK14: "Ishin no Arashi" Officer Data Set
 addappid(1431481, 1, "C8DF32063CB76912D161683F0CF64BC14C00154DE4939B48225B187428B882BE") --Dlcname RTK14: "Ishin no Arashi" Officer Data Set
 setManifestid(1431481, "807548417110382181", 176)
@@ -159,10 +159,10 @@ addappid(1638311, 1, "edd94190771b3fbebd9620bf176354ec340ed9c886b1636f5e1a50f48c
 setManifestid(1638311, "355277098172238882", 34612416)
 --Dlcname ROMANCE OF THE THREE KINGDOMS XIV Complete Edition Upgrade Pack
 addappid(4508240, 1, "9482c485957091e0c40d884b6bdcd203cca8e1bb55d70bc1f5be6b0c8ace07df") --Dlcname ROMANCE OF THE THREE KINGDOMS XIV Complete Edition Upgrade Pack
-setManifestid(4508240, "7946659053514602182", 7382973120)
+setManifestid(4508240, "8895739041082902174", 7382982368)
 --Dlcname RTK14CE: Scenario [Bold Ambition]
 addappid(4598960, 1, "2636b8ad298d762ff638c4d8eb423720bdedfbcfb43aeee291c231309eec9954") --Dlcname RTK14CE: Scenario [Bold Ambition]
-setManifestid(4598960, "1921642133311921964", 530000)
+setManifestid(4598960, "5357641365557029594", 530000)
 --Share Depots
 addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228986, "8782296191957114623", 23045488)
