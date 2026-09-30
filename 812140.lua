@@ -39,7 +39,7 @@ addappid(857157, 1, "322b49c10e633b78fd5e37cc8ef9cf5f8eb4b000472ab38228b068a9921
 setManifestid(857157, "5671725767919675728", 6776838688)
 --Share Depots
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
-setManifestid(1716751, "6659642105086821873", 264636800)
+setManifestid(1716751, "686731643572352019", 264401856)
 addappid(857150) --Dlcname Assassin's Creed Odyssey - Preorder Standard - Uplay Activation
 addappid(857151) --Dlcname Assassin's Creed Odyssey - Preorder Deluxe - Uplay Activation
 addappid(857152) --Dlcname Assassin's Creed Odyssey - Preorder Gold - Uplay Activation
