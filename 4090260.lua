@@ -3,6 +3,6 @@
 --Gamename Lifeguard Holic
 addappid(4090260) --Mainappid Lifeguard Holic
 addappid(4090261, 1, "22e4f65e4323198ea2ecc5f076766d7c7b4e7637f30121c3dd79cdb4c9052eba") --Main Windows Depot Lifeguard Holic
-setManifestid(4090261, "5075648810136899815", 1697317504)
+setManifestid(4090261, "2894220569627432962", 1700977840)
 --Missing Dlcs
 --Dlcname Lifeguard Holic - ArtBook
