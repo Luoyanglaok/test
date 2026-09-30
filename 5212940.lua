@@ -3,7 +3,7 @@
 --Gamename Bunker Tidy Up
 addappid(5212940) --Mainappid Bunker Tidy Up
 addappid(5212941, 1, "1a92f7bc8f47ade9a0924492c4070189a511d94ce54a6e88558081680f943a48") --Main Windows Depot Bunker Tidy Up
-setManifestid(5212941, "7916459282665775536", 1068585552)
+setManifestid(5212941, "5383573694342356886", 1065744800)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
