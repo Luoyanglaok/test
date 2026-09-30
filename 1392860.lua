@@ -3,7 +3,7 @@
 --Gamename Little Nightmares III
 addappid(1392860, 1, "8629cb2029941f570bf6fa875b80ed70fb66f92674c8f43d25937825732ae4a2") --Mainappid Little Nightmares III
 addappid(1392863, 1, "2a40e8e4f16a349cec1ad4cdd732e6a88afb1d0676c8de3061c87c7d815343d0") --Main Windows Depot Little Nightmares III
-setManifestid(1392863, "6846720868659646762", 14844215472)
+setManifestid(1392863, "7278182021016678079", 15980071584)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
@@ -19,6 +19,7 @@ addappid(229033, 1, "9a789440bbc16131547ac6c062e5f168f7684da533a2899a71fdfaaeec2
 setManifestid(229033, "2059065101492814639", 59325760)
 addappid(2088780) --Dlcname Little Nightmares III - Full Game
 addappid(2088781) --Dlcname Little Nightmares III - The Backstage
+addappid(2088782) --Dlcname Little Nightmares III - The Shores
 addappid(2088783) --Dlcname Little Nightmares III - Ferryman Costumes Set
 addappid(2088785) --Dlcname Little Nightmares III - Residents Costumes Pack
 addappid(2088786) --Dlcname Little Nightmares III - Dark Six Costumes Set
