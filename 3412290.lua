@@ -16,3 +16,5 @@ addappid(4234744, 1, "3e5b674e015dbf5650e852200ddc3737df7c7261048b9a3924ee0a30b3
 setManifestid(4234744, "4869641985846109073", 28259232)
 addappid(4234745, 1, "5b1bb4866bc7fe509f151aabee9bf56c1b1a0574cf52e76c6d2d8bc29286fe74") --Dlc Windows Language Depot Tchinese NTRaholic SS - ArtBook
 setManifestid(4234745, "5019499892992148050", 28317728)
+--Missing Dlcs
+--Dlcname NTRaholic SS - Soundtrack
