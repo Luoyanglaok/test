@@ -20,6 +20,6 @@ setManifestid(1225567, "2748622227753890764", 59632)
 addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228984, "2547553897526095397", 13436144)
 addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") --Share Windows Depot EA APP Installer
-setManifestid(3340991, "3755387105551220105", 246722480)
+setManifestid(3340991, "2872608919245318765", 246896672)
 addappid(1294930) --Dlcname AppID 1294930
 addtoken(1294930, "11560506825038259258")
