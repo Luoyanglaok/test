@@ -10,7 +10,7 @@ setManifestid(228988, "6645201662696499616", 22411856)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
 addappid(4099821, 1, "c7c4a97983f36a1e400ca40e3748eaa6a47424007cad7ff369a743c3ad32cf87") --Share Windows Depot Ubisoft Connect Services
-setManifestid(4099821, "8794961099441667696", 264286864)
+setManifestid(4099821, "3110417424153362148", 263988864)
 addappid(2961560) --Dlcname Prince of Persia The Lost Crown - Ubisoft Activation
 addappid(2961570) --Dlcname Prince of Persia The Lost Crown - Deluxe Pack
 addappid(2961580) --Dlcname Prince of Persia The Lost Crown - Deluxe Pack Ubisoft Activation
