@@ -3,9 +3,9 @@
 --Gamename Farming Simulator 25
 addappid(2300320, 1, "7c0ac74f428b6c8d7c059b22347a2bcc3b6cc11ae5f142dba0327533ce49b52c") --Mainappid Farming Simulator 25
 addappid(2300321, 1, "e5e857b4939e3993f78ae1bfa1857aa4dca14c90680aec0e63f48565c885c2ae") --Main Windows Depot Farming Simulator 25
-setManifestid(2300321, "2942346977020221913", 23926248368)
+setManifestid(2300321, "3904021941430796832", 24000715568)
 addappid(2300322, 1, "e60dffe1f9b3a6f6fb4475045e0d66ec6a40410ffb036ce2dd37fd88c3acd6a5") --Main Macos Depot Farming Simulator 25
-setManifestid(2300322, "8752823399378312131", 22375269312)
+setManifestid(2300322, "6916511511992336931", 22437467360)
 addappid(2300323, 1, "3de49a7eee583d841ab3194df793f8db9fe186930c8623d2a864a81ff5586afd") --Main Windows Language Depot English Farming Simulator 25
 setManifestid(2300323, "1550107122794757569", 0)
 addappid(2300324, 1, "f8938589cbd4ca4f7c8031839fe15759ac1c8c79ef2eaef69e6a00241703a2c5") --Main Windows Language Depot German Farming Simulator 25
@@ -69,10 +69,10 @@ addappid(3453960, 1, "2316b4442225a84b1c071368fbca8259d035c27a00d6bd261001f64344
 setManifestid(3453960, "7125736555787811725", 599379040)
 --Dlcname Farming Simulator 25: Highlands Fishing Expansion
 addappid(3453970, 1, "bda31b60d517b56988250720f32f8e205ae01b8e0137f6e0c65150a0d7ff4a02") --Dlcname Farming Simulator 25: Highlands Fishing Expansion
-setManifestid(3453970, "7870183526494872168", 4830886896)
+setManifestid(3453970, "4184261993326395790", 4830901472)
 --Dlcname Farming Simulator 25: Straw Harvest Pack
 addappid(3816190, 1, "c4bb89ebe43f8f1e8d233156a2b7ded8c2696eb186afbdfdbe7a58b9c53e9f97") --Dlcname Farming Simulator 25: Straw Harvest Pack
-setManifestid(3816190, "1491330788882535021", 255879200)
+setManifestid(3816190, "6730304711622728464", 240199856)
 --Dlcname Farming Simulator 25: JCB - WFT
 addappid(4054370, 1, "c184b40eca33e8c19bd297e07790abb95aaf1420d694646707ca7bedbd8cd6a7") --Dlcname Farming Simulator 25: JCB - WFT
 setManifestid(4054370, "2097302948663994711", 132640)
@@ -87,6 +87,6 @@ addappid(4651570, 1, "01db07db648105515fd656c7dba1789dab4308b0faeeb1c1ab9b69d337
 setManifestid(4651570, "818651558017765456", 334118912)
 addappid(2981100) --Dlcname Farming Simulator 25: Year 1 Season Pass
 addappid(3453810) --Dlcname Farming Simulator 25: Year 2 Season Pass
-addappid(4404070) --Dlcname Farming Simulator 25: Beans & Alpacas Expansion
 --Missing Dlcs
+--Dlcname Farming Simulator 25: Beans & Alpacas Expansion
 --Dlcname Farming Simulator 25: Pumps n' Hoses Pack
