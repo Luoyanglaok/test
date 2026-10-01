@@ -13,7 +13,7 @@ setManifestid(2432590, "7910386811588276346", 55158744048)
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
-setManifestid(1716751, "6659642105086821873", 264636800)
+setManifestid(1716751, "686731643572352019", 264401856)
 addappid(2369450) --Dlcname Far Cry 6: Lost Between Worlds
 addappid(2369451) --Dlcname Far Cry 6: Lost Between Worlds - Ubisoft Activation
 addappid(2369452) --Dlcname Far Cry 6 Game of the Year Upgrade Pass
