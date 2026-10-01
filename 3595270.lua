@@ -5,7 +5,7 @@ addappid(3595270, 1, "defe8c09251c5dc5e626379a70a191334758cbc97509c5aafe0a3970a1
 addappid(3603275, 1, "5ab825dc9a9ce12ed4c80b8c2350c71c045889faac2b0ead2da40b5bd6f3d383") --Main Windows Depot Call of Duty®: Modern Warfare® III
 setManifestid(3603275, "7984866385554596259", 61541803616)
 addappid(3603276, 1, "8e4afff2de1cf7e10417dcff72dfe50a0e3105c47eff17ffcef027a3deaac61c") --Main Windows Depot Call of Duty®: Modern Warfare® III
-setManifestid(3603276, "968564715931029609", 453950064)
+setManifestid(3603276, "3026113105436525094", 446315376)
 addappid(3603277, 1, "0c3755b90ad768ea9d8ac6947724b80867b35f67d07863e9af44e3089a9b5723") --Main Windows Language Depot English Call of Duty®: Modern Warfare® III
 setManifestid(3603277, "6275043849302050754", 879880352)
 addappid(3603278, 1, "42cc510757e9449645e00dd6ae385c6502721e11525b1f603e4708e0e3b95553") --Main Windows Language Depot French Call of Duty®: Modern Warfare® III
@@ -45,7 +45,7 @@ setManifestid(3603466, "7853460758022567163", 10311984)
 --Dlcname Call of Duty®: Modern Warfare® III - Campaign
 addappid(3603450, 1, "729168405a0d1171f42a3d94541d9e17a0c4f42fbac19df315ec777e49c1b239") --Dlcname Call of Duty®: Modern Warfare® III - Campaign
 addappid(3595272, 1, "4086d876414362977890e32aeb7aabcce058599bd6a954808d6604011a4c77b1") --Dlc Windows Depot Call of Duty®: Modern Warfare® III - Campaign
-setManifestid(3595272, "3391757602061610086", 432618112)
+setManifestid(3595272, "4979641077842499650", 432618176)
 addappid(3595273, 1, "dae927e306ed94b925fdb577c5a2eea433edc1a9ea4d2fb4014c4f5bdb9a665d") --Dlc Windows Language Depot English Call of Duty®: Modern Warfare® III - Campaign
 setManifestid(3595273, "5004507027799148762", 819703664)
 addappid(3595274, 1, "e90b253c7eb92b7993543dbc20b89149d04b50bdfd5e2773e2fbd086ff3f2c54") --Dlc Windows Language Depot French Call of Duty®: Modern Warfare® III - Campaign
