@@ -269,21 +269,6 @@ addappid(2148900) --Dlcname Cities: Skylines - Content Creator Pack: Africa in M
 addappid(2148901) --Dlcname Cities: Skylines - Financial Districts
 addappid(2148903) --Dlcname Cities: Skylines - Content Creator Pack: Map Pack 2
 addappid(2224690) --Dlcname Cities: Skylines - Content Creator Pack: Sports Venues
-addappid(2224691) --Dlcname Cities: Skylines - Content Creator Pack: Shopping Malls
-addappid(2313320) --Dlcname Cities: Skylines - Content Creator Pack: Brooklyn & Queens
-addappid(2313321) --Dlcname Cities: Skylines - Content Creator Pack: Railroads of Japan
-addappid(2313322) --Dlcname Cities: Skylines - Content Creator Pack: Industrial Evolution
-addappid(2342310) --Dlcname Cities: Skylines - Hotels & Retreats
-addappid(2934300) --Dlcname Cities: Skylines - Expansion Subscription
-addappid(2955870) --Dlcname Cities: Skylines - Content Creator Pack: Mountain Village
-addappid(2955880) --Dlcname Cities: Skylines - Content Creator Pack: Map Pack 3
-addappid(2955900) --Dlcname Cities: Skylines - Content Creator Pack: Countryside
-addappid(2955910) --Dlcname Cities: Skylines - Content Creator Pack: Emerging Downtown
-addappid(3731500) --Dlcname Cities: Skylines - Content Creator Pack: Shops of Shibuya
-addappid(3731510) --Dlcname Cities: Skylines - Content Creator Pack: Map Pack 4
-addappid(4031130) --Dlcname Cities: Skylines - Race Day
-addappid(4031140) --Dlcname Cities: Skylines - Content Creator Pack: Renewed History
-addappid(4031150) --Dlcname Cities: Skylines - Content Creator Pack: Iconic Brutalism
 --Missing Dlcs
 --Dlcname Cities: Skylines - Deluxe Edition Upgrade Pack
 --Dlcname Cities: Skylines - After Dark
