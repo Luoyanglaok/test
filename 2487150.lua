@@ -3,7 +3,7 @@
 --Gamename Deconstruction Simulator
 addappid(2487150, 1, "74bd2cac3087267e9905b6e3fcc0db2d351adda777799fb7484ff3400aef82ec") --Mainappid Deconstruction Simulator
 addappid(2487151, 1, "734BFF9AED757224CE32FDD52D7EF669C41D5E8D0C6F972006E554F1B8E0BBC1") --Main Windows Depot Deconstruction Simulator
-setManifestid(2487151, "6412176256665855563", 10242467072)
+setManifestid(2487151, "1963451272043587864", 10436990528)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
