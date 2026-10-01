@@ -4,6 +4,10 @@
 addappid(2322010, 1, "13d2e9ad8a1b887be0b84504b3ca15dd92617a090c9751c180f8aa04986f3871") --Mainappid God of War Ragnarök
 addappid(2322011, 1, "78758c85a2a8b04770fb4fe430ac7a215a959b72e496d94f6a0ec5ac38066f49") --Main Windows Depot God of War Ragnarök
 setManifestid(2322011, "151255971557114067", 107627197504)
+--Dlcname God of War Ragnarök Soundtrack
+addappid(2974310) --Dlcname God of War Ragnarök Soundtrack
+addappid(2974311, 1, "fadc9bf7352e7ae30b2451f6605c9cc89ea27b23388f2788cd5223df14bac32f") --Dlc Windows Depot God of War Ragnarök Soundtrack
+setManifestid(2974311, "6676705054900401854", 135387328)
 --Dlcname God of War Ragnarök - Digital Artbook
 addtoken(2974340, "14621696841799701455")
 addappid(2974340, 1, "b54ec4dbd1528067329c6ce102d3dc0501401e41b08a6cabc0c947d0c9541baf") --Dlcname God of War Ragnarök - Digital Artbook
