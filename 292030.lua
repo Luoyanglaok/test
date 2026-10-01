@@ -3,17 +3,17 @@
 --Gamename The Witcher 3: Wild Hunt — Remastered
 addappid(292030, 1, "9cee38a2013555e62de550c2d53e86dd747dd60d6ca81fda65ff7711d517e322") --Mainappid The Witcher 3: Wild Hunt — Remastered
 addappid(292031, 1, "57538aae18fccf308ea67da213c57b2635d53d14b59ade4ebb068dca33328eee") --Main Windows Depot The Witcher 3: Wild Hunt — Remastered
-setManifestid(292031, "2922676153265187497", 54884453376)
+setManifestid(292031, "8401480366474980007", 54882289968)
 addappid(292032, 1, "f6f8cb024f592fa85a1e86523011ed889893386f235624a5a76e12428be6fbac") --Main Windows Depot The Witcher 3: Wild Hunt — Remastered
-setManifestid(292032, "5554592066084759647", 232801024)
+setManifestid(292032, "5174506840141943778", 215596400)
 addappid(292033, 1, "11b857e28f6db3a43762d6756bfb09d701c922ec27ea12cbb8bad1104a184466") --Main Windows Depot The Witcher 3: Wild Hunt — Remastered
 setManifestid(292033, "5639169236463762487", 3724906608)
 addappid(292034, 1, "876688c365d3ed8b11a0c1454d8e64234a22dde3e7798ca8e2aa70d55ad5082b") --Main Windows Depot The Witcher 3: Wild Hunt — Remastered
-setManifestid(292034, "8502320000674613904", 18555952)
+setManifestid(292034, "1471816207121287460", 18559600)
 addappid(292035, 1, "a29f657f2ef95293a55076c120ac3814e8145c1253455c6eb162bf8f03aeb705") --Main Windows Language Depot Polish The Witcher 3: Wild Hunt — Remastered
-setManifestid(292035, "4709712819136785389", 4079144752)
+setManifestid(292035, "1406493503481382727", 4079280224)
 addappid(292036, 1, "a382ab2faaacad1573c079e6ce74400decd37e6e1a388d67ca242a3aa7af8e0c") --Main Windows Depot The Witcher 3: Wild Hunt — Remastered
-setManifestid(292036, "4158074192155652058", 4044117744)
+setManifestid(292036, "4498822283354740037", 4044231984)
 addappid(292037, 1, "9d4d27d17de980de7a96d2a810f649f2195deeb47ac6aae8f31ca09e17543581") --Main Windows Language Depot German The Witcher 3: Wild Hunt — Remastered
 setManifestid(292037, "7757406978238915680", 4122144752)
 addappid(292038, 1, "1b451418b38bac4816cbb838bc7fe6e9273a6228f4498e86c4ed54a0ab9a1156") --Main Windows Language Depot French The Witcher 3: Wild Hunt — Remastered
@@ -23,15 +23,15 @@ setManifestid(292039, "1094301193188415451", 4289349344)
 addappid(292040, 1, "ce852c61d460e3e716ca8e755d1e1485bb467944f96c8b0509fae32f9b2a6392") --Main Windows Language Depot Japanese The Witcher 3: Wild Hunt — Remastered
 setManifestid(292040, "1055515309782828054", 4248064864)
 addappid(292041, 1, "7dbc791cd60110b1d08e49d871b15d2356ce70224ca7d950b3ea36617cfbe8bb") --Main Windows Language Depot Brazilian The Witcher 3: Wild Hunt — Remastered
-setManifestid(292041, "7176391511584801507", 4090077888)
+setManifestid(292041, "7062215793958162938", 4090041824)
 addappid(292042, 1, "47e959135bc89e032628b3ed3a21c3cd18719d5e111c8489f131d0b166422995") --Main Windows Depot The Witcher 3: Wild Hunt — Remastered
-setManifestid(292042, "2032392750977723237", 25678064)
+setManifestid(292042, "2063161817013812169", 25623504)
 addappid(370007, 1, "e501823568fd98483bacffd2f32510ba9aabaf2d012ff8e9f8280eedfbd4986c") --Main Windows Language Depot Koreana The Witcher 3: Wild Hunt — Remastered
 setManifestid(370007, "4881192758118703464", 4117979648)
 addappid(370008, 1, "dba9227ccbfd4748acec6b60fa6cc450ff9303df51c1d319c9c0ac8d87000798") --Main Windows Language Depot Schinese The Witcher 3: Wild Hunt — Remastered
-setManifestid(370008, "8350418597615240707", 4228143520)
+setManifestid(370008, "6654499475728389034", 4228329552)
 addappid(370009, 1, "2b8ebd860f519578e0269e5b20a1ce13d76652bd066501087b6c3c1f77f5efc8") --Main Windows Depot The Witcher 3: Wild Hunt — Remastered
-setManifestid(370009, "603711331680572253", 701707520)
+setManifestid(370009, "4649982272464061540", 701820416)
 --Dlcname The Witcher 3: Wild Hunt - Temerian Armor Set
 addtoken(370000, "662041442504756376")
 addappid(370000, 1, "cc779551805a59df011c692726377ef65f9505362d482c96df5387856f3ea584") --Dlcname The Witcher 3: Wild Hunt - Temerian Armor Set
