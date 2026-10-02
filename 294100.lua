@@ -10,12 +10,6 @@ addappid(294103, 1, "a8218a15388519f5ded274def07d1dd1c535e1bfe646eb17463775bf47f
 setManifestid(294103, "3402513235443928324", 219365280)
 addappid(294104, 1, "db7d2330e8748efe01ff1674580919b72e40879517e378b568533acc2863ec26") --Main Windows Depot RimWorld
 setManifestid(294104, "3464668865934009251", 220473440)
---Dlcname RimWorld Soundtrack
-addappid(990430) --Dlcname RimWorld Soundtrack
-addappid(294119, 1, "209513ebdd105ce3652c7096aed2661b4b528932420c2bd8ec197605d5862af7") --Dlc Windows Depot RimWorld Soundtrack
-setManifestid(294119, "8258583433923862602", 218405904)
-addappid(990431, 1, "2174f1eb5c39b7d5a0f00b991fdb1bd690f7ea733d1e8cfdc72a42b5361cae8f") --Dlc Windows Depot RimWorld Soundtrack
-setManifestid(990431, "753342424495684036", 592028784)
 --Dlcname RimWorld - Royalty
 addappid(1149640) --Dlcname RimWorld - Royalty
 addappid(1149641, 1, "298db7a9d64ecbc820422e53907ab224611829745e8e4b20a4387efba317bee1") --Dlc Windows Depot RimWorld - Royalty
@@ -26,12 +20,6 @@ addappid(1149643, 1, "a2065b38cf6723c9cc336f68388389a7b437e4404a9856982d2594a928
 setManifestid(1149643, "6754113656273761557", 45454736)
 addappid(1149644, 1, "fafd64b303cda2e9b938ce60e7af4653a574b035d59cccd31be1ff5c2dc8c0ee") --Dlc Windows Depot RimWorld - Royalty
 setManifestid(1149644, "7712315113955907793", 45454736)
---Dlcname RimWorld - Royalty Soundtrack
-addappid(1244270) --Dlcname RimWorld - Royalty Soundtrack
-addappid(1244271, 1, "cd6458a1d30a3a5ad4b5c51798ed6fc93fa3f0fd52f7c70a4497a79c6b2cc55a") --Dlc Windows Depot RimWorld - Royalty Soundtrack
-setManifestid(1244271, "4283027827999561165", 131617824)
-addappid(1244272, 1, "536335e0e11357bfd7201e3da9da22f404dae296b6e1ab7200973bc74d3a8277") --Dlc Windows Depot RimWorld - Royalty Soundtrack
-setManifestid(1244272, "347437642438425491", 341105264)
 --Dlcname RimWorld - Ideology
 addappid(1392840) --Dlcname RimWorld - Ideology
 addappid(294105, 1, "be81976289e837bb2cb5c9858b07b9f72612a69414697f44c5b138fb3041a250") --Dlc Windows Depot RimWorld - Ideology
@@ -62,12 +50,6 @@ addappid(294111, 1, "62487ea6d7f63684007a6713749fd8fb14c7955e885aa14cda8c5daa5d9
 setManifestid(294111, "2578559749618437519", 86666896)
 addappid(294112, 1, "69dc90bdbb7c2c47b168606c5b8bde5ab1c6ec88404fa31bfb1faaf2d5c452c3") --Dlc Linux Depot RimWorld - Anomaly
 setManifestid(294112, "5458951638725268137", 86666816)
---Dlcname RimWorld - Anomaly Soundtrack
-addappid(2914900) --Dlcname RimWorld - Anomaly Soundtrack
-addappid(2914901, 1, "03388eeb53afccb2c2f23198aec94273a51c8ee9c74984ad2b22d124cd6d63b6") --Dlc Windows Depot RimWorld - Anomaly Soundtrack
-setManifestid(2914901, "7652207613232868714", 113041504)
-addappid(2914902, 1, "339734b6a82d24d9d82f4477ec85e03bd30616bc1e3b3bc72adffe09ed4cb36e") --Dlc Windows Depot RimWorld - Anomaly Soundtrack
-setManifestid(2914902, "5522610332388970330", 339693168)
 --Dlcname RimWorld - Odyssey
 addappid(3022790) --Dlcname RimWorld - Odyssey
 addappid(294113, 1, "3a667846a7e65282aae8275c6848ede3e0e48b3959c6045ebc0ceff98db49e0a") --Dlc Windows Depot RimWorld - Odyssey
@@ -78,12 +60,6 @@ addappid(294115, 1, "40C853711DD9329158BF8ACF348FF5B209664FB273949BEE5276501836C
 setManifestid(294115, "7790451553883463784", 74488112)
 addappid(294116, 1, "17B44D4AC86A4BD0F697320C0B34672092058ABA22133B9B9028E11CFF1C498D") --Dlc Linux Depot RimWorld - Odyssey
 setManifestid(294116, "5172633558563476264", 74487920)
---Dlcname RimWorld - Odyssey Soundtrack
-addappid(3689230) --Dlcname RimWorld - Odyssey Soundtrack
-addappid(3689232, 1, "d2065f031bd1063e01ca219492a7d5f8b260e7a1226642e6b01d1b2deef236a4") --Dlc Windows Depot RimWorld - Odyssey Soundtrack
-setManifestid(3689232, "1392858152249535745", 85430384)
-addappid(3689233, 1, "543d8b2ff4a6035f1d57db63a8c6720ff5c6c1312e3762f46d7177a1d3cef7b0") --Dlc Windows Depot RimWorld - Odyssey Soundtrack
-setManifestid(3689233, "2680727939990161420", 253443120)
 --Missing Dlcs
 --Dlcname RimWorld Name in Game Access
 addappid(367681) --Dlcname AppID 367681
