@@ -107,9 +107,3 @@ addappid(2235741) --Dlcname Anno 1800 - Year 4 Gold Edition Ubisoft Activation
 addappid(2277980) --Dlcname Anno 1800 – Dragon Garden Pack
 addappid(2277981) --Dlcname Anno 1800 – Dragon Garden Pack Ubisoft Activation
 addappid(2400950) --Dlcname Anno 1800 - Fiesta Pack
-addappid(2504950) --Dlcname Anno 1800 - National Park Pack
-addappid(2622020) --Dlcname Anno 1800 - Cosmetic Bundle #2
-addappid(2622040) --Dlcname Anno 1800 - Eldritch Pack
-addappid(2830580) --Dlcname Anno 1800 - Steampunk Pack
-addappid(3113620) --Dlcname Anno 1800 - Pirate Cove Pack
-addappid(3256930) --Dlcname Anno 1800 - End of an Era Pack
