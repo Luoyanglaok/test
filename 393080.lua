@@ -6,8 +6,6 @@ addappid(393081, 1, "f53e66dd3c1efcb6f0c8f80eb82ed7b4c0038fe2627cf47433afe7bcb90
 setManifestid(393081, "2030128057851411344", 8940784)
 addappid(393082, 1, "d6d8b672150cf319317dfe2d925f8fb0dcb3c8c598089bd71aa13728011087bb") --Main Windows Depot Call of Duty®: Modern Warfare® Remastered (2017)
 setManifestid(393082, "7585958111912015831", 17725697008)
---Dlcname Call of Duty: Modern Warfare Remastered - Variety Map Pack
-addappid(594970, 1, "c58e12016045c87c1b9225611334278a755b32901f53f7038a759ef53a2e9dd5") --Dlcname Call of Duty: Modern Warfare Remastered - Variety Map Pack
 --Share Depots
 addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228986, "8782296191957114623", 23045488)
