@@ -3,7 +3,7 @@
 --Gamename Battlefield™ 6
 addappid(2807960, 1, "4fa6611b3acbfcd70547be82c9b03e17e6c9d995ba169e993d3dc11dc386d72b") --Mainappid Battlefield™ 6
 addappid(2807961, 1, "73da1db186c20534ecea9f2eaca1c8372f9341dee1f6d8862b4c0787886892b3") --Main Windows Depot Battlefield™ 6
-setManifestid(2807961, "4056154665293336173", 41141223872)
+setManifestid(2807961, "2450586622145781706", 41141661648)
 addappid(3028321, 1, "6b9fa278cdf39544bd689aea75c0dddaf0820adbfa180df0a558bb69af980f52") --Main Windows Language Depot English Battlefield™ 6
 setManifestid(3028321, "4316518337346380713", 4220989664)
 addappid(3028322, 1, "470339823530642f5340a16aefd1bbcd2e0a40a9c4f1c9a3d9cecbab616a08e8") --Main Windows Language Depot French Battlefield™ 6
@@ -34,47 +34,47 @@ setManifestid(3028334, "3841592441374733883", 4223100800)
 addtoken(3348410, "13665612973931527059")
 addappid(3348410) --Dlcname Battlefield™ 6 HD Textures
 addappid(2807966, 1, "549e3538f02c93d5946d444eca7e980fb986bb422180cc7987780613ff568580") --Dlc Windows Depot Battlefield™ 6 HD Textures
-setManifestid(2807966, "8731374791439083196", 49951174896)
+setManifestid(2807966, "5977548677865001773", 49951174896)
 --Dlcname Battlefield™ REDSEC
 addtoken(3348420, "1467640746561116670")
 addappid(3348420) --Dlcname Battlefield™ REDSEC
 addappid(2807962, 1, "e2257096f2cb51cc81a8b616c14484e0a550a71a062163856ec28eee545713da") --Dlc Windows Depot Battlefield™ REDSEC
-setManifestid(2807962, "6012737212753314540", 7415861648)
+setManifestid(2807962, "6863931319322066783", 7414059312)
 --Dlcname Battlefield™ REDSEC HD Textures
 addtoken(3348430, "8961726482197316533")
 addappid(3348430) --Dlcname Battlefield™ REDSEC HD Textures
 addappid(2807967, 1, "1c1abe63e9383f9d92d8fe40438233f54998a56b5047dae2a2147c8bc81dfb1c") --Dlc Windows Depot Battlefield™ REDSEC HD Textures
-setManifestid(2807967, "910231525361952425", 1256822608)
+setManifestid(2807967, "3435343931247741236", 1256822608)
 --Dlcname Battlefield™ 6 Multiplayer
 addtoken(3348440, "13841136246857316758")
 addappid(3348440) --Dlcname Battlefield™ 6 Multiplayer
 addappid(2807963, 1, "bf51eb02b6d6618e53cfed04159458edf879a832457c7c2333a4eea7a3bcd332") --Dlc Windows Depot Battlefield™ 6 Multiplayer
-setManifestid(2807963, "1604024018245943940", 8892674416)
+setManifestid(2807963, "65967549774812701", 8892368720)
 --Dlcname Battlefield™ 6 Multiplayer HD Textures
 addtoken(3348450, "15419143094185166754")
 addappid(3348450) --Dlcname Battlefield™ 6 Multiplayer HD Textures
 addappid(2807968, 1, "9ecb637d00716f178fbc892341c18fb51d8dcf929b1f3750cf6b70349f5b2c13") --Dlc Windows Depot Battlefield™ 6 Multiplayer HD Textures
-setManifestid(2807968, "3120970790861946360", 3187313648)
+setManifestid(2807968, "6896674656232813561", 3187313648)
 --Dlcname Battlefield™ 6 Multiplayer & Single Player Shared HD Textures
 addtoken(3348460, "12314544414477136494")
 addappid(3348460) --Dlcname Battlefield™ 6 Multiplayer & Single Player Shared HD Textures
 addappid(2807971, 1, "4b5411bff21928a491fb766e1664ea809e79b90b30031ff444bc40aea250af8b") --Dlc Windows Depot Battlefield™ 6 Multiplayer & Single Player Shared HD Textures
-setManifestid(2807971, "3859916581772891432", 3560064832)
+setManifestid(2807971, "8168805098787279298", 3560064832)
 --Dlcname Battlefield™ 6 Multiplayer & Single Player Shared Data
 addtoken(3348470, "3324369909174197558")
 addappid(3348470) --Dlcname Battlefield™ 6 Multiplayer & Single Player Shared Data
 addappid(2807965, 1, "2df65824aab0f620dcdda53981db04e30d4ccf52e916d535c00db5933c419f59") --Dlc Windows Depot Battlefield™ 6 Multiplayer & Single Player Shared Data
-setManifestid(2807965, "3329868680651113210", 2435318928)
+setManifestid(2807965, "5317407364275538061", 2435318928)
 --Dlcname Battlefield™ 6 Single Player
 addtoken(3348480, "3352496117720569715")
 addappid(3348480) --Dlcname Battlefield™ 6 Single Player
 addappid(2807964, 1, "3db71633bd934e3c3601f253923cde0681423ff9d47a06654df50f7046ee419d") --Dlc Windows Depot Battlefield™ 6 Single Player
-setManifestid(2807964, "4346626362079008236", 20063050000)
+setManifestid(2807964, "2428777676857947377", 20064679504)
 --Dlcname Battlefield™ 6 - Single Player HD Textures
 addtoken(3348490, "9942472226415604439")
 addappid(3348490) --Dlcname Battlefield™ 6 - Single Player HD Textures
 addappid(2807969, 1, "0a35c6f7a451d07c5289c5008b5a5d5707f62a33a19154fbf02c10a52e6bd53d") --Dlc Windows Depot Battlefield™ 6 - Single Player HD Textures
-setManifestid(2807969, "8439778820437898814", 8549814336)
+setManifestid(2807969, "5703196714936193984", 8549814336)
 --Dlcname Battlefield™ 6 - Phantom Upgrade
 addappid(3574360, 1, "b1cc78c299f4f536d0415812e29b1d2169a03e161de690432253c2948d558b94") --Dlcname Battlefield™ 6 - Phantom Upgrade
 --Share Depots
