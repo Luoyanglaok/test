@@ -3,7 +3,7 @@
 --Gamename Granblue Fantasy: Relink
 addappid(881020, 1, "e2a0cc7ae9b6f90364955f1c48562defddb892aa14c44328482a925d4054ad3a") --Mainappid Granblue Fantasy: Relink
 addappid(881021, 1, "87a89e2a3e05613b1fa823d2a8d3796cb8e38972563f929ba9bee212ece2a40f") --Main Windows Depot Granblue Fantasy: Relink
-setManifestid(881021, "938976331214223510", 94124411008)
+setManifestid(881021, "1149562644110687570", 94124412272)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
