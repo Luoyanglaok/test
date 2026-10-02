@@ -73,11 +73,3 @@ addappid(3945580) --Dlcname Sora no Kiseki the 1st - Golden Pom Fruit Value Pack
 addappid(3945590) --Dlcname Sora no Kiseki the 1st - Golden Pom Fruit Value Pack (2)
 addappid(3945600) --Dlcname Sora no Kiseki the 1st - Golden Pom Fruit Value Pack (3)
 addappid(3945610) --Dlcname Sora no Kiseki the 1st - Droplet Set (1)
-addappid(3945620) --Dlcname Sora no Kiseki the 1st - Droplet Set (2)
-addappid(3945630) --Dlcname Sora no Kiseki the 1st - Droplet Set (3)
-addappid(3945640) --Dlcname Sora no Kiseki the 1st - Combat Boost Pack: Physical
-addappid(3945650) --Dlcname Sora no Kiseki the 1st - Combat Boost Pack: Magical
-addappid(3945660) --Dlcname Sora no Kiseki the 1st - Free Sample Set Vol.1
-addappid(3945670) --Dlcname Sora no Kiseki the 1st - Free Sample Set Vol.2
-addappid(3945680) --Dlcname Sora no Kiseki the 1st - Free Sample Set Vol.3
-addappid(3965850) --Dlcname Sora no Kiseki the 1st Season Pass
