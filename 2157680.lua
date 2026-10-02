@@ -1,5 +1,9 @@
-addappid(2157680)
-addappid(2157681,0,"73dcd3d4b21d5b46b3ccc85cd339659397f865b345c64717424a2ee33856c0d7")
-setManifestid(2157681,"6058912897030029653")
-addappid(2192630,0,"1614b072f33a76e43a3c57f8a625c7062d98de4734856ac98c10ac64e03f932f")
-setManifestid(2192630,"371457083531553023")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2157680.lua
+--Gamename Lunar Mirror:The Pavilion of Desire
+addappid(2157680, 1, "aa7e581f5ac2b1dfdcb8175d7c17348ae7df4d03205e213b85e973a0c98fed57") --Mainappid Lunar Mirror:The Pavilion of Desire
+addappid(2157681, 1, "73dcd3d4b21d5b46b3ccc85cd339659397f865b345c64717424a2ee33856c0d7") --Main Windows Depot Lunar Mirror:The Pavilion of Desire
+setManifestid(2157681, "6058912897030029653", 732423408)
+--Dlcname Lunar Mirror:The Pavilion of Desire-Patch
+addappid(2192630, 1, "1614b072f33a76e43a3c57f8a625c7062d98de4734856ac98c10ac64e03f932f") --Dlcname Lunar Mirror:The Pavilion of Desire-Patch
+setManifestid(2192630, "371457083531553023", 480444064)
