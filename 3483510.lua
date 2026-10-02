@@ -11,5 +11,3 @@ addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f69
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(4031020) --Dlcname The Adventures of Elliot: The Millennium Tales Digital Deluxe Upgrade
 addappid(4031030) --Dlcname Elliot’s Departure Pack
---Missing Dlcs
---Dlcname The Adventures of Elliot: The Millennium Tales Original Soundtrack
