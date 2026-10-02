@@ -4,9 +4,9 @@
 addappid(2273430, 1, "74c56cf61e5a97b6195c5ffbb90ff0e2d2fef3c6db31611a575cfca82250ef25") --Mainappid BlazBlue Entropy Effect
 addtoken(2273430, "16677277415782867963")
 addappid(2273431, 1, "8208c2f3da1d2334a1bdfdce064948df43608a9dce229fd006defc11ec0bb5ff") --Main Windows Depot BlazBlue Entropy Effect
-setManifestid(2273431, "6977796878598206410", 14301138176)
+setManifestid(2273431, "2123993263695859126", 14301145552)
 addappid(2273432, 1, "61cf08549f627caaf2793f6324710aa2bc1e9ce5b15ddd5f91a07fe323c89cef") --Main Macos Depot BlazBlue Entropy Effect
-setManifestid(2273432, "5732020541675554314", 14426833936)
+setManifestid(2273432, "4204879766384481483", 14426813264)
 --Dlcname BlazBlue Entropy Effect - Launch Exclusive Content
 addappid(2771130, 1, "9252ee34ddef99b9842cf9b953a265b23f119aac46977475999deac055a2aa24") --Dlcname BlazBlue Entropy Effect - Launch Exclusive Content
 setManifestid(2771130, "3519795565238480803", 959557664)
