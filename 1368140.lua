@@ -3,7 +3,7 @@
 --Gamename Corsair Cove
 addappid(1368140) --Mainappid Corsair Cove
 addappid(1368141, 1, "622125856d179fd026496cefcabadac4e6a40520051ae9ed5cb210a6f05d364d") --Main Windows Depot Corsair Cove
-setManifestid(1368141, "8565312755185007464", 17351813472)
+setManifestid(1368141, "4991219976760271850", 17348585424)
 addappid(1368142, 1, "6a84f1a9c026c5fd7bbdf63013d95d0ec71fd06876a0703d56a4e2b55a98e587") --Main Windows Depot Corsair Cove
 setManifestid(1368142, "4050571179734322575", 0)
 --Share Depots
