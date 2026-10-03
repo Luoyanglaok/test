@@ -6,12 +6,6 @@ addappid(1809541, 1, "6c41504f601faddc7ec40aff4688b9ee9e34c37f2ab46b882880cbcc76
 setManifestid(1809541, "4170341253080557508", 4074822512)
 addappid(1809542, 1, "39cff11ed94d5fb43612916d75ca9d971b35caeca4fa3bda91610e1118927ec3") --Main Macos Depot Nine Sols
 setManifestid(1809542, "6968920301698375133", 4084142976)
---Dlcname Nine Sols Soundtrack
-addappid(1913930) --Dlcname Nine Sols Soundtrack
-addappid(1913931, 1, "c42d1d308472f2bdfb55854a826148354354932fa0dc80fcb9fbc3bdbd805c40") --Dlc Windows Depot Nine Sols Soundtrack
-setManifestid(1913931, "197660531224712960", 528430912)
-addappid(1913932, 1, "cf359cf7ac3fc6baee747e7e03d62fe991ec60c75ca8d9630fa173c13b9f4f76") --Dlc Windows Depot Nine Sols Soundtrack
-setManifestid(1913932, "8315689725284345744", 2363045280)
 --Dlcname Nine Sols Art Book
 addappid(3362590, 1, "8393593da990f6cd827af13ecb9d42c653dabc0101e53dd927e7e55ae2fa4aa1") --Dlcname Nine Sols Art Book
 setManifestid(3362590, "2032132760684014067", 375944816)
