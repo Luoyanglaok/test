@@ -3,9 +3,15 @@
 --Gamename Last Epoch
 addappid(899770, 1, "7067141c355e1f204ba26265c813da0307742bfbdb077d43153a4b4650b4ba76") --Mainappid Last Epoch
 addappid(899771, 1, "c2e2078a202c652383c595f86a2661e2c0bf747e070ab942890d958aaecb06d9") --Main Windows Depot Last Epoch
-setManifestid(899771, "7042486888779928584", 19639428784)
+setManifestid(899771, "2867455194775570367", 72962848)
 addappid(899772, 1, "936cd1b5632d2079bebbac0103a6a01a8eea9890ebf2797efb1ea8b041892f26") --Main Windows Depot Last Epoch
+setManifestid(899772, "6991733881715904561", 79927056)
 addappid(899773, 1, "260dbdc56b50136f96e7fc61e14929ea03295274fe433a3a87e53e0066c6a465") --Main Windows Depot Last Epoch
+setManifestid(899773, "9161727909271343771", 20450705376)
+addappid(899774, 1, "04c679459fb84ea6931c213c02630385d585ea4ea72436591b21d436dfa0471b") --Main Windows Depot Last Epoch
+setManifestid(899774, "4947862412927429421", 1470888656)
+addappid(899775, 1, "2c4e5709ab219c73f15b40a896d5473e1ab832b96d242730fc51ca41d30cde74") --Main Windows Depot Last Epoch
+setManifestid(899775, "3939487470843127592", 0)
 --Dlcname Last Epoch - Digital Sound Track
 addappid(2768220, 1, "d15b6fec494066fa9ecfbd19f48042c6db781c7db9336752a23b066d645c1607") --Dlcname Last Epoch - Digital Sound Track
 setManifestid(2768220, "2377843085109067424", 786639072)
@@ -39,3 +45,7 @@ addappid(4322970) --Dlcname Last Epoch - Fractured Traveler Supporter Pack
 addappid(4322980) --Dlcname Last Epoch - Fractured Templar Supporter Pack
 addappid(4322990) --Dlcname Last Epoch - Fractured Vanquisher Supporter Pack
 addappid(4323000) --Dlcname Last Epoch - Fractured Legend Supporter Pack
+addappid(5009560) --Dlcname Last Epoch - Enraged Traveler Supporter Pack
+addappid(5009570) --Dlcname Last Epoch - Enraged Templar Supporter Pack
+addappid(5009580) --Dlcname Last Epoch - Enraged Vanquisher Supporter Pack
+addappid(5009590) --Dlcname Last Epoch - Enraged Legend Supporter Pack
