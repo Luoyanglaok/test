@@ -16,11 +16,6 @@ addappid(282472, 1, "20128d2e67ff35a8bb5651a0714dee695976cf6af01c3e514c8eb082e1f
 setManifestid(282472, "5577712610765689412", 434134720)
 addappid(282473, 1, "504f352b73202a1bde6549d9ad9efd3544ce4ed367f5b63cae0e476d903e6d6a") --Main Linux Depot Don't Starve
 setManifestid(282473, "3751400669884311226", 434134720)
---Dlcname Don't Starve Soundtrack
-addappid(1248440, 1, "26168de66cddde0536aff5aeee9e8b44c871c60a452fecc4342e5aaa65ab464d") --Dlc Windows Depot Don't Starve Soundtrack
-setManifestid(1248440, "4431599991257542089", 189373824)
-addappid(1248441, 1, "a8ed3012b69c98def96c710b2ae1e2efdd10b3c901099ab7fb30871aec7a460c") --Dlc Windows Depot Don't Starve Soundtrack
-setManifestid(1248441, "7484777413808796146", 967572560)
 --Dlcname Don't Starve: Shipwrecked
 addappid(393010) --Dlcname Don't Starve: Shipwrecked
 addappid(393011, 1, "381fe5734599b91b19765198b18aef0a9b781a70096c46f282ee7bb11e0c8d94") --Dlc Windows Depot Don't Starve: Shipwrecked
