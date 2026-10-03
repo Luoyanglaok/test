@@ -4,7 +4,7 @@
 addappid(3669870, 1, "e53df1456a5d9cb4244af0790bfecf0b7f24217faf8a20276ce03b302187f51e") --Mainappid CONTROL Resonant
 addtoken(3669870, "18274421760595271558")
 addappid(3669871, 1, "47ad456f9070a97f6206e13818d3588f48e26d8d94675b45f481b32ae2fc0bd5") --Main Windows Depot CONTROL Resonant
-setManifestid(3669871, "1110416428279292681", 100982599312)
+setManifestid(3669871, "4654870109284865072", 101138817408)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
