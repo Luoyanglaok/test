@@ -3,7 +3,7 @@
 --Gamename Wild Terra 2: New Lands
 addappid(1134700) --Mainappid Wild Terra 2: New Lands
 addappid(1134701, 1, "4760fc3eb52b780e294b15f3c907e77081c0e04233d5495645c3ac1ff3b6dfc8") --Main Windows Depot Wild Terra 2: New Lands
-setManifestid(1134701, "5289666417006776329", 3904370400)
+setManifestid(1134701, "3548348520010243508", 3920477488)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
@@ -21,5 +21,3 @@ addappid(3371670) --Dlcname Wild Terra 2 - Landowner Pack
 addappid(4162100) --Dlcname Wild Terra 2 - Cultist Pack
 addappid(4280510) --Dlcname Wild Terra 2 - Novice Helpers
 addappid(5058360) --Dlcname Wild Terra 2 - Greek Pack
---Missing Dlcs
---Dlcname Wild Terra 2: New Lands Soundtrack
