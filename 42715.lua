@@ -1,3 +1,3 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 42715.lua
-addappid(42715, 0, "4969407e42c9dd0c51f02e1a76c228c3ea38e3e87bd467e243c37b8fbddc4010")
+addappid(42715, 0, "b439cb73f95f071f4d13db84c6e2cef8e065fc39aa15acef7b8d622ed0da56f6")
