@@ -3,7 +3,7 @@
 --Gamename SILENT HILL: Townfall
 addappid(1636440, 1, "7b557e5bf973f343233a3b034f3cb02815f94ba267a7c92e0b335b30c4176e5a") --Mainappid SILENT HILL: Townfall
 addappid(1636441, 1, "62c41fd0ab66ae0f82f86b835f333bc9ec55fb5d28ee696b599a745059bb62ce") --Main Windows Depot SILENT HILL: Townfall
-setManifestid(1636441, "5846939894323649224", 57722516672)
+setManifestid(1636441, "3352725331520289276", 57720952176)
 --Dlcname SILENT HILL: Townfall – CRTV Style: Rusted
 addtoken(4126670, "4534485472292409398")
 addappid(4126670, 1, "7d1a555b80ecea1b26fe05d48beafaf2745f6f3851e6e691bb8d085421892f99") --Dlcname SILENT HILL: Townfall – CRTV Style: Rusted
