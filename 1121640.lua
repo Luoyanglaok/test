@@ -13,11 +13,5 @@ setManifestid(1121644, "536215934951096141", 779385040)
 --Dlcname The Wandering Village: Artbook, Wallpapers and Goodies Pack
 addappid(2108240, 1, "3bab56d802407d29977f89e57f59dbddd3fbdffb45f22df1832cf0e363bb7a13") --Dlcname The Wandering Village: Artbook, Wallpapers and Goodies Pack
 setManifestid(2108240, "1599426698477333693", 215118672)
---Dlcname The Wandering Village Soundtrack
-addappid(2108250) --Dlcname The Wandering Village Soundtrack
-addappid(2108251, 1, "d6fb0ed010c06dfdca387061f1bb4892e0482bf705aee95f2c71ed9d70eb2eab") --Dlc Windows Depot The Wandering Village Soundtrack
-setManifestid(2108251, "398426517631679072", 169414160)
-addappid(2108252, 1, "ee894065f752a31854dd17794a896892c26017992ce7610165edeaf3adf6a338") --Dlc Windows Depot The Wandering Village Soundtrack
-setManifestid(2108252, "6558190687885558422", 1000924000)
 addappid(4162120) --Dlcname The Wandering Village: Onbu Skin Pack
 addappid(4498320) --Dlcname The Wandering Village: Leviathan of the Seas
