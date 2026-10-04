@@ -3,7 +3,7 @@
 --Gamename RuneScape: Dragonwilds
 addappid(1374490, 1, "735dc070f781ea410ecf7ffbdf051b5fdb8d98ea6054aa34aea78625b4a3e594") --Mainappid RuneScape: Dragonwilds
 addappid(1374491, 1, "e1a3b5ad6a0fbda32b1fceadce8be5fe365e6c98dcc654bfdef62b6aa01f48d5") --Main Windows Depot RuneScape: Dragonwilds
-setManifestid(1374491, "5978780510833599864", 23455928464)
+setManifestid(1374491, "319349835028331488", 23456007776)
 addappid(3501791, 1, "64c6c73071b1288fd80153527a20ae1d0d1467ea9f9539aef7c8245345e2f1f3") --Main Windows Depot RuneScape: Dragonwilds
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
