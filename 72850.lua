@@ -92,8 +92,4 @@ setManifestid(220760, "11352126252031938", 0)
 --Dlcname The Elder Scrolls V: Skyrim - Dragonborn
 addappid(226880, 1, "c595fd2701d8e110514f11de44c32aa564f0ae19b2cf118cc256304cecb91507") --Dlcname The Elder Scrolls V: Skyrim - Dragonborn
 setManifestid(226880, "7775806625498321311", 0)
---Dlcname The Elder Scrolls V: Skyrim Soundtrack
-addappid(1240360) --Dlcname The Elder Scrolls V: Skyrim Soundtrack
-addappid(1240361, 1, "772d0427dfa30d9e6004b4d44313bea94f1092a86fc96a646fef452412e6213a") --Dlc Windows Depot The Elder Scrolls V: Skyrim Soundtrack
-setManifestid(1240361, "6976370690920690050", 412333856)
 addappid(217850) --Dlcname AppID 217850
