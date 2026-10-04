@@ -24,7 +24,7 @@ setManifestid(3035579, "5211244630068237437", 361388352)
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
-setManifestid(1716751, "6659642105086821873", 264636800)
+setManifestid(1716751, "686731643572352019", 264401856)
 addappid(3035580) --Dlcname Assassin's Creed Mirage Ubisoft Activation
 addappid(3230570) --Dlcname Assassin's Creed Mirage - Master Assassin Upgrade Bundle 2
 addappid(3230580) --Dlcname Assassin's Creed Mirage - Master Assassin Upgrade Bundle 2 Ubisoft Activation
