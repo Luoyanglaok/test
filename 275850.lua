@@ -3,9 +3,9 @@
 --Gamename No Man's Sky
 addappid(275850, 1, "bb6b75fde9bed39524f38b15f4421448e580935048bc0105a7943f893e20974a") --Mainappid No Man's Sky
 addappid(275851, 1, "a5ce5217e5d5d20115ea81209764d4e89f37bed55b84690951d5df23e73852a6") --Main Windows Depot No Man's Sky
-setManifestid(275851, "4613251261490583436", 32156417648)
+setManifestid(275851, "2452720661025569523", 32161623168)
 addappid(275852, 1, "1f8fb10eb2401484d32af8e6c0d3b7e4148e78e4cf8f632afe1ab6600fb7e57d") --Main Macos Depot No Man's Sky
-setManifestid(275852, "8059502438008180968", 29031707104)
+setManifestid(275852, "3812775403326059944", 29035037008)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
