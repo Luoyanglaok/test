@@ -1,5 +1,12 @@
-addappid(2424010)
-setManifestid(228989,"3514306556860204959")
-setManifestid(228990,"1829726630299308803")
-addappid(2424011,0,"71e36409b0b470ee13b0613adc2c1467c1547fd8eed25a2e2771ec8c230f1aed")
-setManifestid(2424011,"1757558382619175112")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2424010.lua
+--Gamename Parcel Simulator
+addappid(2424010) --Mainappid Parcel Simulator
+addappid(2424011, 1, "71e36409b0b470ee13b0613adc2c1467c1547fd8eed25a2e2771ec8c230f1aed") --Main Windows Depot Parcel Simulator
+setManifestid(2424011, "8702059477798485643", 2474211968)
+--Share Depots
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228989, "5753583882400741046", 25108528)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228990, "1829726630299308803", 100658080)
+addappid(4530910) --Dlcname Parcel Simulator - Supporter Pack
