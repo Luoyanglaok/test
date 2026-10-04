@@ -129,7 +129,7 @@ setManifestid(228989, "5753583882400741046", 25108528)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
-setManifestid(1716751, "6659642105086821873", 264636800)
+setManifestid(1716751, "686731643572352019", 264401856)
 addappid(555240) --Dlcname AppID 555240
 addtoken(555240, "6315785612364147503")
 addappid(558380) --Dlcname AppID 558380
