@@ -8,6 +8,10 @@ addappid(537342, 1, "ed469e4612ea75de1c81b19cf544912616276e2ede60b1cfc0cd516fc73
 setManifestid(537342, "5945138272911753843", 1899425488)
 addappid(537343, 1, "4af51fcd9f2fdb0102b86c4d9d96bb6a8d926bdfb5d4980d88585e169183b3ff") --Main Linux Depot Guts and Glory
 setManifestid(537343, "29999913221118649", 1996724480)
+addappid(889441, 1, "32aca97653fd610457c17e920f3ec6fe646a91e05f606c4cc13fc64ca0812c05") --Main Windows Depot Guts and Glory
+setManifestid(889441, "8778374899867251824", 177466624)
+--Dlcname Guts and Glory - Original Soundtrack
+addappid(889440) --Dlcname Guts and Glory - Original Soundtrack
 --Missing Dlcs
 --Dlcname Guts and Glory - Wacky Hats Pack
 --Dlcname Guts and Glory - Golden Prestige
