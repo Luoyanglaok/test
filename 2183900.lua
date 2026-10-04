@@ -4,18 +4,10 @@
 addappid(2183900, 1, "227e48320b1cf15063a473da684cea19ebcd76548c0d50a505cdd0a78864ed0a") --Mainappid Warhammer 40,000: Space Marine 2
 addtoken(2183900, "12779763340560861411")
 addappid(2183901, 1, "8df236a6a5084039477362b31157e7e0eb66554a744762d6782c544ab64d0c4e") --Main Windows Depot Warhammer 40,000: Space Marine 2
-setManifestid(2183901, "6015590042991520040", 76969260304)
+setManifestid(2183901, "49266872782379763", 79277969200)
 --Dlcname Warhammer 40,000: Space Marine 2 - 4K Texture Pack
 addappid(3202690, 1, "00c47f82b08192958b11307abb87c755003eb8dfae75063373e379c296b26083") --Dlcname Warhammer 40,000: Space Marine 2 - 4K Texture Pack
-setManifestid(3202690, "8603083004664865563", 128903793728)
---Dlcname Warhammer 40,000: Space Marine 2 Soundtrack
-addappid(3212020) --Dlcname Warhammer 40,000: Space Marine 2 Soundtrack
-addappid(3212021, 1, "01e7d7bd4abcb8946df7226afc08075b26c702659cf81018580d5f8e597b6c93") --Dlc Windows Depot Warhammer 40,000: Space Marine 2 Soundtrack
-setManifestid(3212021, "4575728820807956562", 175900656)
-addappid(3212022, 1, "924f67387bb12cfc2988a7decd11c8ace7b5b38ae9d07397e246b36d01c1e5c5") --Dlc Windows Depot Warhammer 40,000: Space Marine 2 Soundtrack
-setManifestid(3212022, "2274340000490854200", 671289856)
-addappid(3212023, 1, "ad43f8052145e7fad816f6b2299a1ae217fc78bd8e1c769cb0ad3e0272d843d0") --Dlc Windows Depot Warhammer 40,000: Space Marine 2 Soundtrack
-setManifestid(3212023, "4686517121168409350", 403437856)
+setManifestid(3202690, "1383539726862428407", 131553658496)
 --Dlcname Warhammer 40,000: Space Marine 2 - Digital Artbook
 addappid(3212040, 1, "e3818ce0f203d78eed2647e6364bd19a702fd8d7a01230f77a038e0fd26b0ffb") --Dlcname Warhammer 40,000: Space Marine 2 - Digital Artbook
 setManifestid(3212040, "7457655780363166458", 112129136)
@@ -45,3 +37,6 @@ addtoken(3871390, "15555146775881414615")
 addappid(3871400) --Dlcname Warhammer 40,000: Space Marine 2 - Salamanders Champion Pack 2
 addappid(3871410) --Dlcname Warhammer 40,000: Space Marine 2 - Raptors Cosmetic Pack
 addappid(4247850) --Dlcname Warhammer 40,000: Space Marine 2 - Chapter Voice Pack 1
+addappid(4997640) --Dlcname Warhammer 40,000: Space Marine 2 - Space Wolves Champion Pack
+addappid(4997650) --Dlcname Warhammer 40,000: Space Marine 2 - Exorcists Cosmetic Pack
+addappid(4997770) --Dlcname Warhammer 40,000: Space Marine 2 - Season Pass 3
