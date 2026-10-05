@@ -3,7 +3,7 @@
 --Gamename PAYDAY 2
 addappid(218620, 1, "b005cdff158b60e65c0c26498b91d145f8e68cfc09c793ba62716d87c1a4369e") --Mainappid PAYDAY 2
 addappid(218621, 1, "2d0de203756909d9b2b65506594648ce773a0428741fcae5208616bd9c79d3ea") --Main Windows Depot PAYDAY 2
-setManifestid(218621, "6226081920218254228", 32495987568)
+setManifestid(218621, "9162122180676488107", 32736862032)
 addappid(218623, 1, "125afa058982488c55e77fc1ed4e1a4f160786f8383db3db5ed5510d760611b6") --Main Windows Language Depot Russian PAYDAY 2
 setManifestid(218623, "7700458186423454139", 0)
 addappid(218624, 1, "deab327ada094059df67910f69c19cfffeb79aff089df65433f1760ad23bf639") --Main Windows Language Depot Dutch PAYDAY 2
@@ -20,6 +20,10 @@ addappid(218629, 1, "26cbf329bd73db8f9e7beefe23857b1e0c76b3aef5d3e9e4e6b5b3f31be
 setManifestid(218629, "6307434253818453593", 656)
 addappid(218631, 1, "1c394d148b286577ab96453164cb03ded6619ccfad3da0f01aac23d71302d1e2") --Main Windows Language Depot Schinese PAYDAY 2
 setManifestid(218631, "2916203722723946867", 672)
+addappid(218633, 1, "2851e3544784ade4486f7cd973ac593c8b7232e951adb1ab11037c750e05c560") --Main Windows Language Depot Latam PAYDAY 2
+addappid(974460, 1, "876285ae8e877eddef056b17241e282dc5b3e09c99fa91986425309be9782add") --Main Windows Depot PAYDAY 2
+addappid(2418070, 1, "9a46ff4127b070013ea0189940cec49551f33a7e20b2c6b612565be0502a5a78") --Main Windows Depot PAYDAY 2
+addappid(2418071, 1, "294731a01d179f2db60818570da445503017dd973ac474291fbc855e20502be3") --Main Windows Depot PAYDAY 2
 --Dlcname PAYDAY 2: Career Criminal Content
 addappid(218630, 1, "80aa89abaa061beb1ccf5cb5f1ab79eb7cf11f79c2767f5477e2ae92675f9e55") --Dlcname PAYDAY 2: Career Criminal Content
 setManifestid(218630, "5536271309787494781", 0)
@@ -35,12 +39,6 @@ setManifestid(368870, "7190612300832133696", 296481648)
 --Dlcname PAYDAY 2: Tijuana Music Pack
 addappid(2076560, 1, "107c80c6f6e8200462fb697af71577ad703e4a640b1f64850e60e7fae6226f9b") --Dlcname PAYDAY 2: Tijuana Music Pack
 setManifestid(2076560, "5811614798887510953", 528610048)
---Dlcname PAYDAY 2: Chinatown Music Pack
-addappid(2353511) --Dlcname PAYDAY 2: Chinatown Music Pack
-addappid(2418070, 1, "9a46ff4127b070013ea0189940cec49551f33a7e20b2c6b612565be0502a5a78") --Dlc Windows Depot PAYDAY 2: Chinatown Music Pack
-setManifestid(2418070, "3463837528970200612", 134618240)
-addappid(2418071, 1, "294731a01d179f2db60818570da445503017dd973ac474291fbc855e20502be3") --Dlc Windows Depot PAYDAY 2: Chinatown Music Pack
-setManifestid(2418071, "3577794892998287564", 433469184)
 --Share Depots
 addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228984, "2547553897526095397", 13436144)
@@ -78,6 +76,7 @@ addappid(330491) --Dlcname AppID 330491
 addtoken(330491, "7774797695476584217")
 addappid(331040) --Dlcname AppID 331040
 addtoken(331040, "12497427485668692480")
+addappid(331900) --Dlcname PAYDAY 2: Gage Historical Pack
 addappid(337660) --Dlcname PAYDAY 2: The Diamond Heist
 addappid(337661) --Dlcname PAYDAY 2: Clover Character Pack
 addappid(338950) --Dlcname PAYDAY 2: The PAYDAYCON 2015 Mask Pack
@@ -113,50 +112,3 @@ addappid(532810) --Dlcname PAYDAY 2: Housewarming Party
 addappid(545100) --Dlcname PAYDAY 2: John Wick Weapon Pack
 addappid(548420) --Dlcname PAYDAY 2: Gage Spec Ops Pack
 addappid(548421) --Dlcname PAYDAY 2: Scarface Heist
-addappid(612900) --Dlcname PAYDAY 2: Gage Russian Weapon Pack
-addappid(758420) --Dlcname PAYDAY 2: h3h3 Character Pack
-addappid(826090) --Dlcname PAYDAY 2: VR
-addappid(1184410) --Dlcname PAYDAY 2: Tailor Pack 1
-addappid(1184411) --Dlcname PAYDAY 2: Border Crossing Heist
-addappid(1184412) --Dlcname PAYDAY 2: Cartel Optics Mod Pack
-addappid(1252200) --Dlcname PAYDAY 2: San Martín Bank Heist
-addappid(1255150) --Dlcname PAYDAY 2: Tailor Pack 2
-addappid(1255151) --Dlcname PAYDAY 2: Federales Weapon Pack
-addappid(1255152) --Dlcname PAYDAY 2: Weapon Color Pack 1
-addappid(1347750) --Dlcname PAYDAY 2: Breakfast in Tijuana Heist
-addappid(1347751) --Dlcname PAYDAY 2: Weapon Color Pack 2
-addappid(1351060) --Dlcname PAYDAY 2: Fugitive Weapon Pack
-addappid(1449440) --Dlcname PAYDAY 2: Tailor Pack 3
-addappid(1449441) --Dlcname PAYDAY 2: Gunslinger Weapon Pack
-addappid(1449442) --Dlcname PAYDAY 2: Weapon Color Pack 3
-addappid(1449450) --Dlcname PAYDAY 2: Buluc's Mansion Heist
-addappid(1555040) --Dlcname PAYDAY 2: Dragon Pack
-addappid(1555050) --Dlcname PAYDAY 2: Jiu Feng Smuggler Pack
-addappid(1619070) --Dlcname PAYDAY 2: Jiu Feng Smuggler Pack 2
-addappid(1654480) --Dlcname PAYDAY 2: The Ukrainian Prisoner Heist
-addappid(1654481) --Dlcname PAYDAY 2: Guardians Tailor Pack
-addappid(1746580) --Dlcname PAYDAY 2: Jiu Feng Smuggler Pack 3
-addappid(1778790) --Dlcname PAYDAY 2: Black Cat Heist
-addappid(1778791) --Dlcname PAYDAY 2: Mega City Tailor Pack
-addappid(1824880) --Dlcname PAYDAY 2: Winter Ghosts Tailor Pack
-addappid(1901420) --Dlcname PAYDAY 2: Jiu Feng Smuggler Pack 4
-addappid(1906240) --Dlcname PAYDAY 2: Mountain Master Heist
-addappid(1907080) --Dlcname PAYDAY 2: Golden Dagger Tailor Pack
-addappid(1945680) --Dlcname PAYDAY 2: Southbound Tailor Pack
-addappid(1945681) --Dlcname PAYDAY 2: Midland Ranch Heist
-addappid(1945682) --Dlcname PAYDAY 2: McShay Weapon Pack
-addappid(2074220) --Dlcname PAYDAY 2: High Octane Tailor Pack
-addappid(2074230) --Dlcname PAYDAY 2: McShay Weapon Pack 2
-addappid(2074240) --Dlcname PAYDAY 2: Lost in Transit Heist
-addappid(2200970) --Dlcname PAYDAY 2: McShay Weapon Pack 3
-addappid(2200971) --Dlcname PAYDAY 2: Street Smart Tailor Pack
-addappid(2215010) --Dlcname PAYDAY 2: Hostile Takeover Heist
-addappid(2218650) --Dlcname PAYDAY 2: McShay Mod Pack
-addappid(2352300) --Dlcname PAYDAY 2: Lawless Tailor Pack
-addappid(2353510) --Dlcname PAYDAY 2: McShay Weapon Pack 4
-addappid(2353512) --Dlcname PAYDAY 2: Crude Awakening Heist
-addappid(3188980) --Dlcname PAYDAY 2: Jacket Character Pack
-addappid(3847540) --Dlcname PAYDAY 2: Subscription
-addappid(4543600) --Dlcname PAYDAY 2: Espionage Weapon Pack
---Missing Dlcs
---Dlcname PAYDAY 2: Gage Historical Pack
