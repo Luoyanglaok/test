@@ -6,15 +6,9 @@ addappid(1432861, 1, "699136c056b2ebdf81900c0ca6bffabdf5b83899c1d451837b3fbc945c
 setManifestid(1432861, "2994138885476124310", 1218425696)
 addappid(1432862, 1, "26c2186d937d6a9271998f3740326a40582ea51a565d46f1aa620cb228c104e2") --Main Macos Language Depot English Sun Haven
 setManifestid(1432862, "4552976601978599813", 1214727072)
---Dlcname Sun Haven Soundtrack Vol. 1
-addappid(2305660) --Dlcname Sun Haven Soundtrack Vol. 1
-addappid(2305662, 1, "fd3834626fe0fb254f567e19c07831ea4684b5b1dc4360fdd0fd76a99491acd5") --Dlc Windows Depot Sun Haven Soundtrack Vol. 1
-setManifestid(2305662, "5013926395044398502", 241214944)
---Dlcname Sun Haven Soundtrack Vol. 2
-addappid(2375000) --Dlcname Sun Haven Soundtrack Vol. 2
-addappid(2375001, 1, "9e35d8896c45172937a1b2ffe2f95285b7be1a250c0e89ce0d9bdcf4cca754d5") --Dlc Windows Depot Sun Haven Soundtrack Vol. 2
-setManifestid(2375001, "7475523022309329780", 176604336)
 --Share Depots
+addappid(2305662, 1, "fd3834626fe0fb254f567e19c07831ea4684b5b1dc4360fdd0fd76a99491acd5") --Share Windows Depot Sun Haven Soundtrack Vol. 1
+setManifestid(2305662, "5013926395044398502", 241214944)
 addappid(2375130) --Dlcname Sun Haven: Dreamy Pet Pack
 addappid(2375140) --Dlcname Sun Haven: Spooky Pet Pack
 addappid(2401500) --Dlcname Sun Haven: Sweet Mounts
