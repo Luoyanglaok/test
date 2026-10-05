@@ -7,12 +7,6 @@ setManifestid(703081, "6607940512589780813", 19838544816)
 --Dlcname Deluxe Edition Extras
 addappid(1098120, 1, "9decae9ea2fe2d9055772fecad34b56835f0464dff8d4159d7457fc3586d2994") --Dlcname Deluxe Edition Extras
 setManifestid(1098120, "10163085496252241", 806056768)
---Dlcname Planet Zoo Soundtrack
-addappid(1383610) --Dlcname Planet Zoo Soundtrack
-addappid(1383611, 1, "7f6c35897448b21336cece1d72e8d98086e52e1f3321e7f21a0fdcf754b205e5") --Dlc Windows Depot Planet Zoo Soundtrack
-setManifestid(1383611, "920395403518652583", 78876656)
-addappid(1383612, 1, "60e9cb821b764d13f54d002f93c9bac4eda0da0afee5cd41ebe6f4d0304f7e9e") --Dlc Windows Depot Planet Zoo Soundtrack
-setManifestid(1383612, "8061495413215669178", 713593008)
 --Share Depots
 addappid(228987, 1, "cf0622b6dec67606fdc42e7afa5ede78cb33e38dfab82670c5ec7e1404e4984e") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228987, "4302102680580581867", 22936736)
