@@ -3,7 +3,7 @@
 --Gamename LIFE EFFECT Survival
 addappid(4474950) --Mainappid LIFE EFFECT Survival
 addappid(4474951, 1, "bb0990c8d7c6374fed27185017b78b78baebb1c20dafd9047406396cd5c4b3ba") --Main Windows Depot LIFE EFFECT Survival
-setManifestid(4474951, "7701864833599887305", 21051511056)
+setManifestid(4474951, "1138029112709817963", 21248880848)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
