@@ -10,4 +10,5 @@ setManifestid(3482250, "8572113907474119714", 8661376)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
-addappid(4713280) --Dlcname Foundation: Harvest Festival
+--Missing Dlcs
+--Dlcname Foundation: Harvest Festival
