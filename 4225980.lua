@@ -3,7 +3,7 @@
 --Gamename Trails in the Sky 2nd Chapter
 addappid(4225980) --Mainappid Trails in the Sky 2nd Chapter
 addappid(4225981, 1, "e2f69dd5a8a01d4cf7d8c36743a5389f87f090207cf209ab2b21e2aa6d048ad5") --Main Windows Depot Trails in the Sky 2nd Chapter
-setManifestid(4225981, "31058432868913611", 39607552544)
+setManifestid(4225981, "3491877371752789816", 39612218032)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
@@ -12,12 +12,24 @@ setManifestid(228990, "1829726630299308803", 100658080)
 addappid(4975590) --Dlcname Trails in the Sky 2nd Chapter - Fluffy Creepy Sheep Costume Set
 addappid(4975600) --Dlcname Trails in the Sky 2nd Chapter - Neo Bracer II Costume (Estelle)
 addappid(4975680) --Dlcname Trails in the Sky 2nd Chapter - Original Cheerleader Costume Set
+addappid(4975690) --Dlcname Trails in the Sky 2nd Chapter - Eternal Summer Swimsuit Set
+addappid(4975700) --Dlcname Trails in the Sky 2nd Chapter - What-If Costume Set
 addappid(4975710) --Dlcname Trails in the Sky 2nd Chapter - Glasses Set A
+addappid(4975720) --Dlcname Trails in the Sky 2nd Chapter - Glasses Set B
+addappid(4975730) --Dlcname Trails in the Sky 2nd Chapter - Eye Mask Set
 addappid(4975740) --Dlcname Trails in the Sky 2nd Chapter - Pom Pom Head Set
+addappid(4975750) --Dlcname Trails in the Sky 2nd Chapter - Classic Character Stand Set
+addappid(4975760) --Dlcname Trails in the Sky 2nd Chapter - Professional Dress-Up Set
+addappid(4975770) --Dlcname Trails in the Sky 2nd Chapter - Summer Fun Set
 addappid(4975820) --Dlcname Trails in the Sky 2nd Chapter - Thrilling Stadium Set
 addappid(4975830) --Dlcname Trails in the Sky 2nd Chapter - Exciting Effect Set
+addappid(4975840) --Dlcname Trails in the Sky 2nd Chapter - Pocket-Sized Partner Set
 addappid(4975850) --Dlcname Trails in the Sky 2nd Chapter - Shiny Hair Color Set
+addappid(4975860) --Dlcname Trails in the Sky 2nd Chapter - Streaked Hair Color Set
 addappid(4975870) --Dlcname Trails in the Sky 2nd Chapter - Orbment Cover Set - 2nd Chapter
+addappid(4975880) --Dlcname Trails in the Sky 2nd Chapter - Chibi Orbment Cover Set - 2nd Chapter
+addappid(4975890) --Dlcname Trails in the Sky 2nd Chapter - 1st Chapter Costume Set
+addappid(4975900) --Dlcname Trails in the Sky 2nd Chapter - 1st Chapter Attachment Set
 addappid(4975910) --Dlcname Trails in the Sky 2nd Chapter - Starter Set
 addappid(4975920) --Dlcname Trails in the Sky 2nd Chapter - Advanced Item Set Vol. 1
 addappid(4975940) --Dlcname Trails in the Sky 2nd Chapter - Advanced Item Set Vol. 2
