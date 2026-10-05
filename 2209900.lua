@@ -12,5 +12,3 @@ setManifestid(4892990, "3628439518757480652", 68119440)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
---Missing Dlcs
---Dlcname Moonlight Peaks Original Soundtrack
