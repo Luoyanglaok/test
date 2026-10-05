@@ -73,14 +73,6 @@ setManifestid(1552585, "6285297111413710435", 0)
 --Dlcname Monster Hunter Stories 2: Wings of Ruin - Launch Starter Pack
 addappid(1552588, 1, "e955a3f3bcb25a160e417b944e41012e7d6d910786136f163a725d8822d2b061") --Dlcname Monster Hunter Stories 2: Wings of Ruin - Launch Starter Pack
 setManifestid(1552588, "8154005847181404831", 0)
---Dlcname Monster Hunter Stories 2: Wings of Ruin Original Soundtrack
-addappid(1868960) --Dlcname Monster Hunter Stories 2: Wings of Ruin Original Soundtrack
-addappid(1868961, 1, "61def15eb898b89294304d031c2b7e3ce72211758eb97d5ea86187811308db96") --Dlc Windows Depot Monster Hunter Stories 2: Wings of Ruin Original Soundtrack
-setManifestid(1868961, "3079188670848028585", 318310016)
-addappid(1868962, 1, "fc4268bc15d1273c1f5e043e968fdf5fb626cfe96119ffb6843b607e74e028c2") --Dlc Windows Depot Monster Hunter Stories 2: Wings of Ruin Original Soundtrack
-setManifestid(1868962, "8843570668716193968", 867623952)
-addappid(1868963, 1, "6329a6a0bb6f8dfa347c6f1f16a9dbc569a59124c52c849b3488be85e87f1db1") --Dlc Windows Depot Monster Hunter Stories 2: Wings of Ruin Original Soundtrack
-setManifestid(1868963, "3326600078981272137", 400246496)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
