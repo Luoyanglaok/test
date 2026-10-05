@@ -85,8 +85,10 @@ setManifestid(4348800, "1988638044360980890", 276622032)
 --Dlcname Farming Simulator 25: Emergency Pack
 addappid(4651570, 1, "01db07db648105515fd656c7dba1789dab4308b0faeeb1c1ab9b69d3376cbd6e") --Dlcname Farming Simulator 25: Emergency Pack
 setManifestid(4651570, "818651558017765456", 334118912)
+--Dlcname Farming Simulator 25: Pumps n' Hoses Pack
+addappid(4664870, 1, "d684fd6204382a91cabca1b229dc5f15f6492ecdc98b20353114cb5a562e3248") --Dlcname Farming Simulator 25: Pumps n' Hoses Pack
+setManifestid(4664870, "3675879501287197059", 707271328)
 addappid(2981100) --Dlcname Farming Simulator 25: Year 1 Season Pass
 addappid(3453810) --Dlcname Farming Simulator 25: Year 2 Season Pass
 --Missing Dlcs
 --Dlcname Farming Simulator 25: Beans & Alpacas Expansion
---Dlcname Farming Simulator 25: Pumps n' Hoses Pack
