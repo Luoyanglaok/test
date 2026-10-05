@@ -1,5 +1,8 @@
-addappid(1105510)
-addappid(1105511,0,"0c335e9d30387b322b2822752aa8827d47a59d2bad54a144ce93dbc1e3377ae9")
-setManifestid(1105511,"5169313411801023997")
-addappid(1105512,0,"dfb8b0ac80dab6c0375b39f503efa542922000358f6ffd84978656d0859cfeae")
-setManifestid(1105512,"6566473845791138832")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1105510.lua
+--Gamename Yakuza 5 Remastered
+addappid(1105510) --Mainappid Yakuza 5 Remastered
+addappid(1105511, 1, "0c335e9d30387b322b2822752aa8827d47a59d2bad54a144ce93dbc1e3377ae9") --Main Windows Depot Yakuza 5 Remastered
+setManifestid(1105511, "5169313411801023997", 23799270352)
+addappid(1105512, 1, "dfb8b0ac80dab6c0375b39f503efa542922000358f6ffd84978656d0859cfeae") --Main Windows Depot Yakuza 5 Remastered
+setManifestid(1105512, "6566473845791138832", 25683872)
