@@ -4,7 +4,7 @@
 addappid(3446240, 1, "72025f6589adbe085fe83773d0423225dadb0c32b0eeb2f865984c8d71e5c736") --Mainappid 宗门起源(Eastern Era)
 addtoken(3446240, "12366859424522752049")
 addappid(3446241, 1, "ddbae286524f900e39fb2c0e6d35401e7a94444b87a43825104ae7a128279543") --Main Windows Depot 宗门起源(Eastern Era)
-setManifestid(3446241, "7564859894716863044", 14452792480)
+setManifestid(3446241, "1662309208439785079", 14452649888)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
