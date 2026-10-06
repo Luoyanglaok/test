@@ -3,13 +3,13 @@
 --Gamename American Truck Simulator
 addappid(270880, 1, "73fb1b0d84405e9e475ea2185cea2dba8667f5971472b506dbcc44bd9c8e0ccb") --Mainappid American Truck Simulator
 addappid(270881, 1, "f94868b2aae2579ce595b4cc9560f649c2db7d93fe280b938ba7fdbe613ad11c") --Main Windows Depot American Truck Simulator
-setManifestid(270881, "6713499798466836066", 24180011216)
+setManifestid(270881, "8931098644551798846", 24321299184)
 addappid(270882, 1, "fce5a3213079ef0488c660325077b4f413d3cf68b11dde841840cc463773a102") --Main Windows Depot American Truck Simulator
-setManifestid(270882, "3126424983673026360", 20911760)
+setManifestid(270882, "4968464562673192607", 20911408)
 addappid(270883, 1, "bf688e332ee96e2934ee8d06b1258435ee48f37be64cd9e14553d2cccf3a4793") --Main Linux Depot American Truck Simulator
-setManifestid(270883, "9103914692693045874", 21358384)
+setManifestid(270883, "1233005680865868237", 21358992)
 addappid(270884, 1, "d801c40a476be58164b180e53ab1ccd0549b628dee728698b66b9c43e89aecd0") --Main Macos Depot American Truck Simulator
-setManifestid(270884, "3850251596552957889", 30518064)
+setManifestid(270884, "7377987270429615688", 30405856)
 --Dlcname American Truck Simulator - Kenworth T680
 addappid(421070, 1, "ef1ca02be68d36f1eb3686d3cbf3fc59ef7efc5b29c720e79808ebf626ad17ea") --Dlcname American Truck Simulator - Kenworth T680
 setManifestid(421070, "8169493434990176546", 0)
@@ -193,6 +193,12 @@ setManifestid(3272290, "3284562101833249356", 0)
 --Dlcname American Truck Simulator - Illinois
 addappid(3486960, 1, "e69b61b24609bd32d3436db49c9d75afaeffe18b7b92b22608883053d1723729") --Dlcname American Truck Simulator - Illinois
 setManifestid(3486960, "6931480052109030143", 161404304)
+--Dlcname American Truck Simulator - South Dakota
+addappid(3749870, 1, "e096917d10bb0e10c282dc372bc045506fc22345edaeb3ca4426a7cb13b0d12c") --Dlcname American Truck Simulator - South Dakota
+setManifestid(3749870, "1205666904753142812", 196281536)
+--Dlcname American Truck Simulator - Road Trip: Ford
+addappid(3793200, 1, "a1f8b11550e11e1e53f1e421b6a1cc7721a878bd10eb96a2c70ec6581c13728b") --Dlcname American Truck Simulator - Road Trip: Ford
+setManifestid(3793200, "4338461592104106737", 0)
 --Dlcname American Truck Simulator - KRONE Agriculture Equipment
 addappid(3872930, 1, "cb2520d903a63702de6165c9c59df18d6269541becfcd40d0805cea67b7f10a0") --Dlcname American Truck Simulator - KRONE Agriculture Equipment
 setManifestid(3872930, "6332296398029117686", 0)
@@ -200,6 +206,4 @@ setManifestid(3872930, "6332296398029117686", 0)
 addappid(4348660, 1, "0ab5b459c860e026f449ca58660f873c233ad12f3ff567b7784a2b6bf35afcff") --Dlcname American Truck Simulator - Bobcat Cargo Pack
 setManifestid(4348660, "7046043884242444617", 0)
 --Missing Dlcs
---Dlcname American Truck Simulator - South Dakota
 --Dlcname American Truck Simulator - RAM & Dodge Car Pack
---Dlcname American Truck Simulator - FORD Car Pack
