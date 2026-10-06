@@ -3,7 +3,7 @@
 --Gamename 侠影录
 addappid(3863760) --Mainappid 侠影录
 addappid(3863761, 1, "289f8fff1c975ab75a6b215766326241eb1e5fd395528f7275a95db4b133353a") --Main Windows Depot 侠影录
-setManifestid(3863761, "8299584110877312833", 4105747280)
+setManifestid(3863761, "8737369664092652470", 4131768064)
 --Dlcname 侠影录-支持者包
 addappid(4494840, 1, "b7a5fb5e7b746bcc36395ce4be01e9c8b1f3d75c4b21e80274517f6564fd5713") --Dlcname 侠影录-支持者包
 setManifestid(4494840, "7672477880278528301", 64)
