@@ -36,7 +36,7 @@ setManifestid(1254588, "8679391186132147187", 33312)
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
 addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") --Share Windows Depot EA APP Installer
-setManifestid(3340991, "3755387105551220105", 246722480)
+setManifestid(3340991, "2872608919245318765", 246896672)
 addappid(3893181, 1, "7f675c2fe8e758d16f3cf8d3b493956afaee78e96d78cdb668a5edb8ac1580f6") --Share Windows Depot EA Javelin Anticheat Installer
 setManifestid(3893181, "4878189275181659469", 317406032)
 addappid(1254580) --Dlcname AppID 1254580
