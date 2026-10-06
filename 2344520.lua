@@ -3,9 +3,9 @@
 --Gamename Diablo® IV
 addappid(2344520, 1, "48dc14a13742dad6c951eebee02c84d74ed52e46d93b4413943d321791a9dcf1") --Mainappid Diablo® IV
 addappid(2344521, 1, "bf58e60bf2aca37197c7bc279a6b48b726131fa8b6d07bd12909d8a251252c65") --Main Windows Depot Diablo® IV
-setManifestid(2344521, "5670908084489920449", 92013389184)
+setManifestid(2344521, "7303063463530282722", 92023903792)
 addappid(2344522, 1, "8b885b87e01a772da363b1cd92f8fb0faac6f727acb321aef2ae9c4ce938a4bf") --Main Windows Depot Diablo® IV
-setManifestid(2344522, "985409562749873322", 246974496)
+setManifestid(2344522, "4104833690056805214", 246678096)
 addappid(2344523, 1, "95a541fb3a2967fb73875c96ad8f56e3cbb5e3eafb742a4a1671847e722b543a") --Main Windows Language Depot English Diablo® IV
 setManifestid(2344523, "4627364588372914134", 2189818704)
 addappid(2344524, 1, "5eab48ada2fbd0681f2548f19de28ffb437ab06f912c4adef37b7d4a1d82df40") --Main Windows Language Depot German Diablo® IV
@@ -13,13 +13,13 @@ setManifestid(2344524, "2682322277644754804", 2738411648)
 addappid(2344525, 1, "222f83dd58e78880080c90ac47ec8b18598682e8d9cf1eb5d9c971838ae9982a") --Main Windows Language Depot Spanish Diablo® IV
 setManifestid(2344525, "6731956363803081057", 2785147872)
 addappid(2344526, 1, "36773de6a67ec1ab03be4f3608e84d6065093969f89f13a78938d568c64dbcdc") --Main Windows Language Depot Latam Diablo® IV
-setManifestid(2344526, "4127524714183750442", 2511382640)
+setManifestid(2344526, "6709254666061532880", 2511440944)
 addappid(2344527, 1, "e9ca21ab9bc1f84a13c3ab8c2d16770896c62bded180208739d12966d0a5a74e") --Main Windows Language Depot French Diablo® IV
-setManifestid(2344527, "1883658656921045810", 2602977200)
+setManifestid(2344527, "8058685940959215916", 2602978976)
 addappid(2344528, 1, "8208caaf454b35c95674eea8f70a58cc4daf109424ce89ff87f15a06e0c57002") --Main Windows Language Depot Italian Diablo® IV
 setManifestid(2344528, "6590099131383199098", 2571376784)
 addappid(2344529, 1, "cc7acfe91d9730e4bf1d3d18e3c3c508c138f3308b65e1b5430171c037ad1b72") --Main Windows Language Depot Japanese Diablo® IV
-setManifestid(2344529, "6833546389604007593", 2809231824)
+setManifestid(2344529, "4279511119635552100", 2810649168)
 addappid(2452970, 1, "02d4526ba2550dee890eb72533f01be38dbfa301a86b4c9ce95bf1a00cb4320f") --Main Windows Language Depot Koreana Diablo® IV
 setManifestid(2452970, "5629949032784675915", 2669876416)
 addappid(2452971, 1, "26b03b20e224538d7f7d02d44f1b6e6a64dc028b2950ae50570a6871607a168d") --Main Windows Language Depot Polish Diablo® IV
@@ -31,12 +31,12 @@ setManifestid(2452973, "4341631503625292562", 2722158256)
 addappid(2452974, 1, "6db8a9ba8df12b66ed9f14a1e18c176f6a44522ab7c4ca3b37e9964ea0a3eb5b") --Main Windows Language Depot Turkish Diablo® IV
 setManifestid(2452974, "4826083783439247876", 2189818704)
 addappid(2452975, 1, "22c898c54175ad295a2c2794c9ea4b44278e36f2a4f65362d48b6cbe284388ea") --Main Windows Language Depot Schinese Diablo® IV
-setManifestid(2452975, "2231825308150454275", 2451783024)
+setManifestid(2452975, "8191387627869361098", 2451783024)
 addappid(2452976, 1, "88ea785161f2912b8884373d4e8cdb42c8105a3f689cd44c89116d9b38abd476") --Main Windows Language Depot Tchinese Diablo® IV
 setManifestid(2452976, "7556497483059417235", 2468518112)
 --Dlcname Diablo® IV - High-Resolution Assets
 addappid(2453170, 1, "962a85322d266e4dc3ca0de3fe2d065dd2c270c3322c73ceb0d742f960ceb77e") --Dlcname Diablo® IV - High-Resolution Assets
-setManifestid(2453170, "5135586443024510032", 76152173712)
+setManifestid(2453170, "6815843769947065006", 76130581536)
 --Dlcname Diablo® IV: Vessel of Hatred™
 addappid(3043530, 1, "c82a86d812fde68fbdc2c2776a7abb9c72442001ebc4b38d84b413215facd76e") --Dlcname Diablo® IV: Vessel of Hatred™
 --Dlcname Diablo® IV: Lord of Hatred™
