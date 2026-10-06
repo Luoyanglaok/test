@@ -18,9 +18,9 @@ setManifestid(229626, "1462684019205755272", 464)
 --Dlcname RE Rev. / BH REV. UE: RAID Outfit: "Rachael Ooze"
 addappid(229627, 1, "05fe47e8229993a4957c546b6b11f34f46e75c4344ec653a896e52fcfb8d4343") --Dlcname RE Rev. / BH REV. UE: RAID Outfit: "Rachael Ooze"
 setManifestid(229627, "6146425481277420255", 464)
---Dlcname AppID 229628
+--Dlcname RE Rev. / BH REV. UE: Weapon: Parker's Government + Custom Part: "FBC"
 addtoken(229628, "15453805459233408151")
-addappid(229628, 1, "deda58ec7e09d693118e91f904d7e25e08198a746dfe30f5a988ade2caf96dbb") --Dlcname AppID 229628
+addappid(229628, 1, "deda58ec7e09d693118e91f904d7e25e08198a746dfe30f5a988ade2caf96dbb") --Dlcname RE Rev. / BH REV. UE: Weapon: Parker's Government + Custom Part: "FBC"
 setManifestid(229628, "1091544035272724112", 480)
 --Dlcname RE Rev. / BH REV. UE: Weapon: Jessica's G18 + Custom Part: "BSAA"
 addappid(229629, 1, "c9a80ed80166abc5061fe93f2ca57b2a013075300639e2a7963909215b3cdc57") --Dlcname RE Rev. / BH REV. UE: Weapon: Jessica's G18 + Custom Part: "BSAA"
