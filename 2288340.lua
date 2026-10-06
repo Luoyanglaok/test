@@ -1,7 +1,7 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 2288340.lua
 --Gamename ACE COMBAT 8: WINGS OF THEVE
-addappid(2288340) --Mainappid ACE COMBAT 8: WINGS OF THEVE
+addappid(2288340, 1, "cc3dd6875451295d13dc811f921b8f261e2187d48519e9359c3ad5d7f3e78173") --Mainappid ACE COMBAT 8: WINGS OF THEVE
 addappid(2288341, 1, "799d2a3b781f1e4eea6083b29675036f73dea0ffd9eaf75bb5645164b63d2afe") --Main Windows Depot ACE COMBAT 8: WINGS OF THEVE
 setManifestid(2288341, "8073909758979477747", 145807955040)
 --Dlcname ACE COMBAT ZERO: THE BELKAN WAR (Steam Version)
