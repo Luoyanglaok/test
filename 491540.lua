@@ -34,11 +34,13 @@ addappid(898626, 1, "a0e87b2536cf223daa4572d5c494db6c1da23303a5bf1f00196af604a71
 setManifestid(898626, "8119239068154372879", 0)
 --Dlcname The Bus - Hamburg City
 addappid(3544250, 1, "25a1c05581659f93bcbf9d25a2f6c033ea73eb9fac6eda9727e03454fde92247") --Dlcname The Bus - Hamburg City
-setManifestid(3544250, "612415942197373708", 5518115040)
+setManifestid(3544250, "6899680957366478955", 6514436576)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
+addappid(4047750) --Dlcname The Bus - New York City
 addappid(4656580) --Dlcname The Bus - Ebus 2.2
 addappid(5168640) --Dlcname The Bus - London
+addappid(5275290) --Dlcname The Bus - New York US LFS Bus
