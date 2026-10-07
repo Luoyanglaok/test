@@ -3,7 +3,7 @@
 --Gamename Subnautica 2
 addappid(1962700, 1, "f1218dc455570758f1829f86bbfab5e00806e8a4063b13c786c37ff641e8053f") --Mainappid Subnautica 2
 addappid(1962701, 1, "96feb03fc707b975cf8271da4659fdb16c14c4b1a5c5bf8f94bd66e39edd4d96") --Main Windows Depot Subnautica 2
-setManifestid(1962701, "2218551816517627922", 14381006992)
+setManifestid(1962701, "6518956641559190686", 14382468416)
 addappid(3803322, 1, "7eaea8f9d28c829c78f341808f18830cbd44ce705c0a0f73de3d2bda53571058") --Main Windows Depot Subnautica 2
 setManifestid(3803322, "8650163981997321126", 703979936)
 --Dlcname Subnautica 2 Soundtrack
