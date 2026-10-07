@@ -3,7 +3,7 @@
 --Gamename Gears of War: E-Day
 addappid(3010850, 1, "f05d8ccc4c0840cb8b71e6e8cf2f958b1d6e51834d729e5d0bc60e0ca4e7cc73") --Mainappid Gears of War: E-Day
 addappid(3010851, 1, "65989b880d683f38c64d6757a5d1d3d59032ecf11ed695e993a7bf85b3c5a8b3") --Main Windows Depot Gears of War: E-Day
-setManifestid(3010851, "2876369576045283215", 109755886720)
+setManifestid(3010851, "589946541028810466", 109753354320)
 addappid(3010852, 1, "8c99068e14cf054c7c983711f73ca73fcefd995b0add04d25face3431b782599") --Main Windows Language Depot English Gears of War: E-Day
 setManifestid(3010852, "1623146891674219196", 1055403744)
 addappid(3010853, 1, "c546deaa1b2237658133e1f6b4ea3d2b85ccd8a445c4b80576f5cb49a4506b2c") --Main Windows Language Depot French Gears of War: E-Day
@@ -73,6 +73,7 @@ addappid(4632450) --Dlcname E-Day Premium DLC
 addappid(4637140) --Dlcname E-Day Season 1
 addappid(4637200) --Dlcname E-Day Pre-Order DLC
 addappid(4637220) --Dlcname Luke Preece "Marcus" Weapon Skin Set
+addappid(5027470) --Dlcname E-Day Premium Edition Upgrade
 addappid(5028540) --Dlcname E-Day Liquid Death Bundle
 addappid(5028550) --Dlcname E-Day Prince Street Pizza
 addappid(5028560) --Dlcname E-Day Premium 1000 Iron
