@@ -3,7 +3,7 @@
 --Gamename Grounded 2
 addappid(2661300, 1, "b327d3f0e0a2c4b9cdcf82f361f1c231a8745bb2cc80eb767850907427bfa346") --Mainappid Grounded 2
 addappid(2661301, 1, "cac026f4758d6992ff85de08375749a662b82dc6517be7dc72368060eca7427d") --Main Windows Depot Grounded 2
-setManifestid(2661301, "8901993637752966335", 19927077280)
+setManifestid(2661301, "249029470883713488", 19929366640)
 --Dlcname Grounded 2 Digital Artbook & Soundtrack
 addappid(3784940, 1, "6843207657f513fdac03f7aaeaf83190c1176e552d92aa410f91d0afdb8e220b") --Dlcname Grounded 2 Digital Artbook & Soundtrack
 setManifestid(3784940, "6831822291783062808", 884445808)
@@ -17,3 +17,4 @@ setManifestid(228989, "5753583882400741046", 25108528)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(3788090) --Dlcname Grounded 2: Founder’s Pack
+addappid(5248770) --Dlcname Grounded 2 - Cereal Promotional Pack
