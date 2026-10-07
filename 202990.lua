@@ -87,8 +87,6 @@ setManifestid(255568, "8460207384436530056", 200992)
 --Dlcname Call of Duty: Black Ops II - Nuketown 2025
 addappid(219091, 1, "13db3f94308bbf15cedb716ddb4eacea88436d59a674ebb6faab079dc499baf0") --Dlcname Call of Duty: Black Ops II - Nuketown 2025
 setManifestid(219091, "3185257489268655163", 247761792)
---Dlcname Call of Duty: Black Ops II - Zombies - Nuketown Zombies
-addappid(219092, 1, "6eb4af9cc7ed432ff402317620d36eaf3db695eed4672a51c58e4ef506236652") --Dlcname Call of Duty: Black Ops II - Zombies - Nuketown Zombies
 --Dlcname Call of Duty: Black Ops II - Soundtrack
 addappid(219094, 1, "2e5a53ff93c388da9e33c69ad6c761c937508465d431046c220ab3b564409ef3") --Dlcname Call of Duty: Black Ops II - Soundtrack
 setManifestid(219094, "3038711571425126440", 0)
