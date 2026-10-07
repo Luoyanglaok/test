@@ -3,7 +3,7 @@
 --Gamename Mystery Egg Shop Simulator
 addappid(3850970) --Mainappid Mystery Egg Shop Simulator
 addappid(3850971, 1, "1da990762e2f974584c7ab780f42180dd07d416b1b8504100452749a94f3578b") --Main Windows Depot Mystery Egg Shop Simulator
-setManifestid(3850971, "1084955307666531439", 1729280912)
+setManifestid(3850971, "5130287297410700764", 1729024208)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
