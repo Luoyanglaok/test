@@ -3,9 +3,9 @@
 --Gamename Escape Simulator 2
 addappid(2879840, 1, "7c008af9cef1ad18f5e872860cac36e8f0bf058517ea2dfd0c86b5cf92b65cde") --Mainappid Escape Simulator 2
 addappid(2879841, 1, "c433321ba6253e0c6d6307cd77101be392e2de78a54bfdb1e27e7f5b6c1e781c") --Main Windows Depot Escape Simulator 2
-setManifestid(2879841, "6796000282772498549", 13054316976)
+setManifestid(2879841, "1146700437483009336", 13113881024)
 addappid(2879842, 1, "31b5cc0b6efd3f8a01b95c9d01f2eb3146b7b4bf138c0d9a790dada042aad32a") --Main Macos Depot Escape Simulator 2
-setManifestid(2879842, "3133416104159437694", 14047329216)
+setManifestid(2879842, "2580625414869618109", 14148850928)
 addappid(2879843, 1, "ba93ef87c5cb35d35942f9c9bafb8b6680de41f769d238efadc453a3f21e77b1") --Main Windows Language Depot French Escape Simulator 2
 setManifestid(2879843, "2900199069572921921", 0)
 addappid(2879844, 1, "e61f373492ca8dc9fd40f1f514c97961cc954c9f990b249b62ef491ec490c4f9") --Main Windows Language Depot Japanese Escape Simulator 2
@@ -62,5 +62,7 @@ addappid(3834089, 1, "32df8d005bc675bb6452d3d81e4a53b88b0582a522856fadcc31e27c8d
 setManifestid(3834089, "5934169077623072668", 0)
 addappid(4105228, 1, "f3d8565e894b07e49f92acac0a766f1e602ab78093605b82c18eb76bd9dc7b0f") --Main Macos Language Depot Russian Escape Simulator 2
 setManifestid(4105228, "8810924636468935619", 0)
---Missing Dlcs
 --Dlcname Escape Simulator 2: Apocalypse DLC
+addappid(4575720) --Dlcname Escape Simulator 2: Apocalypse DLC
+addappid(4575721, 1, "efe4af764aa05c52dfa2024a7aee22a91a41b494e0c9bd2c83e7642579def822") --Dlc Windows Depot Escape Simulator 2: Apocalypse DLC
+setManifestid(4575721, "6210037105611007579", 2596065408)
