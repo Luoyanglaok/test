@@ -3,9 +3,9 @@
 --Gamename House Party
 addappid(611790, 1, "b0943e1310e994a8404e520359646b3d24d4b54b40982f0196bdaf2f6042d413") --Mainappid House Party
 addappid(611791, 1, "83bbf3421af9c12068fd0d7d85cbaf9d368db80bf05f3233c3887561783af1c5") --Main Windows Depot House Party
-setManifestid(611791, "5166347645032005877", 4010729056)
+setManifestid(611791, "2121367616345410477", 4017644704)
 addappid(611799, 1, "05fa356e7c4a3992252ed97b9252a3160401a04fa42abf9d07b8d794631425e4") --Main Windows Depot House Party
-setManifestid(611799, "5402446821250584952", 16744576)
+setManifestid(611799, "3792763159313354363", 16741424)
 --Dlcname House Party - Explicit Content Add-On
 addappid(944540, 1, "df6c415c034e6590623fc12d69f7c5cd0701e5291eb9862d065a1869e642af53") --Dlcname House Party - Explicit Content Add-On
 setManifestid(944540, "1737372676988932567", 1165387744)
