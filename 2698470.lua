@@ -1,0 +1,9 @@
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2698470.lua
+--Gamename Kemono Teatime
+addappid(2698470) --Mainappid Kemono Teatime
+addappid(2698471, 1, "95f3343c9904bd90d71885d3b2eb6746835ec58ad09848c91df7260a0c3460cd") --Main Windows Depot Kemono Teatime
+setManifestid(2698471, "1678074384567397989", 453114144)
+--Dlcname けものティータイム アートブック
+addappid(3888580, 1, "5db81899667392d2240d375b096693438142e88700954b729101615c9f941c9e") --Dlcname けものティータイム アートブック
+setManifestid(3888580, "6869260105400996256", 1096991984)
