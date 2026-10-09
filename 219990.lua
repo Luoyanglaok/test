@@ -3,25 +3,25 @@
 --Gamename Grim Dawn
 addappid(219990, 1, "f526be8add966b86be32ef5a4b61c78a5cd1f1621dfcd168368922397abc39cb") --Mainappid Grim Dawn
 addappid(219991, 1, "24ba5f38bc31d02b7075c9464e178e08c9552de08a183056fbf1aa79b405e4c6") --Main Windows Depot Grim Dawn
-setManifestid(219991, "7668750451172825438", 3634046944)
+setManifestid(219991, "382249031910927652", 3655226064)
 --Dlcname Grim Dawn - Crucible Mode DLC
 addappid(483840, 1, "25fb87a62fad42ff98bde06d9be0995cc02349c65bc47637fc8e713ed6d9d3e1") --Dlcname Grim Dawn - Crucible Mode DLC
-setManifestid(483840, "2736791586213455031", 103894384)
+setManifestid(483840, "178282164098390168", 103902416)
 --Dlcname Grim Dawn - Ashes of Malmouth Expansion
 addappid(642280, 1, "af5387c55c30f622c2cb2aafa8bb289785c75d67ee675b5a2db9a1dc40b0e55d") --Dlcname Grim Dawn - Ashes of Malmouth Expansion
-setManifestid(642280, "5052231144302612075", 2027164880)
+setManifestid(642280, "2297395734672769022", 2027209568)
 addappid(642281, 1, "40263ca158fa164ef993b52a491845a7508f4b9a784e0a4b1f6a78fb1109e9f9") --Dlc Windows Depot Grim Dawn - Ashes of Malmouth Expansion
-setManifestid(642281, "1964064799284640879", 12090544)
+setManifestid(642281, "5465271382564252634", 12090688)
 --Dlcname Grim Dawn - Forgotten Gods Expansion
 addappid(897670, 1, "9e9fdd83057e0d41385fd8bb3461125aecaed7e3ff3cc7890834639322e00e30") --Dlcname Grim Dawn - Forgotten Gods Expansion
-setManifestid(897670, "4413745635411486049", 2613622256)
+setManifestid(897670, "828958375820738551", 2613641456)
 addappid(897671, 1, "deefcab56ed487ca3ff25be38f578ead6650ae4e1b1fbe39450cdd9ccd737333") --Dlc Windows Depot Grim Dawn - Forgotten Gods Expansion
-setManifestid(897671, "7604532180778486959", 2487216)
+setManifestid(897671, "6073288963336035726", 2487328)
 --Dlcname Grim Dawn - Fangs of Asterkarn
 addappid(2699230, 1, "4843e2630d30639c182670a20fcd1a15b455f6917c345f7824fc2062fdc46a11") --Dlcname Grim Dawn - Fangs of Asterkarn
-setManifestid(2699230, "1509728266051519769", 4928958864)
+setManifestid(2699230, "6198629158109164801", 4951287728)
 addappid(2699231, 1, "336117c2e4cd9ad52a8bdd10e432814d6ac7e4ffb6ac21fc8ba7872a9e825a7d") --Dlc Windows Depot Grim Dawn - Fangs of Asterkarn
-setManifestid(2699231, "7322348115871238818", 14321712)
+setManifestid(2699231, "4405566710545875850", 14324448)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
