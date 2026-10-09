@@ -53,3 +53,73 @@ addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306f
 setManifestid(228989, "5753583882400741046", 25108528)
 --Missing Dlcs
 --Dlcname Two Point Museum: Rides & Relics
+-- 2185060's Lua and Manifest Created by Hubcap Manifest
+-- Two Point Museum
+-- Created: October 08, 2026 at 11:31:46 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 25799969 (public branch)
+-- Build Date: October 08, 2026 at 05:26:32 EDT (1791451592)
+-- Total Depots: 22
+-- Total DLCs: 6
+-- Shared Depots: 1
+-- MAIN APPLICATION
+addappid(2185060, 1, "2340a2fa4b9bb44e786eb62e5866d2f8b2b4c5d73c0173273064b5a6424c5d1d") -- Two Point Museum
+-- MAIN APP DEPOTS
+addappid(2185061, 1, "a98101165ba3b99b3d98c5866360aa7cb08eeffd31ec95a9d024a824ff57c792") -- Depot 2185061
+setManifestid(2185061, "2732842006636921482", 5949289937)
+addappid(2185062, 1, "50e06e5a50d397f8af97494176ecfb9f75bb4082443bbe1fb111f44715c18d61") -- Depot 2185062
+setManifestid(2185062, "5802379079990216837", 5778950759)
+addappid(2185063, 1, "e68d0e65f0ced4a31e4932edecd8ff65ad2f1b503bff1b0e74faa05ae4d5356c") -- Depot 2185063
+setManifestid(2185063, "3575781497237314026", 6095736046)
+-- SHARED DEPOTS (from other apps)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "5753583882400741046", 25674515)
+-- DLCS WITH DEDICATED DEPOTS
+-- Two Point Museum Sonic Pre-Purchase Pack  (AppID: 2999840)
+addappid(2999840) --Dlcname Two Point Museum Sonic Pre-Purchase Pack
+addappid(2999841, 1, "17c8f80c3b69386aa95d085d8d9acf78ded50c7d234c3fe760843b1854e57d5d") -- Two Point Museum Sonic Pre-Purchase Pack  - Depot 2999841
+setManifestid(2999841, "7765707689277870954", 51456064)
+addappid(2999842, 1, "c17024c21617ad2a2c48ab1ef147fa5631840f4a8e92735f4ceddc9bcf4aa2cb") -- Two Point Museum Sonic Pre-Purchase Pack  - Depot 2999842
+setManifestid(2999842, "5014099323316633788", 51457006)
+addappid(2999843, 1, "e9ef0ab3c1526da46248fa2d6b362fe47d752025d6737c04217e276330a0f57f") -- Two Point Museum Sonic Pre-Purchase Pack  - Depot 2999843
+setManifestid(2999843, "3121566430516519168", 51456059)
+-- Two Point Museum Explorer Upgrade Pack (AppID: 2999850)
+addappid(2999850) --Dlcname Two Point Museum Explorer Upgrade Pack
+addappid(2999851, 1, "08a857d0c27299f066279413cf450e11262163e9fdd33ed8146402834a75a318") -- Two Point Museum Explorer Upgrade Pack - Depot 2999851
+setManifestid(2999851, "8068123852328048639", 23476154)
+addappid(2999852, 1, "6a30c41e89a00e6dccd56cde848599d00d6f98edb86f68d8ad3ca11a7772fbb7") -- Two Point Museum Explorer Upgrade Pack - Depot 2999852
+setManifestid(2999852, "4903099839963633328", 23476575)
+addappid(2999853, 1, "02e1edb27de1b992bbac282fe43c00b39aced6b5b1ff1e6dce02a711d64adbe4") -- Two Point Museum Explorer Upgrade Pack - Depot 2999853
+setManifestid(2999853, "2992186165346054667", 23476154)
+-- Two Point Museum Fantasy Finds (AppID: 3592600)
+addappid(3592600) --Dlcname Two Point Museum Fantasy Finds
+addappid(3592601, 1, "8fc6c6248dc796e6fd5cc6834560bebbe05cd43fca1209ce06cd28d42a3421b1") -- Two Point Museum Fantasy Finds - Depot 3592601
+setManifestid(3592601, "2930281299074388412", 127433174)
+addappid(3592602, 1, "f176a616fceffd4977533324e8cbecec75de625ac741be1563f35bc159674382") -- Two Point Museum Fantasy Finds - Depot 3592602
+setManifestid(3592602, "6897590293045373505", 127426987)
+addappid(3592603, 1, "d0e5329d3415a09f040f4c36085ad1ecbe427e72f8505095a0798f4d0068b0e9") -- Two Point Museum Fantasy Finds - Depot 3592603
+setManifestid(3592603, "2341381729610601625", 127433169)
+-- Two Point Museum Zooseum (AppID: 3804850)
+addappid(3804850) --Dlcname Two Point Museum Zooseum
+addappid(3804851, 1, "245b7148e9c97035fcc19d3bb6286994fe4bbfec32c17a6803f915ce8704d421") -- Two Point Museum Zooseum - Depot 3804851
+setManifestid(3804851, "2438709162745455203", 123799037)
+addappid(3804852, 1, "a583d14bddd9f6fc992424ce67bf9b15784a5f4955af01eb3cd14f80a12d606d") -- Two Point Museum Zooseum - Depot 3804852
+setManifestid(3804852, "7207139615678253641", 124105943)
+addappid(3804853, 1, "1e6e361d4b7c2b23303f99e11c058d5e82c3112aa3f0111e1ae7966c40e0070b") -- Two Point Museum Zooseum - Depot 3804853
+setManifestid(3804853, "4012538330133541810", 123799036)
+-- Two Point Museum Arty-Facts (AppID: 4114070)
+addappid(4114070) --Dlcname Two Point Museum Arty-Facts
+addappid(4114071, 1, "a1d52a9452a4435e6c078aee4682ae820a960536c98fa626d6e5e61893c378c8") -- Two Point Museum Arty-Facts - Depot 4114071
+setManifestid(4114071, "137945104075648603", 47021636)
+addappid(4114072, 1, "b1870e3cbcf57e05514e6f01a40edd9ec1d180a6d845c3688f2c308f13727389") -- Two Point Museum Arty-Facts - Depot 4114072
+setManifestid(4114072, "3436822938476336653", 47021540)
+addappid(4114073, 1, "327160d1fe32acf1828908f9ba8a7bd8093de255be16c02f2f41186f5b95884b") -- Two Point Museum Arty-Facts - Depot 4114073
+setManifestid(4114073, "4583756193941860244", 47021635)
+-- Two Point Museum Rides  Relics (AppID: 4511680)
+addappid(4511680) --Dlcname Two Point Museum Rides  Relics
+addappid(4511681, 1, "b2a147724bf5d25de1ee3575973bedc2da49b646c8878cba3a9cdb3677bac44c") -- Two Point Museum Rides  Relics - Depot 4511681
+setManifestid(4511681, "7213525727228616517", 78895670)
+addappid(4511682, 1, "fcbc05a098e074739eef05524be1c90423613e6f1bbb8a15e51827b72592e871") -- Two Point Museum Rides  Relics - Depot 4511682
+setManifestid(4511682, "4755375425292866181", 79942113)
+addappid(4511683, 1, "a808144aec88210bd385b5f2abc93f080b0ac09432f96c084ae791f5d073b9b3") -- Two Point Museum Rides  Relics - Depot 4511683
+setManifestid(4511683, "5030387171307437068", 81663279)
