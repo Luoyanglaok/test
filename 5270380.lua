@@ -1,3 +1,4 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 5270380.lua
-addappid(5270380)  -- [服务器] 密钥不可用（同 depot 短期两个不同值（上一次 5b23f8c67886111d… / 本次 ba7b493367ed…）⇒ 该来源判不可信；残件形态（flag=0 + 无 setManifestid + 无 --Gamename + 171 B））
+addappid(5270380, 0, "e8250a72df0dc2be66ef6095884bf7b80ebf79e29f2dcc8f98b0ce5942453abf")
+setManifestid(5270380, "5963698310466478992")
