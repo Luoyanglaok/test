@@ -83,14 +83,12 @@ addappid(228982, 1, "fa2997f03c3576c41174f200596ab2246fd1e39c0911f9b869e92635ae5
 setManifestid(228982, "6413394087650432851", 9650016)
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228988, "6645201662696499616", 22411856)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
-addappid(229000, 1, "3aae9271fb93da5395ffbfe338d3647de5dcfab3fc6fb901ca2ec28849b3d6bf") --Share Windows Depot Steamworks Common Redistributables
-setManifestid(229000, "4622705914179893434", 242681440)
-addappid(229001, 1, "ec23e1a1e1da6205722291f91bf72d1989cb347245e5a14d8d514c4ad5ba4e97") --Share Windows Depot Steamworks Common Redistributables
-setManifestid(229001, "4049573910112143457", 268006912)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
-setManifestid(1716751, "6659642105086821873", 264636800)
+setManifestid(1716751, "5295264444706308687", 264106592)
 addappid(298781) --Dlcname Watch_Dogs - Uplay Activation
 addappid(298782) --Dlcname Watch_Dogs - Deluxe Edition Preorder Uplay Activation
 addappid(298783) --Dlcname Watch_Dogs - Deluxe Edition Uplay Activation
