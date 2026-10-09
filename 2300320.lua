@@ -187,3 +187,18 @@ addappid(3453810) -- Farming Simulator 25 Year 2 Season Pass
 -- addappid(4404070) -- Farming Simulator 25: Beans & Alpacas Expansion (unreleased)
 -- EMPTY DEPOTS (no content on any branch)
 -- addappid(4404070) -- Depot 4404070 (empty depot)
+
+addappid(2981090) --Dlcname Farming Simulator 25 MacDon Pack
+addappid(2981110) --Dlcname Farming Simulator 25 New Holland CR11 Gold Edition
+addappid(3450870) --Dlcname Farming Simulator 25 NEXAT Pack
+addappid(3453950) --Dlcname Farming Simulator 25 Plains  Prairies Pack
+addappid(3453960) --Dlcname Farming Simulator 25 Mercedes-Benz Trucks Pack
+addappid(3453970) --Dlcname Farming Simulator 25 Highlands Fishing Expansion
+addappid(3816190) --Dlcname Farming Simulator 25 Straw Harvest Pack
+addappid(4054370) --Dlcname Farming Simulator 25 JCB - WFT
+addappid(4348790) --Dlcname Farming Simulator 25 Vredo Pack
+addappid(4348800) --Dlcname Farming Simulator 25 SKY Agriculture Pack
+addappid(4651570) --Dlcname Farming Simulator 25 Emergency Pack
+addappid(4664870) --Dlcname Farming Simulator 25 Pumps n Hoses Pack
+addappid(2981100) --Dlcname Farming Simulator 25 Year 1 Season Pass
+addappid(3453810) --Dlcname Farming Simulator 25 Year 2 Season Pass
