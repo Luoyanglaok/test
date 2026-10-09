@@ -37,3 +37,6 @@ setManifestid(5270380, "5963698310466478992", 82513015)
 addappid(5270390)
 addappid(5270390, 1, "50398f89426361694d3e368dbf5b6de0f43a6a9a0e9371f5d91e93b826ac3e24") -- Wild West Pioneers - Official Cookbook - Depot 5270390
 setManifestid(5270390, "5598456253712373740", 23494014)
+
+addappid(5270380) --Dlcname Wild West Pioneers - Official Companion
+addappid(5270390) --Dlcname Wild West Pioneers - Official Cookbook
