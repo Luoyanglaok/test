@@ -62,3 +62,11 @@ addappid(4357050) -- WWE 2K26 Superstar Mega-Boost
 addappid(4429680) -- WWE 2K26 Monday Night War Edition
 addappid(5149920) -- WWE 2K26 Persona Card Pack
 addappid(5149930) -- WWE 2K26 Premium Persona Card Pack
+
+addappid(4125680) --Dlcname WWE 2K26 MyRISE Boost
+addappid(4181550) --Dlcname WWE 2K26 King of Kings Edition Pack
+addappid(4181560) --Dlcname WWE 2K26 Attitude Era Edition Pack
+addappid(4181570) --Dlcname WWE 2K26 Monday Night War Edition Pack
+addappid(4181610) --Dlcname WWE 2K26 Ringside Pass Premium Season 2
+addappid(5149920) --Dlcname WWE 2K26 Persona Card Pack
+addappid(5149930) --Dlcname WWE 2K26 Premium Persona Card Pack
