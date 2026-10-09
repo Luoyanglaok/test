@@ -123,3 +123,10 @@ addappid(4511682, 1, "fcbc05a098e074739eef05524be1c90423613e6f1bbb8a15e51827b725
 setManifestid(4511682, "4755375425292866181", 79942113)
 addappid(4511683, 1, "a808144aec88210bd385b5f2abc93f080b0ac09432f96c084ae791f5d073b9b3") -- Two Point Museum Rides  Relics - Depot 4511683
 setManifestid(4511683, "5030387171307437068", 81663279)
+
+addappid(2999840) --Dlcname Two Point Museum Sonic Pre-Purchase Pack
+addappid(2999850) --Dlcname Two Point Museum Explorer Upgrade Pack
+addappid(3592600) --Dlcname Two Point Museum Fantasy Finds
+addappid(3804850) --Dlcname Two Point Museum Zooseum
+addappid(4114070) --Dlcname Two Point Museum Arty-Facts
+addappid(4511680) --Dlcname Two Point Museum Rides  Relics
