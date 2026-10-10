@@ -1,7 +1,7 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 4240090.lua
 --Gamename KunKunNest
-addappid(4240090) --Mainappid KunKunNest
+addappid(4240090, 1, "f43d205e533ab746423ef6633aa2853e42d560636eacd924f075d2a7f21e4569") --Mainappid KunKunNest
 addappid(4240091, 1, "e352e4c265a65542c2b295b7b7d63ad01c8cfa12cee5948546395eaaf270244e") --Main Windows Depot KunKunNest
 setManifestid(4240091, "7925675875816738787", 1418379152)
 --Share Depots
