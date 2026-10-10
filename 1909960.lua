@@ -1,3 +1,4 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 1909960.lua
-addappid(1909960, 0, "f0062f127f889a638d986ff5ba164629156693c63d2fe82aba61a910cf5d41eb")
+addappid(1909960, 1, "07a45b03b0c6f5bf92fb6f84ed9877e0908f29f89663a644d6cb3438188281d8")
+setManifestid(1909960, "8722771999527886706")
