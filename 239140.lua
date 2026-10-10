@@ -1,6 +1,6 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 239140.lua
-addappid(239140, 0, "a6db659c237a76ff7eda1ab222eb7fa5a6d9494c2b673f8aaff010b70e84c8e7")
+addappid(239140, 0, "0fc3a5d00d610bd7fa8569f97a339b2cd5e2695fb293a1118bab76a045a8b246")
 addappid(302100) --Dlcname AppID 302100
 addtoken(302100, "1983212283047127395")
 addappid(302101) --Dlcname Dying Light - Cuisine & Cargo
@@ -32,7 +32,7 @@ addappid(325722) --Dlcname AppID 325722
 addtoken(325722, "17021389916891106800")
 addappid(325723) --Dlcname Dying Light - The Bozak Horde
 addappid(325724) --Dlcname Dying Light - The Following
-addappid(335810) --Dlcname AppID 335810
+addappid(335810) --Dlcname Dying Light Season Pass
 addtoken(335810, "10419984102394371097")
 addappid(347090) --Dlcname Dying Light Ultimate Survivor Bundle
 addappid(412920) --Dlcname AppID 412920
