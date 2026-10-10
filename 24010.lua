@@ -4,7 +4,6 @@
 addappid(24010, 1, "cc20475a6aa1a51c729951978a7ebdb9a4a91d89e96fad0ab50840a314e8be03") --Mainappid Train Simulator Classic
 addappid(24009, 1, "906cf8c7b28bd30226933f6bd6b26e7b0f045f35a3b28fa3d06a0410ef85c271") --Main Windows Depot Train Simulator Classic
 setManifestid(24009, "323787778077310046", 478298464)
-addappid(24011, 1, "cc20475a6aa1a51c729951978a7ebdb9a4a91d89e96fad0ab50840a314e8be03") --Main Windows Depot Train Simulator Classic
 --Dlcname Train Simulator: BNSF ES44AC &amp; SD40-2 Loco Add-On
 addappid(24012, 1, "d5849901023092e491156e16ff040534756c8a0d208a9359b70960f2afbef5e8") --Dlcname Train Simulator: BNSF ES44AC &amp; SD40-2 Loco Add-On
 setManifestid(24012, "9130525058480048722", 0)
@@ -2402,9 +2401,9 @@ setManifestid(834407, "720713434802568329", 308924112)
 --Dlcname TS Marketplace: Alaska Railroad Scenario Pack 01
 addappid(834408, 1, "128b792f4980a57c8dd53a01441f0e727239f2c963869ed373496a6b6cfd1c03") --Dlcname TS Marketplace: Alaska Railroad Scenario Pack 01
 setManifestid(834408, "2339180040458857291", 69650224)
---Dlcname AppID 834409
+--Dlcname Class 159 South West Trains
 addtoken(834409, "1241455567669676153")
-addappid(834409, 1, "8e33aa9733a9769ee68fa1ef1cb0a78901c19616a27ba5831d7713f64b043599") --Dlcname AppID 834409
+addappid(834409, 1, "8e33aa9733a9769ee68fa1ef1cb0a78901c19616a27ba5831d7713f64b043599") --Dlcname Class 159 South West Trains
 setManifestid(834409, "7890354650699061185", 66555392)
 --Dlcname Train Simulator: CPRR 4-6-0 Buffalo Steam Loco Add-On
 addappid(861880, 1, "c1e07459372e52fa3cc132772a493cb8024ca39dc67bd093e5091953d9b348b7") --Dlcname Train Simulator: CPRR 4-6-0 Buffalo Steam Loco Add-On
