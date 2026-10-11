@@ -3,4 +3,4 @@
 --Gamename Needle In A Haystack
 addappid(5085740) --Mainappid Needle In A Haystack
 addappid(5085741, 1, "ec95763f3440e3066725f02305ee15a48846581943158d93eff3d81522633915") --Main Windows Depot Needle In A Haystack
-setManifestid(5085741, "5481480935201945744", 700614864)
+setManifestid(5085741, "3517317786462873387", 700615936)
