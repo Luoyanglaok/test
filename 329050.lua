@@ -15,14 +15,6 @@ setManifestid(329064, "3712214782024545292", 501034336)
 --Dlcname Lady & Trish Costumes
 addappid(359496, 1, "5eeebd35182e7d89c2849a263992ec597c582ae9ca3b387426064c8981aa8d0f") --Dlcname Lady & Trish Costumes
 setManifestid(359496, "8396830996349325680", 202862016)
---Dlcname Devil May Cry 4 Original Soundtrack
-addappid(1426690) --Dlcname Devil May Cry 4 Original Soundtrack
-addappid(1426691, 1, "d02118b3c80d3b01bffd39ee7c50b90dd70099191275ab76facf7b770f9bde60") --Dlc Windows Depot Devil May Cry 4 Original Soundtrack
-setManifestid(1426691, "6487366122747034326", 467033232)
-addappid(1426692, 1, "14ae56906f5b5765b721dbcc0dcd4e9b89ab3cd175ef694af1b83184527ca066") --Dlc Windows Depot Devil May Cry 4 Original Soundtrack
-setManifestid(1426692, "8236156712971791488", 1373023856)
-addappid(1426693, 1, "fa02f3a573c1429ac81389a2f7c7805bc2827ff938fc57408313bc8ec9cf6159") --Dlc Windows Depot Devil May Cry 4 Original Soundtrack
-setManifestid(1426693, "4596843764624354532", 610650944)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
