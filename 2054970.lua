@@ -3,13 +3,13 @@
 --Gamename Dragon's Dogma 2
 addappid(2054970, 1, "c602a4fd56a58f08d5fceac535f62f17aeeb68e532be0dccbc393393f8dd3783") --Mainappid Dragon's Dogma 2
 addappid(2054971, 1, "792bf9022d9b26150098ba84f896617faee1db94dd4bd50cb9d70fcba3700282") --Main Windows Depot Dragon's Dogma 2
-setManifestid(2054971, "8201652860178022455", 49702016)
+setManifestid(2054971, "3438547366935427234", 49702016)
 addappid(2054972, 1, "251b0eee00d4ff779243b1018a8c6c77664e933ba7ee3753803555cef509480f") --Main Windows Depot Dragon's Dogma 2
-setManifestid(2054972, "6616616441682458633", 49702016)
+setManifestid(2054972, "2497482018950166086", 49702016)
 addappid(2054973, 1, "26687268229e99b88102170590ad39df0aa4bbc80190480af56ee3c54c11b1cc") --Main Windows Depot Dragon's Dogma 2
-setManifestid(2054973, "7326349851344674520", 64927980144)
+setManifestid(2054973, "5096395230065303989", 68155907184)
 addappid(2054974, 1, "4ebc5021915c7e4cc3c5ba1a4a08015289788d290c3ed14a772893ee8ebb6a60") --Main Windows Depot Dragon's Dogma 2
-setManifestid(2054974, "6839022010412597171", 64922591456)
+setManifestid(2054974, "4433477873043462508", 68163333808)
 addappid(3350021, 1, "f909021c49122e54311e89af4a9372aebabe87aee748e00dea186a6599ea74d6") --Main Windows Depot Dragon's Dogma 2
 setManifestid(3350021, "6738674124230396336", 391997232)
 --Dlcname Dragon's Dogma 2: Superior Weapons Quartet - A Boon in Early Battles
@@ -48,6 +48,12 @@ setManifestid(2593260, "1542297718911676562", 4944)
 --Dlcname Dragon's Dogma 2: Portcrystal - Warp Location Marker
 addappid(2593270, 1, "ddc76b8dc500c37d77e1ef1a22be78b9470043c9e9d324a4cea0aa5b405e01e8") --Dlcname Dragon's Dogma 2: Portcrystal - Warp Location Marker
 setManifestid(2593270, "2999068646104164918", 5024)
+--Dlcname Dragon's Dogma 2: Dark Arisen: Norgan Fashion Set - Northern Attire
+addappid(2593280, 1, "3e58ebc983589efbd482d07511050310d0cab2934f4ca84b09206908c290da28") --Dlcname Dragon's Dogma 2: Dark Arisen: Norgan Fashion Set - Northern Attire
+setManifestid(2593280, "3305444330840079072", 752)
+--Dlcname Dragon’s Dogma 2: Dark Arisen Expansion
+addappid(2593290, 1, "0453f44663857029b226c815e74038b9bc9baf6ce297431ab6df92eeda53c5e6") --Dlcname Dragon’s Dogma 2: Dark Arisen Expansion
+setManifestid(2593290, "3353726914325255074", 26506078656)
 --Dlcname Dragon's Dogma 2: Wakestone - Restore the dead to life! (B)
 addappid(2694820, 1, "2ff10651137a55b9ea55d673f207d1a8f90d82b128b1eabec8cc296ce2a1ac64") --Dlcname Dragon's Dogma 2: Wakestone - Restore the dead to life! (B)
 setManifestid(2694820, "8323545382908063536", 4928)
@@ -86,5 +92,3 @@ addappid(3350020) --Dlcname Dragon's Dogma 2 Original Soundtrack
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
---Missing Dlcs
---Dlcname Dragon’s Dogma 2: Dark Arisen Expansion
