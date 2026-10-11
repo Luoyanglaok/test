@@ -3,7 +3,7 @@
 --Gamename Celestial Empire
 addappid(1330430, 1, "0df8788cf856410b5a4c9b80954763e6ed1713a368523fb62601607a08950b18") --Mainappid Celestial Empire
 addappid(1330431, 1, "9c9d8c218847fb1a49d3243f5a04d891620b8993b95b25473aa63ec229cffa52") --Main Windows Depot Celestial Empire
-setManifestid(1330431, "1364573520621297738", 22232355952)
+setManifestid(1330431, "2328025665392327069", 23988801040)
 addappid(3992291, 1, "8a0fff7e36187f4593d031d30038c1dca713a070975480925b5e9a91ad06c281") --Main Windows Depot Celestial Empire
 setManifestid(3992291, "3811189937505839737", 164377856)
 --Dlcname Celestial Empire Soundtrack
