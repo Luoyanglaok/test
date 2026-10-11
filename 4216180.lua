@@ -3,4 +3,4 @@
 --Gamename IGNOBLE
 addappid(4216180) --Mainappid IGNOBLE
 addappid(4216181, 1, "620cc46202752feafcbcd2056e914ef87c10f9672b66fcfd9b6f2d9839aa730e") --Main Windows Depot IGNOBLE
-setManifestid(4216181, "8043242756180693009", 149290976)
+setManifestid(4216181, "507043132119826035", 168069344)
