@@ -3,7 +3,7 @@
 --Gamename Permafrost
 addappid(2254990) --Mainappid Permafrost
 addappid(2254991, 1, "8f0672d21885c45c48835b862546a356cc2613334fae5ee7ef47d70f9e440753") --Main Windows Depot Permafrost
-setManifestid(2254991, "5271000900942067526", 18221154800)
+setManifestid(2254991, "5670201609695575449", 18243351616)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
