@@ -1,3 +1,3 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 4868870.lua
-addappid(4868870)  -- [服务器] 密钥不可用（官方 gid 拿不到 ⇒ 保守按未验证；残件形态（flag=0 + 无 setManifestid + 无 --Gamename + 171 B））
+addappid(4868870)  -- [服务器] 密钥不可用（同 depot 短期两个不同值（上一次 6ae066103afd2fc3… / 本次 83b5e95edf5d…）⇒ 该来源判不可信；残件形态（flag=0 + 无 setManifestid + 无 --Gamename + 171 B））
