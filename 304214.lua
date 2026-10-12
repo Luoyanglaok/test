@@ -1,3 +1,4 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 304214.lua
-addappid(304214, 0, "cf4a40304413f455ff0d45597a53a076c75cf9f115039421d66d6e22e00510f6")
+addappid(304214, 1, "884afba8823c2c7f29594929bea51b3b4d104c94d1eed509f7cbb74e6879a4b9")
+setManifestid(304214, "5664607073299318301", 0)
