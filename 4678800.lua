@@ -4,7 +4,7 @@
 addappid(4678800, 1, "8c5b245d7607580c9af56dd8796bc182eb122d94b5dd8e4bed8fe6a65260df6c") --Mainappid Train Sim World® 7
 addtoken(4678800, "3288917701616793416")
 addappid(4678801, 1, "06ce225a462eb997e46c9c7dffc230f07821451eece35b478c2376b42c5dc75c") --Main Windows Depot Train Sim World® 7
-setManifestid(4678801, "1187681040244517859", 7440473888)
+setManifestid(4678801, "3934103353068958097", 7452981648)
 --Dlcname Train Sim World® 7: Great Western Express Remastered Route Add-On
 addappid(4678820, 1, "b6971e493fde5d63cd7f962bce757c4dba9028828b5651d41279e6b4ec0f435a") --Dlcname Train Sim World® 7: Great Western Express Remastered Route Add-On
 setManifestid(4678820, "1823755716114467490", 4707922704)
@@ -498,19 +498,19 @@ setManifestid(4680770, "7995191726484273236", 82567856)
 --Dlcname Train Sim World® 7: Bahnstrecke Nürnberg - Würzburg Route Add-On
 addtoken(4680800, "9077880630010020721")
 addappid(4680800, 1, "6ffea1a12cb6c366786d24e6c4a01284a535d208c9e5a775e8b25255d3756ebb") --Dlcname Train Sim World® 7: Bahnstrecke Nürnberg - Würzburg Route Add-On
-setManifestid(4680800, "7369114593387300427", 8917020320)
+setManifestid(4680800, "7499463893148186494", 8917735680)
 --Dlcname Train Sim World® 7: Florida Tri-Rail: Miami - Boca Raton Route Add-On
 addtoken(4680810, "2844657118638720369")
 addappid(4680810, 1, "6d5a090152b38f2609c278b2c0ab625d766e55aa56b2ff7d32f85df2b598202a") --Dlcname Train Sim World® 7: Florida Tri-Rail: Miami - Boca Raton Route Add-On
-setManifestid(4680810, "2497806495280500824", 6057330992)
+setManifestid(4680810, "7540352398773258705", 6057304192)
 --Dlcname Train Sim World® 7: Airedale & Wharfedale Network: Leeds & Bradford - Skipton & Ilkley Route Add-On
 addtoken(4714890, "12236726871434023279")
 addappid(4714890, 1, "b47fdc99dc61c2fdd14e0d1f6519d94aa734729e601d54f5a258b97d42166293") --Dlcname Train Sim World® 7: Airedale & Wharfedale Network: Leeds & Bradford - Skipton & Ilkley Route Add-On
-setManifestid(4714890, "4027824356939900490", 6183774912)
+setManifestid(4714890, "7626431677968740703", 6183799776)
 --Dlcname Train Sim World® 7: Tri-Rail GP49H-3 Loco Add-On
 addtoken(4714910, "6884407096305012552")
 addappid(4714910, 1, "ff3ceef777d6a9c4fdc9bf2089b55e42efba598fd6b9246a485d7b6251d7fc96") --Dlcname Train Sim World® 7: Tri-Rail GP49H-3 Loco Add-On
-setManifestid(4714910, "4396634670714526767", 174891680)
+setManifestid(4714910, "6908603461661731810", 174890144)
 --Dlcname Train Sim World® 7: Northern BR Class 333 EMU Add-On
 addtoken(4714920, "15435508037749200563")
 addappid(4714920, 1, "06e798fbd26c4266bf33fc7c96be4f27fe4138c9ba0ef7afad588f931c037614") --Dlcname Train Sim World® 7: Northern BR Class 333 EMU Add-On
@@ -518,7 +518,7 @@ setManifestid(4714920, "5050359900437296802", 177906528)
 --Dlcname Train Sim World® 7: DB BR 412 ICE 4 High Speed EMU Add-On
 addtoken(4714930, "10247586407768226735")
 addappid(4714930, 1, "7117e15185a32efeb4f69dc6e5c4885b3f049c6a5ff4945f6c8b46d9597dd2c7") --Dlcname Train Sim World® 7: DB BR 412 ICE 4 High Speed EMU Add-On
-setManifestid(4714930, "2344526137136033809", 241573904)
+setManifestid(4714930, "3775063565455716127", 241878000)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
