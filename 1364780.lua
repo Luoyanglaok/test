@@ -3,7 +3,7 @@
 --Gamename Street Fighter™ 6
 addappid(1364780, 1, "ab1ae48f25d0e9ba9404def1dae8aac005918547d5d9007b5ed3a39b906e7ebd") --Mainappid Street Fighter™ 6
 addappid(1364781, 1, "cfec39716b5a5cae49b52b5c0e01e6db93356ee3df5a0d87590fd811ab6d06e1") --Main Windows Depot Street Fighter™ 6
-setManifestid(1364781, "8283574983479128249", 85187495312)
+setManifestid(1364781, "5031356545467320971", 86847903024)
 --Dlcname Street Fighter™ 6: Fighting Ground
 addappid(1792750, 1, "321dd0bd6e467195d8890c9073d183075de7f8a4faf082155b08ef85bea618fe") --Dlcname Street Fighter™ 6: Fighting Ground
 setManifestid(1792750, "6884397220835125615", 4553295392)
