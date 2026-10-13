@@ -116,7 +116,7 @@ addappid(630010, 1, "da403a3d591825cc8ad5419f20919e48141ec8794f0bb3d9eb5f4473165
 setManifestid(630010, "3679703919255019698", 1689815136)
 --Dlcname OMSI 2 Add-on Busbetrieb-Simulator
 addappid(636630, 1, "cf322a13cd18ae8d12131bce42f2a4cdb80eee7e6b133fac8e1029b392d1ab44") --Dlcname OMSI 2 Add-on Busbetrieb-Simulator
-setManifestid(636630, "767631909728828910", 3056013840)
+setManifestid(636630, "5432516787471979078", 3077277296)
 --Dlcname OMSI 2 Add-on VanHool Generationen Reihe
 addappid(648650, 1, "416c008a459518fe724e37bf4cb70e45417e49e691a34f0ac28dc1e1079f27cb") --Dlcname OMSI 2 Add-on VanHool Generationen Reihe
 setManifestid(648650, "3845064270147628966", 644738464)
@@ -368,10 +368,10 @@ addappid(2949430, 1, "36cb0da3ca492dde37ea99532cd5697d617b4209e06b1eb784943cfd32
 setManifestid(2949430, "820057657588313405", 746895456)
 --Dlcname OMSI 2 Add-on LIKINO-677
 addappid(3046770, 1, "495ab4b44c071ed09e269da17f6af83f3c6f28798eea7fccd9ec6f94aebc20c0") --Dlcname OMSI 2 Add-on LIKINO-677
-setManifestid(3046770, "2916493105828648891", 1294731072)
+setManifestid(3046770, "1739904890251496302", 1333883808)
 --Dlcname OMSI 2 Add-On Thüringer Wald
 addappid(3181690, 1, "4f59c6b14234874f9e00a9b3afa03cf1e7fd467ed17cad4daf4e7bcc4ea7cb60") --Dlcname OMSI 2 Add-On Thüringer Wald
-setManifestid(3181690, "6246871659250254134", 1157729120)
+setManifestid(3181690, "8536724532275627572", 1165623120)
 --Dlcname OMSI 2 Add-on IVECO Bus Family Urbanway Natural Power
 addappid(3209410, 1, "232466c3a1fbbd64ff77dee0711f066294b5b50e4f359fd29f23e645bc3de41d") --Dlcname OMSI 2 Add-on IVECO Bus Family Urbanway Natural Power
 setManifestid(3209410, "2555926334576826345", 1369744944)
