@@ -1,3 +1,3 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 2144480.lua
-addappid(2144480, 0, "f0c7a07b38ceeab286fdd4f35e82feac11a134c9744dfb1b0439ea693397d92c")
+addappid(2144480)  -- [服务器] 密钥不可用（官方 gid 拿不到 ⇒ 保守按未验证；残件形态（flag=0 + 无 setManifestid + 无 --Gamename + 171 B））
