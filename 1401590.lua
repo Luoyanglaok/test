@@ -3,7 +3,7 @@
 --Gamename Disney Dreamlight Valley
 addappid(1401590, 1, "8343743d2d37758d19926a9f0784ed3776128e4392f2e4e3e3a4f886ad421832") --Mainappid Disney Dreamlight Valley
 addappid(1401591, 1, "d99c609dc11544c08f0a832afd94357653d3f924cc683c27394cf548b1c3d161") --Main Windows Depot Disney Dreamlight Valley
-setManifestid(1401591, "4849179915183511087", 24951453584)
+setManifestid(1401591, "4939738639788692151", 24986698544)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
