@@ -3,7 +3,7 @@
 --Gamename Ready or Not
 addappid(1144200, 1, "fb29b3865255ec0e9230c029502cd87b8626fd12f9bdb2fa3df6cddf34e17179") --Mainappid Ready or Not
 addappid(1144201, 1, "b9236894ba071d12dd117ce16220fefeb20574d7c6f7d2170e3113346867f3d6") --Main Windows Language Depot English Ready or Not
-setManifestid(1144201, "4381209963403495092", 40287443200)
+setManifestid(1144201, "4023769974246946252", 40348663456)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
