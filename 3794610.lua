@@ -1,3 +1,6 @@
-addappid(3794610)
-addappid(3794611,1,"16a6e2e09b7a3eab21f78850c640210ad507609f1e661af8d089dcc49eca8742")
-setManifestid(3794611,"4831557110873651952")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 3794610.lua
+--Gamename Goblin Vyke: The Thief Tycoon
+addappid(3794610) --Mainappid Goblin Vyke: The Thief Tycoon
+addappid(3794611, 1, "16a6e2e09b7a3eab21f78850c640210ad507609f1e661af8d089dcc49eca8742") --Main Windows Depot Goblin Vyke: The Thief Tycoon
+setManifestid(3794611, "4831557110873651952", 267084432)
