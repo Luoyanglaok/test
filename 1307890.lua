@@ -1,7 +1,7 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 1307890.lua
 --Gamename Kingdoms Reborn
-addappid(1307890)  -- [服务器] 密钥不可用（官方 gid 拿不到 ⇒ 保守按未验证）
+addappid(1307890, 1, "c1f0c8f157c2afeb871633c876a56cfd37f6745248c9076641e8e08161fae2e9") --Mainappid Kingdoms Reborn
 addappid(1307891, 1, "5fa0d724887dfa7ab13fbb10fc175fc32ffc82ba2ed329bace21eaa627b18343") --Main Windows Depot Kingdoms Reborn
 setManifestid(1307891, "3752827560026047833", 4686661840)
 --Share Depots
