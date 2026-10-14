@@ -7,5 +7,3 @@ setManifestid(1508571, "4400295007839308007", 225774048)
 --Dlcname Summer~Life in the Countryside~ +Outing
 addappid(2107850, 1, "19d4a80e52b5f6ab4bcbec10fc570b877a01decc50fba435f37fdc47f5afe98a") --Dlcname Summer~Life in the Countryside~ +Outing
 setManifestid(2107850, "3665604206449223863", 143960112)
---Missing Dlcs
---Dlcname 【Summer~Life in the Countryside~ ASMR】Lewd Days with My Longtime Friend
