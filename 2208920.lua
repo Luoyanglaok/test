@@ -30,7 +30,7 @@ setManifestid(2210145, "8504924204849894571", 15028217536)
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
-setManifestid(1716751, "5295264444706308687", 264106592)
+setManifestid(1716751, "8458906404271031972", 264110992)
 addappid(2210140) --Dlcname Assassins Creed Valhalla - Dawn of Ragnarök
 addappid(2210141) --Dlcname Assassins Creed Valhalla - The Siege of Paris
 addappid(2210142) --Dlcname Assassins Creed Valhalla - Wrath of the Druids
