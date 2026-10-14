@@ -1,3 +1,3 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 3106720.lua
-addappid(3106720)  -- [服务器] 密钥不可用（同 depot 短期两个不同值（上一次 d5b01f94ce7de8e8… / 本次 69ac9c8e714e…）⇒ 该来源判不可信；残件形态（flag=0 + 无 setManifestid + 无 --Gamename + 171 B））
+addappid(3106720)  -- [服务器] 密钥不可用（同 depot 短期两个不同值（上一次 d5b01f94ce7de8e8… / 本次 2163ec9fb6da…）⇒ 该来源判不可信；残件形态（flag=0 + 无 setManifestid + 无 --Gamename + 171 B））
