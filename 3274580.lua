@@ -14,7 +14,7 @@ addappid(3274585, 1, "b08a4e3e71782afe4166e047a91bed2a236df33c2b0d0fe02a7ca3dba1
 setManifestid(3274585, "2323988109610745051", 355330240)
 --Share Depots
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
-setManifestid(1716751, "5295264444706308687", 264106592)
+setManifestid(1716751, "8458906404271031972", 264110992)
 addappid(3749050) --Dlcname Anno 117: Pax Romana – Year 1 Pass
 addappid(3749060) --Dlcname Anno 117: Pax Romana – Year 1 Pass - Ubisoft activation
 addappid(3749080) --Dlcname Anno 117: Pax Romana Standard Edition - Ubisoft Activation
