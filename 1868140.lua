@@ -32,3 +32,4 @@ addappid(4394810, 1, "3c8afacd8366ec6d0872b9f95be7bcc55784514c88e92d69b2b5ead522
 setManifestid(4394810, "6080006835337499181", 0)
 addappid(4394811, 1, "07d0577ef5b0833c904eb284e46eeea83cfc030963793fdf43aac48c95cdbf1f") --Dlc Macos Depot DAVE THE DIVER - In the Jungle Content Pack
 setManifestid(4394811, "2071559694774481152", 664637152)
+addappid(5246570) --Dlcname DAVE THE DIVER - Subnautica 2 Content Pack
