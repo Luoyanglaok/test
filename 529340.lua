@@ -71,5 +71,6 @@ addappid(2071472) --Dlcname Victoria 3 - Expansion Pass
 addappid(3563050) --Dlcname Victoria 3: Expansion Pass 2
 addappid(3596990) --Dlcname Victoria 3: Ultimate Bundle
 addappid(4314630) --Dlcname Victoria 3: Volume 3
-addappid(4314660) --Dlcname Victoria 3: State and Revolution - Immersion Pack
 addappid(4314670) --Dlcname Victoria 3: Century of Strife - Immersion Pack
+--Missing Dlcs
+--Dlcname Victoria 3: State and Revolution - Immersion Pack
