@@ -3,7 +3,7 @@
 --Gamename Pioneers of Pagonia
 addappid(2155180, 1, "ddc2b338dc839693445aadb17cc60f2bbe4a52876cd4132688f3d3b921d24d2c") --Mainappid Pioneers of Pagonia
 addappid(2155181, 1, "d38873bac59e2a12948771b27a94623a3ece822844d75202b42361f61b5b1504") --Main Windows Depot Pioneers of Pagonia
-setManifestid(2155181, "6521991384520297590", 6661932528)
+setManifestid(2155181, "839939076860606424", 6661891040)
 --Dlcname Pioneers of Pagonia Wallpaper
 addappid(2721120, 1, "669357bce75468df0e5d7d4e09d2444ab6dacbc04427ed6fe88482429c099289") --Dlcname Pioneers of Pagonia Wallpaper
 setManifestid(2721120, "6439517453764568790", 282702416)
