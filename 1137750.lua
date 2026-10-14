@@ -11,3 +11,4 @@ addappid(3151520) --Dlcname Farmer's Life Soundtrack
 addappid(2926840) --Dlcname Farmer's Life - Pimp my Cottage DLC
 addappid(3468940) --Dlcname Farmer's Life: Spread the Bread DLC
 addappid(3967800) --Dlcname Farmer's Life - Booze Bites Bets DLC
+addappid(5384810) --Dlcname Farmer's Life - Time to Celebrate DLC
