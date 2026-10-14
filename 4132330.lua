@@ -3,7 +3,7 @@
 --Gamename Pizza House Simulator🍕
 addappid(4132330, 1, "30a655c7b301177576fc1072673bb9c5744de0f281229d44c77c40a37c659259") --Mainappid Pizza House Simulator🍕
 addappid(4132331, 1, "51035a357a681b45f9b70402c409d25181faea5a48999aaf9eb13536d0a203e9") --Main Windows Depot Pizza House Simulator🍕
-setManifestid(4132331, "2599313937948935486", 4274231328)
+setManifestid(4132331, "272146784316212701", 4222606000)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
