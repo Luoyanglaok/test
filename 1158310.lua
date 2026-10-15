@@ -3,19 +3,19 @@
 --Gamename Crusader Kings III
 addappid(1158310, 1, "557ad61973b671765b3fa06419cd0aea2fa1690ea60a5cee5baa28525120b818") --Mainappid Crusader Kings III
 addappid(1158311, 1, "d2ead3e2e963a05fbe46ed87bce1375e97e07940fb0b73551acbd416d7d789f7") --Main Windows Depot Crusader Kings III
-setManifestid(1158311, "8524712589436043292", 7350550848)
+setManifestid(1158311, "1306807436391865059", 7614584112)
 addappid(1158312, 1, "d178a07d53f6aaef043e6e015c9d656307e459426598b5d568ebb2b3b82b9608") --Main Windows Depot Crusader Kings III
-setManifestid(1158312, "2353751695153560927", 44080576)
+setManifestid(1158312, "4682444849596971103", 45584000)
 addappid(1158313, 1, "28cca6706c1df3cb12bb0916470bd295e7955dbf8b58e0289eedd6548ed74fcd") --Main Macos Depot Crusader Kings III
-setManifestid(1158313, "2860988701951258536", 175282416)
+setManifestid(1158313, "8562818788346216730", 184241248)
 addappid(1158314, 1, "5f74c6004a102908c726784d9666f0b99e0dcf4182f0d6c7f619d1a2d8f448d6") --Main Linux Depot Crusader Kings III
-setManifestid(1158314, "2706334437092115269", 68676912)
+setManifestid(1158314, "2009188828665794929", 71717200)
 addappid(1158315, 1, "5ef7e854e3cbd7d65529fcbefeffce4ac0ef29e88b86d27cee52a7690216107e") --Main Windows Depot Crusader Kings III
-setManifestid(1158315, "8434810841865307855", 184891776)
+setManifestid(1158315, "6554269888596139618", 193089760)
 addappid(1158316, 1, "2d319308690b3ea4dcf9bddf50556eb622d60c1534b8c0b99635b1411c4b7c38") --Main Macos Depot Crusader Kings III
-setManifestid(1158316, "6995133868056784121", 379383440)
+setManifestid(1158316, "3165292699561376829", 383351488)
 addappid(1158317, 1, "f469b8ff863146cdc8807b811af2798498548e8fa479d8baee48794844fbe69a") --Main Linux Depot Crusader Kings III
-setManifestid(1158317, "3170663083615009736", 181397408)
+setManifestid(1158317, "1946173180361523424", 187478128)
 --Dlcname Crusader Kings III: Garments of the Holy Roman Empire
 addtoken(1296730, "1097817278931358754")
 addappid(1296730, 1, "b6ad131a6dddf0333ec7e0519152d2036618fec07c4922d84d37fbaf067c87da") --Dlcname Crusader Kings III: Garments of the Holy Roman Empire
@@ -98,7 +98,7 @@ addappid(3315580, 1, "8a9863b7a03af1c278712db25bd7789527c599c8b6d9c39b84c7fbd0b0
 setManifestid(3315580, "6705959764445437481", 2040288)
 --Dlcname Crusader Kings III: Songs of the Realm
 addappid(3315590, 1, "f83e2975806db41d2d9ccb7e1d90e57834851f8aedcff4a325c76d8dedcfb321") --Dlcname Crusader Kings III: Songs of the Realm
-setManifestid(3315590, "8046445785273377193", 35704384)
+setManifestid(3315590, "3805573564847634757", 35704384)
 --Dlcname Crusader Kings III Creator Pack: East Asian Wonders
 addappid(4232860, 1, "8da903c8473b9b73ed7d162d555f15fc2b69dae4d0b46f65f179216ec0c318cf") --Dlcname Crusader Kings III Creator Pack: East Asian Wonders
 setManifestid(4232860, "2743333143025069241", 94960)
@@ -107,7 +107,10 @@ addappid(4232870, 1, "3d88dcaf5dae5cc78b4f34a345672015051ee4e0cf803f04ed2ec1efa1
 setManifestid(4232870, "6970199339967430673", 96112)
 --Dlcname Crusader Kings III: Symbols of Authority
 addappid(4232890, 1, "a5d1b14c4b644dd84406d846c84fdbf6d282b3bac55bed41a3bad79acfe26f5c") --Dlcname Crusader Kings III: Symbols of Authority
-setManifestid(4232890, "9211152866378443319", 70048)
+setManifestid(4232890, "994388108942955474", 70048)
+--Dlcname Crusader Kings III: By God Alone
+addappid(4232900, 1, "35b21e380da9974615c560e28e6cf1f76f7b9df939c077bb3e83c1ca5eb67a7b") --Dlcname Crusader Kings III: By God Alone
+setManifestid(4232900, "2794171100204849831", 13542608)
 --Share Depots
 addappid(228981, 1, "9afdbd47677424be993f6b516a15ebdb5281aa318114631d14b2b23999ae97ac") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228981, "7613356809904826842", 5804736)
@@ -119,5 +122,4 @@ addappid(3486700) --Dlcname Crusader Kings III: Chapter IV
 addappid(4208220) --Dlcname Crusader Kings III: Subscription
 addappid(4232880) --Dlcname Crusader Kings III: Chapter V
 --Missing Dlcs
---Dlcname Crusader Kings III: By God Alone
 --Dlcname Crusader Kings III: Silk & Silver
