@@ -3,7 +3,7 @@
 --Gamename Foundation
 addappid(690830, 1, "ec0f4ec6b9dc4bdcab5a696ea43103e83bd531cc49ae6a47fb4d30852241cbb0") --Mainappid Foundation
 addappid(690831, 1, "a0df1cd93c1681e0839c3d7a86e7de7b7af07d07b00cc495896697b1fda49961") --Main Windows Depot Foundation
-setManifestid(690831, "1463539776038433657", 2331341776)
+setManifestid(690831, "3511546608694352567", 2331341712)
 --Dlcname Foundation Guivre Garden
 addappid(3482250, 1, "c10e61648bc4b16350ebfac52a6d56f7282c1442a4f3c49e04bb9a7dd4693717") --Dlcname Foundation Guivre Garden
 setManifestid(3482250, "550560797067600008", 8905600)
