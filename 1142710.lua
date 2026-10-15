@@ -3,9 +3,9 @@
 --Gamename Total War: WARHAMMER III
 addappid(1142710, 1, "ea64ef77605ae9352273e58066c4eeb8f461b8754e74e777fe291eadfc198b8f") --Mainappid Total War: WARHAMMER III
 addappid(1142711, 1, "ceca36efa000ee6431388ab086221aa72bb202dd8584a6c67e7e370a0b647e07") --Main Windows Depot Total War: WARHAMMER III
-setManifestid(1142711, "1438971152141023216", 165291616)
+setManifestid(1142711, "6821090208983305218", 151931936)
 addappid(1142712, 1, "305eb94a277165cc8f9e260016c8cacb52164ee5cbd10bec417ab3e298827804") --Main Windows Depot Total War: WARHAMMER III
-setManifestid(1142712, "2042464233200663545", 91007670928)
+setManifestid(1142712, "8550756404362705169", 91007801440)
 addappid(1142713, 1, "adfd66adb2d6907493709244a246b6e6081a9c328240a9cb5e59b62b793a441f") --Main Windows Language Depot English Total War: WARHAMMER III
 setManifestid(1142713, "6088472991362806035", 48)
 addappid(1142714, 1, "fc50835c8f532aa19375891b494905559ab374571c0ddbec6a0c78e8db3660d9") --Main Windows Language Depot Brazilian Total War: WARHAMMER III
@@ -33,9 +33,9 @@ setManifestid(1143184, "3461348633807822835", 48)
 addappid(1143185, 1, "c4ca1e70a50588b96dd4482a69602fcc90f0abaa43ca785791c4d734d1dc2773") --Main Windows Language Depot Tchinese Total War: WARHAMMER III
 setManifestid(1143185, "2554965331021559023", 48)
 addappid(1143186, 1, "be770448d65e746d8f0b679b03f35e4fc9408c7ab4c86ca9bb7e536dd8946cb7") --Main Macos Depot Total War: WARHAMMER III
-setManifestid(1143186, "7083411572395232221", 103953056)
+setManifestid(1143186, "4015988657920110866", 103979248)
 addappid(1143187, 1, "ed520bb1db7b6fcdd19596248b6865fd846fd0455632ccee50b500fa329de68b") --Main Macos Depot Total War: WARHAMMER III
-setManifestid(1143187, "6408800056644290457", 91011439648)
+setManifestid(1143187, "804420544121017956", 91011505168)
 addappid(1143188, 1, "96658cd71559472857e0bb49ffa7b2745a3e159f636560d1c34ff71ead460b6d") --Main Macos Language Depot English Total War: WARHAMMER III
 setManifestid(1143188, "6066311981778953823", 48)
 addappid(1143189, 1, "370d8981a34eb886e4e5c03536f711c7a33c59ab8dfd13712ea49dc8dd5c0c8b") --Main Macos Language Depot Brazilian Total War: WARHAMMER III
@@ -95,10 +95,10 @@ setManifestid(1143216, "7688045990442624232", 48)
 --Dlcname Total War: WARHAMMER III - Blood for the Blood God III
 addappid(1374300, 1, "fd608c58eb76cbd1822c0ef899bddcf9548a386c06530234942970c7f172e846") --Dlcname Total War: WARHAMMER III - Blood for the Blood God III
 addappid(1143201, 1, "b2e15305f5fab46302258f8e7209235c196bb9d64c0436f414aaf881ae229ffb") --Dlc Macos Depot Total War: WARHAMMER III - Blood for the Blood God III
-setManifestid(1143201, "7815457830651171430", 3298496)
+setManifestid(1143201, "6863613272325253375", 3299920)
 addappid(1143217, 1, "2b459ab249153f0b65c1592212d9c1f6e9cf94a359fc4ef7cab15b782aceee68") --Dlc Linux Depot Total War: WARHAMMER III - Blood for the Blood God III
 setManifestid(1143217, "4391444149373959580", 3298496)
-setManifestid(1374300, "5974307857376524702", 4963760)
+setManifestid(1374300, "2091825736233067401", 4963856)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
