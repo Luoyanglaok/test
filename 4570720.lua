@@ -3,9 +3,9 @@
 --Gamename DragonSword : Awakening
 addappid(4570720, 1, "1479788b29b18f4924dc12f1ac3c2c7a8afbc734c3b8a5774d4ba64995651725") --Mainappid DragonSword : Awakening
 addappid(4570721, 1, "bcfd9b5aa6729364b267af933d75e064c35ed2dfee9d3529186bed1713221251") --Main Windows Depot DragonSword : Awakening
-setManifestid(4570721, "1709551118408983799", 17217917920)
+setManifestid(4570721, "9136308100860532360", 17562946592)
 addappid(4570722, 1, "3061e4e1f78023461c0fb8fdf5e9368efd7b0d77c114546e038ebd6749408ab9") --Main Windows Depot DragonSword : Awakening
-setManifestid(4570722, "1665832133121899076", 13029290672)
+setManifestid(4570722, "2417100042426137519", 13211454064)
 --Dlcname DragonSword : Awakening - Deluxe Pack
 addappid(4742640) --Dlcname DragonSword : Awakening - Deluxe Pack
 addappid(4742641, 1, "1b66d546a7e756f5dbdf86fefdc35f338217b02efbe352c2f85518d9398a4835") --Dlc Windows Depot DragonSword : Awakening - Deluxe Pack
@@ -34,3 +34,6 @@ addappid(4872650) --Dlcname DragonSword : Awakening - Familiar : War Direwolf
 addappid(4911300) --Dlcname DragonSword : Awakening - Costume : Coral Summer Mischief
 addappid(4911310) --Dlcname DragonSword : Awakening - Costume : White Flower of the Blue Waves
 addappid(5000050) --Dlcname DragonSword : Awakening - Costume : Moonlight on the Night Sea
+addappid(5245420) --Dlcname DragonSword : Awakening - Costume : Blue March Apprentice Uniform
+addappid(5245430) --Dlcname DragonSword : Awakening - Costume : Royal Ceremonial Knight Uniform
+addappid(5245440) --Dlcname DragonSword : Awakening - Costume : Minstrel of the Black Stage
