@@ -3,10 +3,10 @@
 --Gamename Insurgency: Sandstorm
 addappid(581320, 1, "51f0814199b00735b3d635cacbb0ed5441072fc99db1083b2738f7e54db01b6a") --Mainappid Insurgency: Sandstorm
 addappid(581322, 1, "1cf7a7b78cda78f21064d61cbb2ac22836872b85b7dc263a8bd13ca32e17a814") --Main Windows Depot Insurgency: Sandstorm
-setManifestid(581322, "4267157659164256387", 28714522464)
+setManifestid(581322, "2924639291978507745", 29227349008)
 --Dlcname Insurgency: Sandstorm - High Resolution Texture Pack
 addappid(1575020, 1, "8d80c42ad2d2240671b19cde2cd7f80e7109c5403ed0373b6d0e84999ddc808c") --Dlcname Insurgency: Sandstorm - High Resolution Texture Pack
-setManifestid(1575020, "7529054639636037665", 8609254016)
+setManifestid(1575020, "3079353457090267097", 9372331616)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
