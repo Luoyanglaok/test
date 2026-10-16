@@ -1,3 +1,8 @@
-addappid(1557740)
-addappid(1557741,0,"a6cedd0b2c308a406cddc4573cef3b7f00d14682403b44aa8e355d1c2e44ef44")
-setManifestid(1557741,"2862217247060624795")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1557740.lua
+--Gamename ROUNDS
+addappid(1557740, 1, "338ac8f344da40be185c164dc8cebab8ab5969bc28488929178145dcb1bf09a6") --Mainappid ROUNDS
+addappid(1557741, 1, "a6cedd0b2c308a406cddc4573cef3b7f00d14682403b44aa8e355d1c2e44ef44") --Main Windows Depot ROUNDS
+setManifestid(1557741, "3274682947036329080", 355945088)
+addappid(1557742, 1, "8447B9F98B63911FAB9EE2D607107DE8FB860F6858C1D77BAE0F5379F239F09B") --Main Macos Depot ROUNDS
+setManifestid(1557742, "1060916500951229028", 363024064)
