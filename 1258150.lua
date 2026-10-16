@@ -1,0 +1,6 @@
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1258150.lua
+--Gamename ROMANCE OF THE THREE KINGDOMS XIV
+addappid(1258150, 1, "051eb674da763cec75818618e39fb766e2a0db18928edaa1fa035d21f3135cb3") --Mainappid ROMANCE OF THE THREE KINGDOMS XIV
+addtoken(1258150, "2158062538924847222")
+addappid(1258151, 1, "26a864e3e358ef783144a45ea62cf9b86399c6f99d4bb0e003d6b478602b5b1e") --Main Windows Depot ROMANCE OF THE THREE KINGDOMS XIV
