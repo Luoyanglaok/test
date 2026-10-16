@@ -4,7 +4,10 @@
 addappid(838350, 1, "bf086ed374abbdc30220a8965af14256dd7f48cb48cfe8f47d4f1eaedc79fd2e") --Mainappid The Scroll of Taiwu : Beyond The Dome
 addtoken(838350, "15146427787086570964")
 addappid(838351, 1, "7de3577779d63fd52db715a1898f8353eb0f5f4096ab3391f77b582621e1adb8") --Main Windows Depot The Scroll of Taiwu : Beyond The Dome
-setManifestid(838351, "8396027996965486490", 15602629776)
+setManifestid(838351, "5251987467382502170", 15645444448)
+addappid(4975570, 1, "8255363853a6cbd5de925516401faa478e520bcfcf4d19473df00be48289a6a0") --Main Windows Depot The Scroll of Taiwu : Beyond The Dome
+addappid(5093790, 1, "e1da60a1d339fbda3513ffa244830e5f6ce6e77c824b7b0867fb8a2f44c118e5") --Main Windows Depot The Scroll of Taiwu : Beyond The Dome
+addappid(5093830, 1, "6cac5defe811e755c6da68c57c42c28a0f3b2e4c03fd37162a21f0b992da5985") --Main Windows Depot The Scroll of Taiwu : Beyond The Dome
 --Dlcname Scroll Of Taiwu - OST
 addtoken(946970, "5933735890991512877")
 addappid(946970, 1, "6eb479723fd905892e55add18fe531a67b7e3c42595302faa5685e47fd7603c3") --Dlcname Scroll Of Taiwu - OST
@@ -20,7 +23,7 @@ setManifestid(2241120, "8168890061238032542", 5317888)
 --Dlcname Scroll Of Taiwu - 五方神龙
 addtoken(2764950, "9097792362658511678")
 addappid(2764950, 1, "c4c231a528c0f4c95a95fceae57a4530982bd307bd8f07c47070e4a7adebff0b") --Dlcname Scroll Of Taiwu - 五方神龙
-setManifestid(2764950, "2652645348787578822", 224645856)
+setManifestid(2764950, "6638227259338741060", 224484672)
 --Dlcname Scroll Of Taiwu - 新衣贺春
 addtoken(2764960, "10039634942498840576")
 addappid(2764960, 1, "00140a77be9fb80581f68904948537eb5ba3ca04ffc9b2c024d128d98cbf9365") --Dlcname Scroll Of Taiwu - 新衣贺春
@@ -44,11 +47,12 @@ setManifestid(4834440, "461438726267184789", 7759600)
 --Dlcname Scroll Of Taiwu - 青山依旧
 addappid(4834450, 1, "8ff4143536007a730a9eb1deb44329ab822ca0b193ce85943b230cf658929096") --Dlcname Scroll Of Taiwu - 青山依旧
 setManifestid(4834450, "5948463560869259285", 13879840)
+--Dlcname Scroll Of Taiwu - 元鸡化影
+addtoken(4975570, "7444608063282111410")
+--Dlcname Scroll Of Taiwu - 玄相通天
+addtoken(5093790, "15225184208180964367")
+--Dlcname Scroll Of Taiwu - 神龙归心
+addtoken(5093830, "6251522450900087364")
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
-addappid(4975570) --Dlcname Scroll Of Taiwu - 元鸡化影
-addappid(5093790) --Dlcname Scroll Of Taiwu - 玄相通天
-addtoken(5093790, "15225184208180964367")
-addappid(5093830) --Dlcname Scroll Of Taiwu - 神龙归心
-addtoken(5093830, "6251522450900087364")
