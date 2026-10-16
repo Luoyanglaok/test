@@ -3,7 +3,7 @@
 --Gamename Castlevania: Belmont's Curse
 addappid(4231820, 1, "da364a76b1067c096373223db4e1df6013f949a3bd4f322fe77dc678fead95f3") --Mainappid Castlevania: Belmont's Curse
 addappid(4231821, 1, "b818e4c603d272e5c06a132f10ba31757a7f71a980a51625329d35ce620fb0e4") --Main Windows Depot Castlevania: Belmont's Curse
-setManifestid(4231821, "7077766796164783764", 5760371008)
+setManifestid(4231821, "8796979530797619124", 5760310880)
 addappid(4740130, 1, "8c5d625861d3f720927a630a2e7477ad5175390ef32b75b000bb0fdba0a20af9") --Main Windows Depot Castlevania: Belmont's Curse
 setManifestid(4740130, "7188009525124262301", 1071448704)
 --Dlcname Castlevania: Belmont's Curse Digital Sound & Art Gallery
