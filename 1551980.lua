@@ -3,7 +3,7 @@
 --Gamename Clive Barker's Hellraiser: Revival
 addappid(1551980, 1, "6b1ecc6ffbfe2e6fa18f170edbc7874bee2e5abdd8d87802abcd4d1d9bf8d4d4") --Mainappid Clive Barker's Hellraiser: Revival
 addappid(1551981, 1, "0e97bcaf77d08d9fc356161cea530187af78b318c39cc4dea2b2225ebab0c6ed") --Main Windows Depot Clive Barker's Hellraiser: Revival
-setManifestid(1551981, "2052674537007090776", 69887227248)
+setManifestid(1551981, "4379545249431876742", 69883485008)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
