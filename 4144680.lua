@@ -3,9 +3,9 @@
 --Gamename DEAD OR ALIVE 6 Last Round
 addappid(4144680) --Mainappid DEAD OR ALIVE 6 Last Round
 addappid(4144681, 1, "168a20bc744c3f372a0ced1f3271e91bbcf0b8ee93aebf8fc76ac5382194671d") --Main Windows Depot DEAD OR ALIVE 6 Last Round
-setManifestid(4144681, "1499247625789564091", 118044304)
+setManifestid(4144681, "7890196041710300526", 118023296)
 addappid(4144682, 1, "2b5dedeadf9090d49c3862220f0bac11f4a0fe85ce3026e9939ca554a9e05182") --Main Windows Depot DEAD OR ALIVE 6 Last Round
-setManifestid(4144682, "127599304527788836", 88399477104)
+setManifestid(4144682, "8671308618818363305", 88732138816)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
