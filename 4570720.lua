@@ -3,9 +3,9 @@
 --Gamename DragonSword : Awakening
 addappid(4570720, 1, "1479788b29b18f4924dc12f1ac3c2c7a8afbc734c3b8a5774d4ba64995651725") --Mainappid DragonSword : Awakening
 addappid(4570721, 1, "bcfd9b5aa6729364b267af933d75e064c35ed2dfee9d3529186bed1713221251") --Main Windows Depot DragonSword : Awakening
-setManifestid(4570721, "9136308100860532360", 17562946592)
+setManifestid(4570721, "7426813929192262031", 17567180768)
 addappid(4570722, 1, "3061e4e1f78023461c0fb8fdf5e9368efd7b0d77c114546e038ebd6749408ab9") --Main Windows Depot DragonSword : Awakening
-setManifestid(4570722, "2417100042426137519", 13211454064)
+setManifestid(4570722, "4039637903974035468", 13214009472)
 --Dlcname DragonSword : Awakening - Deluxe Pack
 addappid(4742640) --Dlcname DragonSword : Awakening - Deluxe Pack
 addappid(4742641, 1, "1b66d546a7e756f5dbdf86fefdc35f338217b02efbe352c2f85518d9398a4835") --Dlc Windows Depot DragonSword : Awakening - Deluxe Pack
