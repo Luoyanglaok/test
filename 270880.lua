@@ -3,13 +3,13 @@
 --Gamename American Truck Simulator
 addappid(270880, 1, "73fb1b0d84405e9e475ea2185cea2dba8667f5971472b506dbcc44bd9c8e0ccb") --Mainappid American Truck Simulator
 addappid(270881, 1, "f94868b2aae2579ce595b4cc9560f649c2db7d93fe280b938ba7fdbe613ad11c") --Main Windows Depot American Truck Simulator
-setManifestid(270881, "8931098644551798846", 24321299184)
+setManifestid(270881, "5979746066724601419", 24431273664)
 addappid(270882, 1, "fce5a3213079ef0488c660325077b4f413d3cf68b11dde841840cc463773a102") --Main Windows Depot American Truck Simulator
-setManifestid(270882, "4968464562673192607", 20911408)
+setManifestid(270882, "4502046639254914563", 20912336)
 addappid(270883, 1, "bf688e332ee96e2934ee8d06b1258435ee48f37be64cd9e14553d2cccf3a4793") --Main Linux Depot American Truck Simulator
-setManifestid(270883, "1233005680865868237", 21358992)
+setManifestid(270883, "2241056685920854769", 21368256)
 addappid(270884, 1, "d801c40a476be58164b180e53ab1ccd0549b628dee728698b66b9c43e89aecd0") --Main Macos Depot American Truck Simulator
-setManifestid(270884, "7377987270429615688", 30405856)
+setManifestid(270884, "4405949972667734990", 30528512)
 --Dlcname American Truck Simulator - Kenworth T680
 addappid(421070, 1, "ef1ca02be68d36f1eb3686d3cbf3fc59ef7efc5b29c720e79808ebf626ad17ea") --Dlcname American Truck Simulator - Kenworth T680
 setManifestid(421070, "8169493434990176546", 0)
@@ -195,7 +195,7 @@ addappid(3486960, 1, "e69b61b24609bd32d3436db49c9d75afaeffe18b7b92b22608883053d1
 setManifestid(3486960, "6931480052109030143", 161404304)
 --Dlcname American Truck Simulator - South Dakota
 addappid(3749870, 1, "e096917d10bb0e10c282dc372bc045506fc22345edaeb3ca4426a7cb13b0d12c") --Dlcname American Truck Simulator - South Dakota
-setManifestid(3749870, "1205666904753142812", 196281536)
+setManifestid(3749870, "2141988578972850461", 196281856)
 --Dlcname American Truck Simulator - Road Trip: Ford
 addappid(3793200, 1, "a1f8b11550e11e1e53f1e421b6a1cc7721a878bd10eb96a2c70ec6581c13728b") --Dlcname American Truck Simulator - Road Trip: Ford
 setManifestid(3793200, "4338461592104106737", 0)
