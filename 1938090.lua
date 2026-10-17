@@ -590,28 +590,70 @@ addtoken(4435490, "4241600889320268380")
 addappid(4435490) --Dlcname Call of Duty®: Modern Warfare® 4
 addappid(5092423, 1, "13b7a859fb4316970bd58aaf8d4d8f91bbad42741b0af24f2af68476ba026d86") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
 setManifestid(5092423, "5489189823049042461", 303685840)
+addappid(5092499, 1, "6c630356172215988f4e8b70c44500170a98ffc27de3345af0137252af9540bc") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
+setManifestid(5092499, "1433662134895097421", 13444608)
 addappid(5092512, 1, "dbd989a10240a6cadd08cea84ca86770f9483b6c3878562c859e693f8e085e33") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
 setManifestid(5092512, "7475338876935296690", 17628896)
+addappid(5092515, 1, "0be8656b9f79a4fac56389bb5ddf55c263df475fc16bdc4143c4f54f99f2ea73") --Dlc Windows Language Depot Polish Call of Duty®: Modern Warfare® 4
+setManifestid(5092515, "762022189765618255", 1136495312)
 addappid(5092518, 1, "765be7166564795a072bf38f2d351f1b30892ce3f1937ece30642c426bed17db") --Dlc Windows Language Depot Schinese Call of Duty®: Modern Warfare® 4
 setManifestid(5092518, "6328140407669677714", 2168929776)
+addappid(5177102, 1, "0be3f42c241adb0a7ed401e871c056d333f05d0417c263b803ee4ba3176b0768") --Dlc Windows Language Depot Brazilian Call of Duty®: Modern Warfare® 4
+setManifestid(5177102, "5482855657502014120", 1100358304)
+addappid(5177105, 1, "db7a139e840bda026d7522bf0d6c1cc86509d085637f477b94e4c038c5a8565c") --Dlc Windows Language Depot Italian Call of Duty®: Modern Warfare® 4
+setManifestid(5177105, "2982354400087493017", 1134119008)
+addappid(5177106, 1, "675fc593d45e7f3be0d1b7b8f43d06c6aed07fe9a0cac24f758989ea04db0ff4") --Dlc Windows Language Depot German Call of Duty®: Modern Warfare® 4
+setManifestid(5177106, "8475226365558392549", 1105304976)
+addappid(5177107, 1, "63324b87897f17504efc568ff8ed722a3c472b1180f359f4bb0d38a10c72d483") --Dlc Windows Language Depot French Call of Duty®: Modern Warfare® 4
+setManifestid(5177107, "1233200381356639569", 1092008080)
+addappid(5177108, 1, "2dce291f92ef058c8ef5e4f1fa7be587af8a599f4cfeb6751b7e8636de03b9e9") --Dlc Windows Language Depot English Call of Duty®: Modern Warfare® 4
+setManifestid(5177108, "8098812335376996632", 599089296)
 addappid(5177109, 1, "36565fb2948548dcc2f69c7412480e1f64fbdbebf468130564f77e29b59f925f") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
 setManifestid(5177109, "5958345040510098253", 67609411408)
 --Dlcname AppID 4435500
 addtoken(4435500, "14576644821533144985")
 addappid(4435500) --Dlcname AppID 4435500
+addappid(5092448, 1, "fce5ca2b0df6f1c62709c7ae632e9064a2569c5edfb3907f251f3df92472a5e7") --Dlc Windows Depot AppID 4435500
+setManifestid(5092448, "6309778522422209728", 11638608)
 addappid(5092461, 1, "45aff16e530500d2206620ca262068c3bcc2f7b2db073317ea8c809af1da1454") --Dlc Windows Depot AppID 4435500
 setManifestid(5092461, "6377524341668385995", 16020848)
+addappid(5092464, 1, "9ab6b22b0832a5618ab593e85e84efb8d9e76cfaf24cf562edd2a9339cac60ce") --Dlc Windows Language Depot Polish AppID 4435500
+setManifestid(5092464, "8959665865448377881", 868178528)
 addappid(5092467, 1, "175406c83cf7fcae879329bbcf3b6d6432edfe42e780fa8f1663bbfcf556fd0b") --Dlc Windows Language Depot Schinese AppID 4435500
 setManifestid(5092467, "7832664799701432585", 1379464608)
+addappid(5092491, 1, "dda460121dc61d4beb7c9df2de7f5b5ee1e1af562af4e04e2c2ea0e1287a3f9f") --Dlc Windows Language Depot Brazilian AppID 4435500
+setManifestid(5092491, "4989102628138626012", 494290384)
+addappid(5092494, 1, "515597c88b826712bdd564577db2610787445ef7936b08ca306d36992197f34f") --Dlc Windows Language Depot Italian AppID 4435500
+setManifestid(5092494, "3398151702885441484", 511853456)
+addappid(5092495, 1, "5913554741048d619dcac672cdc9b6cef1542d331ffe9f06e55c7dfad1d6900d") --Dlc Windows Language Depot German AppID 4435500
+setManifestid(5092495, "1916032550444075122", 479978736)
+addappid(5092496, 1, "735f70bb70d1b3d7baecb64de71c535aad03dce35353b7b9ce90b667cc4f0b4c") --Dlc Windows Language Depot French AppID 4435500
+setManifestid(5092496, "9032932490897745050", 475808576)
+addappid(5092497, 1, "2a112d1efc2265305c958d8414e27df4b7563bb5d50f4ad9034e5bfbeeed62d2") --Dlc Windows Language Depot English AppID 4435500
+setManifestid(5092497, "5272900736950636037", 464885856)
 addappid(5092498, 1, "ce320bb5291752e47c4824decfa29f73357c8766ec68baf7dcf0ebeae8b2d550") --Dlc Windows Depot AppID 4435500
 setManifestid(5092498, "3127900495330500067", 58518980016)
 --Dlcname AppID 4435510
 addtoken(4435510, "3168575816290547937")
 addappid(4435510) --Dlcname AppID 4435510
+addappid(5092427, 1, "67b92607866436acddf7fa5d58508aeb12a0e5a5b0aa8b5b21fb3c2a86d9933f") --Dlc Windows Depot AppID 4435510
+setManifestid(5092427, "2638181237993494067", 9796176)
 addappid(5092429, 1, "779b79da2148d113f328edeccd7e3af216921050f0adfa8b71fd521ecfeae9e0") --Dlc Windows Depot AppID 4435510
 setManifestid(5092429, "3481836668740502109", 14176480)
+addappid(5092433, 1, "b380357ff0e72fae540b286fb4a830f0addf660f42756735dd8fed67118c1d48") --Dlc Windows Language Depot Polish AppID 4435510
+setManifestid(5092433, "4938141958835942319", 873300048)
 addappid(5092436, 1, "db23468507adfdc2616b01038edf1cd3ba944529d57ab76ce1700d21f392ac73") --Dlc Windows Language Depot Schinese AppID 4435510
 setManifestid(5092436, "1106939876164228383", 1477326832)
+addappid(5092439, 1, "d7f35208013fa0e89c742f1d4442884ae91e1a17e1e5f8b4fa541aa2dcbed4b9") --Dlc Windows Language Depot Brazilian AppID 4435510
+setManifestid(5092439, "7542989419149017209", 577738688)
+addappid(5092443, 1, "acfd7e53414f092b287ad40a1bff0b05507fe6dd64701494eb09ef4abfa04370") --Dlc Windows Language Depot Italian AppID 4435510
+setManifestid(5092443, "4437135129230049747", 613580192)
+addappid(5092444, 1, "2b09a1fef3c1d222d4452e3a23cac6969ea4c4f9fdddde5f2fe5771223e2358e") --Dlc Windows Language Depot German AppID 4435510
+setManifestid(5092444, "2588090003073975682", 573358720)
+addappid(5092445, 1, "febbbca9ce168e24913c4b9a20fbc780470c9a154b4f8289d23d76e155f1ecaf") --Dlc Windows Language Depot French AppID 4435510
+setManifestid(5092445, "5460475710644034961", 565622752)
+addappid(5092446, 1, "cb3b8592c3e09b8a210be14827fe8d160886c39e75dc0bb66afcf8b1b4f95e9d") --Dlc Windows Language Depot English AppID 4435510
+setManifestid(5092446, "1903874510201734476", 467419632)
 addappid(5092447, 1, "d5e4f8237c2d2f09784798028807c6582e6912018ec6bcecaf77da3d2e171770") --Dlc Windows Depot AppID 4435510
 setManifestid(5092447, "315657264575917129", 43344148976)
 --Share Depots
