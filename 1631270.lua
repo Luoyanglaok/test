@@ -2,16 +2,9 @@
 -- Original file: 1631270.lua
 --Gamename StarRupture
 addappid(1631270, 1, "58df0d0c7d2375066687753516dd994c4171bd5e33a9d304dc72bceea96e1bf0") --Mainappid StarRupture
+addtoken(1631270, "10254931491041495595")
 addappid(1631272, 1, "cbb99a831607efa2d9529979e09ca1e3b1692bf978684330d6db62a558c30b52") --Main Windows Depot StarRupture
-setManifestid(1631272, "5950584203207177574", 16221509600)
---Dlcname StarRupture - Original Soundtrack
-addappid(3795340) --Dlcname StarRupture - Original Soundtrack
-addappid(3795342, 1, "dbc2c1f0943b674c0fdda26f332f24ce8ca1e98366cc2316f823c513d35a1d79") --Dlc Windows Depot StarRupture - Original Soundtrack
-setManifestid(3795342, "5174713112577954211", 148354112)
-addappid(3795343, 1, "a5978b176505cad67d83f0c2aaaec56b84635c3c1a16188ba727c1e9d0ab8684") --Dlc Windows Depot StarRupture - Original Soundtrack
-setManifestid(3795343, "1255235654127924330", 394050176)
-addappid(3795344, 1, "1ff48a80653c31a9e9417f44ed5340c6c6494f08209de9bf74c8a25798ab2ef6") --Dlc Windows Depot StarRupture - Original Soundtrack
-setManifestid(3795344, "8010805355589142150", 618403280)
+setManifestid(1631272, "3328063376378225015", 16224695312)
 --Dlcname StarRupture - Supporter Pack
 addappid(4167250, 1, "5ea58a4526ce19f7edf2448015e940043fc2da5d61a837f34dfdf2e2966a2f8c") --Dlcname StarRupture - Supporter Pack
 setManifestid(4167250, "9015653026638990134", 1513598352)
