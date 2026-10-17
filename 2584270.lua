@@ -3,7 +3,7 @@
 --Gamename Mortal Shell II
 addappid(2584270) --Mainappid Mortal Shell II
 addappid(2584271, 1, "bb59e6dc30df8728a4bfcc3129ca9b8284ed3808d42a9a272e65d4904b4bc445") --Main Windows Depot Mortal Shell II
-setManifestid(2584271, "3553926832607538056", 69727124800)
+setManifestid(2584271, "3932680208659288530", 69717139200)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
