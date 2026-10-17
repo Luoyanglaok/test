@@ -3,45 +3,45 @@
 --Gamename Call of Duty®
 addappid(1938090, 1, "528c9c096376c028af9c875c9286a3b7fa6915e75459ba7bfdfb59663eb5d56c") --Mainappid Call of Duty®
 addappid(1938091, 1, "f793d14324c44b23e03af1297626dc11756f9d2d8c77d510f3399e468fff5e87") --Main Windows Depot Call of Duty®
-setManifestid(1938091, "3714204215194143469", 690981696)
+setManifestid(1938091, "158378123183721837", 447952592)
 addappid(1938092, 1, "94172c4bdb1ed3af957ce904a340f691e4c584b83c9c4eae0ffea087903c8811") --Main Windows Depot Call of Duty®
-setManifestid(1938092, "1417870769966127460", 11113782784)
+setManifestid(1938092, "2591545023656786129", 5366105584)
 addappid(1938093, 1, "1a6d275cae735b6211a80c061b9114975c314d9b48d49e1ea59c2f0300e79594") --Main Windows Language Depot English Call of Duty®
-setManifestid(1938093, "2182515072522506765", 20757584)
+setManifestid(1938093, "852422306099465431", 28726336)
 addappid(1938094, 1, "3d8bc7e330752517ed81ea79390774df78c1e22086fe9236b3af7451f704b82d") --Main Windows Language Depot French Call of Duty®
-setManifestid(1938094, "1646950294786651463", 253885488)
+setManifestid(1938094, "659593164727995683", 41527344)
 addappid(1938095, 1, "8e9608f26d2b69a10803656803af2ab82e5e826f74eede37d50e554744b7c315") --Main Windows Language Depot German Call of Duty®
-setManifestid(1938095, "4383320557536070301", 244945808)
+setManifestid(1938095, "3610538812067616180", 42856064)
 addappid(1938096, 1, "d7d9e68cd3cd39c5788e7d9c9e0e4d98a1560a4f4ffcec9059a11609536172df") --Main Windows Language Depot Italian Call of Duty®
-setManifestid(1938096, "5670883990425331399", 244235680)
+setManifestid(1938096, "9116040782317402837", 42530864)
 addappid(1938097, 1, "f156a97430bff785f4578cc51b9abedc8ab30b18f228228240ef8d52905b4eda") --Main Windows Language Depot Spanish Call of Duty®
-setManifestid(1938097, "3554300750562904948", 244292096)
+setManifestid(1938097, "4733953095696728689", 41930016)
 addappid(1938098, 1, "9a815daf492e1f8b89ca4eb8247556cfe8fe84cd0782fdd20c0e7b9647f4b3e4") --Main Windows Language Depot Koreana Call of Duty®
-setManifestid(1938098, "5247311659661082030", 52589280)
+setManifestid(1938098, "4282847996254464648", 97221888)
 addappid(1938099, 1, "331dfd5d753906f1b0ad27ac8b11a76b8ab87f727d7482c378d306a3fdbdcefc") --Main Windows Language Depot Brazilian Call of Duty®
-setManifestid(1938099, "3736091921798062504", 244545728)
+setManifestid(1938099, "4274240962602551136", 42349504)
 addappid(1962664, 1, "1962e3261e637409ece6aa676f6f9331ca3e15d68ccb7e77f0c94f8658e33263") --Main Windows Language Depot Latam Call of Duty®
-setManifestid(1962664, "7861995382991522022", 245066480)
+setManifestid(1962664, "4680059931377098371", 42038720)
 addappid(1962665, 1, "0741c99309ab5df6228a27f372df18b93816730d39a2c64c39e9d312d198b4d4") --Main Windows Language Depot Tchinese Call of Duty®
-setManifestid(1962665, "6048346383131640001", 59898112)
+setManifestid(1962665, "2921295995516886417", 88804464)
 addappid(1962666, 1, "e9f934cb4d5dffe11e762c3a98f3da829ed4ae3835017208d5ad3484342840e5") --Main Windows Language Depot Schinese Call of Duty®
-setManifestid(1962666, "3152979250350588717", 333308368)
+setManifestid(1962666, "2537400299848402431", 100044448)
 addappid(1962667, 1, "3aa6e37ed947867ff526495e2794b33a564221636ffeec31a32ea0e1a719762e") --Main Windows Language Depot Arabic Call of Duty®
-setManifestid(1962667, "5503859444437084017", 41916128)
+setManifestid(1962667, "8625784606128641297", 51605008)
 addappid(1962668, 1, "be295421ce3ac5eb7b16d3cbea6c4eccb16ea6571578b81f39baec3720c339e9") --Main Windows Language Depot Japanese Call of Duty®
-setManifestid(1962668, "3537029234022762871", 291890032)
+setManifestid(1962668, "8648147793823728722", 98239536)
 addappid(1962669, 1, "f0cbf3925a35f79cd4db0bb3694b579eacdbda5dc18e9beb972d351d532d0e5f") --Main Windows Language Depot Polish Call of Duty®
-setManifestid(1962669, "2138049557423194484", 41852448)
+setManifestid(1962669, "5912366380066262588", 56802432)
 addappid(2014030, 1, "88bf51a1edb0725fc2d045e6d548e6aba70305849524d47e5f34edcf790b0f25") --Main Windows Language Depot Russian Call of Duty®
-setManifestid(2014030, "1504415230874028797", 43371584)
+setManifestid(2014030, "8870298304624707095", 57387296)
 addappid(2014031, 1, "86e1ff16cfce1a3f2c7edcd795219dc17663bd4a2faf7e3cde2e4937f005d5f3") --Main Windows Depot Call of Duty®
-setManifestid(2014031, "915604021430343086", 1839520)
+setManifestid(2014031, "5328655353256459515", 1692000)
 addappid(2014088, 1, "b013df319a0602d1f0346c9d68c3ed37ccb283ac7c2d8c5692df526ac3aabec4") --Main Windows Depot Call of Duty®
-setManifestid(2014088, "169564921647355767", 1826384)
+setManifestid(2014088, "92515653574695022", 1689984)
 addappid(2014089, 1, "a0093394c26ae411bae2bb007d31210523d1547731dc448f8454382b728d2303") --Main Windows Depot Call of Duty®
-setManifestid(2014089, "104208475200500209", 2910064)
+setManifestid(2014089, "6432332008604582622", 1861424)
 addappid(2021995, 1, "f80041120508fd0fe83f89c013b93bbae03dafc837cc4564cd090b905e9896c5") --Main Windows Language Depot Thai Call of Duty®
-setManifestid(2021995, "6657777428356865559", 20757584)
+setManifestid(2021995, "5507410896286774269", 28726336)
 addappid(2933620, 1, "1e3e4e2dd1d7fac017218bcefc0559d357060d3a9828131281e81b729b658f2d") --Main Windows Depot Call of Duty®
 --Dlcname Call of Duty®: Modern Warfare® II - Campaign
 addappid(1962660, 1, "b8930fd15b7b0ef8248e7d70fbc9dcaf930dde8836220eaa1090d32f3ada98fe") --Dlcname Call of Duty®: Modern Warfare® II - Campaign
@@ -294,85 +294,85 @@ setManifestid(3180216, "2156755571104178169", 96)
 --Dlcname Call of Duty®: Warzone™ 2025
 addappid(2573900) --Dlcname Call of Duty®: Warzone™ 2025
 addappid(2170979, 1, "53058b2d01c9d2b5e804da7613bcdc7b32760bbb07bdb113503f4d448cc527d4") --Dlc Windows Language Depot Brazilian Call of Duty®: Warzone™ 2025
-setManifestid(2170979, "1299009087079135260", 686702048)
+setManifestid(2170979, "1950689207524516642", 1029476752)
 addappid(2228971, 1, "8d6a5b7558ef323319ed8be8a81debfbae3e65577e191c1c86be9ad7ffe3e900") --Dlc Windows Language Depot Latam Call of Duty®: Warzone™ 2025
-setManifestid(2228971, "3160892050413525568", 681188112)
+setManifestid(2228971, "4048505656804721158", 1024730784)
 addappid(2228972, 1, "25828e7e3e8a4d2b2b6bed7c8c4a0ee099ff5928a74bf0a40d694696d75181be") --Dlc Windows Language Depot Tchinese Call of Duty®: Warzone™ 2025
-setManifestid(2228972, "4575564524304402119", 78057776)
+setManifestid(2228972, "375355952300985049", 433605088)
 addappid(2228973, 1, "ac9d7ab502e6ccbd4c03c5e177b3fa5622add54a262a97c107de73e8669ef188") --Dlc Windows Language Depot Schinese Call of Duty®: Warzone™ 2025
-setManifestid(2228973, "5701261112240220932", 647815840)
+setManifestid(2228973, "5707657203316770686", 1362440288)
 addappid(2228974, 1, "8d5c90d1f5f3930c35f8d1c1caeed84252cf66362bf2c807062e487473df0a26") --Dlc Windows Language Depot Arabic Call of Duty®: Warzone™ 2025
-setManifestid(2228974, "1891135874519356938", 79899616)
+setManifestid(2228974, "1577392383650563229", 417472928)
 addappid(2228975, 1, "64bded1983f71ce7f2c1c3a8bbd99c8d80170e6a724bb8f0d35d0e0206dc6bbd") --Dlc Windows Language Depot Japanese Call of Duty®: Warzone™ 2025
-setManifestid(2228975, "7578352894367893850", 747673680)
+setManifestid(2228975, "5655387924179151451", 1432457824)
 addappid(2228976, 1, "02f0d235f596d64463d7ab60f2d217147e4894c9744f48f055df550f19e1df16") --Dlc Windows Language Depot Polish Call of Duty®: Warzone™ 2025
-setManifestid(2228976, "4612775240296118270", 77771648)
+setManifestid(2228976, "4124185823227990343", 415354960)
 addappid(2228977, 1, "ff602c9a073705b6cd35b938c6f99503f524976476d9a0f197f8a32a2f233088") --Dlc Windows Language Depot Russian Call of Duty®: Warzone™ 2025
-setManifestid(2228977, "6742847711197910938", 80619280)
+setManifestid(2228977, "7014668225878070334", 419639248)
 addappid(2228978, 1, "50823566bc4d4af3d209c04080157f2ea7623c1294472f4438f14e2e7d114cfc") --Dlc Windows Language Depot Thai Call of Duty®: Warzone™ 2025
-setManifestid(2228978, "7142135800415997603", 39115136)
+setManifestid(2228978, "1223537520067800519", 355386304)
 addappid(2228979, 1, "30ebd541761d62889404a87c2fa58218b1f8a7c615a6a8fa41ef82420b400f6b") --Dlc Windows Depot Call of Duty®: Warzone™ 2025
-setManifestid(2228979, "4697497476667442861", 4401360)
+setManifestid(2228979, "918398257014345317", 11951936)
 addappid(2278281, 1, "a43e6885218ecfb4d73023e46574f2ee17a5e2bd88dc283487d35c5a310e9ab6") --Dlc Windows Depot Call of Duty®: Warzone™ 2025
-setManifestid(2278281, "5019771254545007691", 2223712)
+setManifestid(2278281, "9103558599436548271", 9724160)
 addappid(2278282, 1, "00d8cae1c2656fc5d22eef2cc7adf32e9f57dca19438cf82f2f765a212d0a02b") --Dlc Windows Depot Call of Duty®: Warzone™ 2025
-setManifestid(2278282, "2154387964977907043", 4395664)
+setManifestid(2278282, "8221137692699138627", 10993808)
 addappid(2278284, 1, "131fdb519bc7704e2b9da031026ddf9a91ee051c6d2c13c5c6feedee97cadd09") --Dlc Windows Depot Call of Duty®: Warzone™ 2025
-setManifestid(2278284, "7411151643874175995", 114229266064)
+setManifestid(2278284, "6579020587238344657", 126681071200)
 addappid(2278285, 1, "7fbc7f169a90737c036cbe95f1aa586acf332bf662ef223a4f133d4ca3e831e9") --Dlc Windows Language Depot English Call of Duty®: Warzone™ 2025
-setManifestid(2278285, "1255748310842884877", 39115136)
+setManifestid(2278285, "2499679491458214946", 355386304)
 addappid(2278286, 1, "27317253733813c1a4f4354b1377168fb9c0ee62a3332802458fe2c6ec356fe0") --Dlc Windows Language Depot French Call of Duty®: Warzone™ 2025
-setManifestid(2278286, "2047460578864263724", 701208704)
+setManifestid(2278286, "8546673368606133484", 1042556576)
 addappid(2278287, 1, "0096a7a908c0062230badf549f6ec9bb04384a115aa41ad3597aee4597c7006f") --Dlc Windows Language Depot German Call of Duty®: Warzone™ 2025
-setManifestid(2278287, "6430827916640334212", 667850720)
+setManifestid(2278287, "3220233176011080089", 1010384896)
 addappid(2278288, 1, "3267aa8155852570fab668612e8b66226ece52457b7b9132cc12c1d4da5109b0") --Dlc Windows Language Depot Italian Call of Duty®: Warzone™ 2025
-setManifestid(2278288, "1775955724199018775", 688913120)
+setManifestid(2278288, "1856890904760248562", 1033865296)
 addappid(2278289, 1, "1cd9de16ab9ba14a37b2057030a3d9a54697db0c9a368d6cf54695b2bac22d59") --Dlc Windows Language Depot Spanish Call of Duty®: Warzone™ 2025
-setManifestid(2278289, "5373614728581222464", 685986416)
+setManifestid(2278289, "3895107258877174280", 1030567936)
 addappid(2316851, 1, "69781d72df71492ad0ddc312c5875c9278e5dc37d67e05d4e91bba4bd14508de") --Dlc Windows Language Depot Koreana Call of Duty®: Warzone™ 2025
-setManifestid(2316851, "4857698469958506373", 77706768)
+setManifestid(2316851, "653532509980881731", 426027664)
 addappid(3180215, 1, "4530bdd8ef2f76f52beede87b8df90ab58beae145f5df64a02b69df45e4a496b") --Dlc Windows Depot Call of Duty®: Warzone™ 2025
-setManifestid(3180215, "7179551976454671953", 0)
+setManifestid(3180215, "240286625513333339", 545972976)
 --Dlcname Call of Duty® Free Trial
 addtoken(2790690, "16596723690148034344")
 addappid(2790690, 1, "0363564e4c4adced471055c68b1166f2ccf333a5586cf4b0bf509fc4a40f7ea6") --Dlcname Call of Duty® Free Trial
 addappid(2790671, 1, "98dddceccb8e020306c9f4d2cd5a7177eac56d0c8ce3b6399e981d920d464344") --Dlc Windows Language Depot Brazilian Call of Duty® Free Trial
-setManifestid(2790671, "3450152943446764259", 891276128)
+setManifestid(2790671, "3676139934351433111", 80)
 addappid(2790672, 1, "89c8af037255a48bcddd637c0ec5c0e510b021a706f3d5a3c65ae6f8185d7169") --Dlc Windows Language Depot Latam Call of Duty® Free Trial
-setManifestid(2790672, "6361565052421248235", 866482640)
+setManifestid(2790672, "8703777060254000174", 80)
 addappid(2790673, 1, "92bfb9dad7e2bd419a19ab3e5f62273c99771470fa775368335384f955dc19c3") --Dlc Windows Language Depot Tchinese Call of Duty® Free Trial
-setManifestid(2790673, "948123809878908799", 88719392)
+setManifestid(2790673, "3298930612515236257", 80)
 addappid(2790674, 1, "ec94f5c2ed69cdf7db5381f72413c7f1d756225b101d898fdf67a8467e6f582f") --Dlc Windows Language Depot Schinese Call of Duty® Free Trial
-setManifestid(2790674, "2116702260002261828", 926773872)
+setManifestid(2790674, "8945803607852089297", 80)
 addappid(2790675, 1, "2b10f4944edcddc8314c2b3afc3332c82503d69ebab4f195c20475a4ade35f7d") --Dlc Windows Language Depot Arabic Call of Duty® Free Trial
-setManifestid(2790675, "4464895258626516396", 90073680)
+setManifestid(2790675, "2354374207572947402", 80)
 addappid(2790676, 1, "80e48a75001fc2b503c05169284dcc0624413bc33d6890246472611ced82b9e5") --Dlc Windows Language Depot Japanese Call of Duty® Free Trial
-setManifestid(2790676, "8500586576018962305", 953267376)
+setManifestid(2790676, "6453897672755191236", 80)
 addappid(2790677, 1, "7a40b4790e66c28ca351341085a72a98e094981acad39b33b68505705096c418") --Dlc Windows Language Depot Polish Call of Duty® Free Trial
-setManifestid(2790677, "4438289393427299228", 88151840)
+setManifestid(2790677, "8332574034248800090", 80)
 addappid(2790678, 1, "908acbfff78ee9aa4ad133c23f1a0c24e629c4a3de5d6b05ad3563bfb33a5954") --Dlc Windows Language Depot Russian Call of Duty® Free Trial
-setManifestid(2790678, "5762261715807098703", 90618512)
+setManifestid(2790678, "6482121332880197987", 80)
 addappid(2790679, 1, "3869ef995a1ec7afb793133c69cf5676a2e6cfe017d8ae66b6989706419d7e18") --Dlc Windows Language Depot Thai Call of Duty® Free Trial
-setManifestid(2790679, "6521922022724586328", 44334880)
-setManifestid(2790690, "5460773145986387652", 125091394592)
+setManifestid(2790679, "1201301264013619255", 80)
+setManifestid(2790690, "3265824874182779946", 80)
 addappid(2790691, 1, "32f6cca66e984d9cc473678cfa0eab427c0013d4041aa1dd0b8db8ef5f0aa39d") --Dlc Windows Depot Call of Duty® Free Trial
-setManifestid(2790691, "5735889610122479293", 6632992)
+setManifestid(2790691, "5567812640630715537", 80)
 addappid(2790692, 1, "ff5a79756af42c1ac5367073dabca72bdab882923c656e89dab925dbadd9d945") --Dlc Windows Depot Call of Duty® Free Trial
-setManifestid(2790692, "8788517659122592800", 6030272)
+setManifestid(2790692, "8150447411513254908", 80)
 addappid(2790693, 1, "cedd96a40dbe503aa16a645418f404b9c71f13fb5deac6b5f7019068006753ff") --Dlc Windows Depot Call of Duty® Free Trial
-setManifestid(2790693, "8554227876282032243", 4224064)
+setManifestid(2790693, "4067879108626925432", 80)
 addappid(2790694, 1, "ffdffff37e8505310f5e8957ed228ad148fd4ed531e228f0482134f72aefeba3") --Dlc Windows Language Depot English Call of Duty® Free Trial
-setManifestid(2790694, "5079791958335272552", 44334880)
+setManifestid(2790694, "4567695997181479105", 80)
 addappid(2790695, 1, "13de0aa7b39d5e2921375a6cdba538a800d8c8f3bcdf5fb60c847f57ca86be7f") --Dlc Windows Language Depot French Call of Duty® Free Trial
-setManifestid(2790695, "4290230868355703282", 908455584)
+setManifestid(2790695, "2574029733169267433", 80)
 addappid(2790696, 1, "b820c690739dbc97d96ecf7e708b8db761eb834bf95ef4787e2453bf5e0001cd") --Dlc Windows Language Depot German Call of Duty® Free Trial
-setManifestid(2790696, "1755007403974984106", 836819264)
+setManifestid(2790696, "3164917684534554793", 80)
 addappid(2790697, 1, "2e17d0d1917fedefcaad3622026eec5eeca997e89473c885e26d74146143bce7") --Dlc Windows Language Depot Italian Call of Duty® Free Trial
-setManifestid(2790697, "9011845937673386600", 879417952)
+setManifestid(2790697, "8146512455969469469", 80)
 addappid(2790698, 1, "ff44e2e400c0411ba0605470cfd6fc89dfca5b10e6e5a2522e8333fdc23ddc1d") --Dlc Windows Language Depot Spanish Call of Duty® Free Trial
-setManifestid(2790698, "2449253049815954321", 852607808)
+setManifestid(2790698, "4862175940699628387", 80)
 addappid(2790699, 1, "f5ec820efb02c8c2d07d2218083c82dc2336c961d1174dcecfce59fc1c52a95b") --Dlc Windows Language Depot Koreana Call of Duty® Free Trial
-setManifestid(2790699, "434524593862656819", 88405840)
+setManifestid(2790699, "6114845781751631360", 80)
 --Dlcname Call of Duty®: Black Ops 6 - Campaign
 addappid(3203398, 1, "de9bdb7e7d8afa46bcdd14dbb193341fedb4e42120a15475867f0b786f5a80cc") --Dlc Windows Depot Call of Duty®: Black Ops 6 - Campaign
 setManifestid(3203398, "8856118057746685867", 96)
@@ -460,125 +460,160 @@ setManifestid(4085076, "6318037152246895141", 96)
 addtoken(3606480, "9695571449896312778")
 addappid(3606480) --Dlcname Call of Duty®: Black Ops 7 - Endgame
 addappid(4085129, 1, "76ef2c60c003cf1b8ca86d910650c2e6a6134cd537b54798586d856c1d01bf10") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4085129, "6608023276411636716", 3324656)
+setManifestid(4085129, "6368288161973800695", 9886544)
 addappid(4085131, 1, "fa44c587727cdb2b30082b350845b52639d486a9dbe01650901b84290065f877") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4085131, "4274910397079081905", 1512432)
+setManifestid(4085131, "6871102994144510017", 8975792)
 addappid(4085132, 1, "dce146b97212576eff2071586b3ae2d1cc63b24f70b287fe81e8fd7c2a3dde46") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4085132, "4346865101951384945", 3929088)
+setManifestid(4085132, "2186653859153498824", 11442784)
 addappid(4085133, 1, "0ef50680d9ec881db62bc00e22d4acc8d61ef766b4449e6836d0db3d683ec60f") --Dlc Windows Language Depot Thai Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4085133, "2261382094203104005", 41725216)
+setManifestid(4085133, "5267611056842453913", 357925424)
 addappid(4085134, 1, "a961dab349eabcbad4fb31bd7e8df0a02bc55ee1428b0bc353027f0c0f49d177") --Dlc Windows Language Depot Russian Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4085134, "4528869379478796149", 84602560)
+setManifestid(4085134, "1025333522906945384", 423464992)
 addappid(4085135, 1, "7eca09888653433170b9fcec75ef8cb69945b20fcb83f0c9890b05ce1007b58d") --Dlc Windows Language Depot Polish Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4085135, "9052659184162670696", 82809904)
+setManifestid(4085135, "689875198990458448", 420252320)
 addappid(4085136, 1, "e6b89d8798a32fc977558e89b12b94b6d9041e3c4b901be7991734a9286f9c58") --Dlc Windows Language Depot Japanese Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4085136, "4087530325379039626", 669609504)
+setManifestid(4085136, "3795874551149663438", 1352164080)
 addappid(4085137, 1, "3cc2e445366b39da57c7fc0ec1bafa557ae8cbba8082149b0b76ae8bdf7e3bf9") --Dlc Windows Language Depot Arabic Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4085137, "8442637304343795421", 84223552)
+setManifestid(4085137, "9058762585134471083", 421636688)
 addappid(4085138, 1, "38a7a79337e90a23de6ecc3eeb9b706eb2a435f66473e918bdc21e425c5ca749") --Dlc Windows Language Depot Schinese Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4085138, "5990585841853771213", 643996304)
+setManifestid(4085138, "5819704621029866221", 1358253200)
 addappid(4085139, 1, "a2aa59bdc1c8d5d540cc4cf51aec56438f65196d347030281f4089676b3796fb") --Dlc Windows Language Depot Tchinese Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4085139, "2713281125710610316", 83437072)
+setManifestid(4085139, "7283474817282295065", 438837872)
 addappid(4098661, 1, "d4afe3ec0f71e872c86cf97d46e2c160408441b0c8fb81275b34b5d5eeede81b") --Dlc Windows Language Depot Latam Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4098661, "550661959983519875", 591569600)
+setManifestid(4098661, "6713210238337038157", 933062064)
 addappid(4098662, 1, "c5cf692c068cae4b39879085430e37994c9f45eb370deb291be27243e23fb75c") --Dlc Windows Language Depot Brazilian Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4098662, "1822746810555194255", 601375344)
+setManifestid(4098662, "8013577166048479842", 942193424)
 addappid(4098663, 1, "081e89239db91a317534387bff9999a2e9b4e31215576559b89174bdcc1433c2") --Dlc Windows Language Depot Koreana Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4098663, "7646326916092091874", 82830320)
+setManifestid(4098663, "1231522264909407155", 431002976)
 addappid(4098664, 1, "3b9fdb67d2330a531d6e8e66e0913eb488fe32cd365a3b3d188e05375f7c5d04") --Dlc Windows Language Depot Spanish Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4098664, "5949304378261587062", 597126160)
+setManifestid(4098664, "5363862101053351994", 939719360)
 addappid(4098665, 1, "ae8364261e2f129fbb5e7fa51d7818fe09bd112859bd227cbc64cfcf361c9119") --Dlc Windows Language Depot Italian Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4098665, "3253232122917530926", 601741840)
+setManifestid(4098665, "3722002992346234916", 944666016)
 addappid(4098666, 1, "6f4ee23a63223a3294a7441e6984a95fc4e4416e189ff2d43ce600bc61f6fd00") --Dlc Windows Language Depot German Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4098666, "2784054056918346707", 582521680)
+setManifestid(4098666, "2346214869825928490", 922964960)
 addappid(4098667, 1, "422954ff8886ea20aabfd3f4c4fac900b8437295b3863df874946c00989ef40d") --Dlc Windows Language Depot French Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4098667, "7567350007676270824", 635390048)
+setManifestid(4098667, "6747148847787052336", 974775328)
 addappid(4098668, 1, "e6a8ebfaed89c7a84abfedce607b68b54bc75981e9a951aecbb5c77513b3faf8") --Dlc Windows Language Depot English Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4098668, "3472048157475554573", 41725216)
+setManifestid(4098668, "70898899935997720", 357925424)
 addappid(4098669, 1, "f9e478c5f774df919069d096595ac612da5a7a5d8d23484585808f3cb2976c1b") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Endgame
-setManifestid(4098669, "2229221152437751535", 86954123072)
+setManifestid(4098669, "6526385639908902861", 97031205856)
+addappid(5092426, 1, "d07fd65c9e8081fa0a9cde393f12e2f432e50841c6687ecfa2acda1d891b8027") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Endgame
+setManifestid(5092426, "4988215358019026924", 546102096)
 --Dlcname Call of Duty®: Black Ops 7 - Multiplayer
 addtoken(3606490, "5544129185210199749")
 addappid(3606490) --Dlcname Call of Duty®: Black Ops 7 - Multiplayer
 addappid(4085098, 1, "178e536a6ef9005fc403b11f1cf87215d0e5d86d3c71bff90a6c07f5dda02eff") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085098, "5213442629803671963", 5642816)
+setManifestid(4085098, "6211860833867871078", 12203984)
 addappid(4085099, 1, "a75851f32da312516f494691aac84e51156939e736bbe2bc246a6a810903f83d") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085099, "8937254758882615729", 3829488)
+setManifestid(4085099, "7284314367446853084", 11292544)
 addappid(4085111, 1, "ae78f0a009969675c71a82c6129714a11198091d42a037fc95c215aad0651797") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085111, "2914595009537180862", 6245616)
+setManifestid(4085111, "7609476797596275912", 13759680)
 addappid(4085112, 1, "5947767ce41ca0712c6be4879436c2be3a8006b54894c7e0a1e32395512f4157") --Dlc Windows Language Depot Thai Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085112, "8815573539204970254", 31668176)
+setManifestid(4085112, "7893141386532832016", 347866912)
 addappid(4085113, 1, "e576dbb12f93e5d28affd1432eb1a146abf7f9b86985a3cbaab5003b13bc5142") --Dlc Windows Language Depot Russian Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085113, "6621091254921364012", 64403536)
+setManifestid(4085113, "8530620462701138208", 403263712)
 addappid(4085114, 1, "e7744bd6dda77bc5af6e1eca640852b2aa8f2a2382babc0423a25c2aa2cb7ec9") --Dlc Windows Language Depot Polish Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085114, "78652603808340023", 62680480)
+setManifestid(4085114, "3896098903450736410", 400119824)
 addappid(4085115, 1, "1cf15c145fb5b648691d80d8ce40c64ad819572afa1af3088cba38740c2586f1") --Dlc Windows Language Depot Japanese Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085115, "7071903739832045449", 608573392)
+setManifestid(4085115, "221600882484472751", 1291124096)
 addappid(4085116, 1, "d219a6ffbe2e61ae2540896b71ffef7932b112e0759a7afadb1603b512c101b0") --Dlc Windows Language Depot Arabic Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085116, "5796615449422036235", 64020064)
+setManifestid(4085116, "1878166073478063737", 401431376)
 addappid(4085117, 1, "e2637d2ed69a7ad57b704f9f05e6c3eb793027f201d487249799e4bb522720b6") --Dlc Windows Language Depot Schinese Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085117, "2461489351813874203", 585756720)
+setManifestid(4085117, "6761532112723983381", 1300011760)
 addappid(4085118, 1, "a645fce6fe4552789013d70d06a97858136a09d4f59081a6378fa2b8e6ffb887") --Dlc Windows Language Depot Tchinese Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085118, "4254377976527470826", 63313440)
+setManifestid(4085118, "7464159696059884055", 418711904)
 addappid(4085119, 1, "36c95787522dbdddecfb6b01a188ef93004f7532a48e082d0795488f4c49d98f") --Dlc Windows Language Depot Latam Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085119, "8871916746225121382", 551312720)
+setManifestid(4085119, "5842699432237208389", 892804016)
 addappid(4085121, 1, "250cd92d153c045391297d660073d8149265fbf07fe3d7c6d69bbb8001461f63") --Dlc Windows Language Depot Brazilian Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085121, "5199329152319950197", 561054224)
+setManifestid(4085121, "3063351343753107988", 901869936)
 addappid(4085122, 1, "bc59e9dde45defa0d84da5525381b0a47a7629f2aa48f509db8f976385d04a53") --Dlc Windows Language Depot Koreana Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085122, "6214438440653378355", 62695872)
+setManifestid(4085122, "2649554885079839078", 410865664)
 addappid(4085123, 1, "ec78814db89e6590743c41d7e2d9bdc69ed46a129ec2793ddab164c972e5db80") --Dlc Windows Language Depot Spanish Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085123, "6234450982348865927", 555737728)
+setManifestid(4085123, "2641092487233374007", 898329136)
 addappid(4085124, 1, "6276f88d7489eb78e09db2b6575c117f819cae895b84704baa05b08591403419") --Dlc Windows Language Depot Italian Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085124, "3719749451679100619", 560944160)
+setManifestid(4085124, "7416230853127747337", 903867568)
 addappid(4085125, 1, "d436a05b5f9a31492ea994fab4c4db505af70367c4fdfed49a0d709f6d890cbc") --Dlc Windows Language Depot German Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085125, "1723721003390508838", 541923616)
+setManifestid(4085125, "7055579467614242716", 882365456)
 addappid(4085126, 1, "00a5021a9050c2d03b3fca960429d5c9fe9c3b12c2e050bf1a3a9ff3c1b7196d") --Dlc Windows Language Depot French Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085126, "8886744082845707081", 587565216)
+setManifestid(4085126, "8539228801015406691", 926949232)
 addappid(4085127, 1, "c796e61c566b98cdf0c3aea5f6356f091ac8531088261b707bc1bc4099445d27") --Dlc Windows Language Depot English Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085127, "8641771517581001018", 31668176)
+setManifestid(4085127, "6329265834529252883", 347866912)
 addappid(4085128, 1, "708c99a3f222c21c540ddcd95dd37e1df43be04893f2f63a8b4b442cdf3c9f9d") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(4085128, "7689729412509416655", 112440553728)
+setManifestid(4085128, "4481592489556551884", 122905391344)
+addappid(5092425, 1, "5ccba819f8c8aae353def1824580a6a5e4719bc9c3116a6ad96eb4e026206c1a") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Multiplayer
+setManifestid(5092425, "1355830956517463092", 546102096)
 --Dlcname Call of Duty®: Black Ops 7 - Zombies
 addtoken(3606500, "5061143956286425489")
 addappid(3606500) --Dlcname Call of Duty®: Black Ops 7 - Zombies
 addappid(4085077, 1, "d2aecb0968263ab9036e55d7ba86ea41c1eb3dad8ed1e153707327e64668e9ea") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085077, "339118660535335682", 3443136)
+setManifestid(4085077, "7779915912462183087", 10005200)
 addappid(4085078, 1, "4b11816f926f485adb7e26895d745fba5241f447d285ba92878a57addaaf7343") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085078, "7297999552688273574", 1638864)
+setManifestid(4085078, "8838569592210562495", 9132832)
 addappid(4085079, 1, "3d3a544467e26f64bd299145f7b23d7205896c638b6ff94455a5adcf2adcac7f") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085079, "3078084180688923451", 4048416)
+setManifestid(4085079, "3873151052960831502", 11562336)
 addappid(4085081, 1, "378ab91ae8526bede2ad7a90b3bd8f90a47660c8cf1928c23608bb763cf920e1") --Dlc Windows Language Depot Thai Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085081, "3312089507198365324", 41839600)
+setManifestid(4085081, "3271257159657518469", 358039760)
 addappid(4085082, 1, "9c66356ac7a12aee7e8857d3bacce5cd86cf6b99dc8690661449425b99b80bfa") --Dlc Windows Language Depot Russian Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085082, "7182826842245000602", 85621472)
+setManifestid(4085082, "9057670042958371301", 424483168)
 addappid(4085083, 1, "36f7bc33a87a050866d4072f1d41d324903ddbb5a107aeef1e190187b1278687") --Dlc Windows Language Depot Polish Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085083, "4114787784096782577", 83161248)
+setManifestid(4085083, "7995869061409690505", 420603104)
 addappid(4085084, 1, "c02f7aa30456bdb59302f4140f5e8755aee5f71f118e6122384fd058d340d841") --Dlc Windows Language Depot Japanese Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085084, "6427842207182961422", 935234224)
+setManifestid(4085084, "5260986120888257640", 1617789216)
 addappid(4085085, 1, "b9d120800db805b747579854e78936c73c1207f2413273e103ac21eed7bc851b") --Dlc Windows Language Depot Arabic Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085085, "9041101245212213126", 85080352)
+setManifestid(4085085, "9083278435625672163", 422493200)
 addappid(4085086, 1, "17b87ed4884c52003fdb3c99b4784def78a9029040425ac91d2e403cda14393c") --Dlc Windows Language Depot Schinese Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085086, "9040849795394124509", 907327360)
+setManifestid(4085086, "1522620968925805752", 1621584880)
 addappid(4085087, 1, "9d8e4dfb0a3217740968d1b5835be4622a50a0e4dfab02786a28c792a64080f7") --Dlc Windows Language Depot Tchinese Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085087, "4352551908147351557", 83730528)
+setManifestid(4085087, "4916489065571523663", 439131120)
 addappid(4085088, 1, "188d09b6a4be988b72ebdf79bdec85605981ff6994774ec4f711a314a14c3286") --Dlc Windows Language Depot Latam Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085088, "6127624586410717365", 853219712)
+setManifestid(4085088, "1777388116841270379", 1194711392)
 addappid(4085089, 1, "8e2a3653efbb9ad22b7268a17130e043ccce14bbf50e61084f5c75ea597029a4") --Dlc Windows Language Depot Brazilian Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085089, "5798358140417812162", 877460560)
+setManifestid(4085089, "404908195939882504", 1218276720)
 addappid(4085091, 1, "2414bcba0a54f26fa9b705ba6e8094944c43ea1d3ca1acfbb8993ebdf097e38a") --Dlc Windows Language Depot Koreana Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085091, "6572816198425093252", 83414880)
+setManifestid(4085091, "723768180690284635", 431586656)
 addappid(4085092, 1, "242d3f51fdba13d907e967c0d9666e804807abd644fe302e4d07cb2b1e74adf2") --Dlc Windows Language Depot Spanish Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085092, "8900781298907561568", 839211200)
+setManifestid(4085092, "1221215426539261078", 1181803808)
 addappid(4085093, 1, "d4a54a04f74b652cdec5a77f8c6bb22b339060b84f9f144dcf400b958dd1c61b") --Dlc Windows Language Depot Italian Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085093, "2466043702349015341", 866253472)
+setManifestid(4085093, "2799534235224287311", 1209177792)
 addappid(4085094, 1, "3ff151d04b94fa7faf6f4d8cb0422da3b6da862fc62a9b1ceefea5d804efce65") --Dlc Windows Language Depot German Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085094, "962894421070960580", 823677056)
+setManifestid(4085094, "2769827250973770951", 1164118864)
 addappid(4085095, 1, "1e8563c129b1e507f11051514c37c91fb73276de69f03a79471ad3583e81079f") --Dlc Windows Language Depot French Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085095, "1648252273272787622", 894090256)
+setManifestid(4085095, "7624564147129433540", 1233475568)
 addappid(4085096, 1, "f81ad2376b59b5316178f0e075019d69dc4680a9f75bb1b74adffe1690a1d60e") --Dlc Windows Language Depot English Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085096, "4098289938428980312", 41839600)
+setManifestid(4085096, "5321560636191814492", 358039760)
 addappid(4085097, 1, "acd83f479f3407ad7ed55f7581931904fef95d859de9eae83b87d5dff9714688") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Zombies
-setManifestid(4085097, "2038354595543205426", 85143497216)
+setManifestid(4085097, "8274763178703616603", 94280239696)
+addappid(5092424, 1, "94cbb018b00f2c4c271fc108f51bcf2ee74e41243c02b839971f5fa09a337cc3") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Zombies
+setManifestid(5092424, "4535629253245344069", 546102096)
+--Dlcname Call of Duty®: Modern Warfare® 4
+addtoken(4435490, "4241600889320268380")
+addappid(4435490) --Dlcname Call of Duty®: Modern Warfare® 4
+addappid(5092423, 1, "13b7a859fb4316970bd58aaf8d4d8f91bbad42741b0af24f2af68476ba026d86") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
+setManifestid(5092423, "5489189823049042461", 303685840)
+addappid(5092512, 1, "dbd989a10240a6cadd08cea84ca86770f9483b6c3878562c859e693f8e085e33") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
+setManifestid(5092512, "7475338876935296690", 17628896)
+addappid(5092518, 1, "765be7166564795a072bf38f2d351f1b30892ce3f1937ece30642c426bed17db") --Dlc Windows Language Depot Schinese Call of Duty®: Modern Warfare® 4
+setManifestid(5092518, "6328140407669677714", 2168929776)
+addappid(5177109, 1, "36565fb2948548dcc2f69c7412480e1f64fbdbebf468130564f77e29b59f925f") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
+setManifestid(5177109, "5958345040510098253", 67609411408)
+--Dlcname AppID 4435500
+addtoken(4435500, "14576644821533144985")
+addappid(4435500) --Dlcname AppID 4435500
+addappid(5092461, 1, "45aff16e530500d2206620ca262068c3bcc2f7b2db073317ea8c809af1da1454") --Dlc Windows Depot AppID 4435500
+setManifestid(5092461, "6377524341668385995", 16020848)
+addappid(5092467, 1, "175406c83cf7fcae879329bbcf3b6d6432edfe42e780fa8f1663bbfcf556fd0b") --Dlc Windows Language Depot Schinese AppID 4435500
+setManifestid(5092467, "7832664799701432585", 1379464608)
+addappid(5092498, 1, "ce320bb5291752e47c4824decfa29f73357c8766ec68baf7dcf0ebeae8b2d550") --Dlc Windows Depot AppID 4435500
+setManifestid(5092498, "3127900495330500067", 58518980016)
+--Dlcname AppID 4435510
+addtoken(4435510, "3168575816290547937")
+addappid(4435510) --Dlcname AppID 4435510
+addappid(5092429, 1, "779b79da2148d113f328edeccd7e3af216921050f0adfa8b71fd521ecfeae9e0") --Dlc Windows Depot AppID 4435510
+setManifestid(5092429, "3481836668740502109", 14176480)
+addappid(5092436, 1, "db23468507adfdc2616b01038edf1cd3ba944529d57ab76ce1700d21f392ac73") --Dlc Windows Language Depot Schinese AppID 4435510
+setManifestid(5092436, "1106939876164228383", 1477326832)
+addappid(5092447, 1, "d5e4f8237c2d2f09784798028807c6582e6912018ec6bcecaf77da3d2e171770") --Dlc Windows Depot AppID 4435510
+setManifestid(5092447, "315657264575917129", 43344148976)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
