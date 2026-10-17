@@ -3,7 +3,7 @@
 --Gamename Japanese Ramen Simulator
 addappid(4968640) --Mainappid Japanese Ramen Simulator
 addappid(4968641, 1, "449a9d2efa1db92de0c228a8a0200b6ee29894cfe3686b8519e53264f429d4f6") --Main Windows Depot Japanese Ramen Simulator
-setManifestid(4968641, "5234554018681201031", 3551519744)
+setManifestid(4968641, "6352489951133962410", 3592148096)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
