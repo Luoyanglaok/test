@@ -3,7 +3,7 @@
 --Gamename Quarantine Zone: The Last Check
 addappid(3419520, 1, "9e084611ffbd6bd1c569aa8dcabdc825ca4c326880e19064b50ed1c6a244db7b") --Mainappid Quarantine Zone: The Last Check
 addappid(3419521, 1, "7763e89ed36372394d459530e45e7dab3aca85588166e1c59d3bd1f7993bfac6") --Main Windows Depot Quarantine Zone: The Last Check
-setManifestid(3419521, "1620323060193342486", 9284685664)
+setManifestid(3419521, "7492456445608240252", 16763426992)
 addappid(4312371, 1, "9f7ca62f12edecdd0b93ed5805a70ef7411343ffac4ce6219b8b15f6ab0cd2a7") --Main Windows Depot Quarantine Zone: The Last Check
 setManifestid(4312371, "483435908930075228", 37051936)
 addappid(4312372, 1, "fc387cea1af2810724fadaa78433efed97fd4f15c6093dea39095f5ea1e84480") --Main Windows Depot Quarantine Zone: The Last Check
@@ -21,3 +21,4 @@ addappid(3960640) --Dlcname Quarantine Zone Twitch Drop - Scanner Skin
 addappid(3960650) --Dlcname Quarantine Zone Twitch Drop - Hammer Skin
 addappid(3960660) --Dlcname Quarantine Zone Twitch Drop - Thermopulse
 addappid(4312380) --Dlcname Quarantine Zone: The Last Check Supporter Pack
+addappid(5400850) --Dlcname Quarantine Zone: The Last Check - Miami Supporter Pack
