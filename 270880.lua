@@ -206,4 +206,4 @@ setManifestid(3872930, "6332296398029117686", 0)
 addappid(4348660, 1, "0ab5b459c860e026f449ca58660f873c233ad12f3ff567b7784a2b6bf35afcff") --Dlcname American Truck Simulator - Bobcat Cargo Pack
 setManifestid(4348660, "7046043884242444617", 0)
 --Missing Dlcs
---Dlcname American Truck Simulator - RAM & Dodge Car Pack
+--Dlcname American Truck Simulator - Road Trip: RAM & Dodge
