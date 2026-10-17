@@ -3,7 +3,7 @@
 --Gamename SCUM
 addappid(513710, 1, "490737566db1c843800690df604ab8b78b767a46299e85da9971068c309e5447") --Mainappid SCUM
 addappid(513711, 1, "a4217026617fd23bbc1b544c3160c7c7e5157bc3cfcd825b8dbd1c6d0513c3b4") --Main Windows Depot SCUM
-setManifestid(513711, "750399428918876268", 33683219424)
+setManifestid(513711, "8946565235820285163", 32894315840)
 --Dlcname SCUM Deluxe
 addappid(919680, 1, "903d006bb149ccbe1ab4f9dbbad34150079380811c9c78b3cfa5c1505ad889ae") --Dlcname SCUM Deluxe
 setManifestid(919680, "6252294094855435400", 25373104)
@@ -36,3 +36,4 @@ addappid(4635200) --Dlcname SCUM Apex Predator Pack
 addappid(4635240) --Dlcname SCUM Specialist Archer Pack
 addappid(4635250) --Dlcname SCUM Specialist Scout Pack
 addappid(5006300) --Dlcname SCUM Stalker Outfit Pack
+addappid(5088110) --Dlcname SCUM Specialist Angler Pack
