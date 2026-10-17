@@ -22,3 +22,29 @@ addappid(3245710) --Dlcname Microsoft Flight Simulator 2024 - Premium Deluxe
 addappid(5068380) --Dlcname Microsoft Flight Simulator 2024 Local Legends Pack 1
 addappid(5068390) --Dlcname Microsoft Flight Simulator 2024 Local Legends Pack 2
 addappid(5068400) --Dlcname Microsoft Flight Simulator 2024 Famous Flyers Pack 3
+-- 2537590's Lua and Manifest Created by Hubcap Manifest
+-- Microsoft Flight Simulator 2024
+-- Created: October 13, 2026 at 18:47:18 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 25798292 (public branch)
+-- Build Date: October 08, 2026 at 03:57:15 EDT (1791446235)
+-- Total Depots: 2
+-- Total DLCs: 8
+-- Shared Depots: 1
+-- MAIN APPLICATION
+addappid(2537590, 1, "f264fcd2580ab71934f29046dc415c3a83163882e768246533ed1f20f1730835") -- Microsoft Flight Simulator 2024
+-- MAIN APP DEPOTS
+addappid(2537591, 1, "a149759cc259406fd0f2255297e089d9deb63fb59c263b7f2d1b7fcd7aded1a4") -- Depot 2537591
+setManifestid(2537591, "746448492916656697", 10221835494)
+-- SHARED DEPOTS (from other apps)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "5753583882400741046", 25674515)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(3227340) --Dlcname Limitless - Preorder Bonus --NoDepot
+addappid(3245690) --Dlcname Microsoft Flight Simulator 2024 - Aviator --NoDepot
+addappid(3245700) --Dlcname Microsoft Flight Simulator 2024 Deluxe --NoDepot
+addappid(3245710) --Dlcname Microsoft Flight Simulator 2024 - Premium Deluxe --NoDepot
+addappid(3341960) --Dlcname Microsoft Flight Simulator 2024 - Premium Deluxe Upgrade --NoDepot
+addappid(5068380) --Dlcname Microsoft Flight Simulator 2024 Local Legends Pack 1 --NoDepot
+addappid(5068390) --Dlcname Microsoft Flight Simulator 2024 Local Legends Pack 2 --NoDepot
+addappid(5068400) --Dlcname Microsoft Flight Simulator 2024 Famous Flyers Pack 3 --NoDepot
