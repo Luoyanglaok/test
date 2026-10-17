@@ -3,7 +3,7 @@
 --Gamename Valor Mortis
 addappid(2828710) --Mainappid Valor Mortis
 addappid(2828711, 1, "3aa7bf74ac09da6be0b60fa92b918131bca6fa16306a8b4bd1a9084fd06a54e0") --Main Windows Depot Valor Mortis
-setManifestid(2828711, "3604628958963660819", 41544502992)
+setManifestid(2828711, "3751762078366185711", 41544419504)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
