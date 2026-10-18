@@ -4,10 +4,10 @@
 addappid(2183900, 1, "227e48320b1cf15063a473da684cea19ebcd76548c0d50a505cdd0a78864ed0a") --Mainappid Warhammer 40,000: Space Marine 2
 addtoken(2183900, "12779763340560861411")
 addappid(2183901, 1, "8df236a6a5084039477362b31157e7e0eb66554a744762d6782c544ab64d0c4e") --Main Windows Depot Warhammer 40,000: Space Marine 2
-setManifestid(2183901, "49266872782379763", 79277969200)
+setManifestid(2183901, "4440869252320986273", 79261682800)
 --Dlcname Warhammer 40,000: Space Marine 2 - 4K Texture Pack
 addappid(3202690, 1, "00c47f82b08192958b11307abb87c755003eb8dfae75063373e379c296b26083") --Dlcname Warhammer 40,000: Space Marine 2 - 4K Texture Pack
-setManifestid(3202690, "1383539726862428407", 131553658496)
+setManifestid(3202690, "4772313066570998793", 131562579136)
 --Dlcname Warhammer 40,000: Space Marine 2 - Digital Artbook
 addappid(3212040, 1, "e3818ce0f203d78eed2647e6364bd19a702fd8d7a01230f77a038e0fd26b0ffb") --Dlcname Warhammer 40,000: Space Marine 2 - Digital Artbook
 setManifestid(3212040, "7457655780363166458", 112129136)
