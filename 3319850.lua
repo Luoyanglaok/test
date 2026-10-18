@@ -1,4 +1,4 @@
-addappid(3319850)
-addtoken(3319850,"10944105112804011624")
-addappid(3319850,0,"95133ff39c5da8ae0536933d236bb7eab7c1df24a6fedc606bcf5d0867c1a016")
-setManifestid(3319850,"575849332506894225")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 3319850.lua
+addappid(3319850, 1, "95133ff39c5da8ae0536933d236bb7eab7c1df24a6fedc606bcf5d0867c1a016")
+setManifestid(3319850, "575849332506894225", 1135050880)
