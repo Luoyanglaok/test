@@ -3,4 +3,4 @@
 --Gamename Landscaper Simulator
 addappid(3959530) --Mainappid Landscaper Simulator
 addappid(3959531, 1, "381af5364ad26fcb30552cd60904593ad13cc1fc45fc5ff310833699227f6756") --Main Windows Depot Landscaper Simulator
-setManifestid(3959531, "8461429420580798053", 328286064)
+setManifestid(3959531, "2038415366992243951", 395686768)
