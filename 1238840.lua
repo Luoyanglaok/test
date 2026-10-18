@@ -36,9 +36,9 @@ setManifestid(228985, "3966345552745568756", 13244128)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") --Share Windows Depot EA APP Installer
-setManifestid(3340991, "2872608919245318765", 246896672)
+setManifestid(3340991, "6121112214567893698", 252692656)
 addappid(3893181, 1, "7f675c2fe8e758d16f3cf8d3b493956afaee78e96d78cdb668a5edb8ac1580f6") --Share Windows Depot EA Javelin Anticheat Installer
-setManifestid(3893181, "4878189275181659469", 317406032)
+setManifestid(3893181, "5989814028459339160", 324778064)
 addappid(1238850) --Dlcname Battlefield™ 1 Premium Pass
 addappid(1238851) --Dlcname Battlefield 1 ™ Shortcut Kit: Ultimate Bundle
 addappid(1259490) --Dlcname Battlefield 1 - Key
