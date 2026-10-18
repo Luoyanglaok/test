@@ -1,6 +1,6 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 239140.lua
-addappid(239140, 0, "6420a9b7285a9bac800211c5c2b3ac0d5b5691a2fb2841f44cbf1de2cb89b6b9")
+addappid(239140, 0, "bac2dd7c0c1d86cd6989f1b5ca57caa8b845061c173f3bb24def9e0eb334c130")
 addappid(302100) --Dlcname AppID 302100
 addtoken(302100, "1983212283047127395")
 addappid(302101) --Dlcname Dying Light - Cuisine & Cargo
