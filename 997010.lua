@@ -29,3 +29,43 @@ addappid(3768320) --Dlcname Police Simulator: Patrol Officers: Contraband Expans
 addappid(3924710) --Dlcname Police Simulator: Patrol Officers: East Coast Police Uniform Pack
 addappid(3924720) --Dlcname Police Simulator: Patrol Officers: South Atlantic Police Uniform Pack
 addappid(3924730) --Dlcname Police Simulator: Patrol Officers: Western Police Uniform Pack
+-- 997010's Lua and Manifest Created by Hubcap Manifest
+-- Police Simulator: Patrol Officers
+-- Created: October 01, 2026 at 08:28:17 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 24908664 (public branch)
+-- Build Date: August 24, 2026 at 10:38:18 EDT (1787582298)
+-- Total Depots: 3
+-- Total DLCs: 20
+-- Shared Depots: 2
+-- MAIN APPLICATION
+addappid(997010, 1, "e0a4648d4ca142f34287122872b86bd305cacbe1ff627fe6f774aa1b0576ed6f") -- Police Simulator: Patrol Officers
+-- MAIN APP DEPOTS
+addappid(997011, 1, "788e33ebc2e38174d9b613b57ed47947aacaf7399a6bbd32762161e56ce34d62") -- Project Bavaria Content
+setManifestid(997011, "5098835300857589037", 18108571044)
+-- SHARED DEPOTS (from other apps)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+setManifestid(228988, "6645201662696499616", 29212173)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(2009550) --Dlcname Police Simulator Patrol Officers Urban Terrain Vehicle DLC --NoDepot
+addappid(2199030) --Dlcname Police Simulator Patrol Officers Compact Police Vehicle DLC --NoDepot
+addappid(2210960) --Dlcname Police Simulator Patrol Officers Guardian Police Vehicle DLC --NoDepot
+addappid(2350410) --Dlcname Police Simulator Patrol Officers Highway Patrol Expansion --NoDepot
+addappid(2513250) --Dlcname Police Simulator Patrol Officers Multipurpose Police Vehicle DLC --NoDepot
+addappid(2527820) --Dlcname Police Simulator Patrol Officers Surveillance Police Vehicle DLC --NoDepot
+addappid(2527830) --Dlcname Police Simulator Patrol Officers Warden Police Vehicle DLC --NoDepot
+addappid(2893870) --Dlcname Police Simulator Patrol Officers Unmarked Police Vehicle Pack --NoDepot
+addappid(2893880) --Dlcname Police Simulator Patrol Officers Special Police Vehicle Pack --NoDepot
+addappid(3048950) --Dlcname Police Simulator Patrol Officers Tropical Taskforce Pack --NoDepot
+addappid(3167630) --Dlcname Police Simulator Patrol Officers Fast Pursuit Police Vehicle DLC --NoDepot
+addappid(3597210) --Dlcname Police Simulator Patrol Officers - Season Pass --NoDepot
+addappid(3597220) --Dlcname Police Simulator Patrol Officers - Vehicle Customization Pack --NoDepot
+addappid(3768290) --Dlcname Police Simulator Patrol Officers Adventurer Police Vehicle DLC --NoDepot
+addappid(3768300) --Dlcname Police Simulator Patrol Officers Accident Pack --NoDepot
+addappid(3768310) --Dlcname Police Simulator Patrol Officers Vanguard Police Vehicle DLC --NoDepot
+addappid(3768320) --Dlcname Police Simulator Patrol Officers Contraband Expansion --NoDepot
+addappid(3924710) --Dlcname Police Simulator Patrol Officers East Coast Police Uniform Pack --NoDepot
+addappid(3924720) --Dlcname Police Simulator Patrol Officers South Atlantic Police Uniform Pack --NoDepot
+addappid(3924730) --Dlcname Police Simulator Patrol Officers Western Police Uniform Pack --NoDepot
