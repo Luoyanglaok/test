@@ -1,5 +1,3 @@
-addappid(3586360)
-addappid(3586361,0,"ef9ff268f581d79f48eebc370c565323828f31193ffd8a85564a3bfdb57a0ce5")
-setManifestid(3586361,"7496997695811387152")
-addappid(3586362,0,"5836a36825eddeb938ffb3bc7e8725bcc1f3cd7e10f5ef0afbc9d8f873eeb2b6")
-setManifestid(3586362,"1235717350038329075")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 3586360.lua
+addappid(3586360)  -- [服务器] 密钥不可用（官方 gid 拿不到 ⇒ 保守按未验证；残件形态（flag=0 + 无 setManifestid + 无 --Gamename + 171 B））
