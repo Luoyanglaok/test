@@ -1,3 +1,4 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 853360.lua
-addappid(853360, 0, "cf8cba7add34341d6ff7fd7f6ac74f2a09b98d80ad5df8333c392ca83e66ca5c")
+addappid(853360, 1, "0480271ac8b34a46d79a327e1142565eea365a7a6d0125c1a34b4397714ed560")
+setManifestid(853360, "6426854821231808348", 403698240)
