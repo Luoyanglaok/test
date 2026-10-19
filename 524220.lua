@@ -25,9 +25,9 @@ setManifestid(583993, "3440919711813183915", 1024384)
 --Dlcname NieR:Automata™ - Retro Grey Pod Skin
 addappid(583994, 1, "8b754108a01dcdb855841b04bdac5882b22d07844e6d364adbe5efd46d8ecdaa") --Dlcname NieR:Automata™ - Retro Grey Pod Skin
 setManifestid(583994, "6837545457254028528", 1021600)
---Dlcname AppID 1017430
+--Dlcname NieR:Automata™ - Game of the YoRHa Edition Wallpaper Set
 addtoken(1017430, "1808551213462367460")
-addappid(1017430, 1, "3f639279ce3e6f19d6e4093f0af4032334e31a0e1203288a5da6419f82d04720") --Dlcname AppID 1017430
+addappid(1017430, 1, "3f639279ce3e6f19d6e4093f0af4032334e31a0e1203288a5da6419f82d04720") --Dlcname NieR:Automata™ - Game of the YoRHa Edition Wallpaper Set
 setManifestid(1017430, "1820157406263693639", 16207504)
 --Share Depots
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
