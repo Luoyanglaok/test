@@ -3,78 +3,78 @@
 --Gamename Battlefield™ 6
 addappid(2807960, 1, "4fa6611b3acbfcd70547be82c9b03e17e6c9d995ba169e993d3dc11dc386d72b") --Mainappid Battlefield™ 6
 addappid(2807961, 1, "73da1db186c20534ecea9f2eaca1c8372f9341dee1f6d8862b4c0787886892b3") --Main Windows Depot Battlefield™ 6
-setManifestid(2807961, "7548522330141666452", 49278836320)
+setManifestid(2807961, "5793050425928858592", 49277091600)
 addappid(3028321, 1, "6b9fa278cdf39544bd689aea75c0dddaf0820adbfa180df0a558bb69af980f52") --Main Windows Language Depot English Battlefield™ 6
-setManifestid(3028321, "7025548766942045234", 4280050816)
+setManifestid(3028321, "8253229773419664949", 4280050816)
 addappid(3028322, 1, "470339823530642f5340a16aefd1bbcd2e0a40a9c4f1c9a3d9cecbab616a08e8") --Main Windows Language Depot French Battlefield™ 6
-setManifestid(3028322, "6009856784771006397", 2546710992)
+setManifestid(3028322, "1044721456476551663", 2546710992)
 addappid(3028323, 1, "69d7cc17544ded90b753e828e6ae31a9ab11e9696a1f1e361275feb9e44271af") --Main Windows Language Depot German Battlefield™ 6
-setManifestid(3028323, "2344064428182250746", 3222413392)
+setManifestid(3028323, "1514597914483860359", 3222413392)
 addappid(3028324, 1, "0f9cd466928d1f043c07386635bfde394497a92551f3616c16c8e2760e3188b9") --Main Windows Language Depot Spanish Battlefield™ 6
-setManifestid(3028324, "6152645315449828516", 3162483056)
+setManifestid(3028324, "1997628622642737384", 3162484800)
 addappid(3028325, 1, "ce7bd93afff7f13077b6f2b9b949454e8c7bd92fa2e86b2c72aeca52d4512d9f") --Main Windows Language Depot Latam Battlefield™ 6
-setManifestid(3028325, "8004831318188159794", 2974554960)
+setManifestid(3028325, "3953890128092482313", 2974553296)
 addappid(3028326, 1, "c748e00fa373fdcb4eb0bd2520c0ed148786656b14dd0352d738cbc10ca216cd") --Main Windows Language Depot Italian Battlefield™ 6
-setManifestid(3028326, "4580341271923438771", 2730538816)
+setManifestid(3028326, "7146347577206209751", 2730538816)
 addappid(3028327, 1, "f9c6e6dbaef16a70af4f8e5d0396c2d704314af6d84f48f75dfab692e1958bfb") --Main Windows Language Depot Japanese Battlefield™ 6
-setManifestid(3028327, "1382838714619561187", 2590937696)
+setManifestid(3028327, "4466811161805437533", 2590937248)
 addappid(3028328, 1, "0b8d304fd0e68d4a73ec5e8ceb77ea488ddf67a8a3a9e21b41dd4997ee72321d") --Main Windows Language Depot Polish Battlefield™ 6
-setManifestid(3028328, "3835402825966899020", 3144136784)
+setManifestid(3028328, "1258269528406384343", 3144136768)
 addappid(3028329, 1, "113bd43d67ea22550370e010e986ce0ea4c103efd15c47d64f575f2b870c9b7e") --Main Windows Language Depot Schinese Battlefield™ 6
-setManifestid(3028329, "2534190538137738881", 3051439792)
+setManifestid(3028329, "7036157295586564305", 3051440208)
 addappid(3028331, 1, "c2af7bf13379303ce5de8663197d22159f5ebc99343a6cf96df893c53544f3d8") --Main Windows Language Depot Koreana Battlefield™ 6
-setManifestid(3028331, "109008412224039241", 2273775888)
+setManifestid(3028331, "1436673259419662632", 2273775888)
 addappid(3028332, 1, "9c37097e30eb1669dc33d87c54cf1d46e20899c0b64f8ca37c36aa2aaf69bd3f") --Main Windows Language Depot Brazilian Battlefield™ 6
-setManifestid(3028332, "5361630522046131329", 3021072128)
+setManifestid(3028332, "7153997048289785655", 3021071696)
 addappid(3028333, 1, "491e106e1cee710bcb145dcf0af6e99e83e42f583f837af6db518f512ff1849e") --Main Windows Language Depot Arabic Battlefield™ 6
-setManifestid(3028333, "5720023439747707335", 4282337168)
+setManifestid(3028333, "3307676241064078553", 4282337168)
 addappid(3028334, 1, "91235291ebdc928ca5e4093423fab642d9f6a11f49386dbecc24a456691747cb") --Main Windows Language Depot Tchinese Battlefield™ 6
-setManifestid(3028334, "3285443611591480157", 4282184064)
+setManifestid(3028334, "1589193139964765755", 4282183280)
 --Dlcname Battlefield™ 6 HD Textures
 addtoken(3348410, "13665612973931527059")
 addappid(3348410) --Dlcname Battlefield™ 6 HD Textures
 addappid(2807966, 1, "549e3538f02c93d5946d444eca7e980fb986bb422180cc7987780613ff568580") --Dlc Windows Depot Battlefield™ 6 HD Textures
-setManifestid(2807966, "4966663089517965144", 57590156384)
+setManifestid(2807966, "1204957123998904746", 57590154144)
 --Dlcname Battlefield™ REDSEC
 addtoken(3348420, "1467640746561116670")
 addappid(3348420) --Dlcname Battlefield™ REDSEC
 addappid(2807962, 1, "e2257096f2cb51cc81a8b616c14484e0a550a71a062163856ec28eee545713da") --Dlc Windows Depot Battlefield™ REDSEC
-setManifestid(2807962, "5034565472585312877", 7640019216)
+setManifestid(2807962, "5090744882052457677", 7639561248)
 --Dlcname Battlefield™ REDSEC HD Textures
 addtoken(3348430, "8961726482197316533")
 addappid(3348430) --Dlcname Battlefield™ REDSEC HD Textures
 addappid(2807967, 1, "1c1abe63e9383f9d92d8fe40438233f54998a56b5047dae2a2147c8bc81dfb1c") --Dlc Windows Depot Battlefield™ REDSEC HD Textures
-setManifestid(2807967, "8381988238040702895", 1010679968)
+setManifestid(2807967, "8228112386721546693", 1010679968)
 --Dlcname Battlefield™ 6 Multiplayer
 addtoken(3348440, "13841136246857316758")
 addappid(3348440) --Dlcname Battlefield™ 6 Multiplayer
 addappid(2807963, 1, "bf51eb02b6d6618e53cfed04159458edf879a832457c7c2333a4eea7a3bcd332") --Dlc Windows Depot Battlefield™ 6 Multiplayer
-setManifestid(2807963, "6981088433159801437", 8216718960)
+setManifestid(2807963, "8557115232898426528", 8215536928)
 --Dlcname Battlefield™ 6 Multiplayer HD Textures
 addtoken(3348450, "15419143094185166754")
 addappid(3348450) --Dlcname Battlefield™ 6 Multiplayer HD Textures
 addappid(2807968, 1, "9ecb637d00716f178fbc892341c18fb51d8dcf929b1f3750cf6b70349f5b2c13") --Dlc Windows Depot Battlefield™ 6 Multiplayer HD Textures
-setManifestid(2807968, "3201289231726935445", 2826668720)
+setManifestid(2807968, "2196156281561965334", 2826668720)
 --Dlcname Battlefield™ 6 Multiplayer & Single Player Shared HD Textures
 addtoken(3348460, "12314544414477136494")
 addappid(3348460) --Dlcname Battlefield™ 6 Multiplayer & Single Player Shared HD Textures
 addappid(2807971, 1, "4b5411bff21928a491fb766e1664ea809e79b90b30031ff444bc40aea250af8b") --Dlc Windows Depot Battlefield™ 6 Multiplayer & Single Player Shared HD Textures
-setManifestid(2807971, "2220203519985321249", 2638546288)
+setManifestid(2807971, "5431850873431837657", 2638546288)
 --Dlcname Battlefield™ 6 Multiplayer & Single Player Shared Data
 addtoken(3348470, "3324369909174197558")
 addappid(3348470) --Dlcname Battlefield™ 6 Multiplayer & Single Player Shared Data
 addappid(2807965, 1, "2df65824aab0f620dcdda53981db04e30d4ccf52e916d535c00db5933c419f59") --Dlc Windows Depot Battlefield™ 6 Multiplayer & Single Player Shared Data
-setManifestid(2807965, "2300055673820156142", 1825105344)
+setManifestid(2807965, "7329967729094245594", 1825105344)
 --Dlcname Battlefield™ 6 Single Player
 addtoken(3348480, "3352496117720569715")
 addappid(3348480) --Dlcname Battlefield™ 6 Single Player
 addappid(2807964, 1, "3db71633bd934e3c3601f253923cde0681423ff9d47a06654df50f7046ee419d") --Dlc Windows Depot Battlefield™ 6 Single Player
-setManifestid(2807964, "4933419174540026306", 19887688416)
+setManifestid(2807964, "4425285283953215275", 19887719440)
 --Dlcname Battlefield™ 6 - Single Player HD Textures
 addtoken(3348490, "9942472226415604439")
 addappid(3348490) --Dlcname Battlefield™ 6 - Single Player HD Textures
 addappid(2807969, 1, "0a35c6f7a451d07c5289c5008b5a5d5707f62a33a19154fbf02c10a52e6bd53d") --Dlc Windows Depot Battlefield™ 6 - Single Player HD Textures
-setManifestid(2807969, "3199420627125559108", 8431740448)
+setManifestid(2807969, "4843802163635426892", 8431740448)
 --Dlcname Battlefield™ 6 - Phantom Upgrade
 addappid(3574360, 1, "b1cc78c299f4f536d0415812e29b1d2169a03e161de690432253c2948d558b94") --Dlcname Battlefield™ 6 - Phantom Upgrade
 --Share Depots
@@ -123,128 +123,3 @@ addappid(4888300) --Dlcname Season 5 Starter Pack - Battlefield™ 6 and REDSEC
 addappid(4888690) --Dlcname Ultimate Shortcut Kit - Battlefield™ 6 and REDSEC
 addappid(4888700) --Dlcname Battlefield™ 6 - Game of the Year Upgrade
 addappid(5421190) --Dlcname Battlefield™ 6 Game of the Year Edition Marker
--- 2807960's Lua and Manifest Created by Hubcap Manifest
--- Battlefield™ 6
--- Created: October 15, 2026 at 08:06:07 EDT
--- Website: https://hubcapmanifest.com/
--- Build: 25851446 (public branch)
--- Build Date: October 10, 2026 at 11:05:24 EDT (1791644724)
--- Total Depots: 25
--- Total DLCs: 51
--- Shared Depots: 2
--- MAIN APPLICATION
-addappid(2807960, 1, "4fa6611b3acbfcd70547be82c9b03e17e6c9d995ba169e993d3dc11dc386d72b") -- Battlefield™ 6
--- MAIN APP DEPOTS
-addappid(2807961, 1, "73da1db186c20534ecea9f2eaca1c8372f9341dee1f6d8862b4c0787886892b3") -- Depot 2807961
-setManifestid(2807961, "5793050425928858592", 52794935721)
-addappid(3028321, 1, "6b9fa278cdf39544bd689aea75c0dddaf0820adbfa180df0a558bb69af980f52") -- Depot 3028321
-setManifestid(3028321, "8253229773419664949", 4711928149)
-addappid(3028322, 1, "470339823530642f5340a16aefd1bbcd2e0a40a9c4f1c9a3d9cecbab616a08e8") -- Depot 3028322
-setManifestid(3028322, "1044721456476551663", 2833269557)
-addappid(3028323, 1, "69d7cc17544ded90b753e828e6ae31a9ab11e9696a1f1e361275feb9e44271af") -- Depot 3028323
-setManifestid(3028323, "1514597914483860359", 3490840405)
-addappid(3028324, 1, "0f9cd466928d1f043c07386635bfde394497a92551f3616c16c8e2760e3188b9") -- Depot 3028324
-setManifestid(3028324, "1997628622642737384", 3462359221)
-addappid(3028325, 1, "ce7bd93afff7f13077b6f2b9b949454e8c7bd92fa2e86b2c72aeca52d4512d9f") -- Depot 3028325
-setManifestid(3028325, "3953890128092482313", 3165915109)
-addappid(3028326, 1, "c748e00fa373fdcb4eb0bd2520c0ed148786656b14dd0352d738cbc10ca216cd") -- Depot 3028326
-setManifestid(3028326, "7146347577206209751", 2961589549)
-addappid(3028327, 1, "f9c6e6dbaef16a70af4f8e5d0396c2d704314af6d84f48f75dfab692e1958bfb") -- Depot 3028327
-setManifestid(3028327, "4466811161805437533", 2832256581)
-addappid(3028328, 1, "0b8d304fd0e68d4a73ec5e8ceb77ea488ddf67a8a3a9e21b41dd4997ee72321d") -- Depot 3028328
-setManifestid(3028328, "1258269528406384343", 3407920349)
-addappid(3028329, 1, "113bd43d67ea22550370e010e986ce0ea4c103efd15c47d64f575f2b870c9b7e") -- Depot 3028329
-setManifestid(3028329, "7036157295586564305", 3350667589)
-addappid(3028331, 1, "c2af7bf13379303ce5de8663197d22159f5ebc99343a6cf96df893c53544f3d8") -- Depot 3028331
-setManifestid(3028331, "1436673259419662632", 2609939029)
-addappid(3028332, 1, "9c37097e30eb1669dc33d87c54cf1d46e20899c0b64f8ca37c36aa2aaf69bd3f") -- Depot 3028332
-setManifestid(3028332, "7153997048289785655", 3224434661)
-addappid(3028333, 1, "491e106e1cee710bcb145dcf0af6e99e83e42f583f837af6db518f512ff1849e") -- Depot 3028333
-setManifestid(3028333, "3307676241064078553", 4714224903)
-addappid(3028334, 1, "91235291ebdc928ca5e4093423fab642d9f6a11f49386dbecc24a456691747cb") -- Depot 3028334
-setManifestid(3028334, "1589193139964765755", 4714069255)
--- SHARED DEPOTS (from other apps)
-addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
-setManifestid(228989, "5753583882400741046", 25674515)
-addappid(3893181, 1, "7f675c2fe8e758d16f3cf8d3b493956afaee78e96d78cdb668a5edb8ac1580f6") -- Depot 3893181 (Shared from App 3893180)
-setManifestid(3893181, "5989814028459339160", 351890657)
--- DLCS WITH DEDICATED DEPOTS
--- Battlefield 6 HD Textures (AppID: 3348410)
-addappid(3348410) --Dlcname Battlefield 6 HD Textures
-addappid(2807966, 1, "549e3538f02c93d5946d444eca7e980fb986bb422180cc7987780613ff568580") -- Battlefield 6 HD Textures - Depot 2807966
-setManifestid(2807966, "1204957123998904746", 57841031720)
--- Battlefield REDSEC (AppID: 3348420)
-addappid(3348420) --Dlcname Battlefield REDSEC
-addappid(2807962, 1, "e2257096f2cb51cc81a8b616c14484e0a550a71a062163856ec28eee545713da") -- Battlefield REDSEC - Depot 2807962
-setManifestid(2807962, "5090744882052457677", 9697440190)
--- Battlefield REDSEC HD Textures (AppID: 3348430)
-addappid(3348430) --Dlcname Battlefield REDSEC HD Textures
-addappid(2807967, 1, "1c1abe63e9383f9d92d8fe40438233f54998a56b5047dae2a2147c8bc81dfb1c") -- Battlefield REDSEC HD Textures - Depot 2807967
-setManifestid(2807967, "8228112386721546693", 1014185915)
--- Battlefield 6 Multiplayer (AppID: 3348440)
-addappid(3348440) --Dlcname Battlefield 6 Multiplayer
-addappid(2807963, 1, "bf51eb02b6d6618e53cfed04159458edf879a832457c7c2333a4eea7a3bcd332") -- Battlefield 6 Multiplayer - Depot 2807963
-setManifestid(2807963, "8557115232898426528", 9431872244)
--- Battlefield 6 Multiplayer HD Textures (AppID: 3348450)
-addappid(3348450) --Dlcname Battlefield 6 Multiplayer HD Textures
-addappid(2807968, 1, "9ecb637d00716f178fbc892341c18fb51d8dcf929b1f3750cf6b70349f5b2c13") -- Battlefield 6 Multiplayer HD Textures - Depot 2807968
-setManifestid(2807968, "2196156281561965334", 2827816376)
--- Battlefield 6 Multiplayer  Single Player Shared HD Textures (AppID: 3348460)
-addappid(3348460) --Dlcname Battlefield 6 Multiplayer  Single Player Shared HD Textures
-addappid(2807971, 1, "4b5411bff21928a491fb766e1664ea809e79b90b30031ff444bc40aea250af8b") -- Battlefield 6 Multiplayer  Single Player Shared HD Textures - Depot 2807971
-setManifestid(2807971, "5431850873431837657", 2640299301)
--- Battlefield 6 Multiplayer  Single Player Shared Data (AppID: 3348470)
-addappid(3348470) --Dlcname Battlefield 6 Multiplayer  Single Player Shared Data
-addappid(2807965, 1, "2df65824aab0f620dcdda53981db04e30d4ccf52e916d535c00db5933c419f59") -- Battlefield 6 Multiplayer  Single Player Shared Data - Depot 2807965
-setManifestid(2807965, "7329967729094245594", 1887348000)
--- Battlefield 6 Single Player (AppID: 3348480)
-addappid(3348480) --Dlcname Battlefield 6 Single Player
-addappid(2807964, 1, "3db71633bd934e3c3601f253923cde0681423ff9d47a06654df50f7046ee419d") -- Battlefield 6 Single Player - Depot 2807964
-setManifestid(2807964, "4425285283953215275", 22248039102)
--- Battlefield 6 - Single Player HD Textures (AppID: 3348490)
-addappid(3348490) --Dlcname Battlefield 6 - Single Player HD Textures
-addappid(2807969, 1, "0a35c6f7a451d07c5289c5008b5a5d5707f62a33a19154fbf02c10a52e6bd53d") -- Battlefield 6 - Single Player HD Textures - Depot 2807969
-setManifestid(2807969, "4843802163635426892", 8449578901)
--- DLCS WITHOUT DEDICATED DEPOTS
-addappid(3028320) --Dlcname Battlefield 6 Marker --NoDepot
-addappid(3028330) --Dlcname Battlefield REDSEC --NoDepot
-addappid(3574340) --Dlcname Battlefield 6 - Phantom Content --NoDepot
-addappid(3574350) --Dlcname Battlefield 6 - Phantom Pack --NoDepot
-addappid(3574360) --Dlcname Battlefield 6 - Phantom Upgrade --NoDepot
-addappid(3574500) --Dlcname Battlefield 6 - Tombstone Pack --NoDepot
-addappid(3645440) --Dlcname BFC for Battlefield 6 and REDSEC --NoDepot
-addappid(3880840) --Dlcname BF Pro Battlepass (Season 1) --NoDepot
-addappid(3933020) --Dlcname Rogue Ops Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(3933030) --Dlcname Season 1 Starter Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(3933040) --Dlcname Season 1 Advanced Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(3933050) --Dlcname Lead the Way Pack - XP Boost  Tier Skip --NoDepot
-addappid(3933060) --Dlcname Lead the Way Pack - Content --NoDepot
-addappid(3933070) --Dlcname Lead the Way Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(4031710) --Dlcname Battlefield 6  Standard Edition Marker --NoDepot
-addappid(4031720) --Dlcname Battlefield 6 Standard Edition Pre-order Marker --NoDepot
-addappid(4031730) --Dlcname Battlefield 6 Phantom Edition Marker --NoDepot
-addappid(4031740) --Dlcname Battlefield 6 Phantom Edition Pre-order Marker --NoDepot
-addappid(4031750) --Dlcname Battlefield Standard Edition Marker --NoDepot
-addappid(4149400) --Dlcname Season 2 Advanced Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(4149410) --Dlcname Season 2 Battlefield Pro - Battlefield 6 and REDSEC --NoDepot
-addappid(4149420) --Dlcname Season 2 Battlefield Pro - XP Boost  Tier Skips - Battlefield 6 and REDSEC --NoDepot
-addappid(4149430) --Dlcname Season 2 Battlefield Pro Content - Battlefield 6 and REDSEC --NoDepot
-addappid(4149440) --Dlcname Season 2 Starter Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(4149480) --Dlcname Toxic Tide Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(4373810) --Dlcname Season 3 Advanced Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(4373820) --Dlcname Season 3 Battlefield Pro - Battlefield 6 and REDSEC --NoDepot
-addappid(4373830) --Dlcname Season 3 Battlefield Pro - Battlefield 6 and REDSEC Pre-Order Bonus --NoDepot
-addappid(4373840) --Dlcname Search and Destroy Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(4373850) --Dlcname Season 3 Starter Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(4600460) --Dlcname Season 4 Advanced Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(4600470) --Dlcname Season 4 Battlefield Pro - Battlefield 6 and REDSEC --NoDepot
-addappid(4600480) --Dlcname Season 4 Battlefield Pro - Battlefield 6 and REDSEC Pre-Purchase Bonus --NoDepot
-addappid(4600490) --Dlcname Tsunami Clash Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(4600500) --Dlcname Season 4 Starter Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(4888260) --Dlcname Season 5 Advanced Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(4888270) --Dlcname Season 5 Battlefield Pro - Battlefield 6 and REDSEC --NoDepot
-addappid(4888290) --Dlcname Lions Share Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(4888300) --Dlcname Season 5 Starter Pack - Battlefield 6 and REDSEC --NoDepot
-addappid(4888690) --Dlcname Ultimate Shortcut Kit - Battlefield 6 and REDSEC --NoDepot
-addappid(4888700) --Dlcname Battlefield 6 - Game of the Year Upgrade --NoDepot
-addappid(5421190) --Dlcname Battlefield 6 Game of the Year Edition Marker --NoDepot
