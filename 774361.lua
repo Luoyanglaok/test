@@ -16,9 +16,6 @@ setManifestid(1143850, "3317964550509557174", 31642624)
 --Dlcname Blasphemous - Digital Comic
 addappid(1143851, 1, "5069e7a80c60cb1e87e237739720a7dee49178f81b14c5290401aed931c8b9e1") --Dlcname Blasphemous - Digital Comic
 setManifestid(1143851, "6736759184537561598", 9664992)
---Dlcname Blasphemous - OST
-addappid(1143852, 1, "17a1ea3d734965e52de14e0340b18cdf6aef3b9c3edffea6e116a504be3faffc") --Dlcname Blasphemous - OST
-setManifestid(1143852, "1919474787724883518", 299656064)
 --Dlcname Blasphemous - 'Alloy of Sin' Character Skin
 addappid(1143853) --Dlcname Blasphemous - 'Alloy of Sin' Character Skin
 addappid(774365, 1, "bab5ef14e351920c47897af01aa779ee7cd40e781f30acf4090c8d7bbbea62a0") --Dlc Windows Depot Blasphemous - 'Alloy of Sin' Character Skin
