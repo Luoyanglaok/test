@@ -1,23 +1,12 @@
--- Downloaded using DepotBox - https://depotbox.org/
--- Original file: 2254890.lua
---Gamename 致命解药 The Killing Antidote
-addappid(2254890, 1, "2b61b633ed06c177f6c8ddff8eb747ace8180cbf013f81c0d854add7bcceb50b") --Mainappid 致命解药 The Killing Antidote
-addappid(2254891, 1, "729988b69fdd52990bafdf7bb4272df39dd5d2421cacb3e3ed9fe2d82354288f") --Main Windows Depot 致命解药 The Killing Antidote
-setManifestid(2254891, "9079302830412000694", 4792538432)
---Dlcname The Killing Antidote - Cowgirl Costume Pack
-addappid(3761650) --Dlcname The Killing Antidote - Cowgirl Costume Pack
-addappid(3761651, 1, "946f8e5f5707753e2a75d3e96a62d007bcf41fcd0ac167a1450b4622fb48f2f5") --Dlc Windows Depot The Killing Antidote - Cowgirl Costume Pack
-setManifestid(3761651, "3796580347871242929", 252518032)
---Dlcname The Killing Antidote - Maid Costume Pack
-addappid(4350520) --Dlcname The Killing Antidote - Maid Costume Pack
-addappid(4350521, 1, "5fb83713c1d4910bf68a5e5473b9eefc474f74945f778ab1cf2d832cdaa80cba") --Dlc Windows Depot The Killing Antidote - Maid Costume Pack
-setManifestid(4350521, "6791221263400239466", 71857360)
---Dlcname The Killing Antidote - Wuxia Allure Attire
-addappid(4350590) --Dlcname The Killing Antidote - Wuxia Allure Attire
-addappid(4350591, 1, "55151cd29438ae9fdd7edf5e70ac14c9f73a064c7f0ce347f8e0ac8f442f7c68") --Dlc Windows Depot The Killing Antidote - Wuxia Allure Attire
-setManifestid(4350591, "23230248584909191", 68778416)
---Share Depots
-addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
-setManifestid(228989, "5753583882400741046", 25108528)
-addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
-setManifestid(228990, "1829726630299308803", 100658080)
+addappid(2254890)
+addappid(4350590)
+addappid(3761650)
+addappid(4350520)
+addappid(228989,1,"ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853")
+addappid(228990,1,"44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8")
+setManifestid(2254891,"9079302830412000694")
+setManifestid(3761651,"3796580347871242929")
+setManifestid(4350521,"6791221263400239466")
+setManifestid(4350591,"23230248584909191")
+setManifestid(228989,"5753583882400741046")
+setManifestid(228990,"1829726630299308803")
