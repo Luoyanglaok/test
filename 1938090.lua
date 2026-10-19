@@ -598,6 +598,8 @@ addappid(5092515, 1, "0be8656b9f79a4fac56389bb5ddf55c263df475fc16bdc4143c4f54f99
 setManifestid(5092515, "762022189765618255", 1136495312)
 addappid(5092518, 1, "765be7166564795a072bf38f2d351f1b30892ce3f1937ece30642c426bed17db") --Dlc Windows Language Depot Schinese Call of Duty®: Modern Warfare® 4
 setManifestid(5092518, "6328140407669677714", 2168929776)
+addappid(5092519, 1, "9bfa3282db681568c76824ffbb467de16fd69f0fcf31f9ef96d6d63af5da3e77") --Dlc Windows Language Depot Tchinese Call of Duty®: Modern Warfare® 4
+setManifestid(5092519, "8509217645188972792", 1165413088)
 addappid(5177102, 1, "0be3f42c241adb0a7ed401e871c056d333f05d0417c263b803ee4ba3176b0768") --Dlc Windows Language Depot Brazilian Call of Duty®: Modern Warfare® 4
 setManifestid(5177102, "5482855657502014120", 1100358304)
 addappid(5177105, 1, "db7a139e840bda026d7522bf0d6c1cc86509d085637f477b94e4c038c5a8565c") --Dlc Windows Language Depot Italian Call of Duty®: Modern Warfare® 4
