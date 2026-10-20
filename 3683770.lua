@@ -3,7 +3,7 @@
 --Gamename Boba Cafe Simulator
 addappid(3683770, 1, "806268cd176417e23f4b6cf0384a0398611ff81017d30b394ab10e9ad26b0d96") --Mainappid Boba Cafe Simulator
 addappid(3683771, 1, "33607e45578e4e6c16c8a04b37464bc01872718a1021df09fbc986410192064f") --Main Windows Depot Boba Cafe Simulator
-setManifestid(3683771, "8840955524231447358", 2618173328)
+setManifestid(3683771, "1882778865400729248", 2868148848)
 addappid(3683772, 1, "45f179e1f84c69b6a0056baddf27163c4497c273bf8f1bb55988134d8095fd38") --Main Macos Depot Boba Cafe Simulator
 setManifestid(3683772, "5070189185245394991", 2601414224)
 --Share Depots
