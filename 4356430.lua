@@ -4,11 +4,11 @@
 addappid(4356430, 1, "da0457cd701ea98a184543bf867722ae607be456e2fd7da486ff49e8e7275c09") --Mainappid NBA 2K27
 addtoken(4356430, "13716260120817756824")
 addappid(4356431, 1, "a1ccdda87579dfa269b9015cc7ba18b7eb8339848b5eb408bfea8bdfb31eb8a4") --Main Windows Depot NBA 2K27
-setManifestid(4356431, "7031185802084950134", 79259903040)
+setManifestid(4356431, "2261524414584825796", 80666805552)
 --Dlcname NBA 2K27 - High Resolution Textures
 addtoken(4687050, "7614811867666966860")
 addappid(4687050, 1, "c96a0954f3836680afb31e3b837546bb92606ccaebcc3e1bf8cd3761b8221c25") --Dlcname NBA 2K27 - High Resolution Textures
-setManifestid(4687050, "4767089068737929486", 29541459872)
+setManifestid(4687050, "5397036502123184841", 30068170064)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
@@ -17,6 +17,10 @@ addtoken(4357560, "11490798856557241078")
 addappid(4357570) --Dlcname NBA 2K27 Hall of Fame Pass: Season 1
 addappid(4357580) --Dlcname NBA 2K27 MyCAREER Bonus Offer: Season 1
 addappid(4357590) --Dlcname NBA 2K27 MyTEAM Bonus Offer: Season 1
+addappid(4357600) --Dlcname NBA 2K27 - Pro Pass: Season 2
+addappid(4357610) --Dlcname NBA 2K27 - Hall of Fame Pass: Season 2
+addappid(4357620) --Dlcname NBA 2K27 - MyCareer Bundle: Season 2
+addappid(4357630) --Dlcname NBA 2K27 MyTEAM Bonus Offer: Season 2
 addappid(4691140) --Dlcname NBA 2K27 Bonus Pack
 addtoken(4691140, "137551546670174222")
 addappid(4691150) --Dlcname NBA 2K27 Limited-Time Offer Bonus Pack
