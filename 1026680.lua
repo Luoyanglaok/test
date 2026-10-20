@@ -10,10 +10,6 @@ setManifestid(4425231, "1105295842015947296", 104167840)
 addtoken(1152240, "15286880836748985791")
 addappid(1152240, 1, "85f2fe46d3930f2ec95b072cdfd11ede2ba8e33bd11fa8e8dc2836db2a880073") --Dlcname AppID 1152240
 setManifestid(1152240, "1993331997466795726", 18847248)
---Dlcname FINAL FANTASY VIII Original Soundtrack
-addappid(3365700) --Dlcname FINAL FANTASY VIII Original Soundtrack
-addappid(3365701, 1, "99f8544ea87302e3a1e6521d12669f8ca4659134ff480a1f7819d49daeb1fe38") --Dlc Windows Depot FINAL FANTASY VIII Original Soundtrack
-setManifestid(3365701, "2875869071946574645", 521513536)
 --Dlcname Piano Collections FINAL FANTASY VIII
 addappid(4425230) --Dlcname Piano Collections FINAL FANTASY VIII
 --Share Depots
