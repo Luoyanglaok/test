@@ -3,11 +3,11 @@
 --Gamename Two Point Museum
 addappid(2185060, 1, "2340a2fa4b9bb44e786eb62e5866d2f8b2b4c5d73c0173273064b5a6424c5d1d") --Mainappid Two Point Museum
 addappid(2185061, 1, "a98101165ba3b99b3d98c5866360aa7cb08eeffd31ec95a9d024a824ff57c792") --Main Windows Depot Two Point Museum
-setManifestid(2185061, "2732842006636921482", 5271937472)
+setManifestid(2185061, "3575002683203477905", 5282857696)
 addappid(2185062, 1, "50e06e5a50d397f8af97494176ecfb9f75bb4082443bbe1fb111f44715c18d61") --Main Macos Depot Two Point Museum
-setManifestid(2185062, "5802379079990216837", 5141549696)
+setManifestid(2185062, "9010025452648441538", 5141618368)
 addappid(2185063, 1, "e68d0e65f0ced4a31e4932edecd8ff65ad2f1b503bff1b0e74faa05ae4d5356c") --Main Linux Depot Two Point Museum
-setManifestid(2185063, "3575781497237314026", 5230897632)
+setManifestid(2185063, "2362808601389078297", 5230919680)
 --Dlcname Two Point Museum: Sonic Pre-Purchase Pack
 addappid(2999840) --Dlcname Two Point Museum: Sonic Pre-Purchase Pack
 addappid(2999841, 1, "17c8f80c3b69386aa95d085d8d9acf78ded50c7d234c3fe760843b1854e57d5d") --Dlc Windows Depot Two Point Museum: Sonic Pre-Purchase Pack
