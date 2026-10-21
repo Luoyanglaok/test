@@ -3,7 +3,7 @@
 --Gamename Shape of Dreams
 addappid(2444750, 1, "7dc7c8c175eae2f6798f4e892251914d68ba702f8066c09c71e3e9342d95943c") --Mainappid Shape of Dreams
 addappid(2444751, 1, "ef362189306209d0c11c3b509c34fd001aed76b0fc0ea258001430f6793519a5") --Main Windows Depot Shape of Dreams
-setManifestid(2444751, "4612688531283595442", 7377113328)
+setManifestid(2444751, "1088942737684200791", 7348681376)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
