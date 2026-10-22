@@ -3,6 +3,8 @@
 --Gamename Maid Cafe Simulator
 addappid(3232690) --Mainappid Maid Cafe Simulator
 addtoken(3232690, "13519884111433632602")
+addappid(3232691, 1, "711c1812779dbc9c2f561b89a2e087830915b25d1b6f867496b1cf746a899aba") --Main Windows Depot Maid Cafe Simulator
+setManifestid(3232691, "4099511354962047593", 3126198672)
 addappid(4817460) --Dlcname Maid Cafe Simulator: Spring Sunshine Garden (Omu)
 addappid(4817550) --Dlcname Maid Cafe Simulator: Maidroid (Omu)
 addappid(4817660) --Dlcname Maid Cafe Simulator: Maidroid (Mina)
