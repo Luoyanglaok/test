@@ -3,7 +3,7 @@
 --Gamename The Outlast Trials
 addappid(1304930, 1, "7e1bcb0ff8a4d9f5b812334dcb1b6683cef2c631a9bd65d41ec64e6264cc1f8c") --Mainappid The Outlast Trials
 addappid(1304931, 1, "81611074b6fd0d2e108d34562aca73115d01d6bea3f08092b8d98aad42c2f0fb") --Main Windows Depot The Outlast Trials
-setManifestid(1304931, "4476185162994989690", 57015790384)
+setManifestid(1304931, "3380099951405625329", 58349830432)
 --Dlcname The Outlast Trials - Reageant starter pack
 addappid(2328320, 1, "e910a7544e5001ac7650a8acbfc5180e3be595d70c4331b2c8ad9e6b4f511843") --Dlcname The Outlast Trials - Reageant starter pack
 --Dlcname The Outlast Trials - Exotica Pack
@@ -27,33 +27,3 @@ addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306f
 setManifestid(228989, "5753583882400741046", 25108528)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
--- 1304930's Lua and Manifest Created by Hubcap Manifest
--- The Outlast Trials
--- Created: September 19, 2026 at 01:26:06 EDT
--- Website: https://hubcapmanifest.com/
--- Build: 25334040 (public branch)
--- Build Date: September 15, 2026 at 19:04:20 EDT (1789513460)
--- Total Depots: 4
--- Total DLCs: 8
--- Shared Depots: 3
--- MAIN APPLICATION
-addappid(1304930, 1, "7e1bcb0ff8a4d9f5b812334dcb1b6683cef2c631a9bd65d41ec64e6264cc1f8c") -- The Outlast Trials
--- MAIN APP DEPOTS
-addappid(1304931, 1, "81611074b6fd0d2e108d34562aca73115d01d6bea3f08092b8d98aad42c2f0fb") -- Depot 1304931
-setManifestid(1304931, "4476185162994989690", 64882257791)
--- SHARED DEPOTS (from other apps)
-addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
-setManifestid(228988, "6645201662696499616", 29212173)
-addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
-setManifestid(228989, "5753583882400741046", 25674515)
-addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
-setManifestid(228990, "1829726630299308803", 102931551)
--- DLCS WITHOUT DEDICATED DEPOTS
-addappid(2328320) --Dlcname The Outlast Trials - Reageant starter pack --NoDepot
-addappid(3030370) --Dlcname The Outlast Trials - Exotica Pack --NoDepot
-addappid(3307910) --Dlcname The Outlast Trials - Unholy Night Pack --NoDepot
-addappid(3518320) --Dlcname The Outlast Trials - Sweet Release Pack --NoDepot
-addappid(3805230) --Dlcname The Outlast Trials - Porcelain Observer Pack --NoDepot
-addappid(3805250) --Dlcname The Outlast Trials - Terrified Toddler Pack --NoDepot
-addappid(3805260) --Dlcname The Outlast Trials - World of Heavyweights Pack --NoDepot
-addappid(3805270) --Dlcname The Outlast Trials - Spelunking For Your Life Pack --NoDepot
