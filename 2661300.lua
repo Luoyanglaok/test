@@ -3,7 +3,7 @@
 --Gamename Grounded 2
 addappid(2661300, 1, "b327d3f0e0a2c4b9cdcf82f361f1c231a8745bb2cc80eb767850907427bfa346") --Mainappid Grounded 2
 addappid(2661301, 1, "cac026f4758d6992ff85de08375749a662b82dc6517be7dc72368060eca7427d") --Main Windows Depot Grounded 2
-setManifestid(2661301, "249029470883713488", 19929366640)
+setManifestid(2661301, "2393654750528652592", 19134938672)
 --Dlcname Grounded 2 Digital Artbook & Soundtrack
 addappid(3784940, 1, "6843207657f513fdac03f7aaeaf83190c1176e552d92aa410f91d0afdb8e220b") --Dlcname Grounded 2 Digital Artbook & Soundtrack
 setManifestid(3784940, "6831822291783062808", 884445808)
