@@ -55,5 +55,6 @@ addappid(4949530) --Dlcname Forza Horizon 6 1985 Porsche 911 Carrera Coupe 'Luft
 addappid(4949540) --Dlcname Forza Horizon 6 1998 Renault Sport Spider
 addappid(5067170) --Dlcname Forza Horizon 6 1972 Datsun 240Z #5 Rallye
 addappid(5067180) --Dlcname Forza Horizon 6 2024 Ferrari Purosangue
+addappid(5134010) --Dlcname Forza Horizon 6 1990 Eunos Cosmo
 --Missing Dlcs
 --Dlcname Forza Horizon 6 Expansion 1
