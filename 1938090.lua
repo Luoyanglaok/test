@@ -3,9 +3,9 @@
 --Gamename Call of Duty®
 addappid(1938090, 1, "528c9c096376c028af9c875c9286a3b7fa6915e75459ba7bfdfb59663eb5d56c") --Mainappid Call of Duty®
 addappid(1938091, 1, "f793d14324c44b23e03af1297626dc11756f9d2d8c77d510f3399e468fff5e87") --Main Windows Depot Call of Duty®
-setManifestid(1938091, "774230945232210859", 449039968)
+setManifestid(1938091, "6733805895031062477", 449373328)
 addappid(1938092, 1, "94172c4bdb1ed3af957ce904a340f691e4c584b83c9c4eae0ffea087903c8811") --Main Windows Depot Call of Duty®
-setManifestid(1938092, "7791452079034873884", 3290110240)
+setManifestid(1938092, "6509064441386157735", 3290110240)
 addappid(1938093, 1, "1a6d275cae735b6211a80c061b9114975c314d9b48d49e1ea59c2f0300e79594") --Main Windows Language Depot English Call of Duty®
 setManifestid(1938093, "522508399484635503", 29126544)
 addappid(1938094, 1, "3d8bc7e330752517ed81ea79390774df78c1e22086fe9236b3af7451f704b82d") --Main Windows Language Depot French Call of Duty®
@@ -332,7 +332,7 @@ setManifestid(2278289, "3895107258877174280", 1030567936)
 addappid(2316851, 1, "69781d72df71492ad0ddc312c5875c9278e5dc37d67e05d4e91bba4bd14508de") --Dlc Windows Language Depot Koreana Call of Duty®: Warzone™ 2025
 setManifestid(2316851, "653532509980881731", 426027664)
 addappid(3180215, 1, "4530bdd8ef2f76f52beede87b8df90ab58beae145f5df64a02b69df45e4a496b") --Dlc Windows Depot Call of Duty®: Warzone™ 2025
-setManifestid(3180215, "2832056475004568089", 545972976)
+setManifestid(3180215, "2584982735221580694", 545972960)
 --Dlcname Call of Duty® Free Trial
 addtoken(2790690, "16596723690148034344")
 addappid(2790690, 1, "0363564e4c4adced471055c68b1166f2ccf333a5586cf4b0bf509fc4a40f7ea6") --Dlcname Call of Duty® Free Trial
@@ -498,7 +498,7 @@ setManifestid(4098668, "70898899935997720", 357925424)
 addappid(4098669, 1, "f9e478c5f774df919069d096595ac612da5a7a5d8d23484585808f3cb2976c1b") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Endgame
 setManifestid(4098669, "1812544983503998032", 96761678496)
 addappid(5092426, 1, "d07fd65c9e8081fa0a9cde393f12e2f432e50841c6687ecfa2acda1d891b8027") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Endgame
-setManifestid(5092426, "1285705923869983951", 546102096)
+setManifestid(5092426, "4996990191089630754", 546102080)
 --Dlcname Call of Duty®: Black Ops 7 - Multiplayer
 addtoken(3606490, "5544129185210199749")
 addappid(3606490) --Dlcname Call of Duty®: Black Ops 7 - Multiplayer
@@ -541,7 +541,7 @@ setManifestid(4085127, "6329265834529252883", 347866912)
 addappid(4085128, 1, "708c99a3f222c21c540ddcd95dd37e1df43be04893f2f63a8b4b442cdf3c9f9d") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Multiplayer
 setManifestid(4085128, "3547756970940606498", 122715741152)
 addappid(5092425, 1, "5ccba819f8c8aae353def1824580a6a5e4719bc9c3116a6ad96eb4e026206c1a") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Multiplayer
-setManifestid(5092425, "8159310087298797364", 546102096)
+setManifestid(5092425, "619793826461198328", 546102080)
 --Dlcname Call of Duty®: Black Ops 7 - Zombies
 addtoken(3606500, "5061143956286425489")
 addappid(3606500) --Dlcname Call of Duty®: Black Ops 7 - Zombies
@@ -584,12 +584,12 @@ setManifestid(4085096, "5321560636191814492", 358039760)
 addappid(4085097, 1, "acd83f479f3407ad7ed55f7581931904fef95d859de9eae83b87d5dff9714688") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Zombies
 setManifestid(4085097, "4171897015284741052", 94218267152)
 addappid(5092424, 1, "94cbb018b00f2c4c271fc108f51bcf2ee74e41243c02b839971f5fa09a337cc3") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Zombies
-setManifestid(5092424, "7692576382142311184", 546102096)
+setManifestid(5092424, "2163417367746740198", 546102080)
 --Dlcname Call of Duty®: Modern Warfare® 4
 addtoken(4435490, "4241600889320268380")
 addappid(4435490) --Dlcname Call of Duty®: Modern Warfare® 4
 addappid(5092423, 1, "13b7a859fb4316970bd58aaf8d4d8f91bbad42741b0af24f2af68476ba026d86") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
-setManifestid(5092423, "6747811602359608209", 303828480)
+setManifestid(5092423, "694938810086783797", 303520928)
 addappid(5092499, 1, "6c630356172215988f4e8b70c44500170a98ffc27de3345af0137252af9540bc") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
 setManifestid(5092499, "1089101361684131858", 13475376)
 addappid(5092512, 1, "dbd989a10240a6cadd08cea84ca86770f9483b6c3878562c859e693f8e085e33") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
@@ -625,7 +625,7 @@ setManifestid(5177107, "2771614600692324909", 1092719840)
 addappid(5177108, 1, "2dce291f92ef058c8ef5e4f1fa7be587af8a599f4cfeb6751b7e8636de03b9e9") --Dlc Windows Language Depot English Call of Duty®: Modern Warfare® 4
 setManifestid(5177108, "3811667819241836839", 599856480)
 addappid(5177109, 1, "36565fb2948548dcc2f69c7412480e1f64fbdbebf468130564f77e29b59f925f") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
-setManifestid(5177109, "5953429142802642015", 67910789904)
+setManifestid(5177109, "1121102226510287828", 67910790400)
 --Dlcname AppID 4435500
 addtoken(4435500, "14576644821533144985")
 addappid(4435500) --Dlcname AppID 4435500
