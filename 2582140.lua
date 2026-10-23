@@ -3,7 +3,7 @@
 --Gamename Seafarer: The Ship Sim
 addappid(2582140) --Mainappid Seafarer: The Ship Sim
 addappid(2582141, 1, "f40d0c88571b28f840178b77be55334a2e94510b18e939af7c2da27f9d855b4e") --Main Windows Depot Seafarer: The Ship Sim
-setManifestid(2582141, "7126648004476816681", 15508263056)
+setManifestid(2582141, "9070170753181890625", 15459140592)
 addappid(4180111, 1, "4f97b3204a97db610ceab83e1a06b0436655051837dd88b83313dfdb1b5b804e") --Main Windows Depot Seafarer: The Ship Sim
 setManifestid(4180111, "1222130291592211207", 44645664)
 --Dlcname Seafarer: The Ship Sim - Soundtrack
