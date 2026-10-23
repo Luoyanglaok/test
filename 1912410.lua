@@ -3,7 +3,7 @@
 --Gamename Minecraft Dungeons II
 addappid(1912410) --Mainappid Minecraft Dungeons II
 addappid(1912411, 1, "481cd3fe452e5cd67ddd1d1249e3f2be1699e8693755665e01d536dcf90735e0") --Main Windows Depot Minecraft Dungeons II
-setManifestid(1912411, "6747700082681061734", 9713706880)
+setManifestid(1912411, "1154065321996978135", 9712231776)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
