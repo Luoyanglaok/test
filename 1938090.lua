@@ -585,124 +585,124 @@ addappid(4085097, 1, "acd83f479f3407ad7ed55f7581931904fef95d859de9eae83b87d5dff9
 setManifestid(4085097, "4171897015284741052", 94218267152)
 addappid(5092424, 1, "94cbb018b00f2c4c271fc108f51bcf2ee74e41243c02b839971f5fa09a337cc3") --Dlc Windows Depot Call of Duty®: Black Ops 7 - Zombies
 setManifestid(5092424, "2163417367746740198", 546102080)
---Dlcname Call of Duty®: Modern Warfare® 4
+--Dlcname Call of Duty®: Modern Warfare® 4 - Campaign
 addtoken(4435490, "4241600889320268380")
-addappid(4435490) --Dlcname Call of Duty®: Modern Warfare® 4
-addappid(5092423, 1, "13b7a859fb4316970bd58aaf8d4d8f91bbad42741b0af24f2af68476ba026d86") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
+addappid(4435490) --Dlcname Call of Duty®: Modern Warfare® 4 - Campaign
+addappid(5092423, 1, "13b7a859fb4316970bd58aaf8d4d8f91bbad42741b0af24f2af68476ba026d86") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5092423, "694938810086783797", 303520928)
-addappid(5092499, 1, "6c630356172215988f4e8b70c44500170a98ffc27de3345af0137252af9540bc") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
+addappid(5092499, 1, "6c630356172215988f4e8b70c44500170a98ffc27de3345af0137252af9540bc") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5092499, "1089101361684131858", 13475376)
-addappid(5092512, 1, "dbd989a10240a6cadd08cea84ca86770f9483b6c3878562c859e693f8e085e33") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
+addappid(5092512, 1, "dbd989a10240a6cadd08cea84ca86770f9483b6c3878562c859e693f8e085e33") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5092512, "8784911435247433621", 17659824)
-addappid(5092513, 1, "a8e7207e563a566e167fdd53f5b0148317c826bf7dca662749fda47dc61cbff7") --Dlc Windows Language Depot Thai Call of Duty®: Modern Warfare® 4
+addappid(5092513, 1, "a8e7207e563a566e167fdd53f5b0148317c826bf7dca662749fda47dc61cbff7") --Dlc Windows Language Depot Thai Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5092513, "214324600280257205", 599856480)
-addappid(5092514, 1, "77ca565bb66d95c1815c6045e2d25595e6751ad5b2411440cdad5f6dccff72da") --Dlc Windows Language Depot Russian Call of Duty®: Modern Warfare® 4
+addappid(5092514, 1, "77ca565bb66d95c1815c6045e2d25595e6751ad5b2411440cdad5f6dccff72da") --Dlc Windows Language Depot Russian Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5092514, "1631359390196901594", 1139024160)
-addappid(5092515, 1, "0be8656b9f79a4fac56389bb5ddf55c263df475fc16bdc4143c4f54f99f2ea73") --Dlc Windows Language Depot Polish Call of Duty®: Modern Warfare® 4
+addappid(5092515, 1, "0be8656b9f79a4fac56389bb5ddf55c263df475fc16bdc4143c4f54f99f2ea73") --Dlc Windows Language Depot Polish Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5092515, "1895029926270475307", 1137998992)
-addappid(5092516, 1, "71cc119799a1a8ec25b1f2e09dfd45aa5c52c50ab946e7d79c05fa40ead5ee03") --Dlc Windows Language Depot Japanese Call of Duty®: Modern Warfare® 4
+addappid(5092516, 1, "71cc119799a1a8ec25b1f2e09dfd45aa5c52c50ab946e7d79c05fa40ead5ee03") --Dlc Windows Language Depot Japanese Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5092516, "8303518548590957239", 2217288400)
-addappid(5092517, 1, "1e477439ed208283ef4f71cadf74b80f00e9f3a25caacd552511cc6603982932") --Dlc Windows Language Depot Arabic Call of Duty®: Modern Warfare® 4
+addappid(5092517, 1, "1e477439ed208283ef4f71cadf74b80f00e9f3a25caacd552511cc6603982932") --Dlc Windows Language Depot Arabic Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5092517, "7472110291079226295", 1133071440)
-addappid(5092518, 1, "765be7166564795a072bf38f2d351f1b30892ce3f1937ece30642c426bed17db") --Dlc Windows Language Depot Schinese Call of Duty®: Modern Warfare® 4
+addappid(5092518, 1, "765be7166564795a072bf38f2d351f1b30892ce3f1937ece30642c426bed17db") --Dlc Windows Language Depot Schinese Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5092518, "8442092596570605605", 2171284960)
-addappid(5092519, 1, "9bfa3282db681568c76824ffbb467de16fd69f0fcf31f9ef96d6d63af5da3e77") --Dlc Windows Language Depot Tchinese Call of Duty®: Modern Warfare® 4
+addappid(5092519, 1, "9bfa3282db681568c76824ffbb467de16fd69f0fcf31f9ef96d6d63af5da3e77") --Dlc Windows Language Depot Tchinese Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5092519, "6843642762071433560", 1166947344)
-addappid(5177101, 1, "3d158dc6e5b1079bcdd77d3b691a09d1bfc1b0837702d2c52ecfc052492a740f") --Dlc Windows Language Depot Latam Call of Duty®: Modern Warfare® 4
+addappid(5177101, 1, "3d158dc6e5b1079bcdd77d3b691a09d1bfc1b0837702d2c52ecfc052492a740f") --Dlc Windows Language Depot Latam Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5177101, "581057463371254123", 1103511280)
-addappid(5177102, 1, "0be3f42c241adb0a7ed401e871c056d333f05d0417c263b803ee4ba3176b0768") --Dlc Windows Language Depot Brazilian Call of Duty®: Modern Warfare® 4
+addappid(5177102, 1, "0be3f42c241adb0a7ed401e871c056d333f05d0417c263b803ee4ba3176b0768") --Dlc Windows Language Depot Brazilian Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5177102, "3774281776885465345", 1101121440)
-addappid(5177103, 1, "2899ad0f95d1faff708e6b00709d7c8b3e0b39bd9c1e41aceb30b6c78fc7ada4") --Dlc Windows Language Depot Koreana Call of Duty®: Modern Warfare® 4
+addappid(5177103, 1, "2899ad0f95d1faff708e6b00709d7c8b3e0b39bd9c1e41aceb30b6c78fc7ada4") --Dlc Windows Language Depot Koreana Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5177103, "9002311261166755546", 2190898976)
-addappid(5177104, 1, "2002e4074a3dcfc265e4c443800ec748abff24d8d8d89fee88b038e43a330e13") --Dlc Windows Language Depot Spanish Call of Duty®: Modern Warfare® 4
+addappid(5177104, 1, "2002e4074a3dcfc265e4c443800ec748abff24d8d8d89fee88b038e43a330e13") --Dlc Windows Language Depot Spanish Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5177104, "8220786665154558999", 1118503120)
-addappid(5177105, 1, "db7a139e840bda026d7522bf0d6c1cc86509d085637f477b94e4c038c5a8565c") --Dlc Windows Language Depot Italian Call of Duty®: Modern Warfare® 4
+addappid(5177105, 1, "db7a139e840bda026d7522bf0d6c1cc86509d085637f477b94e4c038c5a8565c") --Dlc Windows Language Depot Italian Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5177105, "3348918721687103052", 1134910608)
-addappid(5177106, 1, "675fc593d45e7f3be0d1b7b8f43d06c6aed07fe9a0cac24f758989ea04db0ff4") --Dlc Windows Language Depot German Call of Duty®: Modern Warfare® 4
+addappid(5177106, 1, "675fc593d45e7f3be0d1b7b8f43d06c6aed07fe9a0cac24f758989ea04db0ff4") --Dlc Windows Language Depot German Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5177106, "1786943276953803975", 1106074080)
-addappid(5177107, 1, "63324b87897f17504efc568ff8ed722a3c472b1180f359f4bb0d38a10c72d483") --Dlc Windows Language Depot French Call of Duty®: Modern Warfare® 4
+addappid(5177107, 1, "63324b87897f17504efc568ff8ed722a3c472b1180f359f4bb0d38a10c72d483") --Dlc Windows Language Depot French Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5177107, "2771614600692324909", 1092719840)
-addappid(5177108, 1, "2dce291f92ef058c8ef5e4f1fa7be587af8a599f4cfeb6751b7e8636de03b9e9") --Dlc Windows Language Depot English Call of Duty®: Modern Warfare® 4
+addappid(5177108, 1, "2dce291f92ef058c8ef5e4f1fa7be587af8a599f4cfeb6751b7e8636de03b9e9") --Dlc Windows Language Depot English Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5177108, "3811667819241836839", 599856480)
-addappid(5177109, 1, "36565fb2948548dcc2f69c7412480e1f64fbdbebf468130564f77e29b59f925f") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4
+addappid(5177109, 1, "36565fb2948548dcc2f69c7412480e1f64fbdbebf468130564f77e29b59f925f") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4 - Campaign
 setManifestid(5177109, "1121102226510287828", 67910790400)
---Dlcname AppID 4435500
+--Dlcname Call of Duty®: Modern Warfare® 4 - Multiplayer
 addtoken(4435500, "14576644821533144985")
-addappid(4435500) --Dlcname AppID 4435500
-addappid(5092448, 1, "fce5ca2b0df6f1c62709c7ae632e9064a2569c5edfb3907f251f3df92472a5e7") --Dlc Windows Depot AppID 4435500
+addappid(4435500) --Dlcname Call of Duty®: Modern Warfare® 4 - Multiplayer
+addappid(5092448, 1, "fce5ca2b0df6f1c62709c7ae632e9064a2569c5edfb3907f251f3df92472a5e7") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092448, "4496701721236678177", 11809680)
-addappid(5092461, 1, "45aff16e530500d2206620ca262068c3bcc2f7b2db073317ea8c809af1da1454") --Dlc Windows Depot AppID 4435500
+addappid(5092461, 1, "45aff16e530500d2206620ca262068c3bcc2f7b2db073317ea8c809af1da1454") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092461, "7426180878960372869", 16192320)
-addappid(5092462, 1, "ce4b2fba9f9ee96897d68bf388bcb9d6bbf15a55c7ea66345ce931037a780468") --Dlc Windows Language Depot Thai AppID 4435500
+addappid(5092462, 1, "ce4b2fba9f9ee96897d68bf388bcb9d6bbf15a55c7ea66345ce931037a780468") --Dlc Windows Language Depot Thai Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092462, "4457955554178547541", 465580096)
-addappid(5092463, 1, "2b5eed2b5bfde2937aef2ae7a08fa121de8f84c09bb266aba946db2b32b2d4f1") --Dlc Windows Language Depot Russian AppID 4435500
+addappid(5092463, 1, "2b5eed2b5bfde2937aef2ae7a08fa121de8f84c09bb266aba946db2b32b2d4f1") --Dlc Windows Language Depot Russian Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092463, "3915551789083461647", 869862752)
-addappid(5092464, 1, "9ab6b22b0832a5618ab593e85e84efb8d9e76cfaf24cf562edd2a9339cac60ce") --Dlc Windows Language Depot Polish AppID 4435500
+addappid(5092464, 1, "9ab6b22b0832a5618ab593e85e84efb8d9e76cfaf24cf562edd2a9339cac60ce") --Dlc Windows Language Depot Polish Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092464, "6233962723174356239", 869587472)
-addappid(5092465, 1, "ae4bff95faa8b818d07e002ec7f96520957ecd539032a505d4721e731a9b1d7c") --Dlc Windows Language Depot Japanese AppID 4435500
+addappid(5092465, 1, "ae4bff95faa8b818d07e002ec7f96520957ecd539032a505d4721e731a9b1d7c") --Dlc Windows Language Depot Japanese Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092465, "6629665124522139901", 1370191184)
-addappid(5092466, 1, "36c88e41002504b87414834e66267ffddf44f2be56ecf9f7adb19dbb2056fdcd") --Dlc Windows Language Depot Arabic AppID 4435500
+addappid(5092466, 1, "36c88e41002504b87414834e66267ffddf44f2be56ecf9f7adb19dbb2056fdcd") --Dlc Windows Language Depot Arabic Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092466, "8356248870904681454", 869792608)
-addappid(5092467, 1, "175406c83cf7fcae879329bbcf3b6d6432edfe42e780fa8f1663bbfcf556fd0b") --Dlc Windows Language Depot Schinese AppID 4435500
+addappid(5092467, 1, "175406c83cf7fcae879329bbcf3b6d6432edfe42e780fa8f1663bbfcf556fd0b") --Dlc Windows Language Depot Schinese Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092467, "5453807141887267386", 1409713952)
-addappid(5092468, 1, "fff69444d1b2f6545650e7c7f23a74b7fc8a1388eb3647b3c1b8913220d6e66c") --Dlc Windows Language Depot Tchinese AppID 4435500
+addappid(5092468, 1, "fff69444d1b2f6545650e7c7f23a74b7fc8a1388eb3647b3c1b8913220d6e66c") --Dlc Windows Language Depot Tchinese Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092468, "5220504319548376053", 869493200)
-addappid(5092469, 1, "d7d5226e0fcab34182df47b93267feab3128f95cb272f95cfb79c93527f91e58") --Dlc Windows Language Depot Latam AppID 4435500
+addappid(5092469, 1, "d7d5226e0fcab34182df47b93267feab3128f95cb272f95cfb79c93527f91e58") --Dlc Windows Language Depot Latam Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092469, "6533078806718657653", 521164960)
-addappid(5092491, 1, "dda460121dc61d4beb7c9df2de7f5b5ee1e1af562af4e04e2c2ea0e1287a3f9f") --Dlc Windows Language Depot Brazilian AppID 4435500
+addappid(5092491, 1, "dda460121dc61d4beb7c9df2de7f5b5ee1e1af562af4e04e2c2ea0e1287a3f9f") --Dlc Windows Language Depot Brazilian Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092491, "7749738188481150655", 528487360)
-addappid(5092492, 1, "5621f076deb6a1a318091e5a5a4328c5e5a86b4c9c9a57240b147f7c67e6bf22") --Dlc Windows Language Depot Koreana AppID 4435500
+addappid(5092492, 1, "5621f076deb6a1a318091e5a5a4328c5e5a86b4c9c9a57240b147f7c67e6bf22") --Dlc Windows Language Depot Koreana Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092492, "3961448234574031988", 1338481120)
-addappid(5092493, 1, "b465d622aee82b5b09a632efe1f0bd9af532fabe24738ede9da9ee20be80d7db") --Dlc Windows Language Depot Spanish AppID 4435500
+addappid(5092493, 1, "b465d622aee82b5b09a632efe1f0bd9af532fabe24738ede9da9ee20be80d7db") --Dlc Windows Language Depot Spanish Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092493, "6453238462979710200", 538682992)
-addappid(5092494, 1, "515597c88b826712bdd564577db2610787445ef7936b08ca306d36992197f34f") --Dlc Windows Language Depot Italian AppID 4435500
+addappid(5092494, 1, "515597c88b826712bdd564577db2610787445ef7936b08ca306d36992197f34f") --Dlc Windows Language Depot Italian Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092494, "1836793108906342180", 540862160)
-addappid(5092495, 1, "5913554741048d619dcac672cdc9b6cef1542d331ffe9f06e55c7dfad1d6900d") --Dlc Windows Language Depot German AppID 4435500
+addappid(5092495, 1, "5913554741048d619dcac672cdc9b6cef1542d331ffe9f06e55c7dfad1d6900d") --Dlc Windows Language Depot German Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092495, "7693108103211747133", 508948064)
-addappid(5092496, 1, "735f70bb70d1b3d7baecb64de71c535aad03dce35353b7b9ce90b667cc4f0b4c") --Dlc Windows Language Depot French AppID 4435500
+addappid(5092496, 1, "735f70bb70d1b3d7baecb64de71c535aad03dce35353b7b9ce90b667cc4f0b4c") --Dlc Windows Language Depot French Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092496, "4132832743584250202", 504792816)
-addappid(5092497, 1, "2a112d1efc2265305c958d8414e27df4b7563bb5d50f4ad9034e5bfbeeed62d2") --Dlc Windows Language Depot English AppID 4435500
+addappid(5092497, 1, "2a112d1efc2265305c958d8414e27df4b7563bb5d50f4ad9034e5bfbeeed62d2") --Dlc Windows Language Depot English Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092497, "1799153033271792574", 465580096)
-addappid(5092498, 1, "ce320bb5291752e47c4824decfa29f73357c8766ec68baf7dcf0ebeae8b2d550") --Dlc Windows Depot AppID 4435500
+addappid(5092498, 1, "ce320bb5291752e47c4824decfa29f73357c8766ec68baf7dcf0ebeae8b2d550") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4 - Multiplayer
 setManifestid(5092498, "2436194909917860893", 61097419952)
---Dlcname AppID 4435510
+--Dlcname Call of Duty®: Modern Warfare® 4 - DMZ
 addtoken(4435510, "3168575816290547937")
-addappid(4435510) --Dlcname AppID 4435510
-addappid(5092427, 1, "67b92607866436acddf7fa5d58508aeb12a0e5a5b0aa8b5b21fb3c2a86d9933f") --Dlc Windows Depot AppID 4435510
+addappid(4435510) --Dlcname Call of Duty®: Modern Warfare® 4 - DMZ
+addappid(5092427, 1, "67b92607866436acddf7fa5d58508aeb12a0e5a5b0aa8b5b21fb3c2a86d9933f") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092427, "6568831692181933155", 9958848)
-addappid(5092429, 1, "779b79da2148d113f328edeccd7e3af216921050f0adfa8b71fd521ecfeae9e0") --Dlc Windows Depot AppID 4435510
+addappid(5092429, 1, "779b79da2148d113f328edeccd7e3af216921050f0adfa8b71fd521ecfeae9e0") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092429, "5406383312383898876", 14339248)
-addappid(5092431, 1, "3b46ffc89c25c9754f1e00019191bc09d238acf47b9ba00a27048db758aa4dba") --Dlc Windows Language Depot Thai AppID 4435510
+addappid(5092431, 1, "3b46ffc89c25c9754f1e00019191bc09d238acf47b9ba00a27048db758aa4dba") --Dlc Windows Language Depot Thai Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092431, "5541978518201995787", 469445168)
-addappid(5092432, 1, "ddc54b4eee37a53bfbc5e30c3680fbe1d1ea49d93cf06f7f21d98dc7a9c1c782") --Dlc Windows Language Depot Russian AppID 4435510
+addappid(5092432, 1, "ddc54b4eee37a53bfbc5e30c3680fbe1d1ea49d93cf06f7f21d98dc7a9c1c782") --Dlc Windows Language Depot Russian Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092432, "5150789356777385068", 877979680)
-addappid(5092433, 1, "b380357ff0e72fae540b286fb4a830f0addf660f42756735dd8fed67118c1d48") --Dlc Windows Language Depot Polish AppID 4435510
+addappid(5092433, 1, "b380357ff0e72fae540b286fb4a830f0addf660f42756735dd8fed67118c1d48") --Dlc Windows Language Depot Polish Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092433, "5994354011124226453", 877451920)
-addappid(5092434, 1, "f3820e94786cd4b2c69e0269a0cabf3b98ccd6d618c0837175fa8a1d3f9c51a2") --Dlc Windows Language Depot Japanese AppID 4435510
+addappid(5092434, 1, "f3820e94786cd4b2c69e0269a0cabf3b98ccd6d618c0837175fa8a1d3f9c51a2") --Dlc Windows Language Depot Japanese Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092434, "8970538817969337836", 1484665344)
-addappid(5092435, 1, "fbcaf3bc60e48c1fcb409c229566deff2a31b9caebc16b1ee5c29a72ad235f6f") --Dlc Windows Language Depot Arabic AppID 4435510
+addappid(5092435, 1, "fbcaf3bc60e48c1fcb409c229566deff2a31b9caebc16b1ee5c29a72ad235f6f") --Dlc Windows Language Depot Arabic Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092435, "503566305727228949", 877829200)
-addappid(5092436, 1, "db23468507adfdc2616b01038edf1cd3ba944529d57ab76ce1700d21f392ac73") --Dlc Windows Language Depot Schinese AppID 4435510
+addappid(5092436, 1, "db23468507adfdc2616b01038edf1cd3ba944529d57ab76ce1700d21f392ac73") --Dlc Windows Language Depot Schinese Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092436, "3377941062119561741", 1524062736)
-addappid(5092437, 1, "6ae14a949882fe7b9e4fbc805f86d1a204216cf167ed8227d945f480a2423c5c") --Dlc Windows Language Depot Tchinese AppID 4435510
+addappid(5092437, 1, "6ae14a949882fe7b9e4fbc805f86d1a204216cf167ed8227d945f480a2423c5c") --Dlc Windows Language Depot Tchinese Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092437, "3559113733398386172", 877209248)
-addappid(5092438, 1, "744a37784ab477fadb5ec03f40ddba91506d35a2ba99e882d7a6815fd1ee7ba6") --Dlc Windows Language Depot Latam AppID 4435510
+addappid(5092438, 1, "744a37784ab477fadb5ec03f40ddba91506d35a2ba99e882d7a6815fd1ee7ba6") --Dlc Windows Language Depot Latam Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092438, "829569740862241421", 629545312)
-addappid(5092439, 1, "d7f35208013fa0e89c742f1d4442884ae91e1a17e1e5f8b4fa541aa2dcbed4b9") --Dlc Windows Language Depot Brazilian AppID 4435510
+addappid(5092439, 1, "d7f35208013fa0e89c742f1d4442884ae91e1a17e1e5f8b4fa541aa2dcbed4b9") --Dlc Windows Language Depot Brazilian Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092439, "8204957143752334847", 634280848)
-addappid(5092441, 1, "5b3f72796a9fc1bcd5c3342930cce8ae0b4cc77e77cbc9f627bc03653512c20e") --Dlc Windows Language Depot Koreana AppID 4435510
+addappid(5092441, 1, "5b3f72796a9fc1bcd5c3342930cce8ae0b4cc77e77cbc9f627bc03653512c20e") --Dlc Windows Language Depot Koreana Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092441, "2159397278634803316", 1450432928)
-addappid(5092442, 1, "213428365229caa82d71a4f5bff774beb9d5abf5896c080c12934c5ebc674fac") --Dlc Windows Language Depot Spanish AppID 4435510
+addappid(5092442, 1, "213428365229caa82d71a4f5bff774beb9d5abf5896c080c12934c5ebc674fac") --Dlc Windows Language Depot Spanish Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092442, "1413318863200275308", 652110192)
-addappid(5092443, 1, "acfd7e53414f092b287ad40a1bff0b05507fe6dd64701494eb09ef4abfa04370") --Dlc Windows Language Depot Italian AppID 4435510
+addappid(5092443, 1, "acfd7e53414f092b287ad40a1bff0b05507fe6dd64701494eb09ef4abfa04370") --Dlc Windows Language Depot Italian Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092443, "7259508201458517946", 656235520)
-addappid(5092444, 1, "2b09a1fef3c1d222d4452e3a23cac6969ea4c4f9fdddde5f2fe5771223e2358e") --Dlc Windows Language Depot German AppID 4435510
+addappid(5092444, 1, "2b09a1fef3c1d222d4452e3a23cac6969ea4c4f9fdddde5f2fe5771223e2358e") --Dlc Windows Language Depot German Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092444, "6457661555113877160", 616189872)
-addappid(5092445, 1, "febbbca9ce168e24913c4b9a20fbc780470c9a154b4f8289d23d76e155f1ecaf") --Dlc Windows Language Depot French AppID 4435510
+addappid(5092445, 1, "febbbca9ce168e24913c4b9a20fbc780470c9a154b4f8289d23d76e155f1ecaf") --Dlc Windows Language Depot French Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092445, "1462089075085450454", 608009504)
-addappid(5092446, 1, "cb3b8592c3e09b8a210be14827fe8d160886c39e75dc0bb66afcf8b1b4f95e9d") --Dlc Windows Language Depot English AppID 4435510
+addappid(5092446, 1, "cb3b8592c3e09b8a210be14827fe8d160886c39e75dc0bb66afcf8b1b4f95e9d") --Dlc Windows Language Depot English Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092446, "1602733198223990312", 469445168)
-addappid(5092447, 1, "d5e4f8237c2d2f09784798028807c6582e6912018ec6bcecaf77da3d2e171770") --Dlc Windows Depot AppID 4435510
+addappid(5092447, 1, "d5e4f8237c2d2f09784798028807c6582e6912018ec6bcecaf77da3d2e171770") --Dlc Windows Depot Call of Duty®: Modern Warfare® 4 - DMZ
 setManifestid(5092447, "436138604927991574", 46330495904)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
