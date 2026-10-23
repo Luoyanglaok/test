@@ -4,9 +4,9 @@
 addappid(3493540, 1, "58696d4ef09739f06bacfb74552a6670b4a77859b0ce02cfc64af8f88a3c17f1") --Mainappid Transport Fever 3
 addtoken(3493540, "12729446192953376118")
 addappid(3493541, 1, "16dc1b7b118cf59c6dd3a61cc28759250c87f755c7c6c3e187862a586799b941") --Main Windows Depot Transport Fever 3
-setManifestid(3493541, "3643068223832134378", 29552009328)
+setManifestid(3493541, "8259401903096086869", 29559024784)
 addappid(3493542, 1, "2ccd7e92c47a0da5141377e6adb2a243206b24e3de8272b887854b93ddb77128") --Main Windows Depot Transport Fever 3
-setManifestid(3493542, "716082893091247488", 49427776)
+setManifestid(3493542, "450836977371955370", 49475600)
 --Dlcname Transport Fever 3: Deluxe Upgrade
 addtoken(3979620, "4551533807665092458")
 addappid(3979620, 1, "75fe214544650fbe102852bf55d217db1b7e21de232aea73d1b595a4d90fa3b2") --Dlcname Transport Fever 3: Deluxe Upgrade
