@@ -3,7 +3,7 @@
 --Gamename Grind Survivors
 addappid(3816930, 1, "6b1226f0481240f25b26f70ccd163c54f23b1515a56ad07861a2a73fd27fa414") --Mainappid Grind Survivors
 addappid(3816931, 1, "4c48190b96fa1496187f24f2b468e425e8a6532f2b455e623c42f4d1575a48a9") --Main Windows Depot Grind Survivors
-setManifestid(3816931, "862203225657732048", 1947608976)
+setManifestid(3816931, "5454299439294032652", 1958767440)
 --Dlcname Grind Survivors: Supporter Pack
 addappid(4332160) --Dlcname Grind Survivors: Supporter Pack
 addappid(4332161, 1, "59168ce0fd1bc22c7c2c683a5140cfcf4d0bc2f0700c8353fe4849e9f9404019") --Dlc Windows Depot Grind Survivors: Supporter Pack
