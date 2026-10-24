@@ -1,3 +1,6 @@
-addappid(1374970)
-addappid(1374971,0,"4ff7e99f6b071b13fc4e48f60f418040c9793a3c4f405ad2aea4d264008a48e9")
-setManifestid(1374971,"5967904628948001269")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1374970.lua
+--Gamename Moonscars
+addappid(1374970) --Mainappid Moonscars
+addappid(1374971, 1, "4ff7e99f6b071b13fc4e48f60f418040c9793a3c4f405ad2aea4d264008a48e9") --Main Windows Depot Moonscars
+setManifestid(1374971, "5967904628948001269", 226129088)
