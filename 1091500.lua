@@ -3,7 +3,7 @@
 --Gamename Cyberpunk 2077
 addappid(1091500, 1, "cf941dce25dfe9090877d385fca0ded473ecc1e12a09e28698b5c8dd3c134598") --Mainappid Cyberpunk 2077
 addappid(1091501, 1, "fd4524cb30582752f15e4bf01254dbb7b890f58008101a40208cd78fb139d800") --Main Windows Depot Cyberpunk 2077
-setManifestid(1091501, "2461377369266892508", 63452679472)
+setManifestid(1091501, "3524634124112875626", 63452679472)
 addappid(1091502, 1, "90dd5a17a45ff0595a7ed6366d0fea078e8c362633ebbe6382c173d736063b72") --Main Windows Language Depot Polish Cyberpunk 2077
 setManifestid(1091502, "4172273210291337333", 4802044128)
 addappid(1091503, 1, "b2606cbfc79b86f848e75dbf59afeeae8a1d5c08523111dcdbeace51b69ec48c") --Main Windows Language Depot Russian Cyberpunk 2077
@@ -50,7 +50,7 @@ setManifestid(2060313, "5846901470730389121", 5052445712)
 addappid(2060314, 1, "ff813dcc60265582f65f61e4ab399689124c32d7147dc5add8ccc9cb3077310e") --Main Macos Depot Cyberpunk 2077
 setManifestid(2060314, "2945749324981887806", 55482000)
 addappid(2138330, 1, "0b2b89913e185ab0ac452b5af584c482d5a8c6f34b7b32ae2dda130deaab64bd") --Main Windows Depot Cyberpunk 2077
-setManifestid(2138330, "8416081049196797989", 14094110224)
+setManifestid(2138330, "5565496786254603194", 14094110288)
 addappid(2138331, 1, "2555f9afe152d9355bbc8153ed96c38750b8bbe66724062fde11810dbf132693") --Main Windows Language Depot German Cyberpunk 2077
 setManifestid(2138331, "9013642218150556392", 1962171152)
 addappid(2138332, 1, "4c64a4a0b1cd40244001e3d86e6fc19208ee6f1367cd117683860fcfe9e08dcb") --Main Windows Language Depot Spanish Cyberpunk 2077
@@ -73,7 +73,7 @@ addappid(2224070, 1, "13af5172058a27f8523f2caf0b4378c8dc58adf507ff3b8320ee6292ef
 setManifestid(2224070, "5469950064969719739", 1782087264)
 --Dlcname Cyberpunk 2077 REDmod
 addappid(2060310, 1, "45cf0829a4dae87f0f1b263c92df30079111d1dd697bb87d6830f21e04fdf8a0") --Dlcname Cyberpunk 2077 REDmod
-setManifestid(2060310, "7872927946552005569", 253916512)
+setManifestid(2060310, "4793018690565322422", 261008000)
 --Dlcname Cyberpunk 2077: Phantom Liberty
 addappid(2224071, 1, "317b5b3562f0a547d859f8203880c860e8d47727942c50486f9810b6bee43e93") --Dlc Macos Language Depot German Cyberpunk 2077: Phantom Liberty
 setManifestid(2224071, "6861319047757071084", 1962098144)
