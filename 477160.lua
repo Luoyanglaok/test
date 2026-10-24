@@ -11,11 +11,8 @@ setManifestid(477163, "129240740414445083", 616680464)
 addappid(477164, 1, "d05522bd5e3f6e7f6bc455253be55a9d3057b94b95da110d6365a246121a5fdc") --Main Windows Depot Human Fall Flat
 setManifestid(477164, "6577834523877167712", 336643824)
 addappid(477165, 1, "91b02c0aecb8688c5844032fe30518f25ac754a1b32ca68c91a6021623d06ebd") --Main Windows Depot Human Fall Flat
-setManifestid(477165, "7673690209049765361", 2902858640)
+setManifestid(477165, "5810222052106664341", 3328163536)
 addappid(477166, 1, "3efd94cbca4e47344be62115da0240c6b360356e1634b47f47dbbd82b4de329d") --Main Windows Depot Human Fall Flat
 setManifestid(477166, "2111907740247976469", 304)
 addappid(632870, 1, "292790c00ead9bdc3e2da82f59687f73b21c059eb0e98e3d6d55a9218b594ae9") --Main Windows Depot Human Fall Flat
 setManifestid(632870, "6110178810839816362", 59201904)
---Dlcname Human Fall Flat Official Soundtrack
-addappid(632871, 1, "bb0872c2ea6d9a04bbf262213c345fb98a4b40db0accda9a7587acb823bd6133") --Dlc Windows Depot Human Fall Flat Official Soundtrack
-setManifestid(632871, "6557631332683396479", 130318960)
