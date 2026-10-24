@@ -3,11 +3,8 @@
 --Gamename Dead by Daylight
 addappid(381210, 1, "f17be424bd1dc965706d5527f803a0c4ae2c7aae87449be6f5bab17b7ac3a20c") --Mainappid Dead by Daylight
 addappid(381211, 1, "66477a849ed619510d127ff3f05d4d37b38a04fd7074654337053dfe817798ca") --Main Windows Depot Dead by Daylight
-setManifestid(381211, "4869487477266310410", 63897956096)
+setManifestid(381211, "5778074610475775590", 65300001760)
 addappid(381213, 1, "525dbbc5d40bca2cd810f8cb48945f893aa16ca7c1ea90895e0d0c498f183ff5") --Main Windows Depot Dead by Daylight
-setManifestid(381213, "6590975724534196178", 78111024)
---Dlcname Dead by Daylight: Original Soundtrack
-addappid(492140) --Dlcname Dead by Daylight: Original Soundtrack
 --Dlcname Dead by Daylight: Digital Art Book
 addappid(492360) --Dlcname Dead by Daylight: Digital Art Book
 addappid(381212, 1, "d514d170477029b1fc73e157f9550e3591facfc4508a7568deaf4599fc3a54b4") --Dlc Windows Depot Dead by Daylight: Digital Art Book
@@ -87,23 +84,3 @@ addappid(2399750) --Dlcname Dead by Daylight - End Transmission Chapter
 addappid(2405130) --Dlcname Dead by Daylight x Attack on Titan: Armored Pack
 addappid(2405140) --Dlcname Dead by Daylight x Attack on Titan: War Hammer Pack
 addappid(2469400) --Dlcname Dead by Daylight - Nicolas Cage Chapter Pack
-addappid(2515990) --Dlcname Dead by Daylight - Alien Chapter Pack
-addappid(2526530) --Dlcname Dead by Daylight - Maddening Darkness Pack
-addappid(2526540) --Dlcname Dead by Daylight - Old Wounds Pack
-addappid(2526550) --Dlcname Dead by Daylight - Macabre Tales Pack
-addappid(2656010) --Dlcname Dead by Daylight - Chucky Chapter
-addappid(2661250) --Dlcname Dead by Daylight - Alan Wake Chapter
-addappid(2661270) --Dlcname Dead by Daylight - All Things Wicked Chapter
-addappid(2922730) --Dlcname Dead by Daylight - Endless Hunt Pack
-addappid(2958440) --Dlcname Dead by Daylight - Dungeons & Dragons
-addappid(3024580) --Dlcname Dead by Daylight - Tomb Raider Chapter
-addappid(3103150) --Dlcname Dead by Daylight - Castlevania Chapter
-addappid(3261720) --Dlcname Dead by Daylight - Doomed Course Chapter
-addappid(3448670) --Dlcname Dead by Daylight - Tokyo Ghoul
-addappid(3698790) --Dlcname Dead by Daylight - Steady Pulse
-addappid(3796620) --Dlcname Dead by Daylight: Five Nights at Freddy’s
-addappid(3884020) --Dlcname Dead by Daylight: The Walking Dead
-addappid(4019590) --Dlcname Dead by Daylight - Sinister Grace
-addappid(4318580) --Dlcname Dead by Daylight: Stranger Things Chapter 2
-addappid(4791830) --Dlcname Dead by Daylight: Jason
-addappid(5060920) --Dlcname Dead by Daylight: Chorus of Sin
