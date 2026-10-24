@@ -11,5 +11,3 @@ addappid(2428850) --Dlcname STAR OCEAN THE SECOND STORY R - Pangalactic Federati
 addappid(2428851) --Dlcname STAR OCEAN THE SECOND STORY R - Forest Knuckles
 addappid(2428852) --Dlcname STAR OCEAN THE SECOND STORY R - Set of recovery items
 addappid(2428853) --Dlcname STAR OCEAN THE SECOND STORY R - Sunrise Ring
---Missing Dlcs
---Dlcname STAR OCEAN THE SECOND STORY R ORIGINAL SOUNDTRACK
