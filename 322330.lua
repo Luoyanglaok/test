@@ -4,11 +4,11 @@
 addappid(322330, 1, "c947e0b06f2977593e083d4a0b02bac9de29ab99d49478d07dabef37265f2bf8") --Mainappid Don't Starve Together
 addtoken(322330, "4367778632350439069")
 addappid(322331, 1, "3ee94d4c47554fc580de37cdeb4bb41020ece2d5ab195d51d8b87f5e438e9f23") --Main Windows Depot Don't Starve Together
-setManifestid(322331, "3973478173815839980", 3088359216)
+setManifestid(322331, "9221935066025639861", 3170159312)
 addappid(322332, 1, "8f36286253d1b2e61f2e7bfec57510d6ec34da84a9d126dc4adf19f6cff117be") --Main Linux Depot Don't Starve Together
-setManifestid(322332, "1126886876009562746", 2976440064)
+setManifestid(322332, "2738069091854937997", 3056303696)
 addappid(322333, 1, "065e9fc3141e45c895786254045560d2af8860c513d0a6077fceaca5fda4c32f") --Main Macos Depot Don't Starve Together
-setManifestid(322333, "2491981771072149925", 2968946048)
+setManifestid(322333, "4636793205703205204", 3049873824)
 --Share Depots
 addappid(228982, 1, "fa2997f03c3576c41174f200596ab2246fd1e39c0911f9b869e92635ae5b0ff5") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228982, "6413394087650432851", 9650016)
