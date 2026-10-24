@@ -1,7 +1,6 @@
-addappid(1070260)
-addtoken(1070260,15659743433180896738)
-addappid(1070261,0,"84d0609153540e78f3a7291fd18cebe1ddcbe1ee7623cf4739e6ede2a70e64f5")
-setManifestid(1070261,"922156949959971140")
-addappid(1070263,0,"2b06a4fa07b0dced453d55e00b2c24709e61ee508513eeb8af3551391ea78305")
-setManifestid(1070263,"3031777726904534864")
-addappid(1070264)
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1070260.lua
+--Gamename AppID_1070260
+addappid(1070260, 1, "6f0622159a48869e2ddae4ec94ee3c9e8541f6888ba60accf010cab82e5fa582") --Mainappid AppID_1070260
+addtoken(1070260, "15659743433180896738")
+addappid(1070261, 1, "84d0609153540e78f3a7291fd18cebe1ddcbe1ee7623cf4739e6ede2a70e64f5") --Main Windows Depot AppID_1070260
