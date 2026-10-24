@@ -1,7 +1,12 @@
-addappid(1084020)
-addappid(1084021,0,"53cf5369fb7f8fcacfe7efc6a6a640c7eeaddaa4cbcc283666eab8fbb1e0bd95")
-setManifestid(1084021,"4970041023070759628")
-addappid(1084022,0,"763370776404b2a8d74f827a2c6d2d78c3c78f09f1c84716c6132cea41ec391b")
-setManifestid(1084022,"3616560167324209246")
-addappid(1084023,0,"cc1ec45db95ff8755bdce02c1ecc91357a849f489c8bc19660d0d960cd77bd0a")
-setManifestid(1084023,"2279619332951312023")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1084020.lua
+--Gamename TheoTown
+addappid(1084020, 1, "84a0f830d030d1d2dbfd1f80166b0b9642424c5b8dcf31a91957a786972602fb") --Mainappid TheoTown
+addappid(1084021, 1, "53cf5369fb7f8fcacfe7efc6a6a640c7eeaddaa4cbcc283666eab8fbb1e0bd95") --Main Windows Depot TheoTown
+setManifestid(1084021, "394371042082123545", 154054048)
+addappid(1084022, 1, "763370776404b2a8d74f827a2c6d2d78c3c78f09f1c84716c6132cea41ec391b") --Main Linux Depot TheoTown
+setManifestid(1084022, "634947221062990448", 164750656)
+addappid(1084023, 1, "cc1ec45db95ff8755bdce02c1ecc91357a849f489c8bc19660d0d960cd77bd0a") --Main Macos Depot TheoTown
+setManifestid(1084023, "449182480341027518", 160801216)
+addappid(1084024, 1, "31b0045a0a7ebd87517f244e86e1e6943093eae879280ca14f163184a5c904ad") --Main Windows Depot TheoTown
+setManifestid(1084024, "924293661586359901", 159872624)
