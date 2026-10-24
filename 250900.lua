@@ -9,11 +9,6 @@ setManifestid(250903, "367036646469636831", 326571712)
 addappid(250904, 1, "210036fb298fd6b8c2d227c9a803614edb0a6e2d9949968b46321c25d298155d") --Main Macos Depot The Binding of Isaac: Rebirth
 setManifestid(250904, "1942665726573884808", 322282208)
 addappid(1426300, 1, "996de252a588d3f62ddd98a03e5880bb322e3b00b09b3f3997cb087908952a85") --Main Windows Depot The Binding of Isaac: Rebirth
---Dlcname The Binding of Isaac: Rebirth - Soundtrack
-addappid(322660, 1, "cc56b394152b0d78bb4d6e147716a463b70ae573e8cf6f2ef28ebe359f97860d") --Dlcname The Binding of Isaac: Rebirth - Soundtrack
-setManifestid(322660, "5499930042188336604", 349532032)
-addappid(322661, 1, "6c8f5e0423cd4e9f34a9ff9b9f4bc95464e3fd93f03bb699be87ec06402cefc0") --Dlc Windows Depot The Binding of Isaac: Rebirth - Soundtrack
-setManifestid(322661, "4078660603895799229", 186090208)
 --Dlcname The Binding of Isaac: Afterbirth
 addappid(401920) --Dlcname The Binding of Isaac: Afterbirth
 addappid(250905, 1, "42e1eb359f37040d6a198d7b0aef616b100b9ac5405667f89c15aeaf217a47ed") --Dlc Windows Depot The Binding of Isaac: Afterbirth
