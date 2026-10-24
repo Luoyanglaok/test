@@ -3,7 +3,7 @@
 --Gamename Gears of War: E-Day
 addappid(3010850, 1, "f05d8ccc4c0840cb8b71e6e8cf2f958b1d6e51834d729e5d0bc60e0ca4e7cc73") --Mainappid Gears of War: E-Day
 addappid(3010851, 1, "65989b880d683f38c64d6757a5d1d3d59032ecf11ed695e993a7bf85b3c5a8b3") --Main Windows Depot Gears of War: E-Day
-setManifestid(3010851, "2709531710310353575", 110397340432)
+setManifestid(3010851, "8286941112327671353", 110402463792)
 addappid(3010852, 1, "8c99068e14cf054c7c983711f73ca73fcefd995b0add04d25face3431b782599") --Main Windows Language Depot English Gears of War: E-Day
 setManifestid(3010852, "3250972495842122498", 1194429472)
 addappid(3010853, 1, "c546deaa1b2237658133e1f6b4ea3d2b85ccd8a445c4b80576f5cb49a4506b2c") --Main Windows Language Depot French Gears of War: E-Day
