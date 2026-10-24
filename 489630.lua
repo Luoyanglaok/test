@@ -10,8 +10,6 @@ addappid(489633, 1, "6bfeeddc0c7c9ab4c84e53df522ca4caf4b1613a43e564d36b986ec55f5
 setManifestid(489633, "2520582596086416009", 2223100768)
 addappid(870530, 1, "4e12760f62e2227d48295b0f3b0422870e19f58cb4fb97f5a845b2b36f4aa30a") --Main Windows Depot Warhammer 40,000: Gladius - Relics of War
 setManifestid(870530, "8903843273179332056", 1290081888)
---Dlcname Warhammer 40,000: Gladius - Relics of War - Soundtrack
-addtoken(870530, "5016130886635041473")
 --Dlcname AppID 870540
 addtoken(870540, "3316042410707366797")
 addappid(870540, 1, "6e0cd7069ff1bb92e841c6045af49df24f0012760cbfa2b36a6baea8e8648e33") --Dlcname AppID 870540
