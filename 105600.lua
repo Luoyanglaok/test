@@ -8,3 +8,4 @@ addappid(105602, 1, "15da89575c5f9ae52e76cacec4f912f9fb3b4f1c152f88b03a14b9acf1c
 setManifestid(105602, "4206021387845829879", 607861920)
 addappid(105603, 1, "a735ff57e669edad75db38c477a9e732f87fb05c824da7cd842712e07e9e51d9") --Main Macos Depot Terraria
 setManifestid(105603, "7648670563869725321", 611131008)
+addappid(4922500) --Dlcname Terraria - Collector's Edition
