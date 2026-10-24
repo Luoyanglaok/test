@@ -1,3 +1,3 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 2408730.lua
-addappid(2408730)  -- [服务器] 密钥不可用（同 depot 短期两个不同值（上一次 baaea324a2642b86… / 本次 65049f580a2a…）⇒ 该来源判不可信；残件形态（flag=0 + 无 setManifestid + 无 --Gamename + 171 B））
+addappid(2408730)  -- [服务器] 密钥不可用（同 depot 短期两个不同值（上一次 baaea324a2642b86… / 本次 0dcab6b6a09d…）⇒ 该来源判不可信；残件形态（flag=0 + 无 setManifestid + 无 --Gamename + 171 B））
