@@ -1,7 +1,6 @@
-addappid(1109570)
-addappid(1109571,0,"80164c3cba3c8e54a398cc2797ce86e94fddc318ae615cd4a376be0fedfae9bc")
-setManifestid(1109571,"4662967284228667036")
-addappid(1109572,0,"6634723f7faa6d9c38ee231fc0bb01805be928ef32d2d472478170b903ae78bd")
-setManifestid(1109572,"5351250298021052759")
-addappid(1109573,0,"3d78421813021de678adffe80cbc3c0d5b9a7b5bf8462f64ca4a2dd9da25c101")
-setManifestid(1109573,"8133950152953150701")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1109570.lua
+--Gamename 《文字遊戲》
+addappid(1109570, 1, "434a9c8a57340559362485355b2e52a7a957afca2ea5bc3599f15d2f8e9721d3") --Mainappid 《文字遊戲》
+addtoken(1109570, "16537240222139241145")
+addappid(1109571, 1, "80164c3cba3c8e54a398cc2797ce86e94fddc318ae615cd4a376be0fedfae9bc") --Main Windows Depot 《文字遊戲》
