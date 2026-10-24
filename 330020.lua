@@ -17,9 +17,6 @@ setManifestid(330026, "6822150715540450746", 0)
 addappid(330027, 1, "7e53bfaacab4472e6918491409733d7490edc7f25e0797f374e498118da1e0c5") --Dlc Linux Depot Children of Morta: Paws and Claws
 setManifestid(330027, "2686645784613825353", 0)
 setManifestid(1317160, "9017478250715199651", 0)
---Dlcname Children of Morta: Family Fireside Fables
-addappid(1556830, 1, "5b1335f05514071257d0d502e96929535068d10c72824ffe3698e01cc05ed218") --Dlcname Children of Morta: Family Fireside Fables
-setManifestid(1556830, "1525705846671816247", 1873673696)
 --Share Depots
 addappid(228987, 1, "cf0622b6dec67606fdc42e7afa5ede78cb33e38dfab82670c5ec7e1404e4984e") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228987, "4302102680580581867", 22936736)
