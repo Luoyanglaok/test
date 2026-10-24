@@ -1,9 +1,6 @@
-addappid(736190)
-addtoken(736190,"9153716071410537043")
-setManifestid(228989,"3514306556860204959")
-setManifestid(228990,"1829726630299308803")
-setManifestid(229007,"4477590687906973371")
-addappid(736191,0,"cc96b6ac27f49e3e8e11b5e09bfeb0c7771b37e65e82d2056120641af6b74009")
-setManifestid(736191,"1218131050285146622")
-addappid(736192,0,"53a83f78b532eea9d397ad38a048ec66c6b01992370bc8ab03f73b27c6a42da3")
-setManifestid(736192,"6134643964244353216")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 736190.lua
+--Gamename Chinese Parents
+addappid(736190, 1, "3cf7801f1e223b474f673391f2eab7a19cad9307aa63d36e399c1ee60cccf194") --Mainappid Chinese Parents
+addtoken(736190, "9153716071410537043")
+addappid(736191, 1, "cc96b6ac27f49e3e8e11b5e09bfeb0c7771b37e65e82d2056120641af6b74009") --Main Windows Depot Chinese Parents
