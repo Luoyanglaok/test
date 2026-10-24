@@ -26,10 +26,6 @@ addappid(446372, 1, "1680d4f2cb8d789d4beecb895d919abdb2d35da78fefc14020fd769a13c
 setManifestid(446372, "7504828670365651918", 5846639824)
 addappid(446373, 1, "231d309b1ae8c6fe3f585e4d609ff8b28b31a57d57a6456d9ee3510616e1df6e") --Main Windows Depot DOOM
 setManifestid(446373, "5740097624449687519", 25142934016)
---Dlcname DOOM Soundtrack
-addappid(1195480) --Dlcname DOOM Soundtrack
-addappid(1195481, 1, "4fb24da12d5364ad186add0a5d35d9359c625f6003f4837a917092468c698438") --Dlc Windows Depot DOOM Soundtrack
-setManifestid(1195481, "6794339790297895635", 257421504)
 --Share Depots
 addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228986, "8782296191957114623", 23045488)
