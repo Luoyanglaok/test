@@ -16,7 +16,7 @@ setManifestid(228989, "5753583882400741046", 25108528)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(3893181, 1, "7f675c2fe8e758d16f3cf8d3b493956afaee78e96d78cdb668a5edb8ac1580f6") --Share Windows Depot EA Javelin Anticheat Installer
-setManifestid(3893181, "4878189275181659469", 317406032)
+setManifestid(3893181, "2188757989082649823", 328909824)
 addappid(3335200) --Dlcname F1® 25 Iconic Bumper Pack
 addappid(3335210) --Dlcname F1® 25 Iconic Content Pack
 addappid(3335220) --Dlcname F1® 25: F1® The Movie - Chapter Scenarios
