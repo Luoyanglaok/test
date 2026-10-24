@@ -76,14 +76,6 @@ setManifestid(35102, "2605655751645253389", 0)
 --Dlcname Just Cause 2: Ricos Signature Gun and Monster Truck Pack DLC
 addappid(35103, 1, "c0b11848f18f441348c49ecd3764804b70e018b3212f6ae0a5bae9ebbffc83bb") --Dlcname Just Cause 2: Ricos Signature Gun and Monster Truck Pack DLC
 setManifestid(35103, "1055634404789415346", 0)
---Dlcname Just Cause 2: Multiplayer Mod
-addappid(259080) --Dlcname Just Cause 2: Multiplayer Mod
-addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") --Dlc Windows Depot Just Cause 2: Multiplayer Mod
-setManifestid(228984, "2547553897526095397", 13436144)
-addappid(228985, 1, "21a2f639584d9bd462c5c4b3e10f881cba8a17ae674c830c4f083551cd356e9c") --Dlc Windows Depot Just Cause 2: Multiplayer Mod
-setManifestid(228985, "3966345552745568756", 13244128)
-addappid(259081, 1, "2291d5589d16735839216456b9f70bf6fc47a843051e21e663b8533c50a86530") --Dlc Windows Depot Just Cause 2: Multiplayer Mod
-setManifestid(259081, "2816355392406302341", 7626240)
 --Share Depots
 addappid(228981, 1, "9afdbd47677424be993f6b516a15ebdb5281aa318114631d14b2b23999ae97ac") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228981, "7613356809904826842", 5804736)
