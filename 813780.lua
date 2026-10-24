@@ -185,6 +185,9 @@ addappid(3793548, 1, "6d20eacb4434f74c9a94a74d61d03d55b7d59411585b6fe4034d8a6a66
 setManifestid(3793548, "6864594116568127233", 1707594160)
 addappid(3793549, 1, "9037cb85b8de8b53c6e02a5ec873a9d4d02acde913f5a7cb7c8376c79a57d948") --Dlc Windows Language Depot Tchinese Age of Empires II: DE - Chronicles: Alexander the Great
 setManifestid(3793549, "3477161959721998190", 1707594160)
+--Dlcname Age of Empires II: DE - The Viking Sagas
+addappid(4376980, 1, "b5ac62a0cb459a2cf25db1fad338dbdeb75edc3bf2b81d31fa7b60f1a8f8f0c7") --Dlcname Age of Empires II: DE - The Viking Sagas
+setManifestid(4376980, "3815812854153982272", 436632560)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
@@ -196,5 +199,3 @@ addappid(1146440) --Dlcname AppID 1146440
 addappid(2672800) --Dlcname Age of Empires II: Definitive Edition – La Hire’s Dry Humor Animated Icons
 addappid(2672810) --Dlcname Age of Empires II: Definitive Edition – Joan’s Marvelous Moving Masterpieces Animated Icons
 addappid(2672820) --Dlcname Age of Empires II: Definitive Edition – Barbarossa’s Barrel of Pickled Goods Animated Icons
---Missing Dlcs
---Dlcname Age of Empires II: DE - The Viking Sagas
