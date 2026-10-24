@@ -1,3 +1,7 @@
-addappid(1920480)
-addappid(1920481,0,"4dea88c426d346744fcba6cbeb2b911ff4fc46c41cb1fd7ef7e6c1867b4449ea")
-setManifestid(1920481,"3543865670558870267")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1920480.lua
+--Gamename River City Girls 2
+addappid(1920480) --Mainappid River City Girls 2
+addappid(1920481, 1, "4dea88c426d346744fcba6cbeb2b911ff4fc46c41cb1fd7ef7e6c1867b4449ea") --Main Windows Depot River City Girls 2
+setManifestid(1920481, "4789813497833672975", 4326733776)
+addappid(2787870) --Dlcname River City Girls 2: Double Dragon DLC
