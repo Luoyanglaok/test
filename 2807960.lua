@@ -81,7 +81,7 @@ addappid(3574360, 1, "b1cc78c299f4f536d0415812e29b1d2169a03e161de690432253c2948d
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
 addappid(3893181, 1, "7f675c2fe8e758d16f3cf8d3b493956afaee78e96d78cdb668a5edb8ac1580f6") --Share Windows Depot EA Javelin Anticheat Installer
-setManifestid(3893181, "5989814028459339160", 324778064)
+setManifestid(3893181, "2188757989082649823", 328909824)
 addappid(3028320) --Dlcname Battlefield™ 6 Marker
 addappid(3028330) --Dlcname Battlefield™ REDSEC
 addappid(3574340) --Dlcname Battlefield™ 6 - Phantom Content
