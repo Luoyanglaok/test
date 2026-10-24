@@ -1,7 +1,10 @@
-addappid(753420)
-addappid(753421,0,"a3d04de1c70f4a9559bcbeb3fc09a699bd4777b925b10407e9e66c3c9f6a967c")
-setManifestid(753421,"2290264761661892520")
-addappid(753422,0,"e8d3859addb15a816b80b52abc1dc55fafe68aad0b803e40f3b316303c0d9ca9")
-setManifestid(753422,"8093961740532959377")
-addappid(753424,0,"748058b15575371c17a385fffe907be3db514a9059d7187bf6967b0e65deb350")
-setManifestid(753424,"3361341172158172377")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 753420.lua
+--Gamename Dungreed
+addappid(753420, 1, "4dc83afd4d1be8fbaa16fd00fbc02f44a3bd9e79bba86aeac460f42966c34cff") --Mainappid Dungreed
+addappid(753421, 1, "a3d04de1c70f4a9559bcbeb3fc09a699bd4777b925b10407e9e66c3c9f6a967c") --Main Windows Depot Dungreed
+setManifestid(753421, "2290264761661892520", 185399568)
+addappid(753422, 1, "e8d3859addb15a816b80b52abc1dc55fafe68aad0b803e40f3b316303c0d9ca9") --Main Macos Depot Dungreed
+setManifestid(753422, "8093961740532959377", 193314560)
+addappid(753424, 1, "748058b15575371c17a385fffe907be3db514a9059d7187bf6967b0e65deb350") --Main Linux Depot Dungreed
+setManifestid(753424, "3361341172158172377", 190315200)
