@@ -14,5 +14,5 @@ setManifestid(228990, "1829726630299308803", 100658080)
 addappid(229003, 1, "8e0ded6e1d9481eb286217322054ce7b0b8243daae770f31a30667752b1a3c63") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(229003, "8740933542064151477", 42914928)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
-setManifestid(1716751, "6659642105086821873", 264636800)
+setManifestid(1716751, "8458906404271031972", 264110992)
 addappid(272700) --Dlcname Assassin’s Creed Liberation HD - Bonus Pack
