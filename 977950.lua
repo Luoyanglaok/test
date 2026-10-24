@@ -23,11 +23,7 @@ setManifestid(1977574, "2776041074347108297", 127459008)
 addappid(2016421, 1, "70cfd3ffc2b8a4870e164b0166870983973e8eda35d2b84a49d718fadb4bf982") --Main Windows Depot A Dance of Fire and Ice
 setManifestid(2016421, "9126531929037548092", 69644544)
 addappid(2715611, 1, "42f4bbb800d0eb8cd934988ca3178cbf4bc744081d6315553bcc663ead6afb93") --Main Windows Depot A Dance of Fire and Ice
-setManifestid(2715611, "2223140659405808113", 152967056)
 addappid(2715612, 1, "98cf950ac365cf9c0ef0dc7ea2f17257157f65789f3bbd730e30446d3717772a") --Main Windows Depot A Dance of Fire and Ice
-setManifestid(2715612, "992032378083081189", 549939200)
---Dlcname A Dance of Fire and Ice OST
-addappid(1027880, 1, "43f72b86d08961d480f11173d52519e09d439789a47469235c3bea5f342d6240") --Dlcname A Dance of Fire and Ice OST
 --Dlcname A Dance of Fire and Ice - Neo Cosmos
 addappid(1977570) --Dlcname A Dance of Fire and Ice - Neo Cosmos
 --Dlcname A Dance of Fire and Ice - Neo Cosmos OST
