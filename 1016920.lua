@@ -11,12 +11,6 @@ setManifestid(1016923, "7974558925845671853", 388053936)
 --Dlcname Unrailed! - Supporter Pack
 addappid(1150940, 1, "d7ead7d64b81dfa09d9e5dfab17ff7688f3cb0d9e5a2d0d7ec4ee733f44fd86b") --Dlcname Unrailed! - Supporter Pack
 setManifestid(1150940, "1819341891265115519", 53792576)
---Dlcname Unrailed! - Soundtrack: Underwater EP
-addappid(2352250) --Dlcname Unrailed! - Soundtrack: Underwater EP
-addappid(2352251, 1, "2bae20726d09958edf89ac11d8ad0963c65f0f1970bcd1a740782b0e3363ba35") --Dlc Windows Depot Unrailed! - Soundtrack: Underwater EP
-setManifestid(2352251, "6747011711965273570", 17296560)
-addappid(2352252, 1, "80b09078d653f550ccd39b2e0ca0d9713ae284a1738b43dbd184254e5f631ce4") --Dlc Windows Depot Unrailed! - Soundtrack: Underwater EP
-setManifestid(2352252, "2450305453708342668", 79165952)
 --Share Depots
 addappid(228985, 1, "21a2f639584d9bd462c5c4b3e10f881cba8a17ae674c830c4f083551cd356e9c") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228985, "3966345552745568756", 13244128)
