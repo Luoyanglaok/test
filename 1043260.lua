@@ -1,7 +1,13 @@
-addappid(1043260)
-addappid(1043261,0,"8c865483c01f4bb7399ff967ccfc9a7e110d62a197a7fd9ecf4792f5d9c3fe66")
-setManifestid(1043261,"4484212706260634703")
-addappid(1043262,0,"c8f22281632780ee9ecb3c7d19fdc66ff60f7810d61253bfeeb49fd38412aaf8")
-setManifestid(1043262,"926835873374832994")
-addappid(1043263,0,"0e8605c7059bd533b9d6fdfa7ca53fbe33c13fd3c09aa5caf609ddce82d74a41")
-setManifestid(1043263,"8368103423483790780")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1043260.lua
+--Gamename Gladiator Guild Manager
+addappid(1043260) --Mainappid Gladiator Guild Manager
+addappid(1043261, 1, "8c865483c01f4bb7399ff967ccfc9a7e110d62a197a7fd9ecf4792f5d9c3fe66") --Main Windows Depot Gladiator Guild Manager
+setManifestid(1043261, "923370123673921125", 732528432)
+addappid(1043262, 1, "c8f22281632780ee9ecb3c7d19fdc66ff60f7810d61253bfeeb49fd38412aaf8") --Main Macos Depot Gladiator Guild Manager
+setManifestid(1043262, "642188693357707205", 733769936)
+addappid(1043263, 1, "0e8605c7059bd533b9d6fdfa7ca53fbe33c13fd3c09aa5caf609ddce82d74a41") --Main Windows Depot Gladiator Guild Manager
+setManifestid(1043263, "8368103423483790780", 646892016)
+--Dlcname Gladiator Guild Manager – The Price of Glory (Comic Book)
+addappid(3729520, 1, "009effc5ecee6e99fe2673f499a3fa7005096d469b82d6e19be8d46259e457e3") --Dlcname Gladiator Guild Manager – The Price of Glory (Comic Book)
+setManifestid(3729520, "3461928666645399968", 464974624)
