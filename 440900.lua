@@ -3,9 +3,9 @@
 --Gamename Conan Exiles Enhanced
 addappid(440900, 1, "aab1dec96efdfe1f4aa13e2f009151c55e5f45df529f0b52a05d541e9d48bc64") --Mainappid Conan Exiles Enhanced
 addappid(440901, 1, "57ff2e2d0f7c2740c0c36426359060ef90b3367394dae24b861efff0752010fd") --Main Windows Depot Conan Exiles Enhanced
-setManifestid(440901, "3271588147291787679", 51618374800)
+setManifestid(440901, "2054081959462269381", 53066003472)
 addappid(440902, 1, "c4039510426aa98899efbe92e3777309401d95e2b341f6605db10afee7e2f7a9") --Main Windows Depot Conan Exiles Enhanced
-setManifestid(440902, "8374080680790355237", 116542976)
+setManifestid(440902, "5273949083598308295", 124593200)
 addappid(440903, 1, "55bc314377497f1dc799ba2accf9643afc380ad197155bca6dfb5326e8760270") --Main Windows Depot Conan Exiles Enhanced
 setManifestid(440903, "4117553855113091513", 98276992)
 --Dlcname Conan Exiles Enhanced - Barbarian Edition
