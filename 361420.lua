@@ -3,7 +3,7 @@
 --Gamename ASTRONEER
 addappid(361420, 1, "42b70c4530261e89bf4e49edb02f7f08fad27c78a425e15ea124dcf8543e0e1a") --Mainappid ASTRONEER
 addappid(361422, 1, "471756d013ea0594ce2fe60fa33915663d90cf64b086b5b992b85f5fc73d5283") --Main Windows Language Depot English ASTRONEER
-setManifestid(361422, "8462295748066213775", 3025716416)
+setManifestid(361422, "3434660958246006468", 3025545280)
 --Share Depots
 addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228986, "8782296191957114623", 23045488)
