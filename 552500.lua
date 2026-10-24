@@ -3,13 +3,13 @@
 --Gamename Warhammer: Vermintide 2
 addappid(552500, 1, "1826b2a614f6f7cc91260278470651bbf674e69c2cb9a45349d387b89698d61d") --Mainappid Warhammer: Vermintide 2
 addappid(552501, 1, "a7a75811b296249cb955e09881a66f2d253d083995ab0a749c6448e5ee6beee2") --Main Windows Depot Warhammer: Vermintide 2
-setManifestid(552501, "2514070045912892045", 42680014144)
+setManifestid(552501, "994157340161601537", 42684283680)
 addappid(552502, 1, "dda8511217a15f192cf48148ee19fc6176fd0d432342131bcb39a6187d16bc22") --Main Windows Depot Warhammer: Vermintide 2
 setManifestid(552502, "4642656104001527764", 62529040)
 addappid(552503, 1, "dedd3fd14201a662940967a122b5f016d671e484a6b5e916669062f82007426a") --Main Windows Depot Warhammer: Vermintide 2
-setManifestid(552503, "386497584549338894", 71492896)
+setManifestid(552503, "6121827978868341040", 71493152)
 addappid(552504, 1, "075599f7dea5ccb70915b8a84c44bad6a75be4a75df3675ebb10af2436ddf2a3") --Main Windows Depot Warhammer: Vermintide 2
-setManifestid(552504, "6203603397448415466", 82659696)
+setManifestid(552504, "8152490530366365867", 82659696)
 addappid(552505, 1, "247a1e0fb3fb2eda8ea6bf24db6b942b20c55c17077e34c6dbd68c5f368ae2d1") --Main Windows Depot Warhammer: Vermintide 2
 --Dlcname Warhammer: Vermintide 2 - Collector's Edition
 addappid(737040, 1, "e0bb967ef64ac01918a6d98f7a1a7967925a7c34455bc35fe9c7e2ef0e9b1840") --Dlcname Warhammer: Vermintide 2 - Collector's Edition
