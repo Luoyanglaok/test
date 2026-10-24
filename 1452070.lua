@@ -1,3 +1,6 @@
-addappid(1452070)
-addappid(1452071,0,"b214809429f4ca1ed0aca90ea4a06b998266b1d557277ed3b72a0e57856df7cb")
-setManifestid(1452071,"8270267567952935358")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1452070.lua
+--Gamename LONE RUIN
+addappid(1452070) --Mainappid LONE RUIN
+addappid(1452071, 1, "b214809429f4ca1ed0aca90ea4a06b998266b1d557277ed3b72a0e57856df7cb") --Main Windows Depot LONE RUIN
+setManifestid(1452071, "8270267567952935358", 269302912)
