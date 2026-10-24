@@ -50,9 +50,9 @@ setManifestid(4160764, "7785508732638708044", 1501181200)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
 addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") --Share Windows Depot EA APP Installer
-setManifestid(3340991, "6121112214567893698", 252692656)
+setManifestid(3340991, "8430176064263014822", 253144032)
 addappid(3893181, 1, "7f675c2fe8e758d16f3cf8d3b493956afaee78e96d78cdb668a5edb8ac1580f6") --Share Windows Depot EA Javelin Anticheat Installer
-setManifestid(3893181, "5989814028459339160", 324778064)
+setManifestid(3893181, "2188757989082649823", 328909824)
 addappid(4080260) --Dlcname EA SPORTS FC™ 27
 addappid(4314910) --Dlcname EA SPORTS FC™ 27 - FC Points
 addappid(4458650) --Dlcname EA SPORTS FC™ 27
@@ -63,77 +63,3 @@ addappid(4458700) --Dlcname EA SPORTS FC 27 - Press Offer Key
 addappid(4574040) --Dlcname EA SPORTS FC™ 27 Ultimate Plus Edition content
 addappid(4636910) --Dlcname EA SPORTS FC™ 27 Ultimate Edition content
 addappid(4917970) --Dlcname EA SPORTS FC™ 27
--- 4080220's Lua and Manifest Created by Hubcap Manifest
--- EA SPORTS FC™ 27
--- Created: October 13, 2026 at 13:43:19 EDT
--- Website: https://hubcapmanifest.com/
--- Build: 25726320 (public branch)
--- Build Date: October 05, 2026 at 07:51:33 EDT (1791201093)
--- Total Depots: 25
--- Total DLCs: 10
--- Shared Depots: 3
--- MAIN APPLICATION
-addappid(4080220) -- EA SPORTS FC™ 27
--- MAIN APP DEPOTS
-addappid(4080221, 1, "7049f0ef11b8ebe50c06c4543fe973208ba01b2d8da3069e108627fbf352cce4") -- Depot 4080221
-setManifestid(4080221, "523811321072771633", 64601577648)
-addappid(4080224, 1, "fa1acba06d8e53e502007d40cce2f465d0f11e333e3be79dbe670bf7569c133b") -- Depot 4080224
-setManifestid(4080224, "6935538606618884703", 1600780880)
-addappid(4080225, 1, "6dd81776a48dc671a16191048c046607a79ab4013dadaf3112678d973e3b59c3") -- Depot 4080225
-setManifestid(4080225, "2974749139645626261", 182497)
-addappid(4080226, 1, "773b9f7b9f5a017021c1210016fa5712f25b1034f6ea32ac5097cc071308c13e") -- Depot 4080226
-setManifestid(4080226, "7424789772875800789", 1212232543)
-addappid(4080227, 1, "0821c95d0360dfcdc552c2de7118b4fed735bc21f333c678cb09f78bd5bdc591") -- Depot 4080227
-setManifestid(4080227, "549323422619631814", 1550722062)
-addappid(4080228, 1, "0668b1ca3b4ae8b3c1e8ffbf98f2113b24c72450a400dcb022f96730a276b774") -- Depot 4080228
-setManifestid(4080228, "4769040407732196163", 1413307172)
-addappid(4080229, 1, "847343c0863a7cb9671b65ab73c5a1189b40336f6f730dc4fd59cb5cb80a6aee") -- Depot 4080229
-setManifestid(4080229, "3355053743759821257", 1672152336)
-addappid(4080261, 1, "82236ba461d7223a5639914e8e3218f4bed8dffa99eaa6e1126eac8302c7d6d8") -- Depot 4080261
-setManifestid(4080261, "7312634901625007384", 1411060356)
-addappid(4080262, 1, "7623a491ada9aa3c66fb115e6806b1d18e76952ce5ab3e23b25632eb2f214254") -- Depot 4080262
-setManifestid(4080262, "9209750534619487523", 197517)
-addappid(4080263, 1, "e83e3fe2b272babfc141b8d01d702aa7e07021004552a7fd0a044ba0fd6e3076") -- Depot 4080263
-setManifestid(4080263, "5516203436059863624", 2833764)
-addappid(4080264, 1, "57c6089562785df9880fa8af499fa64e0400798cc753e8e3aa128bcdab12a96c") -- Depot 4080264
-setManifestid(4080264, "5568172928546193122", 1755417886)
-addappid(4080265, 1, "3fb5f73a06b7503c3bd74958ce1321884230ed85b835658e95d9b855cf96d2c4") -- Depot 4080265
-setManifestid(4080265, "8871955891749370634", 209172)
-addappid(4080266, 1, "454be933df9a0720926f2edd97d069e879460f5545abfb62169a1924490ba7d5") -- Depot 4080266
-setManifestid(4080266, "1405895002020227783", 1715079185)
-addappid(4080267, 1, "04489429055546441092e4770120b9510acd8af3da0cb628b288c6786479ff14") -- Depot 4080267
-setManifestid(4080267, "1971236155491574735", 214018)
-addappid(4080268, 1, "88a78c4c2533d41ae630cec04f300ddd036446a76610582f07fce03e387b6f28") -- Depot 4080268
-setManifestid(4080268, "7186434725297983419", 1750770164)
-addappid(4080269, 1, "6345670be2dc65acf2de2d327577645a049a3c31928729be7c84ec1a7f6ee741") -- Depot 4080269
-setManifestid(4080269, "5807462665127612842", 214277)
-addappid(4080223, 1, "0573bfe3d4f8b5d2734b56489765324c3df348252909d8bd0687e15ce907a45b") -- Depot 4080223
-setManifestid(4080223, "8643744216239317674", 219303)
-addappid(4160760, 1, "15e8d4fc8ce2f557f097de8b931b420de5441b9b30d9f57548d36790cbf92a0c") -- Depot 4160760
-setManifestid(4160760, "2145839457058414900", 245954)
-addappid(4160761, 1, "34ea8a902031313afc19fc07112d87f7ab7a5f61d1519f94788e2684ad0f4d70") -- Depot 4160761
-setManifestid(4160761, "4690530753422438739", 1479168007)
-addappid(4160762, 1, "74e0165849379dc39f62c32f14f581cde89df83128e7e8b1f884a5047554d38e") -- Depot 4160762
-setManifestid(4160762, "4101515690018819013", 1902729917)
-addappid(4160763, 1, "056ab5df670e8a6d546b48cf2f30c6fda08e7c7f78f9a267425bb3c50e2bb2ad") -- Depot 4160763
-setManifestid(4160763, "1023400577208224773", 1871893817)
-addappid(4160764, 1, "0631805b76b7d3e0e6a4be26e79a01b9810087c6cd3aea02f77d7e969c7a8c1a") -- Depot 4160764
-setManifestid(4160764, "7785508732638708044", 1642486739)
--- SHARED DEPOTS (from other apps)
-addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
-setManifestid(228989, "5753583882400741046", 25674515)
-addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") -- Depot 3340991 (Shared from App 3340990)
-setManifestid(3340991, "6121112214567893698", 253002959)
-addappid(3893181, 1, "7f675c2fe8e758d16f3cf8d3b493956afaee78e96d78cdb668a5edb8ac1580f6") -- Depot 3893181 (Shared from App 3893180)
-setManifestid(3893181, "5989814028459339160", 351890657)
--- DLCS WITHOUT DEDICATED DEPOTS
-addappid(4080260) --Dlcname EA SPORTS FC 27 --NoDepot
-addappid(4314910) --Dlcname EA SPORTS FC 27 - FC Points --NoDepot
-addappid(4458650) --Dlcname EA SPORTS FC 27 --NoDepot
-addappid(4458660) --Dlcname EA SPORTS FC 27 Standard Edition Pre-Purchase content --NoDepot
-addappid(4458680) --Dlcname EA SPORTS FC 27 Ultimate Edition Pre-Purchase content --NoDepot
-addappid(4458690) --Dlcname EA SPORTS FC 27 Ultimate Edition Pre-Purchase content --NoDepot
-addappid(4458700) --Dlcname EA SPORTS FC 27 - Press Offer Key --NoDepot
-addappid(4574040) --Dlcname EA SPORTS FC 27 Ultimate Plus Edition content --NoDepot
-addappid(4636910) --Dlcname EA SPORTS FC 27 Ultimate Edition content --NoDepot
-addappid(4917970) --Dlcname EA SPORTS FC 27 --NoDepot
