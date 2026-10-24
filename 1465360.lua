@@ -3,7 +3,7 @@
 --Gamename SnowRunner
 addappid(1465360, 1, "73f8f030255f23904e82de2afed639196197db79e1dc6e22d0d7e8eeb220fbd3") --Mainappid SnowRunner
 addappid(1465361, 1, "0dd93272d1d47d5943b93081730b61e39d20a49e42873ca743dcd30322161fb0") --Main Windows Depot SnowRunner
-setManifestid(1465361, "1017218816943865737", 52188593792)
+setManifestid(1465361, "3642878680056427099", 53972743968)
 addappid(1465362, 1, "924ebaf5547a976d7080e139e3ce420ce10a76bdcd89d74fa74a98fb7312b7fc") --Main Macos Depot SnowRunner
 setManifestid(1465362, "8920584982304117109", 34545982944)
 --Share Depots
@@ -56,5 +56,6 @@ addappid(3623250) --Dlcname SnowRunner - Dragon Wagons Dual Pack
 addappid(3777600) --Dlcname SnowRunner – Pathfinders Vinyl Wrap Pack
 addappid(3777610) --Dlcname SnowRunner - Season 17: Repair & Rescue
 addappid(3777620) --Dlcname SnowRunner - Season 18: Patch & Power
+addappid(3777630) --Dlcname SnowRunner - Season 19: Research & Restore
 addappid(3777650) --Dlcname SnowRunner - Mercedes-Benz Trucks Dual Pack 1
 addappid(3777660) --Dlcname SnowRunner - Mercedes-Benz Trucks Dual Pack 2
