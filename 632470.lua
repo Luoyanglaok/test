@@ -9,12 +9,6 @@ setManifestid(632473, "3514503533443935223", 9333410112)
 --Dlcname Disco Elysium - Soundtrack & Artbook
 addappid(1173140, 1, "012eaa221b0a375c66d62ef1f37f67519f22863c8931e98cfc1517defaae5334") --Dlcname Disco Elysium - Soundtrack & Artbook
 setManifestid(1173140, "5482040944560501642", 1063987200)
---Dlcname Disco Elysium Soundtrack
-addappid(1233220) --Dlcname Disco Elysium Soundtrack
-addappid(1233221, 1, "c18511718169a4fccb59f0fec3cd617fc8a15992efeba3ad36f858791bb023d2") --Dlc Windows Depot Disco Elysium Soundtrack
-setManifestid(1233221, "1090265799184396815", 259228512)
-addappid(1233222, 1, "c7ccebdd784293d8d0c020fff4166931d5afa69729545ddd6a3b2fc54cf6f25a") --Dlc Windows Depot Disco Elysium Soundtrack
-setManifestid(1233222, "2555027127085393220", 665597424)
 --Share Depots
 addappid(228985, 1, "21a2f639584d9bd462c5c4b3e10f881cba8a17ae674c830c4f083551cd356e9c") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228985, "3966345552745568756", 13244128)
