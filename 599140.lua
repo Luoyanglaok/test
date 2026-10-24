@@ -8,10 +8,6 @@ addappid(599142, 1, "7cb7f8533bf578c1fd50fe061de8d7e6e45a6286de3598bf851c96ce1b3
 setManifestid(599142, "9019423966611775112", 467344720)
 addappid(599143, 1, "5627fae0ee797b854f790aa49d2adfcdc10d7baf78dc8daa88e0df381a359ede") --Main Linux Depot Graveyard Keeper
 setManifestid(599143, "8794685739656643050", 468637696)
---Dlcname Graveyard Keeper OST
-addappid(919050) --Dlcname Graveyard Keeper OST
-addappid(919052, 1, "7e7e6c419ae023cf6616a608f94bf66f55c1c1378c8b366f5ccf57ff045a329c") --Dlc Windows Depot Graveyard Keeper OST
-setManifestid(919052, "3096866764171687934", 220577232)
 --Dlcname Graveyard Keeper Artbook
 addappid(919051, 1, "0996ef7d3f26b5f3026d53c97fc3cfc33ede2ad50a470e3bfcd8e2af65b6d01a") --Dlcname Graveyard Keeper Artbook
 setManifestid(919051, "4155613206917584963", 84609968)
