@@ -10,12 +10,6 @@ addappid(750133, 1, "da21083938e32867b6b9190a5f7ae54c1b716b6d74df27516a589f9f0cb
 setManifestid(750133, "6058490855972658563", 408976)
 addappid(750134, 1, "b261bbaefbb88b1aa01e939cd69c807fa2d63383f8971c96a563b816db403e92") --Main Windows Depot The Sinking City Remastered
 setManifestid(750134, "5466644149342743634", 31179498944)
---Dlcname The Sinking City Artbook & OST Bundle
-addappid(2019880) --Dlcname The Sinking City Artbook & OST Bundle
-addappid(2019881, 1, "ab7a748712f283b854e2ceaf6e5ee1edad8099175ab0cfc5d88c8ebb20c2938e") --Dlc Windows Depot The Sinking City Artbook & OST Bundle
-setManifestid(2019881, "5175849185549774047", 1019301104)
-addappid(2019882, 1, "a19e5fd0cadb0dd470aa93678bc0599b4312cbf32767b66243d599b461d24dad") --Dlc Windows Depot The Sinking City Artbook & OST Bundle
-setManifestid(2019882, "8599911425468607295", 250550384)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
