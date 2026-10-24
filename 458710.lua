@@ -1,7 +1,10 @@
-addappid(458710)
-addappid(458711,0,"9d1dd1a44f33bf87b6f68344dc1081446e9e3d5e6ee5fb0a47898db00d96f3f8")
-setManifestid(458711,"3474744682670534607")
-addappid(458712,0,"6fad73399072cb78d6862b7d53a1ad86e4d43ade66bce45feef41e4ee89320a7")
-setManifestid(458712,"3742421244493290161")
-addappid(458713,0,"27067325606578ca7375447fde6ee006c3f99159176940d56f726cc6509536ed")
-setManifestid(458713,"383655433049976343")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 458710.lua
+--Gamename Kingdom Rush Frontiers - Tower Defense
+addappid(458710, 1, "4960f5a69acbe59dd07921fbe6083325fe057b90d0ca28544d88fa2ae2e23d43") --Mainappid Kingdom Rush Frontiers - Tower Defense
+addappid(458711, 1, "9d1dd1a44f33bf87b6f68344dc1081446e9e3d5e6ee5fb0a47898db00d96f3f8") --Main Windows Depot Kingdom Rush Frontiers - Tower Defense
+setManifestid(458711, "1657977831199078496", 461584768)
+addappid(458712, 1, "6fad73399072cb78d6862b7d53a1ad86e4d43ade66bce45feef41e4ee89320a7") --Main Macos Depot Kingdom Rush Frontiers - Tower Defense
+setManifestid(458712, "2454419441064721306", 463749296)
+addappid(458713, 1, "27067325606578ca7375447fde6ee006c3f99159176940d56f726cc6509536ed") --Main Linux Depot Kingdom Rush Frontiers - Tower Defense
+setManifestid(458713, "383655433049976343", 464484912)
