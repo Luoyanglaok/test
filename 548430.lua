@@ -3,7 +3,7 @@
 --Gamename Deep Rock Galactic
 addappid(548430, 1, "35e74cda02258a1dc29466af2d3c05f2030830981ead0936e3eb6c9d59284e7d") --Mainappid Deep Rock Galactic
 addappid(548431, 1, "73ef10dc344cb7fb34be23aea35b20fbb2b32b0db50650919c7e3d731e759aad") --Main Windows Depot Deep Rock Galactic
-setManifestid(548431, "4605235793608540204", 3608277088)
+setManifestid(548431, "2329711483481111034", 3619043024)
 --Share Depots
 addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228986, "8782296191957114623", 23045488)
