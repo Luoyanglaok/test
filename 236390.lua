@@ -3,22 +3,22 @@
 --Gamename War Thunder
 addappid(236390, 1, "2ca3cfdd7ef1bdb3ac92eb955284a30aa981b1a1512ef448307f398c13ae83cf") --Mainappid War Thunder
 addappid(236391, 1, "2ca3cfdd7ef1bdb3ac92eb955284a30aa981b1a1512ef448307f398c13ae83cf") --Main Windows/Linux Depot War Thunder
-setManifestid(236391, "5430175999550268843", 88429714704)
+setManifestid(236391, "8675133900244270658", 88679399200)
 addappid(236392, 1, "d28ecfa5efd92fa7a5648a3083ca753c508e85ef28c56e64a3cdd75692147afd") --Main Macos Depot War Thunder
-setManifestid(236392, "4065055206269436773", 88311479040)
+setManifestid(236392, "1148214544996122274", 88560717744)
 addappid(236393, 1, "96647011e1f9d79b47fee098f8c5dc9675ca132a118dec941a5a8682812da58d") --Main Linux Depot War Thunder
-setManifestid(236393, "8141588312638212041", 252354560)
+setManifestid(236393, "8698639190588021344", 252330272)
 addappid(236394, 1, "000c645c4187c9a4be937ac13100738fd2b80bd63db3c54800fb897877960aa8") --Main Windows Depot War Thunder
-setManifestid(236394, "626574481566383249", 1357091040)
+setManifestid(236394, "444186442078958183", 1357230736)
 --Dlcname War Thunder - Ground Forces High-res Texture Pack
 addappid(1945840, 1, "bbc5fd9511b67ba8ba67bb1fdb24879d9b7f279607f1dbb697ad3141a50e8e56") --Dlcname War Thunder - Ground Forces High-res Texture Pack
-setManifestid(1945840, "8439511817611859475", 47168761120)
+setManifestid(1945840, "2680505260883696128", 47204709552)
 --Dlcname War Thunder - Air Forces High-res Texture Pack
 addappid(1945841, 1, "1793c762898ff4a24f7e64f9e6f88c92faf345c30578355b9a51aa1ac45f7eca") --Dlcname War Thunder - Air Forces High-res Texture Pack
-setManifestid(1945841, "9032741382522998503", 20388217360)
+setManifestid(1945841, "3709058424176988926", 20399708832)
 --Dlcname War Thunder - Environment High-res Texture Pack
 addappid(1945930, 1, "5bd05c73fd81d2ad1ba5e2a8f052147d5d7717da8f6c7fb2fda2022d35b420d6") --Dlcname War Thunder - Environment High-res Texture Pack
-setManifestid(1945930, "638091104645906798", 13789991200)
+setManifestid(1945930, "7751448235506621093", 13789991200)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
