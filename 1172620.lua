@@ -3,7 +3,7 @@
 --Gamename Sea of Thieves: 2026 Edition
 addappid(1172620, 1, "5826335db117775ac35debfae05a7afeff3331ad99059fa57939358a06fa0f6c") --Mainappid Sea of Thieves: 2026 Edition
 addappid(1172621, 1, "d0a7c81c3c4ec69d5646531c500f6f8e46c7a42a74c6baf68a210c8db2f82117") --Main Windows Depot Sea of Thieves: 2026 Edition
-setManifestid(1172621, "3846670688435861410", 145107111296)
+setManifestid(1172621, "2963040740550418387", 146276831760)
 --Dlcname AppID 2309050
 addappid(2309050, 1, "e496bd343a45a22ca0148b587298f7701885f32f944ce4217de1c0ba4fb0f786") --Dlcname AppID 2309050
 --Dlcname The Rough Guide to Sea of Thieves eBook
