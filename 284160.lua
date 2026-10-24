@@ -3,7 +3,7 @@
 --Gamename BeamNG.drive
 addappid(284160, 1, "10c614fbabbde67d0375ae04f35cbc597f9f49f6addbe766465e77ba7cb4a9bb") --Mainappid BeamNG.drive
 addappid(284161, 1, "0e77f1cd7bb3169d9885cc26c7d2ef9fffc02c8c49671bec7b7308dd6cf86229") --Main Windows Depot BeamNG.drive
-setManifestid(284161, "5975039348266591145", 19380519968)
+setManifestid(284161, "7607241265012127919", 20072071008)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
