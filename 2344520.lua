@@ -3,9 +3,9 @@
 --Gamename Diablo® IV
 addappid(2344520, 1, "48dc14a13742dad6c951eebee02c84d74ed52e46d93b4413943d321791a9dcf1") --Mainappid Diablo® IV
 addappid(2344521, 1, "bf58e60bf2aca37197c7bc279a6b48b726131fa8b6d07bd12909d8a251252c65") --Main Windows Depot Diablo® IV
-setManifestid(2344521, "7303063463530282722", 92023903792)
+setManifestid(2344521, "3973395481612737873", 92019812592)
 addappid(2344522, 1, "8b885b87e01a772da363b1cd92f8fb0faac6f727acb321aef2ae9c4ce938a4bf") --Main Windows Depot Diablo® IV
-setManifestid(2344522, "4104833690056805214", 246678096)
+setManifestid(2344522, "8173116053739536798", 246395936)
 addappid(2344523, 1, "95a541fb3a2967fb73875c96ad8f56e3cbb5e3eafb742a4a1671847e722b543a") --Main Windows Language Depot English Diablo® IV
 setManifestid(2344523, "4627364588372914134", 2189818704)
 addappid(2344524, 1, "5eab48ada2fbd0681f2548f19de28ffb437ab06f912c4adef37b7d4a1d82df40") --Main Windows Language Depot German Diablo® IV
@@ -36,7 +36,7 @@ addappid(2452976, 1, "88ea785161f2912b8884373d4e8cdb42c8105a3f689cd44c89116d9b38
 setManifestid(2452976, "7556497483059417235", 2468518112)
 --Dlcname Diablo® IV - High-Resolution Assets
 addappid(2453170, 1, "962a85322d266e4dc3ca0de3fe2d065dd2c270c3322c73ceb0d742f960ceb77e") --Dlcname Diablo® IV - High-Resolution Assets
-setManifestid(2453170, "6815843769947065006", 76130581536)
+setManifestid(2453170, "774954201973670712", 76126252464)
 --Dlcname Diablo® IV: Vessel of Hatred™
 addappid(3043530, 1, "c82a86d812fde68fbdc2c2776a7abb9c72442001ebc4b38d84b413215facd76e") --Dlcname Diablo® IV: Vessel of Hatred™
 --Dlcname Diablo® IV: Lord of Hatred™
