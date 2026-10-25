@@ -3,7 +3,7 @@
 --Gamename WARDOGS
 addappid(1867240) --Mainappid WARDOGS
 addappid(1867242, 1, "54c641e6fc8cd622a0cd3a2eba3bae0f4b29ba18c88fb4c83c31303d474c04a7") --Main Windows Depot WARDOGS
-setManifestid(1867242, "5232764749909337392", 44790192032)
+setManifestid(1867242, "7243335246185746212", 48277837984)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
