@@ -5,13 +5,13 @@ addappid(2692280) --Mainappid My Ex-Future Family Season 2
 addappid(2692281, 1, "69e14e7a62c75d4b177707c06dfa45c7c1cfc3012e2dffc2a77fea3b4202c6fc") --Main Windows/Linux Depot My Ex-Future Family Season 2
 setManifestid(2692281, "4843853251713363478", 5089571520)
 addappid(4027771, 1, "1077d61a6c7935cc7e43778a779e9cdafcd0d4f28f3494ceab71be7e14aca44b") --Main Windows Depot My Ex-Future Family Season 2
-setManifestid(4027771, "793877705440037770", 9450544)
+setManifestid(4027771, "5705931983026598753", 44166416)
 --Dlcname My Ex-Future Family Season 2 Premium Edition
 addappid(3697760, 1, "582b1d88ea71f8852bfd7463bbbd13d03e475b48d3f65ae1e5ebbc7c6b5bbc82") --Dlcname My Ex-Future Family Season 2 Premium Edition
 addappid(3697761, 1, "5f784811d042a3b696f9acb754ca144b0231e107e5e09e61aac68a93fa0cece1") --Dlc Windows/Linux Depot My Ex-Future Family Season 2 Premium Edition
 setManifestid(3697761, "7669736288297388786", 5088080448)
 addappid(3697763, 1, "f9abdfac74834b81d423405e30a01982268c90101de9fb742dfffe8b25122237") --Dlc Windows Depot My Ex-Future Family Season 2 Premium Edition
-setManifestid(3697763, "7956276541041156377", 9450544)
+setManifestid(3697763, "7854694073243650066", 44166416)
 --Dlcname My Ex-Future Family Season 2: Artbook
 addappid(3698020) --Dlcname My Ex-Future Family Season 2: Artbook
 addappid(3698021, 1, "7decaa5530b10142dd7b49c1b5f6a96a48382ecec1937345dfecc49bdc60ff56") --Dlc Windows/Linux Depot My Ex-Future Family Season 2: Artbook
