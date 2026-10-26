@@ -34,7 +34,7 @@ setManifestid(228988, "6645201662696499616", 22411856)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") --Share Windows Depot EA APP Installer
-setManifestid(3340991, "2872608919245318765", 246896672)
+setManifestid(3340991, "8430176064263014822", 253144032)
 addappid(1958731) --Dlcname Need for Speed™ Unbound Palace Upgrade
 addappid(1982930) --Dlcname EA Play Trial Key
 addappid(2055280) --Dlcname NFS 22 - Standard Pre-Order Key
