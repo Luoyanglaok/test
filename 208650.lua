@@ -39,17 +39,17 @@ setManifestid(313102, "5290306600308231632", 3158312544)
 addtoken(350170, "2846027695980888523")
 addappid(350170, 1, "e63920d41fb19546e17aab7d86942350f318c4fbb9f99d189a35b305994eb9a8") --Dlcname AppID 350170
 setManifestid(350170, "5484906920703570221", 560)
---Dlcname AppID 350171
+--Dlcname Prototype Batmobile Skin
 addtoken(350171, "14032330326300423447")
-addappid(350171, 1, "2b9bccd9ab3214d553070e15d5fb4a5ebac59b3dda479b3f9388ad3484069411") --Dlcname AppID 350171
+addappid(350171, 1, "2b9bccd9ab3214d553070e15d5fb4a5ebac59b3dda479b3f9388ad3484069411") --Dlcname Prototype Batmobile Skin
 setManifestid(350171, "3987672753345161973", 54751504)
---Dlcname AppID 350172
+--Dlcname Batman Classic TV Series Batmobile Pack
 addtoken(350172, "15766568935433533440")
-addappid(350172, 1, "72f9a079b607c14179c73013bc62d8c12d6d97b4ffed005e477c0e7e54396025") --Dlcname AppID 350172
+addappid(350172, 1, "72f9a079b607c14179c73013bc62d8c12d6d97b4ffed005e477c0e7e54396025") --Dlcname Batman Classic TV Series Batmobile Pack
 setManifestid(350172, "3497203559893359373", 840262720)
---Dlcname AppID 356470
+--Dlcname Batman 1st Appearance Skin
 addtoken(356470, "5437820700632039034")
-addappid(356470, 1, "c71fb5ddc69bfe2922f7a0091f5ce05c6437daa17cfa0d3ebb8f65e3f2bb1d2d") --Dlcname AppID 356470
+addappid(356470, 1, "c71fb5ddc69bfe2922f7a0091f5ce05c6437daa17cfa0d3ebb8f65e3f2bb1d2d") --Dlcname Batman 1st Appearance Skin
 setManifestid(356470, "5626179739413771033", 34256352)
 --Dlcname AppID 356471
 addtoken(356471, "17948550361057423907")
