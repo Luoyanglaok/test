@@ -3,7 +3,7 @@
 --Gamename Warframe
 addappid(230410, 1, "69d2569524d335d73d02877e9186b20361aa8be3af29315292a3174bf16bf065") --Mainappid Warframe
 addappid(230411, 1, "4a31d148d70cafd9b9bd15811fab33a188cc5cb39204551984777dae0cb08f33") --Main Windows Depot Warframe
-setManifestid(230411, "3886178187987389038", 54918178960)
+setManifestid(230411, "3355344869077358827", 54989155504)
 addappid(238480) --Dlcname Warframe: Gift Pack
 addappid(238481) --Dlcname Warframe: Starter Pack
 addappid(238482) --Dlcname Warframe: Tenno Pack
