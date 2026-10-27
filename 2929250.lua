@@ -3,9 +3,9 @@
 --Gamename over the hill
 addappid(2929250, 1, "c80076ade0a82d41f6a3e40eae4f91618535595f956a214ebe5fdea84ac4b120") --Mainappid over the hill
 addappid(2929251, 1, "1e38e0b213ebc8f5c316a52ba06b9fc4087f1c280b70c27f240f2ab097624b4e") --Main Windows Depot over the hill
-setManifestid(2929251, "7192779372631549570", 2291215280)
+setManifestid(2929251, "1423729536868001594", 2761471952)
 addappid(2929252, 1, "3e7320139c418ae027f35e74a4d6c1953df223b1ba6159c5c95ccc9dbb7662f4") --Main Linux Depot over the hill
-setManifestid(2929252, "1188699059588042309", 2768251888)
+setManifestid(2929252, "705474532491040345", 3260634656)
 addappid(4658141, 1, "10be3bc539b8ed3aef0a9abc141070d02c414df622743ec07374008b082160b1") --Main Windows Depot over the hill
 setManifestid(4658141, "9074655833736422794", 163040)
 --Dlcname over the hill Playtest
