@@ -5,11 +5,11 @@ addappid(251570, 1, "e53177a4e7b3979bb3284352de1dbcf65f8d3b1b57d5d63971906f5b75c
 addappid(251571, 1, "2787b64cd24c9e42a114df4d2559813dc0f63405faa2f7e41cc77e6c3cc67bd0") --Main Windows Depot 7 Days to Die
 setManifestid(251571, "8628486239191323866", 0)
 addappid(251576, 1, "525d3fda8d2195cf5a8bd10c0c158513d9f870f99a036830287c1465c73c6979") --Main Windows Depot 7 Days to Die
-setManifestid(251576, "1372257690212457713", 16453582800)
+setManifestid(251576, "2871367384570864444", 16555997488)
 addappid(251577, 1, "53a3478a67db1f8ed8030e845ec1be174a60cea2448401ffd4dda0c4838cbb84") --Main Macos Depot 7 Days to Die
-setManifestid(251577, "2166030706595536461", 16344225296)
+setManifestid(251577, "4822209114626518231", 16452824080)
 addappid(251578, 1, "4550672ef4a498246530208707b36b490dd3bb73c6b54ba6b832dd48db88f71a") --Main Linux Depot 7 Days to Die
-setManifestid(251578, "8824853073799289907", 16427758864)
+setManifestid(251578, "8612382950006753056", 16530522048)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
@@ -28,5 +28,8 @@ addappid(4767590) --Dlcname The Beach Armor Set
 addappid(4767600) --Dlcname Working Stiff Armor Set
 addappid(4924490) --Dlcname The Big Beak Armor Set
 addappid(5239930) --Dlcname The Oktoberfest Armor Set
+addappid(5403990) --Dlcname The Wraith Witch Armor Set
+addappid(5404000) --Dlcname The Scarlet Scoundrel Armor Set
+addappid(5404020) --Dlcname The Red Riding Armor Set
 --Missing Dlcs
 --Dlcname The Hoarder Armor Set
