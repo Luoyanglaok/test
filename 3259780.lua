@@ -1,7 +1,7 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 3259780.lua
 --Gamename FINAL FANTASY RESONANCE
-addappid(3259780) --Mainappid FINAL FANTASY RESONANCE
+addappid(3259780, 1, "e3f6ccf3c7f6c67b5acb754c2fcd328902a8424a451991484b0b23557c8b00db") --Mainappid FINAL FANTASY RESONANCE
 addappid(3259781, 1, "d504c2e85576e58b02f4e8834ff977fa896a0058bd1ade1c9ae99e75391f3cea") --Main Windows Depot FINAL FANTASY RESONANCE
 setManifestid(3259781, "4382455441785374673", 14044865376)
 --Share Depots
