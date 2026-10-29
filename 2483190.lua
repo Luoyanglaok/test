@@ -56,6 +56,7 @@ addappid(4949540) --Dlcname Forza Horizon 6 1998 Renault Sport Spider
 addappid(5004270) --Dlcname Forza Horizon 6 2020 Toyota GR Supra 7-Eleven Livery
 addappid(5067170) --Dlcname Forza Horizon 6 1972 Datsun 240Z #5 Rallye
 addappid(5067180) --Dlcname Forza Horizon 6 2024 Ferrari Purosangue
+addappid(5067200) --Dlcname Forza Horizon 6 2024 Mercedes-AMG GT 63 4MATIC+
 addappid(5134010) --Dlcname Forza Horizon 6 1990 Eunos Cosmo
 --Missing Dlcs
 --Dlcname Forza Horizon 6 Expansion 1
