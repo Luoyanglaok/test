@@ -10,12 +10,6 @@ addappid(3258331, 1, "1097abea93eecc9c6cb0156904736974ea48e9a6b301eab513565f942b
 setManifestid(3258331, "1087005785590447186", 70500240)
 addappid(3258332, 1, "749cf2d81fe1751ecf6e9dacb1c31b95751969d2debb62488e236f66f6143a96") --Main Windows Depot Cult of the Lamb
 setManifestid(3258332, "2213715038201156417", 494951872)
---Dlcname Cult of the Lamb Soundtrack
-addappid(2015890) --Dlcname Cult of the Lamb Soundtrack
-addappid(2015891, 1, "d6f6c983191a2f11a58a33670799f2bf707666d834710af4018a2bc57c24d13f") --Dlc Windows Depot Cult of the Lamb Soundtrack
-setManifestid(2015891, "104381208507820952", 298770112)
-addappid(2015892, 1, "ad979829eb577feabacff9f56f449de355bc43cdc60d88e3319e48fc234bade9") --Dlc Windows Depot Cult of the Lamb Soundtrack
-setManifestid(2015892, "3447023799514037295", 1106929232)
 --Dlcname Cult of the Lamb: Hymns of the Unholy
 addappid(3258330) --Dlcname Cult of the Lamb: Hymns of the Unholy
 addappid(1944680) --Dlcname Cult of the Lamb Plush Bonus
