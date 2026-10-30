@@ -8,6 +8,10 @@ addappid(3321462, 1, "6eb3bfe7d16b9eb6441dba4f7d18b341fe83ab2f1e9385d042ce622f38
 setManifestid(3321462, "834456036650663589", 113858710064)
 addappid(3321463, 1, "6eb3bfe7d16b9eb6441dba4f7d18b341fe83ab2f1e9385d042ce622f38a600cb") --Main Windows Language Depot Japanese Crimson Desert Enhanced
 setManifestid(3321463, "2181546924135689846", 2932549552)
+--Dlcname Crimson Desert Enhanced: Charting the Unknown
+addappid(5001840) --Dlcname Crimson Desert Enhanced: Charting the Unknown
+addappid(5001841, 1, "acdfc98ea33a95a12d41984312bdf40696ff42994fbabb495627f7e660b12def") --Dlc Windows Depot Crimson Desert Enhanced: Charting the Unknown
+setManifestid(5001841, "3464084261373471646", 23186234544)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
@@ -16,5 +20,3 @@ addappid(4024630) --Dlcname Crimson Desert - Pre Order Pack
 addtoken(4024630, "17135069641874014023")
 addappid(4193060) --Dlcname Crimson Desert - Ultimate Pack
 addappid(5020770) --Dlcname Crimson Desert Enhanced: Charting the Unknown Pre-order Pack
---Missing Dlcs
---Dlcname Crimson Desert Enhanced: Charting the Unknown
