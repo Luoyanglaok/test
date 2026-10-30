@@ -1,7 +1,35 @@
-addappid(2186680)
-addappid(2186681,0,"28fb2e6880c18c5a8f226e85577726ff170ba4d056a169247856dc1ad15c45a9")
-setManifestid(2186681,"4235763566580889047")
-addappid(2186682,0,"9f0466c4c63e89d1a6e336a98079e9635acfd48c7c127c1fbfcb04ccec12e05c")
-setManifestid(2186682,"6143352202355988866")
-addappid(2682660,0,"42d397205a25cc88be18385660cbf934a5b60dc736bf4e610293bb24b581e1a9")
-setManifestid(2682660,"720230203453832590")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2186680.lua
+--Gamename Warhammer 40,000: Rogue Trader
+addappid(2186680, 1, "61c3f89a7dddaee81487d704d3932e95dde00919dee5e8499770aba982703b83") --Mainappid Warhammer 40,000: Rogue Trader
+addappid(2186681, 1, "28fb2e6880c18c5a8f226e85577726ff170ba4d056a169247856dc1ad15c45a9") --Main Windows Depot Warhammer 40,000: Rogue Trader
+setManifestid(2186681, "4621926641563340382", 30871347104)
+addappid(2186682, 1, "9f0466c4c63e89d1a6e336a98079e9635acfd48c7c127c1fbfcb04ccec12e05c") --Main Macos Depot Warhammer 40,000: Rogue Trader
+setManifestid(2186682, "4354828390393852834", 29657815776)
+--Dlcname Warhammer 40,000: Rogue Trader - Deluxe Pack
+addappid(2682660, 1, "42d397205a25cc88be18385660cbf934a5b60dc736bf4e610293bb24b581e1a9") --Dlcname Warhammer 40,000: Rogue Trader - Deluxe Pack
+setManifestid(2682660, "2545277924473332614", 2367360112)
+--Dlcname Warhammer 40,000: Rogue Trader - Void Shadows
+addappid(2951990) --Dlcname Warhammer 40,000: Rogue Trader - Void Shadows
+addappid(2951991, 1, "47fb2a7f5c69f478464b2dc16e22cb386f8937b69065b47c49e8e9140ea3c3f7") --Dlc Windows Depot Warhammer 40,000: Rogue Trader - Void Shadows
+setManifestid(2951991, "2515392746533588291", 1232548160)
+addappid(2951992, 1, "11d8b1c92b160025d10ae272d231b075bb4520b3a4f7b85be57be2cd0c2d2d7a") --Dlc Macos Depot Warhammer 40,000: Rogue Trader - Void Shadows
+setManifestid(2951992, "240726416482219229", 1232583264)
+--Dlcname Warhammer 40,000: Rogue Trader - Lex Imperialis
+addappid(3622820) --Dlcname Warhammer 40,000: Rogue Trader - Lex Imperialis
+addappid(3622821, 1, "734180a123f43796ae882d1d4aff76d40e67dbe95392726ea51c7651634014a1") --Dlc Windows Depot Warhammer 40,000: Rogue Trader - Lex Imperialis
+setManifestid(3622821, "4544738281431864329", 961907104)
+addappid(3622822, 1, "1880E824E9B4A1D6886EBF35DFBDAE11DB20C4E67923E72E52E02B9740A8DAD9") --Dlc Macos Depot Warhammer 40,000: Rogue Trader - Lex Imperialis
+setManifestid(3622822, "454030696830561158", 962234720)
+--Dlcname Warhammer 40,000: Rogue Trader - The Infinite Museion
+addappid(4226770) --Dlcname Warhammer 40,000: Rogue Trader - The Infinite Museion
+addappid(4226771, 1, "1c77fac93754bfc4d46472bbe88f1c773724e6fc1881d762e8f3f8617bbea087") --Dlc Windows Depot Warhammer 40,000: Rogue Trader - The Infinite Museion
+setManifestid(4226771, "22383197344438409", 992707280)
+--Missing Dlcs
+--Dlcname Warhammer 40,000: Rogue Trader - Voidfarer Pack
+--Dlcname Warhammer 40,000: Rogue Trader - Season Pass
+--Dlcname Warhammer 40,000: Rogue Trader - Limited Outfit
+--Dlcname Warhammer 40,000: Rogue Trader - Founders Pack
+--Dlcname Warhammer 40,000: Rogue Trader - Season Pass 2
+--Dlcname Warhammer 40,000: Rogue Trader - Appearance Pack
+--Dlcname Warhammer 40,000: Rogue Trader - The Shovel DLC
