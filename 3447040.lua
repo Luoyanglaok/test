@@ -3,7 +3,7 @@
 --Gamename Sora no Kiseki the 1st
 addappid(3447040, 1, "6f2278893cf29640194421d9638abfb3a4eaa81d78eeae513436274aafc18e19") --Mainappid Sora no Kiseki the 1st
 addappid(3447041, 1, "1094c51be1905bc44cf99ef97fa418199a8907734568008f95c100371af927f7") --Main Windows Depot Sora no Kiseki the 1st
-setManifestid(3447041, "6141595829747460974", 18453173488)
+setManifestid(3447041, "4205383569821938879", 18453181840)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
