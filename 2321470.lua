@@ -7,3 +7,4 @@ setManifestid(2321471, "2170332834079432460", 2222198976)
 addappid(2782850) --Dlcname Deep Rock Galactic: Survivor - Supporter Pack
 addappid(3818560) --Dlcname Deep Rock Galactic: Survivor - After Hours Pack
 addappid(4395500) --Dlcname Deep Rock Galactic: Survivor - Heavy Duty Expansion
+addappid(5269530) --Dlcname Deep Rock Galactic: Survivor - Knockout Expansion
