@@ -3,11 +3,11 @@
 --Gamename Vampire Survivors
 addappid(1794680, 1, "4d6aeb4ef64d8f10cf5cc1e532efa20f212f3ec624394ae50b9c18782332b07e") --Mainappid Vampire Survivors
 addappid(1794681, 1, "a2ae9bd3450da7127b7298a3e66264d71b8413bd7bacd674788ca98df20ee262") --Main Windows/Linux Depot Vampire Survivors
-setManifestid(1794681, "6354157889980277978", 776221872)
+setManifestid(1794681, "4460541452647837941", 772086176)
 addappid(1794684, 1, "a9134bad97d12f2af38c1f3fda9df5c1441e987c3931aed6bcbc8a28d76f2ec9") --Main Macos Depot Vampire Survivors
-setManifestid(1794684, "3164112101380201073", 772511728)
+setManifestid(1794684, "5505101475645329500", 771032576)
 addappid(1794685, 1, "b84475f8ff35397bf450e3fd9e2b62d63058277871f676dcb7fb506c9b89a599") --Main Linux Depot Vampire Survivors
-setManifestid(1794685, "2624639318422129691", 758910688)
+setManifestid(1794685, "1260479946982022557", 757334128)
 --Dlcname Vampire Survivors: Legacy of the Moonspell
 addappid(2230760) --Dlcname Vampire Survivors: Legacy of the Moonspell
 addappid(2230761, 1, "26cf4b06368265325ad0ab20b00118e4a2c1af2a291be8589017fcb6fbb3b42f") --Dlc Windows/Linux Depot Vampire Survivors: Legacy of the Moonspell
