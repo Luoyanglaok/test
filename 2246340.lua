@@ -3,7 +3,7 @@
 --Gamename Monster Hunter Wilds
 addappid(2246340, 1, "3376b3ba2a4e55044a3116230ebeafcc862380c70ed5329384fcbbeeca7beaf3") --Mainappid Monster Hunter Wilds
 addappid(2246341, 1, "15f418b98b8ade3be07b095f07a9ffc62ab918cf659a2fd7465fcb41c462f0af") --Main Windows Depot Monster Hunter Wilds
-setManifestid(2246341, "4844075769269645714", 109384001824)
+setManifestid(2246341, "2815140099305334363", 109704653696)
 --Dlcname Monster Hunter Wilds - High Resolution Texture Pack
 addappid(3308900, 1, "86e9ff2249c193631e8e04855d9c6154071b06491dced87279c1c72b1662556d") --Dlcname Monster Hunter Wilds - High Resolution Texture Pack
 setManifestid(3308900, "2311240512518968412", 31415547440)
