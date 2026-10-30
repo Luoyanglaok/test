@@ -3,7 +3,7 @@
 --Gamename TBH: Task Bar Hero
 addappid(3678970, 1, "3babc9b9da2b5ab2409cbd2037432aba399d9c12bedfa41269d1ee4a08d29954") --Mainappid TBH: Task Bar Hero
 addappid(3678971, 1, "8d0b4ba64ffc2eaa7b8f853cd4ad4e91d7a57d637bcf3f33aba1da9c6d6360f0") --Main Windows Depot TBH: Task Bar Hero
-setManifestid(3678971, "526681959210038861", 188520336)
+setManifestid(3678971, "1787063832201235963", 188548752)
 addappid(4427441, 1, "605b03f0a7c7b13393a8f49eac0b2d6c6d00419e792570eb9e29cbcd09a97a8e") --Main Windows Depot TBH: Task Bar Hero
 setManifestid(4427441, "9021990124814582885", 452454560)
 --Dlcname TBH: Task Bar Hero Soundtrack
