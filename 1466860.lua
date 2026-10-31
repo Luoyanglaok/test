@@ -3,55 +3,55 @@
 --Gamename Age of Empires IV: Anniversary Edition
 addappid(1466860, 1, "2dd3c665298a08edc3f9c406d25ba4a419dd9d3f3acecd9fdbe78ba38d057b5e") --Mainappid Age of Empires IV: Anniversary Edition
 addappid(1466861, 1, "3e9a11fa63f3e2e44b67e70f2333c54bb22330f4af7030669958a23b66e5569f") --Main Windows Depot Age of Empires IV: Anniversary Edition
-setManifestid(1466861, "5202884186480312915", 32526717216)
+setManifestid(1466861, "7421935174660162798", 32582920336)
 addappid(1466862, 1, "be78108889970e40d71948bc186887b738fc0857c83e748602658f7c78a085a2") --Main Windows Language Depot French Age of Empires IV: Anniversary Edition
-setManifestid(1466862, "7928252642495728641", 6980704144)
+setManifestid(1466862, "6338745103887574333", 6980840688)
 addappid(1466863, 1, "105cf1c75e7cbb62a0f58b5a8a0cd59bc43d182ad8062db246917f641fb43034") --Main Windows Language Depot Brazilian Age of Empires IV: Anniversary Edition
-setManifestid(1466863, "8985474575684591627", 6926449296)
+setManifestid(1466863, "8403226846232872551", 6926573632)
 addappid(1466864, 1, "0389461caff2cc22524621a0102d29d28922be6b9cfddc170481d8d78f44fe1c") --Main Windows Language Depot German Age of Empires IV: Anniversary Edition
-setManifestid(1466864, "4960368421424011301", 7003829248)
+setManifestid(1466864, "3333903511745666556", 7003989872)
 addappid(1466865, 1, "ce635b1b01602f57beeddc5722bb176778e1e369621368e2d946b9fa6d0aede0") --Main Windows Language Depot Italian Age of Empires IV: Anniversary Edition
-setManifestid(1466865, "7488815058258035597", 6986420032)
+setManifestid(1466865, "257178211788630075", 6986487936)
 addappid(1466866, 1, "8c06b5f69b7fcedd02d23c6bac403f27f35adb5d7658f6a1c95f924b8b1e6924") --Main Windows Language Depot Japanese Age of Empires IV: Anniversary Edition
-setManifestid(1466866, "233091999331627070", 6521503568)
+setManifestid(1466866, "3135018347552936617", 6521709600)
 addappid(1466867, 1, "d0750a64346f58303a3b45d7ea7b7ada26def4aea52cf1d4b9d471d4e2417907") --Main Windows Language Depot Koreana Age of Empires IV: Anniversary Edition
-setManifestid(1466867, "7248767471594176399", 6928105072)
+setManifestid(1466867, "8846939607574329847", 6928166544)
 addappid(1466868, 1, "5c048641ca482fc8a1b43bea8abfb6827e42d1da5917ebdb4694c4c4d51bb2b9") --Main Windows Language Depot Latam Age of Empires IV: Anniversary Edition
-setManifestid(1466868, "7966138496874336541", 6900609088)
+setManifestid(1466868, "9220704747525351739", 6900801488)
 addappid(1466869, 1, "591d2a66e3d42d006b2b6eab458be9847fed5344f2c4702d209996dd6988e934") --Main Windows Language Depot Schinese Age of Empires IV: Anniversary Edition
-setManifestid(1466869, "4118555174428207673", 6955769024)
+setManifestid(1466869, "8879453981502107732", 6955955008)
 addappid(1668576, 1, "94a7b00216874eae019f32023f03802341e1f337d1a1636f4ec246e860fcff54") --Main Windows Language Depot English Age of Empires IV: Anniversary Edition
-setManifestid(1668576, "8319301009638007215", 7099208976)
+setManifestid(1668576, "3108815009214363420", 7099415008)
 addappid(1668577, 1, "7bd75a2840cb0168f98a09837fe9642688737960f87716cb7fc258047093cad3") --Main Windows Language Depot Spanish Age of Empires IV: Anniversary Edition
-setManifestid(1668577, "9081932470808233649", 6908376880)
+setManifestid(1668577, "5817909074991467245", 6908494128)
 addappid(1668578, 1, "7fe6fbf544fa3e71d89df78bf736c659eca45684f62eb9c195c86ed8d9326b1d") --Main Windows Language Depot Russian Age of Empires IV: Anniversary Edition
-setManifestid(1668578, "4727481336256429423", 7099208976)
+setManifestid(1668578, "3034834527485598668", 7099415008)
 addappid(1668579, 1, "ae833f35348170217dd8491b0ad50d4c4bacde5a50056225759c5d13aa0e636e") --Main Windows Language Depot Tchinese Age of Empires IV: Anniversary Edition
-setManifestid(1668579, "8819945172898804873", 7099208976)
+setManifestid(1668579, "1276365646041701435", 7099415008)
 addappid(1670951, 1, "a1487775f036a73c3447b7d09efc0fa8874eb42027071fee3856067ff0f836d8") --Main Windows Language Depot Turkish Age of Empires IV: Anniversary Edition
-setManifestid(1670951, "5905627357750354426", 7099208976)
+setManifestid(1670951, "5979580881749411167", 7099415008)
 addappid(1670952, 1, "ffc324f83fdc7bef75c21ae3a38efecc7d69ef4e32369e294b594f738f21fc97") --Main Windows Language Depot Vietnamese Age of Empires IV: Anniversary Edition
-setManifestid(1670952, "4757854794346075800", 7099208976)
+setManifestid(1670952, "1777637139074431137", 7099415008)
 addappid(1670953, 1, "37b354352c19bd1217c8189572be4ebe06c373f07c7dec0e6d2bf7aa41f08859") --Main Windows Language Depot Dutch Age of Empires IV: Anniversary Edition
-setManifestid(1670953, "5668226936911304021", 7099208976)
+setManifestid(1670953, "1316685069046475462", 7099415008)
 addappid(1670954, 1, "ecb697535dfb8db0477d358fe969525840546f0f626b4531be9b3e12dfa7a42a") --Main Windows Language Depot Danish Age of Empires IV: Anniversary Edition
-setManifestid(1670954, "2169633041383958542", 7099208976)
+setManifestid(1670954, "4101727261154338470", 7099415008)
 addappid(1670955, 1, "287913ddfab260cc29c04102d2d837f50713fe5917b718bdcb86c1bb1bdde894") --Main Windows Language Depot Swedish Age of Empires IV: Anniversary Edition
-setManifestid(1670955, "2481496389267364253", 7099208976)
+setManifestid(1670955, "2321666855021844862", 7099415008)
 addappid(1670956, 1, "509c839224605b2cdcce635c2812898c84b019287d7161136f4aad066ce440c1") --Main Windows Language Depot Czech Age of Empires IV: Anniversary Edition
-setManifestid(1670956, "7146399644714932649", 7099208976)
+setManifestid(1670956, "8581860879838087052", 7099415008)
 addappid(1670957, 1, "1d1b250dc321e3f6be848fd85ce83f657ffb818dc1e3afe82eff2a676a1f366f") --Main Windows Language Depot Norwegian Age of Empires IV: Anniversary Edition
-setManifestid(1670957, "7909070226204287868", 7099208976)
+setManifestid(1670957, "1323420456102638652", 7099415008)
 addappid(1670958, 1, "70637aa7ae9843b7308c5404d5d291715a41b3723bb300d95194b3ec8ab6997c") --Main Windows Language Depot Greek Age of Empires IV: Anniversary Edition
-setManifestid(1670958, "9012384332926296062", 7099208976)
+setManifestid(1670958, "5683685611969851260", 7099415008)
 addappid(1670959, 1, "02fa42218460b398d1d58218e8a2c22445bda2358a6e5420fe1e5aa71124b0c3") --Main Windows Language Depot Hungarian Age of Empires IV: Anniversary Edition
-setManifestid(1670959, "5662479834425564425", 7099208976)
+setManifestid(1670959, "5238163086332991059", 7099415008)
 addappid(1670960, 1, "bcbfa6af93f0a8a519b35e6f0dc9998d6840fd8bc2335fafca6d0b74d0fda79b") --Main Windows Language Depot Polish Age of Empires IV: Anniversary Edition
-setManifestid(1670960, "5820801425083449468", 7099208976)
+setManifestid(1670960, "649112744438308239", 7099415008)
 addappid(1670961, 1, "307a8752e1c575b45077cc0004003d2f911819566056c4d399bd682a17082b39") --Main Windows Language Depot Finnish Age of Empires IV: Anniversary Edition
-setManifestid(1670961, "119537262443100343", 7099208976)
+setManifestid(1670961, "4091397890985622672", 7099415008)
 addappid(1670962, 1, "b68d70abce268eb72a8989eb5f734053ec89793add99cff43b3662f75b24698d") --Main Windows Language Depot Portuguese Age of Empires IV: Anniversary Edition
-setManifestid(1670962, "8269341317767548567", 7099208976)
+setManifestid(1670962, "223311357395382108", 7099415008)
 --Dlcname Age of Empires IV - 4K HDR Video Pack
 addappid(1668560, 1, "d36f4c3985bb7dfc2e13a30c14a3673c76d5d014b731faa2edf4e115f777c934") --Dlcname Age of Empires IV - 4K HDR Video Pack
 setManifestid(1668560, "679585415305256255", 5946571472)
@@ -106,12 +106,6 @@ setManifestid(1670973, "2619726927987078136", 13427262256)
 --Dlcname Age of Empires IV - Digital Deluxe Edition Content
 addappid(1668570, 1, "c40940d72ebd0b57476916e018a049913651c81005ec507fd01a5b1545f7ad74") --Dlcname Age of Empires IV - Digital Deluxe Edition Content
 setManifestid(1668570, "5021418869429789881", 69682992)
---Dlcname Age of Empires IV Digital Soundtrack
-addappid(1797050) --Dlcname Age of Empires IV Digital Soundtrack
-addappid(1797051, 1, "0f7adb348c6d6db2832152597bb06068834bb94a6ce9d643683e2cb5e0bb5411") --Dlc Windows Depot Age of Empires IV Digital Soundtrack
-setManifestid(1797051, "2403844949113574863", 199997552)
-addappid(1797052, 1, "a29caf90b23daa3fa37c4c91f71c2d11df111d1febb9b535914f4b395788ea23") --Dlc Windows Depot Age of Empires IV Digital Soundtrack
-setManifestid(1797052, "1018423951741041516", 945686624)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
