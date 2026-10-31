@@ -5,7 +5,7 @@ addappid(3026450, 1, "9b9788742ee0343a928eea4c4f3b0dce9a7799ff38a62b0d2e467702f9
 addappid(3026451, 1, "08c7847ddefdede391a0d5886f7e7029e4cc96283420ac285db7a14f73bee64b") --Main Windows Depot Deadly Days: Roadtrip
 setManifestid(3026451, "1832737755528485607", 0)
 addappid(3026452, 1, "a41650ee622aa1fc85f5322dd7230a5daa51913e5d70decb5bb52ebdc6bca2c3") --Main Windows Depot Deadly Days: Roadtrip
-setManifestid(3026452, "721817427367331856", 848081824)
+setManifestid(3026452, "7724756528743620812", 1605871856)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
