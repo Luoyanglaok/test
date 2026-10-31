@@ -3,9 +3,9 @@
 --Gamename HITMAN World of Assassination
 addappid(1659040, 1, "5390a1942e4032c44876f6896fa8169bff61161a13f379433575053c4fe38c02") --Mainappid HITMAN World of Assassination
 addappid(1659041, 1, "891bd9670c03fa74065659fe448680b55b5279707dfe40493d5f00372e02b42f") --Main Windows Depot HITMAN World of Assassination
-setManifestid(1659041, "5408453574472182733", 74869444464)
+setManifestid(1659041, "4825366641951946410", 75361098176)
 addappid(1659042, 1, "a4a03eaeb99e5848f2074a8902ce896268489ec313300285a521885c807e263c") --Main Macos Depot HITMAN World of Assassination
-setManifestid(1659042, "6944284808996353456", 66295702048)
+setManifestid(1659042, "5533001499037702690", 66810907952)
 addappid(1829587, 1, "7f139e3a632fe7e782856995965d4b28185d6ef5fd190966386f65c31accf0ad") --Main Windows Depot HITMAN World of Assassination
 addappid(1829590, 1, "99a8ea96a1d00ee787cd4f481782f717833343c132908a8328e78fcd5102e50e") --Main Windows Depot HITMAN World of Assassination
 addappid(2184790, 1, "e967cde3a53c43dd7dfcc769cd0162719e5b054b9a7729e0854002a3f740e91c") --Main Windows Depot HITMAN World of Assassination
@@ -52,3 +52,5 @@ addappid(4542910) --Dlcname HITMAN WOA - World Champions Pack
 addappid(4621250) --Dlcname HITMAN WOA - The Wizard Pack
 addappid(4911210) --Dlcname HITMAN WOA - The Herbalist Pack
 addappid(4944070) --Dlcname HITMAN WOA - The Getaway Pack
+addappid(5235590) --Dlcname HITMAN WOA - The Host Pack
+addappid(5235600) --Dlcname HITMAN WOA - Alter Ego Pack
