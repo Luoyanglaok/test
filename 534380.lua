@@ -3,65 +3,65 @@
 --Gamename Dying Light 2 Stay Human: Reloaded Edition
 addappid(534380, 1, "da5060467c4b9199432fb5d9ba41ae2896a9c4a4705bc8e8f426155dc8efae83") --Mainappid Dying Light 2 Stay Human: Reloaded Edition
 addappid(534381, 1, "fec776617825a7f3e61dd191f407bd23c6f60ba1056a506f1facb4fd74d9f7e2") --Main Windows Depot Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(534381, "3662955240193386396", 21379536304)
+setManifestid(534381, "2608536661937998783", 21379535520)
 addappid(534382, 1, "cf933660206b892b3d32060682d4063e7a42482428b1cbb3f0b8fed43cdfee45") --Main Windows Depot Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(534382, "7679406785579998819", 186969024)
+setManifestid(534382, "6244917756092513043", 186974144)
 addappid(534383, 1, "1a2b6e67c39a9803c80ab38c1be8b25b112ae32eaa1872b6cd42db109049e007") --Main Windows Depot Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(534383, "9188017815854898936", 26590201936)
+setManifestid(534383, "8505149469189056250", 26598884208)
 addappid(534384, 1, "b5e4f819a4ac1b9e78bca8293db8428a4eea8a95b6913fc32842010060db425e") --Main Windows Depot Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(534384, "3356199516719532298", 4806250720)
+setManifestid(534384, "6027290273165930508", 4806250784)
 addappid(534385, 1, "c7a22e2cab3e656efbdaceb8e2a7b76748c1790517faf3283beaa2cf761f5dc0") --Main Windows Depot Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(534385, "8473294742315031351", 513945216)
+setManifestid(534385, "765411406174887885", 513945216)
 addappid(534387, 1, "d3fcdef424d1ec4c1a72bc78a8ae5364b74a5abd23ef7cbeca64996cad28b24b") --Main Windows Language Depot Arabic Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(534387, "4032585509656117301", 3028368)
+setManifestid(534387, "17494594212650823", 3028368)
 addappid(534388, 1, "9af548a883576aa8eb98d69ceef4d0a50b7e5beebe14744e078cd2f47ace909b") --Main Windows Language Depot Brazilian Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(534388, "8068834481517364251", 4649371776)
+setManifestid(534388, "2627506200473378479", 4649371776)
 addappid(534389, 1, "3e6c48fa5a81522f18e7633fa89b6ea95f05d991c626ee9ceaebecf711cd6e72") --Main Windows Language Depot Brazilian Dying Light 2 Stay Human: Reloaded Edition
 setManifestid(534389, "1340428332503701373", 427318064)
 addappid(1741780, 1, "56a0e9c235e8305b7e1f1e722252b52918ea0003a341b5901c42ec0d39cd449c") --Main Windows Language Depot Schinese Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741780, "1507824150040833965", 4558513216)
+setManifestid(1741780, "3200566323156725308", 4558513216)
 addappid(1741781, 1, "42678fed970f2d33723e75c88c27c4d19278d40ddbea2be652c02d7dfb41404f") --Main Windows Language Depot Schinese Dying Light 2 Stay Human: Reloaded Edition
 setManifestid(1741781, "5469264156428494745", 441812656)
 addappid(1741782, 1, "26d52711c65b1d4c96eb06fb7fba2a68e80984a9828a074bf8a5384c16e86433") --Main Windows Language Depot Tchinese Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741782, "5021676284957092752", 3751904)
+setManifestid(1741782, "1408641837380679711", 3751904)
 addappid(1741783, 1, "f1fd93f6cd43dbde9dfecda6beceaec208b0c3842cd34ded16b3f31ae7984f0b") --Main Windows Language Depot Czech Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741783, "8473736452102946252", 2228128)
+setManifestid(1741783, "4342949739884169233", 2228192)
 addappid(1741784, 1, "56ca0a485646ce4d5fb8163100b5f62610f743c214fabd9133f57b3dc3720d44") --Main Windows Language Depot German Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741784, "5014583438487712473", 4802478352)
+setManifestid(1741784, "5448040801571358124", 4802478352)
 addappid(1741785, 1, "377954647d348be60b76ce49cae9b13763ad66aba3ce9ec5e1b0ba1f9f6c7a49") --Main Windows Language Depot German Dying Light 2 Stay Human: Reloaded Edition
 setManifestid(1741785, "78754505232111518", 438851808)
 addappid(1741786, 1, "19a6afcb6a47753b8b8d5f8a0febea931845a56103db941a3cedc57fa4fa3632") --Main Windows Language Depot Latam Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741786, "5196589202585641991", 4828515776)
+setManifestid(1741786, "9074835726840233473", 4828515840)
 addappid(1741787, 1, "a2dcee88dfd62b92c47a6260dd083eefd70bb504b41012881ef45e10d3ef31e4") --Main Windows Language Depot Latam Dying Light 2 Stay Human: Reloaded Edition
 setManifestid(1741787, "8049670240160739369", 454346112)
 addappid(1741788, 1, "5647c59ff805db90b39f2286a138774c318579addeb0ae3cd67cb37be8391794") --Main Windows Language Depot Spanish Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741788, "8615050916732582643", 4787745936)
+setManifestid(1741788, "7259556942276817917", 4787746000)
 addappid(1741789, 1, "d45069f6f74b78a88a6d5bd30c9e7e56cb00c84e80957adc473e0815581f8ca5") --Main Windows Language Depot Spanish Dying Light 2 Stay Human: Reloaded Edition
 setManifestid(1741789, "7798669403185103845", 476871024)
 addappid(1741790, 1, "ffb3557cf402c7a2847a17a705d05cc02b1c921cedb1a4e33c0965c3ef3b8ead") --Main Windows Language Depot French Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741790, "2137891997133384437", 4631265424)
+setManifestid(1741790, "3851408324804182040", 4631265424)
 addappid(1741791, 1, "83833d3a3c1d59757bd4fd32fe79b0498cfdbd4ba1a4c770319bf58734d3220c") --Main Windows Language Depot French Dying Light 2 Stay Human: Reloaded Edition
 setManifestid(1741791, "5352596790520675882", 453136992)
 addappid(1741792, 1, "eec928bf10da86f55bc03800c52b9292406c09c72e9d5ef99373c846e960f5ca") --Main Windows Language Depot Italian Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741792, "1891799102600411221", 2163248)
+setManifestid(1741792, "9213311779729441176", 2163248)
 addappid(1741793, 1, "4dd7ff0cb01db2bf5c574054353078bef596a1cd611a8268bd5a023c65022278") --Main Windows Language Depot Japanese Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741793, "3074026554885030644", 4735777104)
+setManifestid(1741793, "3848167639050007413", 4735777104)
 addappid(1741794, 1, "17d125330d6f175e6c28c56630312084fe07a44a06bcbffc530c3f590d01667c") --Main Windows Language Depot Japanese Dying Light 2 Stay Human: Reloaded Edition
 setManifestid(1741794, "6808578534217621328", 448089664)
 addappid(1741795, 1, "8b0095c3dc40776199884af8ac54987c23277a352c03f79acdbf51eea7ef6191") --Main Windows Language Depot Koreana Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741795, "7797431573323065458", 2590176)
+setManifestid(1741795, "2920645718872346484", 2590176)
 addappid(1741796, 1, "6d55d6c6f95126badb8fc4d39fafcd9abfe6470847f8c3a81057aa9b260c6107") --Main Windows Language Depot Polish Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741796, "346699045678466295", 5016277584)
+setManifestid(1741796, "1879710246804991236", 5016277584)
 addappid(1741797, 1, "b3c0705864ffb87b5be6890de5ecd919959de996b6a9a60ec6f84a3bea7bd768") --Main Windows Language Depot Polish Dying Light 2 Stay Human: Reloaded Edition
 setManifestid(1741797, "8100547772151755877", 480562800)
 addappid(1741798, 1, "dac1cd4282c31bca5e08c68b37b3939433252e9716025c74c0eef121dcc56938") --Main Windows Language Depot Portuguese Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741798, "7567951141065426415", 2146528)
+setManifestid(1741798, "5351525437687476352", 2146528)
 addappid(1741799, 1, "962cef0a55b1ae29a391f43431ee4b98a4f54bb40cab9b0a047491df31d5b6c2") --Main Windows Language Depot Russian Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741799, "2735634347133576642", 4941422208)
+setManifestid(1741799, "7155934386294133515", 4941422208)
 addappid(1741800, 1, "85cbd9ea07b0212def7701851f906cfc2015697823afa00849e0ffadacb4ee2c") --Main Windows Language Depot Russian Dying Light 2 Stay Human: Reloaded Edition
 setManifestid(1741800, "235314873313443967", 463452720)
 addappid(1741801, 1, "8d26e4e39b3d4f7beec6b01e44a9c7caf7d5e9eae6e499ef414cde2d79caa94b") --Main Windows Language Depot Turkish Dying Light 2 Stay Human: Reloaded Edition
-setManifestid(1741801, "5570632393693572788", 2142208)
+setManifestid(1741801, "9218896527909411546", 2142272)
 addappid(1741802, 1, "0452622d330096a7e928803be80e7f859a861c522eebb67fc338824122ea90cb") --Main Windows Language Depot Arabic Dying Light 2 Stay Human: Reloaded Edition
 setManifestid(1741802, "8369068266057563647", 1277424)
 addappid(1741803, 1, "921360aefff71e9ec8ab8a2ee251e4b718ff615f3183c5fe0e0080bf7f434766") --Main Windows Language Depot Tchinese Dying Light 2 Stay Human: Reloaded Edition
