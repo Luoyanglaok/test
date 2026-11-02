@@ -3,7 +3,7 @@
 --Gamename SnowRunner
 addappid(1465360, 1, "73f8f030255f23904e82de2afed639196197db79e1dc6e22d0d7e8eeb220fbd3") --Mainappid SnowRunner
 addappid(1465361, 1, "0dd93272d1d47d5943b93081730b61e39d20a49e42873ca743dcd30322161fb0") --Main Windows Depot SnowRunner
-setManifestid(1465361, "3642878680056427099", 53972743968)
+setManifestid(1465361, "253781604922236075", 53972764592)
 addappid(1465362, 1, "924ebaf5547a976d7080e139e3ce420ce10a76bdcd89d74fa74a98fb7312b7fc") --Main Macos Depot SnowRunner
 setManifestid(1465362, "8920584982304117109", 34545982944)
 --Share Depots
