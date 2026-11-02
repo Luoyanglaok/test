@@ -25,3 +25,4 @@ addappid(3469800) --Dlcname Company of Heroes 3: Fire & Steel
 addappid(4095900) --Dlcname Company of Heroes 3: Endure & Defy
 addappid(4523180) --Dlcname Company of Heroes 3: Hammer & Shield Battlegroup DLC
 addappid(4523380) --Dlcname Company of Heroes 3: Dare & Destroy
+addappid(5210790) --Dlcname Company of Heroes 3: Torch
