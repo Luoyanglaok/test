@@ -1,3 +1,3 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 4612910.lua
-addappid(4612910, 0, "6b605a11553678355db8ab17cd217ff7d80256d7ed4578f15000baf562b09c46")
+addappid(4612910)  -- [服务器] 密钥不可用（同 depot 短期两个不同值（上一次 6b605a1155367835… / 本次 96ac8d4391d8…）⇒ 该来源判不可信；残件形态（flag=0 + 无 setManifestid + 无 --Gamename + 171 B））
