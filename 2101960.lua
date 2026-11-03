@@ -4,9 +4,9 @@
 addappid(2101960, 1, "ec96530e1a837a72f0812565ce111a52f7a5a2815456bcd0d1d0ea9663834afd") --Mainappid Cronos: The New Dawn
 addtoken(2101960, "2704160378812211529")
 addappid(2101961, 1, "7f2c42a3171b51a0ea7463a8acbf143d1341f27c8e7babad3fa9eeef66f133eb") --Main Windows Depot Cronos: The New Dawn
-setManifestid(2101961, "7413665617495231317", 22972219056)
+setManifestid(2101961, "3735396004526250260", 23030609312)
 addappid(2101962, 1, "d3f3ea72d940025825a5859f4747ec70d37c6b3df38f8ec038c1c70911d4e0ac") --Main Linux Depot Cronos: The New Dawn
-setManifestid(2101962, "8662209173710427597", 20623403664)
+setManifestid(2101962, "7364794673626082818", 20686077168)
 addappid(2101965, 1, "30689a8a7fd4b8afac63815d91719c1a0b9bf47b1487b2ab8c6397a823ba0c27") --Main Macos Depot Cronos: The New Dawn
 setManifestid(2101965, "8692998544696887968", 22701249568)
 --Dlcname Cronos: The New Dawn - Artbook
