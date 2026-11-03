@@ -1,7 +1,7 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 4115450.lua
 --Gamename Phantom Blade Zero
-addappid(4115450) --Mainappid Phantom Blade Zero
+addappid(4115450, 1, "297a54d1db20c2d1e2c932dcf8c49f16933eec12e1dc20c8efb1d378c858e4c8") --Mainappid Phantom Blade Zero
 addappid(4115451, 1, "44675a1e5068ae834e14eea59fc351cd0323eab43481ca5799d9720fd157a105") --Main Windows Depot Phantom Blade Zero
 setManifestid(4115451, "7450216563795868763", 148285013680)
 --Share Depots
