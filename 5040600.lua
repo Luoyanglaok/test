@@ -3,7 +3,7 @@
 --Gamename Relaxation Massage Studio
 addappid(5040600) --Mainappid Relaxation Massage Studio
 addappid(5040601, 1, "b94be0d411862dd6f0d554a9b688d97705f7a8b881175ec83ba70a008adaaf4b") --Main Windows Depot Relaxation Massage Studio
-setManifestid(5040601, "5862699051341651322", 7826591040)
+setManifestid(5040601, "3423790762432880507", 7826704400)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
