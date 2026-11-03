@@ -3,7 +3,7 @@
 --Gamename 明末：欲火重生
 addappid(3948550) --Mainappid 明末：欲火重生
 addappid(3948551, 1, "eb895a846a8c7c7994f348874fb9f061da893a807c5fa6a89b5f2cdc11a8a20b") --Main Windows Depot 明末：欲火重生
-setManifestid(3948551, "9216403168307565514", 5870606560)
+setManifestid(3948551, "7505831659657467430", 6290455184)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
