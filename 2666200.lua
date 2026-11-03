@@ -1,3 +1,6 @@
-addappid(2666200)
-addappid(2666201,0,"03e4d09c61a93a599c0394ddbf180dafd3be1c66009270b3135fa0c631e81758")
-setManifestid(2666201,"8482278013398585910")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2666200.lua
+--Gamename SEX Massage 🔞
+addappid(2666200) --Mainappid SEX Massage 🔞
+addappid(2666201, 1, "03e4d09c61a93a599c0394ddbf180dafd3be1c66009270b3135fa0c631e81758") --Main Windows Depot SEX Massage 🔞
+setManifestid(2666201, "8482278013398585910", 1094140560)
