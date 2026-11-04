@@ -15,3 +15,4 @@ addappid(1844910) --Dlcname Ready or Not: Supporter Edition
 addappid(3015760) --Dlcname Ready or Not: Home Invasion
 addappid(3174120) --Dlcname Ready or Not: Dark Waters
 addappid(4224910) --Dlcname Ready or Not: Boiling Point
+addappid(5326990) --Dlcname Ready or Not: Aftermath Set
