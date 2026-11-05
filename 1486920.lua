@@ -3,9 +3,9 @@
 --Gamename Tempest Rising
 addappid(1486920, 1, "4f3870d90f0e6cedd1a0cc4ca85ebe56d874543cb0f2ff9d6f0ef4d76eb4729e") --Mainappid Tempest Rising
 addappid(1486921, 1, "26528db8fe19a223ddd4dbc280b52006e6b4aad5884ce084762e313c91d0de46") --Main Windows Depot Tempest Rising
-setManifestid(1486921, "7902796751138021347", 45845394224)
+setManifestid(1486921, "4993687710206666299", 45848682032)
 addappid(4114220, 1, "d7223a691941d1391a03bd6ecd285fae342bf4af11fc5b0360e4fede115c9bda") --Main Windows Depot Tempest Rising
-setManifestid(4114220, "8664531988283338363", 4898090208)
+setManifestid(4114220, "5772829736860330164", 4896737296)
 --Dlcname Tempest Rising - Digital Artbook
 addtoken(3478250, "832652260017266002")
 addappid(3478250, 1, "9e5ff25c95b392c64f062155f91ef29f7378057b6e0f5e2742daf764e74f0aa4") --Dlcname Tempest Rising - Digital Artbook
