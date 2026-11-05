@@ -4,9 +4,9 @@
 addappid(3282300) --Mainappid Mistfall Hunter
 addtoken(3282300, "18192262520444376697")
 addappid(3282301, 1, "9f7b869c77fc59d473b73126990a24d4f6f45d5d87fe6cc97e6c45e085b8b187") --Main Windows Depot Mistfall Hunter
-setManifestid(3282301, "5487327596442034029", 36783905392)
+setManifestid(3282301, "4227241317773417660", 36889960096)
 addappid(3282302, 1, "bb3b0f6ef8d41954c574b4ca98950102ebe524e81ccee9f67430b750f39a492e") --Main Windows Depot Mistfall Hunter
-setManifestid(3282302, "3514494719937104772", 36753987744)
+setManifestid(3282302, "3195983059217849907", 36856702704)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
