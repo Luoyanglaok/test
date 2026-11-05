@@ -3,7 +3,7 @@
 --Gamename HITMAN World of Assassination
 addappid(1659040, 1, "5390a1942e4032c44876f6896fa8169bff61161a13f379433575053c4fe38c02") --Mainappid HITMAN World of Assassination
 addappid(1659041, 1, "891bd9670c03fa74065659fe448680b55b5279707dfe40493d5f00372e02b42f") --Main Windows Depot HITMAN World of Assassination
-setManifestid(1659041, "4825366641951946410", 75361098176)
+setManifestid(1659041, "8769533441894878410", 75361098736)
 addappid(1659042, 1, "a4a03eaeb99e5848f2074a8902ce896268489ec313300285a521885c807e263c") --Main Macos Depot HITMAN World of Assassination
 setManifestid(1659042, "5533001499037702690", 66810907952)
 addappid(1829587, 1, "7f139e3a632fe7e782856995965d4b28185d6ef5fd190966386f65c31accf0ad") --Main Windows Depot HITMAN World of Assassination
