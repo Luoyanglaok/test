@@ -3,7 +3,7 @@
 --Gamename Escape from Tarkov
 addappid(3932890, 1, "a43bd6d20ab68d15d5edc9aec0debd22d72fdec082c14b60593dc6e16cf79aac") --Mainappid Escape from Tarkov
 addappid(3932891, 1, "8cf57d9d3c35a5371e82341a2a0aa834b0f4edc929ae700566d6b2ebe66e7210") --Main Windows Depot Escape from Tarkov
-setManifestid(3932891, "2984756362093442554", 50176230064)
+setManifestid(3932891, "5279209790786665898", 50174138064)
 addappid(3932892, 1, "6a03571f28db62fb25aa43c1c39bf870b8848c97b3624dd0e846023438411904") --Main Windows Depot Escape from Tarkov
 setManifestid(3932892, "2258889601507259300", 173818016)
 --Share Depots
