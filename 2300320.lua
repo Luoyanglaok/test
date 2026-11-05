@@ -3,9 +3,9 @@
 --Gamename Farming Simulator 25
 addappid(2300320, 1, "7c0ac74f428b6c8d7c059b22347a2bcc3b6cc11ae5f142dba0327533ce49b52c") --Mainappid Farming Simulator 25
 addappid(2300321, 1, "e5e857b4939e3993f78ae1bfa1857aa4dca14c90680aec0e63f48565c885c2ae") --Main Windows Depot Farming Simulator 25
-setManifestid(2300321, "2319743482285728550", 24252335984)
+setManifestid(2300321, "8381850046497288158", 24250114624)
 addappid(2300322, 1, "e60dffe1f9b3a6f6fb4475045e0d66ec6a40410ffb036ce2dd37fd88c3acd6a5") --Main Macos Depot Farming Simulator 25
-setManifestid(2300322, "8958556468878716127", 22684868944)
+setManifestid(2300322, "3077778162014848161", 22682606464)
 addappid(2300323, 1, "3de49a7eee583d841ab3194df793f8db9fe186930c8623d2a864a81ff5586afd") --Main Windows Language Depot English Farming Simulator 25
 setManifestid(2300323, "1550107122794757569", 0)
 addappid(2300324, 1, "f8938589cbd4ca4f7c8031839fe15759ac1c8c79ef2eaef69e6a00241703a2c5") --Main Windows Language Depot German Farming Simulator 25
@@ -87,7 +87,7 @@ addappid(4651570, 1, "01db07db648105515fd656c7dba1789dab4308b0faeeb1c1ab9b69d337
 setManifestid(4651570, "8776205804486090063", 334220272)
 --Dlcname Farming Simulator 25: Pumps n' Hoses Pack
 addappid(4664870, 1, "d684fd6204382a91cabca1b229dc5f15f6492ecdc98b20353114cb5a562e3248") --Dlcname Farming Simulator 25: Pumps n' Hoses Pack
-setManifestid(4664870, "6296934085594748366", 707285168)
+setManifestid(4664870, "6705793951913510207", 707285152)
 addappid(2981100) --Dlcname Farming Simulator 25: Year 1 Season Pass
 addappid(3453810) --Dlcname Farming Simulator 25: Year 2 Season Pass
 --Missing Dlcs
