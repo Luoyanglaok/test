@@ -3,7 +3,7 @@
 --Gamename One Million Coins
 addappid(5258340) --Mainappid One Million Coins
 addappid(5258341, 1, "243c44ec9143e17da3961ca8d0903fae053d0153d6db565218ee2af23baceb7c") --Main Windows Depot One Million Coins
-setManifestid(5258341, "2254722413092829055", 164962048)
+setManifestid(5258341, "5357791939218303898", 181516128)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
