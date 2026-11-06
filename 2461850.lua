@@ -1,5 +1,11 @@
-addappid(2461850)
-setManifestid(228989,"3514306556860204959")
-setManifestid(228990,"1829726630299308803")
-addappid(2461851,0,"20ebd57bddf344eb01febcbdaa20afc8b1a8fe7e4bdbeecc88ca520b0df44560")
-setManifestid(2461851,"8763532073516055148")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2461850.lua
+--Gamename Hellblade II: Senua’s Saga
+addappid(2461850) --Mainappid Hellblade II: Senua’s Saga
+addappid(2461851, 1, "20ebd57bddf344eb01febcbdaa20afc8b1a8fe7e4bdbeecc88ca520b0df44560") --Main Windows Depot Hellblade II: Senua’s Saga
+setManifestid(2461851, "4350341503723460090", 46856725104)
+--Share Depots
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228989, "5753583882400741046", 25108528)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228990, "1829726630299308803", 100658080)
