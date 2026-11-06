@@ -4,7 +4,7 @@
 addappid(2483190, 1, "bca2f0f9973d929c2c6bae884058b8bf7934e9ecc8ff34d584450dfbb3215040") --Mainappid Forza Horizon 6
 addtoken(2483190, "2264898939686399139")
 addappid(2483191, 1, "f2a09f0a31b4df681ec0d2d572f368dfa4cd6c37ae67ebdfd591cfbe1334fcd9") --Main Windows Depot Forza Horizon 6
-setManifestid(2483191, "5620372312999737729", 152920546544)
+setManifestid(2483191, "8260642490601717688", 152920463024)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
