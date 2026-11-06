@@ -3,7 +3,7 @@
 --Gamename Chained Together
 addappid(2567870, 1, "3eb4ccd36ec5b43258c3051d9614925915db0d976e68e89c79eb4a576ac0bcd9") --Mainappid Chained Together
 addappid(2567871, 1, "84ff26693d69b1f13f653ad7d1a182142a2a5049bf0ce8dc73735d955d3cb186") --Main Windows Depot Chained Together
-setManifestid(2567871, "7557936190977295836", 7864844352)
+setManifestid(2567871, "6371192557095779975", 8191906928)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
@@ -16,3 +16,4 @@ setManifestid(229003, "8740933542064151477", 42914928)
 addappid(229007, 1, "eba9fa9ff4f811929c119074450f49f739113bcae9317ded9bea262aa21ec58d") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(229007, "4477590687906973371", 118846656)
 addappid(4948760) --Dlcname Chained Together - Supporter Pack
+addappid(4948770) --Dlcname AppID 4948770
