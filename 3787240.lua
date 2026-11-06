@@ -3,7 +3,7 @@
 --Gamename MARVEL Tōkon: Fighting Souls
 addappid(3787240) --Mainappid MARVEL Tōkon: Fighting Souls
 addappid(3787241, 1, "bf2facc10027681f29ed4be380c37d63e38063a45ae478290aa3eae4da76db6a") --Main Windows Depot MARVEL Tōkon: Fighting Souls
-setManifestid(3787241, "4336772765009451125", 25199709952)
+setManifestid(3787241, "3595549527433214242", 26019442640)
 --Dlcname MARVEL Tōkon: Fighting Souls – Standard – Ultimate Edition Upgrade
 addappid(5030920, 1, "a4ce49332b55702216763ab082b9a974b55dc4671f4dcf08373d04d0147d536a") --Dlcname MARVEL Tōkon: Fighting Souls – Standard – Ultimate Edition Upgrade
 --Dlcname MARVEL Tōkon: Fighting Souls – Deluxe – Ultimate Edition Upgrade
@@ -23,3 +23,6 @@ addappid(4848570) --Dlcname MARVEL Tōkon: Fighting Souls - Storm Punk Rock Cost
 addappid(4848580) --Dlcname MARVEL Tōkon: Fighting Souls - Iron Man Classic Costume
 addappid(4848590) --Dlcname MARVEL Tōkon: Fighting Souls - Captain America Classic Costume
 addappid(4848600) --Dlcname MARVEL Tōkon: Fighting Souls - Doctor Doom Supreme Ruler Costume
+addappid(5185300) --Dlcname MARVEL Tōkon: Fighting Souls – Phoenix Cyclops
+addappid(5246710) --Dlcname MARVEL Tōkon: Fighting Souls – Phoenix Cyclops Classic Costume Pack
+addappid(5246750) --Dlcname MARVEL Tōkon: Fighting Souls – Hulk Joe Fixit Costume Pack
