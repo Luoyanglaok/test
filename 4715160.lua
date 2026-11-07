@@ -3,7 +3,7 @@
 --Gamename Finals Week ✍🏻
 addappid(4715160) --Mainappid Finals Week ✍🏻
 addappid(4715161, 1, "b7512b76632bd7a88b49f91ec700cb9c9964bc24277a5a2033ada8f25bc7eb48") --Main Windows Depot Finals Week ✍🏻
-setManifestid(4715161, "464649634933545019", 1301501200)
+setManifestid(4715161, "478376152796061583", 1267892432)
 addappid(4715162, 1, "90b3f9734a64ddd6ad482b4ade09fa5181355c7574302fa42691a94259cbaf71") --Main Windows Depot Finals Week ✍🏻
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
