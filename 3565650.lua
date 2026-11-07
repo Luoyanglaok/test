@@ -1,3 +1,7 @@
-addappid(3565650)
-addappid(3565651,0,"66642bd3473db5c4925c57c7c1d5abd71fcf11ad8f82ccfbb36c604a0c6394cc")
-setManifestid(3565651,"3782415509101524177")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 3565650.lua
+--Gamename Drone Simulator VR
+addappid(3565650) --Mainappid Drone Simulator VR
+addappid(3565651, 1, "66642bd3473db5c4925c57c7c1d5abd71fcf11ad8f82ccfbb36c604a0c6394cc") --Main Windows Depot Drone Simulator VR
+setManifestid(3565651, "2560978496800529577", 369466672)
+addappid(4481890) --Dlcname Caffeine Carrier
