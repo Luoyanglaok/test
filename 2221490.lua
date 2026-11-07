@@ -3,25 +3,25 @@
 --Gamename Tom Clancy’s The Division® 2
 addappid(2221490, 1, "ad795f09fbf6f1b18b6d355ac86eeedf4ab361ff65253bdf126f85e3b7bf1b1f") --Mainappid Tom Clancy’s The Division® 2
 addappid(2221491, 1, "c1bcc3effbf8f9a08114de2d5d1aa3566e3b6d1598cf0575f174c8a515253d52") --Main Windows Depot Tom Clancy’s The Division® 2
-setManifestid(2221491, "1544422626416534340", 97332244928)
+setManifestid(2221491, "8304928595492940552", 94952432192)
 addappid(2221493, 1, "4a6ca4d7aba34c6bd5610356b9376b677f46bc51626d709798bc62bb259ce9ec") --Main Windows Language Depot French Tom Clancy’s The Division® 2
-setManifestid(2221493, "3850305554152431132", 2777330320)
+setManifestid(2221493, "5518049164915673000", 2935689184)
 addappid(2221494, 1, "e24ec08305a5c93445186239740fbb352895b8d8cc21bf45c896c3022abff8c2") --Main Windows Language Depot Italian Tom Clancy’s The Division® 2
-setManifestid(2221494, "5400730481639066889", 2894787328)
+setManifestid(2221494, "1834506913055746475", 2991639168)
 addappid(2221495, 1, "98e9fa9338ab3a9281c906e23368fdbe20981ae5e4cfa8f2e75dd7ccba4d9145") --Main Windows Language Depot German Tom Clancy’s The Division® 2
-setManifestid(2221495, "7377644914114760879", 2797289712)
+setManifestid(2221495, "3115030342884144467", 2930267552)
 addappid(2221496, 1, "aa48fd4ef9a8e1ac4441333f7663c2bf89b03ce8ebcea88eda787494395a6d1d") --Main Windows Language Depot Spanish Tom Clancy’s The Division® 2
-setManifestid(2221496, "5287551336326926766", 2903356800)
+setManifestid(2221496, "1957641746681572363", 3068332960)
 addappid(2221497, 1, "cc92f847586fe819ba20318130af261e168540f20df523954079c316f8e2d22d") --Main Windows Language Depot Latam Tom Clancy’s The Division® 2
-setManifestid(2221497, "4558789785581152364", 2840146720)
+setManifestid(2221497, "4675319282987514550", 2998805120)
 addappid(2221498, 1, "a69e9ccf948e6813ed344faa6a164e5721b2d301bdb7d3b8901aa2dd68a875ff") --Main Windows Language Depot Brazilian Tom Clancy’s The Division® 2
-setManifestid(2221498, "2620768349240435505", 2794939040)
+setManifestid(2221498, "8124923613044027020", 2932554144)
 addappid(2221499, 1, "bfb3ec4c927afbda0ccc1e5a5707e6695d618f0e3f6ad4168686782d4c8e317d") --Main Windows Language Depot Russian Tom Clancy’s The Division® 2
-setManifestid(2221499, "2183711803563981353", 2837374432)
+setManifestid(2221499, "6788106484327841148", 2965489424)
 addappid(2222561, 1, "31b6f8f7aa32fa310f71c9638ac76179d1d87affaec821f64ef5c5fcc6081ef6") --Main Windows Language Depot Japanese Tom Clancy’s The Division® 2
-setManifestid(2222561, "1669587881289747002", 2731305040)
+setManifestid(2222561, "4370510006279080180", 2915758992)
 addappid(2222562, 1, "0518808cf00b8c1264b30464d91e336d50175ddddf2ca301d6a09fd79b2ac8ca") --Main Windows Language Depot Arabic Tom Clancy’s The Division® 2
-setManifestid(2222562, "4105951339075836853", 2943835696)
+setManifestid(2222562, "770631784853793938", 3054696928)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
@@ -40,7 +40,7 @@ addappid(2225120) --Dlcname The Division 2 – One-Time Offer Pack
 addappid(2225121) --Dlcname The Division 2 – One-Time Offer Pack Ubisoft Activation
 addappid(2424600) --Dlcname Tom Clancy's The Division 2 - Full Game Ownership
 addappid(2424601) --Dlcname Tom Clancy's The Division 2 - Free Weekend Ownership
-addappid(2560550) --Dlcname AppID 2560550
+addappid(2560550) --Dlcname The Division 2 – One-Time Offer Pack 3
 addappid(2560560) --Dlcname The Division 2 – One-Time Offer Pack 3 Ubisoft Activation
 addappid(2927620) --Dlcname The Division 2 - One time offer Wrapped Pack (2024)
 addappid(2927630) --Dlcname The Division 2 - One time offer Wrapped Pack (2024) - Ubisoft Activation
@@ -94,3 +94,4 @@ addappid(4974000) --Dlcname Tom Clancy’s The Division 2 – Red Horizon Supply
 addappid(4974010) --Dlcname Tom Clancy’s The Division 2 – Red Horizon Supply Drop Ubisoft Activation
 addappid(4974020) --Dlcname Tom Clancy’s The Division 2 – Classic Mask Pack
 addappid(4974030) --Dlcname Tom Clancy’s The Division 2 – Classic Mask Pack Ubisoft Activation
+addappid(5109160) --Dlcname New York Collection - Tom Clancy's The Division 2
