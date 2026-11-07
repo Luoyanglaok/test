@@ -22,7 +22,7 @@ setManifestid(3751959, "6456623308878089663", 247051200)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
-setManifestid(1716751, "9195087212945014229", 262797760)
+setManifestid(1716751, "6945505966615327303", 262989248)
 addappid(4496490) --Dlcname Assassin's Creed Black Flag Resynced - Master Assassin Character Pack
 addappid(4496500) --Dlcname Assassin's Creed Black Flag Resynced - Master Assassin Character Pack - Ubisoft Activation
 addappid(4496510) --Dlcname Assassin's Creed Black Flag Resynced - Master Assassin Naval Pack
