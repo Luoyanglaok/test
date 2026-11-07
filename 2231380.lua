@@ -3,15 +3,15 @@
 --Gamename Tom Clancy's Ghost Recon® Breakpoint
 addappid(2231380, 1, "532e82496f299ee3bb05f98b3df9360998fecf60d48ea2c16fa01f22ca5b2f50") --Mainappid Tom Clancy's Ghost Recon® Breakpoint
 addappid(2231382, 1, "3eccdc4fe84bf82f170bd4191cd7b7276ea7de0000cdb265f9fdee98866f4694") --Main Windows Depot Tom Clancy's Ghost Recon® Breakpoint
-setManifestid(2231382, "1993549197604068611", 646715184)
+setManifestid(2231382, "2456566027691634863", 647162976)
 addappid(2231384, 1, "97daefda6409a51ba03417fbda4543fa4243f92fa4d01149a45cb2c023b06139") --Main Windows Depot Tom Clancy's Ghost Recon® Breakpoint
-setManifestid(2231384, "6191132130783445275", 41852456480)
+setManifestid(2231384, "7328234455169329768", 41866813888)
 addappid(2231385, 1, "c301efddb00c1c611404d3d699f66a465b89ea31fe2e856f5c68b2e36c8073e4") --Main Windows Depot Tom Clancy's Ghost Recon® Breakpoint
 setManifestid(2231385, "7528150003558617508", 4573967856)
 addappid(2231386, 1, "2e4d26cc33df94480ca39c95d50e7a5cba563db2adccfa27919d57cd21d24881") --Main Windows Depot Tom Clancy's Ghost Recon® Breakpoint
-setManifestid(2231386, "3871716644723181897", 4361278832)
+setManifestid(2231386, "1939049963347663169", 4361280032)
 addappid(2231387, 1, "ccf35f023a6305a5d69c60b2bd0fe811320df81a0d9b92d19f20da57bfdd056f") --Main Windows Depot Tom Clancy's Ghost Recon® Breakpoint
-setManifestid(2231387, "356052933198522110", 1792)
+setManifestid(2231387, "3075379585504944189", 2496)
 addappid(2231388, 1, "0d1ca6bda2c76ae21d204b17b1eb8eee034768f27ead5ba98a99f69b84d614af") --Main Windows Depot Tom Clancy's Ghost Recon® Breakpoint
 setManifestid(2231388, "8875633676323003036", 1696)
 addappid(2231389, 1, "e32f9de7fa46187d18ec2cc9c7f14bd1b4a6c94e2d030a5540ffa47bde1724ce") --Main Windows Depot Tom Clancy's Ghost Recon® Breakpoint
@@ -50,7 +50,7 @@ setManifestid(228989, "5753583882400741046", 25108528)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
-setManifestid(1716751, "6659642105086821873", 264636800)
+setManifestid(1716751, "6945505966615327303", 262989248)
 addappid(2231390) --Dlcname Ghost Recon Breakpoint Ubisoft Activation
 addappid(2231410) --Dlcname Ghost Recon Breakpoint Year 1 Pass
 addtoken(2231410, "34997637517400695")
