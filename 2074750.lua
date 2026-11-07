@@ -1,3 +1,6 @@
-addappid(2074750)
-addappid(2074751,0,"bc4c67d126b112317091042cc816e2dad30124bec7610d0ab5086895fff0aa23")
-setManifestid(2074751,"2442033745407604531")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2074750.lua
+--Gamename All-In-One Summer Sports VR
+addappid(2074750) --Mainappid All-In-One Summer Sports VR
+addappid(2074751, 1, "bc4c67d126b112317091042cc816e2dad30124bec7610d0ab5086895fff0aa23") --Main Windows Depot All-In-One Summer Sports VR
+setManifestid(2074751, "2442033745407604531", 1045729984)
