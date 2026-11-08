@@ -34,7 +34,7 @@ setManifestid(228988, "6645201662696499616", 22411856)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") --Share Windows Depot EA APP Installer
-setManifestid(3340991, "8430176064263014822", 253144032)
+setManifestid(3340991, "556631282418311229", 253708064)
 addappid(1958731) --Dlcname Need for Speed™ Unbound Palace Upgrade
 addappid(1982930) --Dlcname EA Play Trial Key
 addappid(2055280) --Dlcname NFS 22 - Standard Pre-Order Key
@@ -53,9 +53,9 @@ addappid(2339287) --Dlcname Need for Speed™ Unbound – Trick or Street Swag P
 addappid(2339288) --Dlcname AppID 2339288
 addappid(2566530) --Dlcname Need for Speed™ Unbound - Vol.3 Catch-Up Pack
 addappid(2566540) --Dlcname Need for Speed™ Unbound - Vol.4 Catch-Up Pack
-addappid(2749280) --Dlcname AppID 2749280
+addappid(2749280) --Dlcname Need for Speed™ Unbound - Vol.6 Premium Speed Pass
 addappid(2749290) --Dlcname Need for Speed™ Unbound - Vol.5 Catch-Up Pack
-addappid(2856150) --Dlcname AppID 2856150
+addappid(2856150) --Dlcname Need for Speed™ Unbound - Vol.7 Premium Speed Pass
 addappid(2856160) --Dlcname NEED FOR SPEED UNBOUND - Volume 6 Dynamic Catchup Pack
 addappid(2856170) --Dlcname Need for Speed™ Unbound - Vol.8 Premium Speed Pass
 addappid(2856180) --Dlcname NEED FOR SPEED UNBOUND - Volume 7 Dynamic Catchup Pack
