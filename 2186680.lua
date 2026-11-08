@@ -25,6 +25,7 @@ setManifestid(3622822, "454030696830561158", 962234720)
 addappid(4226770) --Dlcname Warhammer 40,000: Rogue Trader - The Infinite Museion
 addappid(4226771, 1, "1c77fac93754bfc4d46472bbe88f1c773724e6fc1881d762e8f3f8617bbea087") --Dlc Windows Depot Warhammer 40,000: Rogue Trader - The Infinite Museion
 setManifestid(4226771, "22383197344438409", 992707280)
+addappid(5247570) --Dlcname Warhammer 40,000: Rogue Trader - Processional of the Damned
 --Missing Dlcs
 --Dlcname Warhammer 40,000: Rogue Trader - Voidfarer Pack
 --Dlcname Warhammer 40,000: Rogue Trader - Season Pass
