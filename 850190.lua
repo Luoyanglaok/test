@@ -15,3 +15,4 @@ addappid(3204290) --Dlcname Goat Simulator 3 - Hocus Pocus Pack
 addappid(3299590) --Dlcname Goat Simulator 3 - Super Duper Pack
 addappid(3708030) --Dlcname Goat Simulator 3 – Baadlands: Furry Road
 addappid(4370220) --Dlcname Goat Simulator 3 – Buck to the Future Pack
+addappid(4882180) --Dlcname Goat Simulator 3 – Ticket to Dizzyworld
