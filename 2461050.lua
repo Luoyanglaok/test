@@ -1,3 +1,6 @@
-addappid(2461050)
-addappid(2461052,0,"6d2bdb440edff19e5cf3e558f6e6ec15de7c498e40a7e479aef0f073c5eb171f")
-setManifestid(2461052,"4052924560011856560")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2461050.lua
+--Gamename 晨昏线
+addappid(2461050) --Mainappid 晨昏线
+addappid(2461052, 1, "6d2bdb440edff19e5cf3e558f6e6ec15de7c498e40a7e479aef0f073c5eb171f") --Main Windows Language Depot Schinese 晨昏线
+setManifestid(2461052, "4052924560011856560", 21660224864)
