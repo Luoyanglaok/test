@@ -1,13 +1,19 @@
-addappid(39140)
-setManifestid(228982,"6413394087650432851")
-setManifestid(228990,"1829726630299308803")
-addappid(39142,0,"6c12a4e6828b3bd8eeb3294935f557c79117d257785c190879a535ad7164f7f7")
-setManifestid(39142,"208551466200385657")
-addappid(39143,0,"4b1ecafba0774002e5b0c67cdf69acb6ed7353144d590a621ab2dcfcf0777059")
-setManifestid(39143,"1726957378011170066")
-addappid(39144,0,"97cb41a02102e64a1c1b6a9c0e2ae4d1fae52751d0f71dd7d44a16c431474055")
-setManifestid(39144,"6574848179124542893")
-addappid(39145,0,"4f2dfd13b0eb9dbb995032ccce71f77fc84e9fd051a39d0cd24ce8271ad57c63")
-setManifestid(39145,"9099229143834763732")
-addappid(39146,0,"c6bdbe14b1e561e938fd570d35d1d9825ca2816c43c5f93525c04b1d1c935ab0")
-setManifestid(39146,"7654531756823292283")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 39140.lua
+--Gamename FINAL FANTASY VII (2013)
+addappid(39140, 1, "1a21e9b86b7956dc8adb00c2ef5da113c18c5a8f3f264a7275ae320b555ff224") --Mainappid FINAL FANTASY VII (2013)
+addappid(39142, 1, "6c12a4e6828b3bd8eeb3294935f557c79117d257785c190879a535ad7164f7f7") --Main Windows Depot FINAL FANTASY VII (2013)
+setManifestid(39142, "208551466200385657", 0)
+addappid(39143, 1, "4b1ecafba0774002e5b0c67cdf69acb6ed7353144d590a621ab2dcfcf0777059") --Main Windows Language Depot English FINAL FANTASY VII (2013)
+setManifestid(39143, "1726957378011170066", 0)
+addappid(39144, 1, "97cb41a02102e64a1c1b6a9c0e2ae4d1fae52751d0f71dd7d44a16c431474055") --Main Windows Language Depot French FINAL FANTASY VII (2013)
+setManifestid(39144, "6574848179124542893", 0)
+addappid(39145, 1, "4f2dfd13b0eb9dbb995032ccce71f77fc84e9fd051a39d0cd24ce8271ad57c63") --Main Windows Language Depot German FINAL FANTASY VII (2013)
+setManifestid(39145, "9099229143834763732", 0)
+addappid(39146, 1, "c6bdbe14b1e561e938fd570d35d1d9825ca2816c43c5f93525c04b1d1c935ab0") --Main Windows Language Depot Spanish FINAL FANTASY VII (2013)
+setManifestid(39146, "7654531756823292283", 0)
+--Share Depots
+addappid(228982, 1, "fa2997f03c3576c41174f200596ab2246fd1e39c0911f9b869e92635ae5b0ff5") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228982, "6413394087650432851", 9650016)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228990, "1829726630299308803", 100658080)
