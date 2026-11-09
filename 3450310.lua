@@ -3,11 +3,11 @@
 --Gamename Europa Universalis V
 addappid(3450310, 1, "abdc499f4638e2d977e16203b7173a9af729319f625704e136ec1b194032572a") --Mainappid Europa Universalis V
 addappid(3450311, 1, "8e55f9c055e30102dd092568a62262d3e5c812fc6708b9ed1ba03bdbe15dc456") --Main Windows Depot Europa Universalis V
-setManifestid(3450311, "1843869554669924199", 7945104736)
+setManifestid(3450311, "7089855431742306378", 6096963216)
 addappid(3450312, 1, "8e3d3c7051dc0ba1a4320aa4fb02d83724de0150342f7c05e4b1b126f611dfd5") --Main Windows Depot Europa Universalis V
-setManifestid(3450312, "3625260415707585388", 176414896)
+setManifestid(3450312, "1648727326561906501", 179513344)
 addappid(3450313, 1, "559435c494fa76bc572eb78918ebd2a4046f80a9de65280538e793d66f5d34b0") --Main Windows Depot Europa Universalis V
-setManifestid(3450313, "148061723707740060", 270925648)
+setManifestid(3450313, "577003539662198353", 790150928)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
