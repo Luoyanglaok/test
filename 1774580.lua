@@ -12,7 +12,7 @@ setManifestid(228988, "6645201662696499616", 22411856)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(3340993, 1, "0f76c015b201b1c8249b6a433ef0873f41ef923a5653bef68f10f8cbc051f414") --Share Windows Depot EA APP Installer
-setManifestid(3340993, "3400044778995579422", 253144016)
+setManifestid(3340993, "7018635051993791731", 253708048)
 addappid(1774590) --Dlcname STAR WARS Jedi: Survivor™ - Standard Edition Key
 addappid(2161370) --Dlcname STAR WARS Jedi: Survivor™ Deluxe Upgrade
 addappid(2161740) --Dlcname STAR WARS Jedi: Survivor™ Deluxe Edition Key
