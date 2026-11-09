@@ -3,11 +3,11 @@
 --Gamename Two Point Museum
 addappid(2185060, 1, "2340a2fa4b9bb44e786eb62e5866d2f8b2b4c5d73c0173273064b5a6424c5d1d") --Mainappid Two Point Museum
 addappid(2185061, 1, "a98101165ba3b99b3d98c5866360aa7cb08eeffd31ec95a9d024a824ff57c792") --Main Windows Depot Two Point Museum
-setManifestid(2185061, "3575002683203477905", 5282857696)
+setManifestid(2185061, "5511300802320527074", 5278057088)
 addappid(2185062, 1, "50e06e5a50d397f8af97494176ecfb9f75bb4082443bbe1fb111f44715c18d61") --Main Macos Depot Two Point Museum
-setManifestid(2185062, "9010025452648441538", 5141618368)
+setManifestid(2185062, "4138123137759458018", 5141831904)
 addappid(2185063, 1, "e68d0e65f0ced4a31e4932edecd8ff65ad2f1b503bff1b0e74faa05ae4d5356c") --Main Linux Depot Two Point Museum
-setManifestid(2185063, "2362808601389078297", 5230919680)
+setManifestid(2185063, "3913008428060350272", 5231512848)
 --Dlcname Two Point Museum: Sonic Pre-Purchase Pack
 addappid(2999840) --Dlcname Two Point Museum: Sonic Pre-Purchase Pack
 addappid(2999841, 1, "17c8f80c3b69386aa95d085d8d9acf78ded50c7d234c3fe760843b1854e57d5d") --Dlc Windows Depot Two Point Museum: Sonic Pre-Purchase Pack
@@ -27,27 +27,27 @@ setManifestid(2999853, "2992186165346054667", 21539120)
 --Dlcname Two Point Museum: Fantasy Finds
 addappid(3592600) --Dlcname Two Point Museum: Fantasy Finds
 addappid(3592601, 1, "8fc6c6248dc796e6fd5cc6834560bebbe05cd43fca1209ce06cd28d42a3421b1") --Dlc Windows Depot Two Point Museum: Fantasy Finds
-setManifestid(3592601, "2930281299074388412", 116564480)
+setManifestid(3592601, "6887770735960617115", 116564496)
 addappid(3592602, 1, "f176a616fceffd4977533324e8cbecec75de625ac741be1563f35bc159674382") --Dlc Macos Depot Two Point Museum: Fantasy Finds
-setManifestid(3592602, "6897590293045373505", 116650080)
+setManifestid(3592602, "3212297412147037738", 116650080)
 addappid(3592603, 1, "d0e5329d3415a09f040f4c36085ad1ecbe427e72f8505095a0798f4d0068b0e9") --Dlc Linux Depot Two Point Museum: Fantasy Finds
-setManifestid(3592603, "2341381729610601625", 116575424)
+setManifestid(3592603, "8885018600899933943", 116575440)
 --Dlcname Two Point Museum: Zooseum
 addappid(3804850) --Dlcname Two Point Museum: Zooseum
 addappid(3804851, 1, "245b7148e9c97035fcc19d3bb6286994fe4bbfec32c17a6803f915ce8704d421") --Dlc Windows Depot Two Point Museum: Zooseum
-setManifestid(3804851, "2438709162745455203", 112642944)
+setManifestid(3804851, "306993508571332406", 112642880)
 addappid(3804852, 1, "a583d14bddd9f6fc992424ce67bf9b15784a5f4955af01eb3cd14f80a12d606d") --Dlc Macos Depot Two Point Museum: Zooseum
-setManifestid(3804852, "7207139615678253641", 112896960)
+setManifestid(3804852, "4855928696207523857", 112896896)
 addappid(3804853, 1, "1e6e361d4b7c2b23303f99e11c058d5e82c3112aa3f0111e1ae7966c40e0070b") --Dlc Linux Depot Two Point Museum: Zooseum
-setManifestid(3804853, "4012538330133541810", 112669488)
+setManifestid(3804853, "6345054690351311707", 112669424)
 --Dlcname Two Point Museum: Arty-Facts
 addappid(4114070) --Dlcname Two Point Museum: Arty-Facts
 addappid(4114071, 1, "a1d52a9452a4435e6c078aee4682ae820a960536c98fa626d6e5e61893c378c8") --Dlc Windows Depot Two Point Museum: Arty-Facts
-setManifestid(4114071, "137945104075648603", 42272288)
+setManifestid(4114071, "1060219192389237444", 42272304)
 addappid(4114072, 1, "b1870e3cbcf57e05514e6f01a40edd9ec1d180a6d845c3688f2c308f13727389") --Dlc Macos Depot Two Point Museum: Arty-Facts
-setManifestid(4114072, "3436822938476336653", 42269104)
+setManifestid(4114072, "1107533794641626599", 42269120)
 addappid(4114073, 1, "327160d1fe32acf1828908f9ba8a7bd8093de255be16c02f2f41186f5b95884b") --Dlc Linux Depot Two Point Museum: Arty-Facts
-setManifestid(4114073, "4583756193941860244", 42268752)
+setManifestid(4114073, "7446614187806024462", 42268768)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
