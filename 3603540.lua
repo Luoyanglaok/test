@@ -1,3 +1,6 @@
-addappid(3603540)
-addappid(3603541,0,"c1986936d03db2ee8464a781c38343fbf678c6df790592a3304b2a4777ac007f")
-setManifestid(3603541,"8210905296759688963")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 3603540.lua
+--Gamename 전설의 반팅
+addappid(3603540) --Mainappid 전설의 반팅
+addappid(3603541, 1, "c1986936d03db2ee8464a781c38343fbf678c6df790592a3304b2a4777ac007f") --Main Windows Depot 전설의 반팅
+setManifestid(3603541, "8210905296759688963", 14420183200)
