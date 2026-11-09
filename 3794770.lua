@@ -1,0 +1,6 @@
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 3794770.lua
+--Gamename Island of Hearts
+addappid(3794770) --Mainappid Island of Hearts
+addappid(3794771, 1, "7b79d0b03a649d3a80e8bf662192be4fd7847007549c55ed51a197c3fee913d6") --Main Windows/Linux Depot Island of Hearts
+setManifestid(3794771, "1447188636263194293", 45515636960)
