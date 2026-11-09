@@ -1,3 +1,6 @@
-addappid(2551690)
-addappid(2551691,0,"3a04f94ed2cafffc0100f6613a8bb459acd456ee7f2b4be08193bbbbe94f74d4")
-setManifestid(2551691,"3108418460739269663")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 2551690.lua
+--Gamename Sex Bar Simulator 🍸🔞
+addappid(2551690) --Mainappid Sex Bar Simulator 🍸🔞
+addappid(2551691, 1, "3a04f94ed2cafffc0100f6613a8bb459acd456ee7f2b4be08193bbbbe94f74d4") --Main Windows Depot Sex Bar Simulator 🍸🔞
+setManifestid(2551691, "3108418460739269663", 1904713984)
