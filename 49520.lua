@@ -223,9 +223,9 @@ setManifestid(224149, "4916601746158975065", 121241440)
 --Dlcname Borderlands 2: Collectors Edition
 addappid(213781, 1, "c8a7720fe6db351a9f330859089d0c3326ac4f38e6dee9f8ad4d866c5f450c82") --Dlcname Borderlands 2: Collectors Edition
 setManifestid(213781, "7451648490842175878", 0)
---Dlcname AppID 213782
+--Dlcname Borderlands 2: Collectors Edition OSX
 addtoken(213782, "5154669132489965769")
-addappid(213782, 1, "222cf42f9f8de5a1a5f25e2d52beabc5cb09a2efcccf05778c6d1eff511138bf") --Dlcname AppID 213782
+addappid(213782, 1, "222cf42f9f8de5a1a5f25e2d52beabc5cb09a2efcccf05778c6d1eff511138bf") --Dlcname Borderlands 2: Collectors Edition OSX
 setManifestid(213782, "4812614628647792041", 480)
 --Dlcname Borderlands 2: Tiny Tina's Assault on Dragon Keep
 addappid(218550) --Dlcname Borderlands 2: Tiny Tina's Assault on Dragon Keep
