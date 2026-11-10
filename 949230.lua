@@ -3,7 +3,7 @@
 --Gamename Cities: Skylines II
 addappid(949230, 1, "2a4970e8d95903b25232f2b52969d28e3d67edd6f90b3b8105649ff5175c0322") --Mainappid Cities: Skylines II
 addappid(949231, 1, "eadf0796a624164bd8838fc14a95bd34b9c41e87048bbb4a23b86f0b77c1fb67") --Main Windows Depot Cities: Skylines II
-setManifestid(949231, "759759680630981357", 74477358464)
+setManifestid(949231, "2354889596596845750", 74592790016)
 addappid(2427741, 1, "d2166f8c2e87ec7b0900a190c9cc19ee010fdd65fd616e23a0f5e7c86ab7f6b4") --Main Windows Depot Cities: Skylines II
 setManifestid(2427741, "438974973343020455", 661469248)
 addappid(2427742, 1, "10f591eaa4714450e076677b7e7769008213ced4a34ee7d8680ab9e56ef4fe49") --Main Windows Depot Cities: Skylines II
