@@ -1,9 +1,9 @@
 -- Downloaded using DepotBox - https://depotbox.org/
 -- Original file: 2828710.lua
 --Gamename Valor Mortis
-addappid(2828710) --Mainappid Valor Mortis
+addappid(2828710, 1, "c60a39aed552498b0f0fc6c8cc936984029fc203e5a1dc254a5f4f668864224b") --Mainappid Valor Mortis
 addappid(2828711, 1, "3aa7bf74ac09da6be0b60fa92b918131bca6fa16306a8b4bd1a9084fd06a54e0") --Main Windows Depot Valor Mortis
-setManifestid(2828711, "7053690215828321224", 41544610000)
+setManifestid(2828711, "1259315867882808026", 41813908464)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
