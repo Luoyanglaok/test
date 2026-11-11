@@ -3,23 +3,23 @@
 --Gamename Hogwarts Legacy
 addappid(990080, 1, "da8234fa54a6758153c90b4d013b5a5e41930ef8a22c1e42729949bb890e0c55") --Mainappid Hogwarts Legacy
 addappid(990081, 1, "99edd7f3221635d93481770b28ebac240488e1f42cf16f01e5a4e744b0944da6") --Main Windows Depot Hogwarts Legacy
-setManifestid(990081, "5198899101792588169", 70605758608)
+setManifestid(990081, "6379231738564638225", 70717843728)
 addappid(990082, 1, "ac55581fbdef1f6687f91654d435e2d4c395d2fa56eb5aba4fa52d708118157e") --Main Windows Depot Hogwarts Legacy
-setManifestid(990082, "7167310505439807086", 2292093440)
+setManifestid(990082, "8104224281025561238", 2292875216)
 addappid(990083, 1, "2326f907ccd6ebfc8235495fbb2abd7b12d814a3228cd3b0bf480f7c602c87f5") --Main Windows Language Depot French Hogwarts Legacy
-setManifestid(990083, "6256883361539505915", 2496109520)
+setManifestid(990083, "87102313616132654", 2496773200)
 addappid(990084, 1, "f043f2ca0cfbbaf5fcb6e30d4beb1a20ba5ef293db11dc4e5521bdfa8a7fdfe0") --Main Windows Language Depot German Hogwarts Legacy
-setManifestid(990084, "4878463996609114776", 2488506304)
+setManifestid(990084, "4015983957446791756", 2489524992)
 addappid(990085, 1, "b7d07ff314786df30f9d32266a2e88cd026fabaffbd2567dbc1637cd319ef996") --Main Windows Language Depot Spanish Hogwarts Legacy
-setManifestid(990085, "109909038347739340", 2588590272)
+setManifestid(990085, "4213855429389586863", 2589211056)
 addappid(990086, 1, "d9814846faaa5f83e45151bec5190062e320c6b9a6842e7722ed51293a29a667") --Main Windows Language Depot Latam Hogwarts Legacy
-setManifestid(990086, "7173744932268868207", 2593457120)
+setManifestid(990086, "4992766004432811920", 2594476064)
 addappid(990087, 1, "42c46e0e1520cefc9f4120f00fca640bc83f48b322e7b19ad9530538d9cbee75") --Main Windows Language Depot Italian Hogwarts Legacy
-setManifestid(990087, "4408608444924365738", 2574284928)
+setManifestid(990087, "4614193940525884230", 2574514640)
 addappid(990088, 1, "81c364d84279c2fafb7960d0aabd75e7e371ad27f275484d99ef5734e4c00d95") --Main Windows Language Depot Japanese Hogwarts Legacy
-setManifestid(990088, "4209668305361446309", 2506164128)
+setManifestid(990088, "3040870497246406150", 2506613232)
 addappid(990089, 1, "21886ab063a78ccf9b676f311597b895c73a1410cd9f7e0e3e7b4e99b82f1e6b") --Main Windows Language Depot Brazilian Hogwarts Legacy
-setManifestid(990089, "7833413172600852139", 2463150592)
+setManifestid(990089, "6651908743606032798", 2464068976)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
