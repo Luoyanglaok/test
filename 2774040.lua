@@ -3,4 +3,4 @@
 --Gamename The Boss Gangster: Criminal Empire
 addappid(2774040) --Mainappid The Boss Gangster: Criminal Empire
 addappid(2774041, 1, "a448ae83061f402b52fa69cff70f81e6271ccfc66329a66b80a8248a0fea7dad") --Main Windows Depot The Boss Gangster: Criminal Empire
-setManifestid(2774041, "4766917577192335886", 1395491392)
+setManifestid(2774041, "4910897942265270870", 1555454128)
