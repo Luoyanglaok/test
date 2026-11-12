@@ -18,7 +18,7 @@ setManifestid(228984, "2547553897526095397", 13436144)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(1899671, 1, "b7921da5e50d00b2238d0fe870a354cb572bc5d397955fef02a439103f62827b") --Share Windows Depot RGL/SC
-setManifestid(1899671, "3914969219305676290", 209058416)
+setManifestid(1899671, "4635231945872575760", 237347472)
 addappid(362000) --Dlcname Grand Theft Auto V – Bonus $1,500,000 + GTA: San Andreas
 addappid(362001) --Dlcname Grand Theft Auto V – Bonus $1,500,000
 addappid(362002) --Dlcname Grand Theft Auto V – Bonus $1,350,000
