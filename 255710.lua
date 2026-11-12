@@ -292,6 +292,7 @@ addappid(2224690) --Dlcname Cities: Skylines - Content Creator Pack: Sports Venu
 addappid(340160) --Dlcname AppID 340160
 addtoken(340160, "18195348762656809850")
 addappid(365040) --Dlcname AppID 365040
+addtoken(365040, "3890888042232819776")
 addappid(525940) --Dlcname AppID 525940
 addtoken(525940, "5749713386974504844")
 addappid(526610) --Dlcname AppID 526610
