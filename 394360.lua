@@ -3,13 +3,13 @@
 --Gamename Hearts of Iron IV
 addappid(394360, 1, "a09cbdd6eeae20e20407d50e195fedab8839228dcc83cc6987b8aef41685a596") --Mainappid Hearts of Iron IV
 addappid(394361, 1, "da88f81230255452b07b325f7be45cd8687fecfeff239c0710f2d72b8bffd282") --Main Windows Depot Hearts of Iron IV
-setManifestid(394361, "5714581591752887071", 2502450960)
+setManifestid(394361, "3969542038148902551", 2503379424)
 addappid(394362, 1, "80b524708536855cdbc85dbd45a0bdb6274e1ab1b06961b5e6cd4a5f63779df0") --Main Windows Depot Hearts of Iron IV
-setManifestid(394362, "2949225837943588021", 177369216)
+setManifestid(394362, "5623650948763976164", 177157856)
 addappid(394363, 1, "b578cbe65008f0d3cc71bb38fbc935a1b6e2fb05b4c1b4fb9059e3b0d10d425f") --Main Linux Depot Hearts of Iron IV
-setManifestid(394363, "2483066677378773473", 187149440)
+setManifestid(394363, "6029983942413021400", 186293312)
 addappid(394364, 1, "ef69e4ac301c2cd428a66f4461d055a1845a65138a390d204fbf212930328342") --Main Macos Depot Hearts of Iron IV
-setManifestid(394364, "3008302370560483485", 361724208)
+setManifestid(394364, "6191372461249246900", 361660416)
 addtoken(460550, "9585617095825466956")
 addappid(460550, 1, "c10f169a7f5cff556e46550868b5ae8b5ff11851d16fdb3524dc1420c975cfe7") --Dlcname AppID 460550
 setManifestid(460550, "5911192872142258248", 2926688)
@@ -36,7 +36,7 @@ addappid(460557, 1, "3494d9162194df258b972acf2a7971b2176bac05190fa61103ec60fa264
 setManifestid(460557, "5823949483229347544", 43103328)
 addtoken(460558, "1778888310352667182")
 addappid(460558, 1, "c89a66b596e379bedb101f2ea7424bfff2dcf2004771dea83bca4fbd6b802bb6") --Dlcname AppID 460558
-setManifestid(460558, "3550511206547999886", 38898064)
+setManifestid(460558, "5214797986296799350", 38898064)
 --Dlcname Hearts of Iron IV: Rocket Launcher Unit Pack
 addtoken(460559, "15137437872504968902")
 addappid(460559, 1, "cc7e9d2c3883c3eca4006e1acafac81482f4095b852ff9ffe795526d290c3a27") --Dlcname Hearts of Iron IV: Rocket Launcher Unit Pack
@@ -51,7 +51,7 @@ addappid(460610, 1, "bcad1434eb9a39898d10ddbb5a74906ffa28bc5455c933eb8620c7cea3d
 setManifestid(460610, "6692245069856235421", 2211840)
 --Dlcname Hearts of Iron IV: Sabaton Soundtrack
 addappid(461800, 1, "0a82a5eed8a7da5bf9bd64cebb03a9b16a56a31f3a63a53b5a8f160ee7563466") --Dlcname Hearts of Iron IV: Sabaton Soundtrack
-setManifestid(461800, "2756093238019122493", 55079888)
+setManifestid(461800, "7284808149016748977", 55079888)
 addtoken(471560, "14933575255096192105")
 addappid(471560, 1, "db8a0365c4b8fdc7db0ff80ee05163634e378e1a3e2fb04d836a710e86e8f6eb") --Dlcname AppID 471560
 setManifestid(471560, "6371823134000697462", 0)
@@ -107,10 +107,10 @@ addappid(1317250, 1, "b19bdf31327b07945efbf7cb689df20880b2312fe9797f030844bd8251
 setManifestid(1317250, "5590993095464206705", 202171616)
 --Dlcname Country Pack - Hearts of Iron IV: Battle for the Bosporus
 addappid(1348660, 1, "442d4c3ced2da36e4728ea1225129227b54a92264e3d7ceb36b37061cb772a65") --Dlcname Country Pack - Hearts of Iron IV: Battle for the Bosporus
-setManifestid(1348660, "2633790543177453095", 90999328)
+setManifestid(1348660, "8275359308098341591", 90999328)
 --Dlcname Hearts of Iron IV: No Step Back
 addappid(1348661, 1, "90210499739763009b116193b4dfa4f9660c987fe76c5b57fa4ebf5ae9d791d8") --Dlcname Hearts of Iron IV: No Step Back
-setManifestid(1348661, "3578673394977108706", 279717104)
+setManifestid(1348661, "2398449775181876803", 279280912)
 --Dlcname Cosmetic Pack - Hearts of Iron IV: Eastern Front Planes
 addappid(1579991, 1, "3d68de74eaadbaf29c12201591f7643c5d61c738ac124fc97ff61c53ee586c78") --Dlcname Cosmetic Pack - Hearts of Iron IV: Eastern Front Planes
 setManifestid(1579991, "5265963005161277519", 239682656)
@@ -146,7 +146,7 @@ addappid(3152780, 1, "1ab7182cba3aa4cef6510149eef4794796be5ec8d80f8443c46e42d82e
 setManifestid(3152780, "2597162523324191326", 253368192)
 --Dlcname Country Pack - Hearts of Iron IV: Graveyard of Empires
 addappid(3152790, 1, "f6086a1fa52b8db2e8ef6e941724531584e64b374c99f8383238747e86d53c96") --Dlcname Country Pack - Hearts of Iron IV: Graveyard of Empires
-setManifestid(3152790, "1137511740194956080", 143903120)
+setManifestid(3152790, "7797936234979588397", 143903136)
 --Dlcname Cosmetic Pack - Hearts of Iron IV: Prototype Vehicles
 addappid(3152800, 1, "f7c43c7f2eee064c93357a502e21e56c5938af3798991eee657cf6fa78a81388") --Dlcname Cosmetic Pack - Hearts of Iron IV: Prototype Vehicles
 setManifestid(3152800, "5524253229234759002", 37118672)
@@ -164,10 +164,10 @@ addappid(3796250, 1, "3b5a157bca6454b92d2414ee234ae568af431e003d8550f90c4ea39fb0
 setManifestid(3796250, "3011498097703768713", 2729744)
 --Dlcname Expansion - Hearts of Iron IV: No Compromise, No Surrender
 addappid(3796260, 1, "2688a757fe15aba9d24a7079821c09109c265946b32c0c166c24c1a6c8a8a199") --Dlcname Expansion - Hearts of Iron IV: No Compromise, No Surrender
-setManifestid(3796260, "6630944336668692370", 195508784)
+setManifestid(3796260, "8733835811564979229", 195509296)
 --Dlcname Cosmetic Pack - Hearts of Iron IV: Warships of the Pacific
 addappid(3796270, 1, "3f5db4f29a80ee88d3f7566d3e3a880b15990383441edaf703912e4ba25326c6") --Dlcname Cosmetic Pack - Hearts of Iron IV: Warships of the Pacific
-setManifestid(3796270, "5271911256406109778", 27220576)
+setManifestid(3796270, "7626713667245954061", 27220624)
 --Dlcname Theater Pack - Hearts of Iron IV: Thunder at our Gates
 addappid(3796290, 1, "8821214b21dff74fce396367da9dfc70dede95f7d12504fc24fb230515fdd3f2") --Dlcname Theater Pack - Hearts of Iron IV: Thunder at our Gates
 setManifestid(3796290, "1362151780629472947", 402528384)
@@ -184,5 +184,11 @@ addappid(1877010) --Dlcname Hearts of Iron IV - DLC Subscription
 addappid(3152810) --Dlcname AppID 3152810
 addappid(3654400) --Dlcname Hearts of Iron IV: Bonus Songs Pack
 addappid(3796240) --Dlcname Hearts of Iron IV: Expansion Pass 2
+addappid(4758580) --Dlcname Hearts of Iron IV: Expansion Pass 3
+--Missing Dlcs
+--Dlcname Hearts of Iron IV: Songs of Liberty
+--Dlcname Expansion - Hearts of Iron IV: The Giant Wakes
+--Dlcname Focus Pack - Hearts of Iron IV: To the Bitter End
+--Dlcname Theater Pack - Hearts of Iron IV: The Price of Peace
 addappid(445630) --Dlcname AppID 445630
 addtoken(445630, "16694871766851180349")
