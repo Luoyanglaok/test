@@ -3,7 +3,7 @@
 --Gamename Planet Coaster 2
 addappid(2688950, 1, "db80e514e0e23f3ac57084d4e47af67ec4d0d5d3c223d5b918daf8fdc9e73eeb") --Mainappid Planet Coaster 2
 addappid(2688951, 1, "d1fc4044f8dbec56ccd7ccac0a38810470c5fecf00dedc36a294c39453f9adb0") --Main Windows Depot Planet Coaster 2
-setManifestid(2688951, "9131339752266044125", 14746456432)
+setManifestid(2688951, "3355045953533681614", 14747341328)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
