@@ -3,4 +3,4 @@
 --Gamename Survival Log
 addappid(4164790) --Mainappid Survival Log
 addappid(4164791, 1, "ea042cfee2f842c31ecd3da8061c7dcd086ba70e586991035ef463d0b71ce284") --Main Windows Depot Survival Log
-setManifestid(4164791, "6561517668077587079", 4969427088)
+setManifestid(4164791, "7092840615648486359", 4980329312)
