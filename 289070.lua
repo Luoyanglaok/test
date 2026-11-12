@@ -3,11 +3,11 @@
 --Gamename Sid Meier’s Civilization® VI
 addappid(289070, 1, "ed38a5e929f3d0752878910f8e8020dcb191d9c469bd0c9a81568115703715f9") --Mainappid Sid Meier’s Civilization® VI
 addappid(289071, 1, "32741972cb390fe0fb0253da0e76fb113c9f92280b55093fb4c901b0c84e1a8d") --Main Windows Depot Sid Meier’s Civilization® VI
-setManifestid(289071, "8544233926751202622", 7701245600)
+setManifestid(289071, "8999976640040178864", 7735917200)
 addappid(289072, 1, "3d2108e73f87d05885853ba5e72d9fc0d80c7f4a834e3fec557479960a6f12e8") --Main Windows Depot Sid Meier’s Civilization® VI
-setManifestid(289072, "6099197820122050814", 28217936)
+setManifestid(289072, "220858694222505430", 32984880)
 addappid(289085, 1, "993eb4eff10f1f76852177fcd3e668b202059359f3f854085a162a269eb12e51") --Main Windows Depot Sid Meier’s Civilization® VI
-setManifestid(289085, "3736787343973544061", 3196588304)
+setManifestid(289085, "252464376328913036", 3214625952)
 addappid(289086, 1, "4bcd85f1a6e269ac65b7637fcc6b922bf2cab229cc8a5f55e34a1a890490997d") --Main Macos Depot Sid Meier’s Civilization® VI
 setManifestid(289086, "4181354221225583522", 3124692160)
 addappid(289089, 1, "a1cab903cd10b15478bc455b931245ef42becf828cbefc19bb922dfaf06776b2") --Main Windows Depot Sid Meier’s Civilization® VI
@@ -32,7 +32,7 @@ addappid(512031, 1, "bf4e034745cadce7e2deadbe49f0295fabda3bb4d53cb81245dedd8b4f8
 setManifestid(512031, "935919882264911440", 1091683616)
 --Dlcname Sid Meier's Civilization® VI: Vikings Scenario Pack
 addappid(512032, 1, "96db6adf9acfd23efac126a1b390566ce3d60c9383c8a12277a3364a0c9825b3") --Dlcname Sid Meier's Civilization® VI: Vikings Scenario Pack
-setManifestid(512032, "289731471744368186", 31473168)
+setManifestid(512032, "6541879816496163136", 31472384)
 addappid(533505, 1, "83feda3eccf1abb7cba2ab01bd2c9fa4c121b508ead25162c7e2ca9b6db56488") --Dlc Linux Depot Sid Meier's Civilization® VI: Vikings Scenario Pack
 setManifestid(533505, "7075230729490869604", 27299504)
 addappid(533514, 1, "96bc216f9252b61f705d823293ed0a8cc7243021a3e9c914292525f3f8f654d3") --Dlc Macos Depot Sid Meier's Civilization® VI: Vikings Scenario Pack
@@ -64,7 +64,7 @@ addappid(533509, 1, "c33fffb83594745bb85ebabafe952225ce80fe20b05bb6cc2c81ebf44d3
 setManifestid(533509, "6788302695122360131", 27815728)
 addappid(533518, 1, "d8def9e6eedd435729f252b4b7baab2108e2ca8136a1c777c011405d293740d2") --Dlc Macos Depot Sid Meier's Civilization® VI: Nubia Civilization & Scenario Pack
 setManifestid(533518, "4753960813384213451", 27814016)
-setManifestid(645400, "6669591788022875766", 27814992)
+setManifestid(645400, "6657567071284240385", 27816176)
 --Dlcname Sid Meier's Civilization® VI: Khmer and Indonesia Civilization & Scenario Pack
 addappid(645401, 1, "6ea08c1c060dcd07c457e12d8149ca548da5b9a40ef543fcd15691a3d1ba7784") --Dlcname Sid Meier's Civilization® VI: Khmer and Indonesia Civilization & Scenario Pack
 addappid(533510, 1, "64e4e71723d9d13db750f4df85bfc5a0cb331d48c3aa4cd81091f39bea3c09a9") --Dlc Linux Depot Sid Meier's Civilization® VI: Khmer and Indonesia Civilization & Scenario Pack
@@ -78,10 +78,10 @@ addappid(533511, 1, "5e295ec44b83955f08f49cf8884f4cb7f138461da3aad081e4649ddcfc7
 setManifestid(533511, "4086532032936568200", 2180269760)
 addappid(533512, 1, "33a4921125ef9ce860aa0bbec3a0dc994171a3058be7e6d7ba868ece88742db7") --Dlc Macos Depot Sid Meier's Civilization® VI: Rise and Fall
 setManifestid(533512, "1157918082164175537", 1525713632)
-setManifestid(645402, "1533123057189778450", 1670472112)
+setManifestid(645402, "1557926992702192341", 1676291088)
 --Dlcname Sid Meier's Civilization® VI: Gathering Storm
 addappid(947510, 1, "12ed67821997d2ff92e4155d8735d254c5f20f27abba7ba4eb1dde6759ec8e4e") --Dlcname Sid Meier's Civilization® VI: Gathering Storm
-setManifestid(947510, "63266334988112509", 2085783568)
+setManifestid(947510, "8472722062226056688", 2095984784)
 addappid(947518, 1, "5cc97a451ab6835a9748d42855586c4f83fef8581f0be62d55ab82963822d2c7") --Dlc Macos Depot Sid Meier's Civilization® VI: Gathering Storm
 setManifestid(947518, "8161718464020064952", 1970813104)
 addappid(947519, 1, "654ac94cedb0a52d9fa38d7231b8f4b4dfd62b821ea78c3a59f7d74242d331ca") --Dlc Linux Depot Sid Meier's Civilization® VI: Gathering Storm
