@@ -10,7 +10,7 @@ setManifestid(228988, "6645201662696499616", 22411856)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
-setManifestid(1716751, "8458906404271031972", 264110992)
+setManifestid(1716751, "6945505966615327303", 262989248)
 addappid(2389390) --Dlcname Riders Republic - Deluxe Edition Ubisoft Activation
 addappid(2389391) --Dlcname Riders Republic - Gold Edition Ubisoft Activation
 addappid(2389392) --Dlcname Riders Republic - Ultimate Edition Ubisoft Activation
