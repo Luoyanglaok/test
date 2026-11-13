@@ -33,3 +33,55 @@ setManifestid(4394810, "6080006835337499181", 0)
 addappid(4394811, 1, "07d0577ef5b0833c904eb284e46eeea83cfc030963793fdf43aac48c95cdbf1f") --Dlc Macos Depot DAVE THE DIVER - In the Jungle Content Pack
 setManifestid(4394811, "4329702084329304375", 0)
 addappid(5246570) --Dlcname DAVE THE DIVER - Subnautica 2 Content Pack
+-- 1868140's Lua and Manifest Created by Hubcap Manifest
+-- DAVE THE DIVER
+-- Created: November 10, 2026 at 23:01:51 EST
+-- Website: https://hubcapmanifest.com/
+-- Build: 26581443 (public branch)
+-- Build Date: November 10, 2026 at 21:33:39 EST (1794364419)
+-- Total Depots: 13
+-- Total DLCs: 6 (1 excluded)
+-- MAIN APPLICATION
+addappid(1868140, 1, "c283d28f5a647e86857c71bbcd79f63db35febefefe20b121df6dc6a8721e673") -- DAVE THE DIVER
+-- MAIN APP DEPOTS
+addappid(1868141, 1, "dec1482ee88e2a62d7fddedf0e75c6abdef55d2884440de6508bef83044198d8") -- Depot 1868141
+setManifestid(1868141, "6672496522979178684", 5919313691)
+addappid(1868142, 1, "f55cec1c353af17ba294e0bc3c1af6766a91b76e97d59d44425873918058d6c5") -- Depot 1868142
+setManifestid(1868142, "7961373990146359091", 5799871601)
+-- DLCS WITH DEDICATED DEPOTS
+-- DAVE THE DIVER Digital Extra (AppID: 2492320)
+addappid(2492320) --Dlcname DAVE THE DIVER Digital Extra
+addappid(2492320, 1, "80467121a86d6b38971889737a91b309bb3aa329fee8e93ac63f2748f43fa063") -- DAVE THE DIVER Digital Extra - Depot 2492320
+setManifestid(2492320, "8296601155922551326", 233287509)
+-- DAVE THE DIVER - DREDGE Content Pack (AppID: 2677020)
+addappid(2677020) --Dlcname DAVE THE DIVER - DREDGE Content Pack
+addappid(2677020, 1, "0f12757b1a8cc78265828ba98e12b673ff97e942bbfd3ae07eca6d10f6b8dfcf") -- DAVE THE DIVER - DREDGE Content Pack - Depot 2677020
+setManifestid(2677020, "1640036140298738282", 27270157)
+addappid(2677021, 1, "794d4476c6913ad8568af8bf1303f216b1f16b3d6041f62834536fe460d661dd") -- DAVE THE DIVER - DREDGE Content Pack - Depot 2677021
+setManifestid(2677021, "6592069179152517564", 3)
+-- DAVE THE DIVER - Godzilla Content Pack (AppID: 2841140)
+addappid(2841140) --Dlcname DAVE THE DIVER - Godzilla Content Pack
+addappid(2841140, 1, "a5e4472216eb53c5abc48c617b42bc740a1fac4adf25659c183015a27f8849fb") -- DAVE THE DIVER - Godzilla Content Pack - Depot 2841140
+setManifestid(2841140, "4277352553098425670", 71790521)
+addappid(2841141, 1, "a6863e71aca974796ecc6423cb6d8b9820fd11e9df7f06bcbaa7a1926227f77d") -- DAVE THE DIVER - Godzilla Content Pack - Depot 2841141
+setManifestid(2841141, "2114719951456938048", 3)
+-- DAVE THE DIVER - Ichibans Holiday Content Pack (AppID: 3543180)
+addappid(3543180) --Dlcname DAVE THE DIVER - Ichibans Holiday Content Pack
+addappid(3543180, 1, "5dbf7b425cf6ac47d95a2abe30926e2c845f6b9fbf05903c27837624a56b6b66") -- DAVE THE DIVER - Ichibans Holiday Content Pack - Depot 3543180
+setManifestid(3543180, "7053194086829219553", 210383241)
+addappid(3543181, 1, "fda6ac6e3da3645d6c445ad4c68bffd11640df814da698f3fb85db7ada2a388b") -- DAVE THE DIVER - Ichibans Holiday Content Pack - Depot 3543181
+-- DAVE THE DIVER - GGST Content Pack (AppID: 4158580)
+addappid(4158580) --Dlcname DAVE THE DIVER - GGST Content Pack
+addappid(4158580, 1, "d1b04b5c1d3ba87ffd5f50eb5b49c1943c8e77c9c57d8113d843e96976b8ae22") -- DAVE THE DIVER - GGST Content Pack - Depot 4158580
+setManifestid(4158580, "5509228382471746180", 167535024)
+addappid(4158581, 1, "9a5fd9e0f609c8b581353d27ed8c8c776d095fdc4960e61ed2b01b052d9f5020") -- DAVE THE DIVER - GGST Content Pack - Depot 4158581
+setManifestid(4158581, "6237595293534593775", 0)
+-- DAVE THE DIVER - In the Jungle Content Pack (AppID: 4394810)
+addappid(4394810) --Dlcname DAVE THE DIVER - In the Jungle Content Pack
+addappid(4394810, 1, "3c8afacd8366ec6d0872b9f95be7bcc55784514c88e92d69b2b5ead5228bd9c8") -- DAVE THE DIVER - In the Jungle Content Pack - Depot 4394810
+addappid(4394811, 1, "07d0577ef5b0833c904eb284e46eeea83cfc030963793fdf43aac48c95cdbf1f") -- DAVE THE DIVER - In the Jungle Content Pack - Depot 4394811
+-- EXCLUDED DLCS:
+-- UNRELEASED DLCS (COMMENTED OUT)
+-- addappid(5246570) -- DAVE THE DIVER - Subnautica 2 Content Pack (unreleased)
+-- EMPTY DEPOTS (no content on any branch)
+-- addappid(2463870) -- Depot 2463870 (empty depot)
