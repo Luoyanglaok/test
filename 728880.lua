@@ -14,3 +14,27 @@ addappid(1013300) --Dlcname Overcooked! 2 - Campfire Cook Off
 addappid(1017510) --Dlcname Overcooked! 2 - Night of the Hangry Horde
 addappid(1067770) --Dlcname Overcooked! 2 - Season Pass
 addappid(1138400) --Dlcname Overcooked! 2 - Carnival of Chaos
+-- 728880's Lua and Manifest Created by Hubcap Manifest
+-- Overcooked! 2
+-- Created: September 18, 2026 at 19:58:03 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 20236421 (public branch)
+-- Build Date: October 03, 2025 at 05:32:42 EDT (1759483962)
+-- Total Depots: 3
+-- Total DLCs: 6
+-- MAIN APPLICATION
+addappid(728880, 1, "21a370467ff28d51b2ca206260688bfaf12b6a03ff409a21f1cf173bb0c44cb7") -- Overcooked! 2
+-- MAIN APP DEPOTS
+addappid(728881, 1, "6ab9f32746295a38fc0a75db089afc2394e0ced25ca436201027ed360890e5bc") -- Balloon Windows
+setManifestid(728881, "9029823169690910983", 8506963703)
+addappid(728882, 1, "3693ed13535f104258a7425e20b9e1fae3f30ec4d78a09f0b89cd55350991d51") -- Balloon Linux
+setManifestid(728882, "433550811082520169", 8707454190)
+addappid(728883, 1, "67ac3a681ded025499180d68f3753ce53f4934976c75af86ab9a6287056dcdae") -- Balloon OSX
+setManifestid(728883, "8876331237899748277", 8566091528)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(858240) --Dlcname Overcooked 2 - Too Many Cooks Pack --NoDepot
+addappid(909720) --Dlcname Overcooked 2 - Surf n Turf --NoDepot
+addappid(1013300) --Dlcname Overcooked 2 - Campfire Cook Off --NoDepot
+addappid(1017510) --Dlcname Overcooked 2 - Night of the Hangry Horde --NoDepot
+addappid(1067770) --Dlcname Overcooked 2 - Season Pass --NoDepot
+addappid(1138400) --Dlcname Overcooked 2 - Carnival of Chaos --NoDepot
