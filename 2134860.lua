@@ -3,15 +3,15 @@
 --Gamename My Ex-future Family
 addappid(2134860) --Mainappid My Ex-future Family
 addappid(2134861, 1, "9290a0114ee7ce8b8094f5859bd0c3cf8b28b316835f8bd60ac7830ab7a1d3cc") --Main Windows/Linux Depot My Ex-future Family
-setManifestid(2134861, "3978579968533634942", 4270735392)
+setManifestid(2134861, "2427317278803620026", 5013705552)
 addappid(2134862, 1, "1921ed562ff7df4fc8e2830eb4454d0091e7fe8cce01b605431fe93df1e49183") --Main Macos Depot My Ex-future Family
-setManifestid(2134862, "1216101078580674206", 4267349328)
+setManifestid(2134862, "534707643389818530", 5005914160)
 --Dlcname My Ex-future Family Premium Edition
 addappid(2599110, 1, "eb156bd58ae515a46cdcbd831f0fc0809fd4c58718e975310125ee0ebf5b01fe") --Dlcname My Ex-future Family Premium Edition
 addappid(2599111, 1, "34910ee2e599f3ad8ac979fdb3e4c05847b37d2a79d63f8bb17be712b1938905") --Dlc Windows/Linux Depot My Ex-future Family Premium Edition
-setManifestid(2599111, "6066720080270377621", 4271870496)
+setManifestid(2599111, "2359628802760483840", 5019466928)
 addappid(2599112, 1, "ab60b554af7b339004da85be94c1e1984f9f92933bf6605aae2b71a2b0de50eb") --Dlc Macos Depot My Ex-future Family Premium Edition
-setManifestid(2599112, "7823848067943986661", 4268393840)
+setManifestid(2599112, "3459903815176246269", 5014294784)
 addappid(2599113, 1, "6e0e239ad0961c4ab2afc2d70453cffa6a1ee29ca95e5bee688d69b042395c07") --Dlc Windows Language Depot English My Ex-future Family Premium Edition
 setManifestid(2599113, "1115308022262194350", 5216320)
 --Dlcname My Ex-future Family: What if...?
