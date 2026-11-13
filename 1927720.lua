@@ -1,3 +1,12 @@
-addappid(1927720)
-addappid(1927721,0,"11be65e06d8be73b1734f1008690fdce6cf649de649dca1948ce0bec7c25920e")
-setManifestid(1927721,"2873545195379972747")
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1927720.lua
+--Gamename Monument Valley
+addappid(1927720, 1, "33b4021303f41aed69c0444fbb7917d0f2c5c80fb34445b628eb4e76f2cdbe47") --Mainappid Monument Valley
+addappid(1927721, 1, "11be65e06d8be73b1734f1008690fdce6cf649de649dca1948ce0bec7c25920e") --Main Windows Depot Monument Valley
+setManifestid(1927721, "3885660457792320368", 239553664)
+addappid(3864501, 1, "f460eb87646c32ad72f5bc337f6cff845ec4c98450c3dc650e8f2822bed1fef3") --Main Windows Depot Monument Valley
+setManifestid(3864501, "1802533457162100999", 145570576)
+addappid(3864502, 1, "4f8d76e90ef0e98c745b645ffac9474c8b41616492875b97ec310bb4de4cb388") --Main Windows Depot Monument Valley
+setManifestid(3864502, "6227464584873500999", 716737552)
+--Dlcname Monument Valley - Original Soundtrack
+addappid(3864500) --Dlcname Monument Valley - Original Soundtrack
