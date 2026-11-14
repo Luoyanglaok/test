@@ -63,3 +63,81 @@ addappid(228985, 1, "21a2f639584d9bd462c5c4b3e10f881cba8a17ae674c830c4f083551cd3
 setManifestid(228985, "3966345552745568756", 13244128)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
+-- 262060's Lua and Manifest Created by Hubcap Manifest
+-- Darkest Dungeon®
+-- Created: November 04, 2026 at 13:46:20 EST
+-- Website: https://hubcapmanifest.com/
+-- Build: 26437048 (public branch)
+-- Build Date: November 04, 2026 at 11:51:42 EST (1793811102)
+-- Total Depots: 26
+-- Total DLCs: 6
+-- Shared Depots: 2
+-- MAIN APPLICATION
+addappid(262060, 1, "74a1007ed0ae35bd91851091c3748151ab4bf964a3786929e9c9cbce2b9a72af") -- Darkest Dungeon®
+-- MAIN APP DEPOTS
+addappid(262061, 1, "80ffcb74d1590f74ea3d6bf442f54d2a0d21327bae63d6e0cfdad768c7c7b7c2") -- darkest_dungeon_windows_shared_content
+setManifestid(262061, "3770208380046727011", 2104541469)
+addappid(262062, 1, "c573ff0fbec6f00c8ff86aafc2085945c6a0b934b6396b0c135574e1326f7470") -- darkest_dungeon_windows_content
+setManifestid(262062, "4507281052667341665", 160666896)
+addappid(262063, 1, "29e00db53e36359014c7975e1991156a35c28410f92643c66fcab5a98239f741") -- darkest_dungeon_osx_content
+setManifestid(262063, "2062744239748371648", 132265046)
+addappid(262064, 1, "2658baced519789ef83fa5c378667f2d6fa3e62c1c1901b3bc5d357cee4ecb78") -- darkest_dungeon_osx_data
+setManifestid(262064, "1602040258117033369", 2250463200)
+addappid(262065, 1, "1ed93be3fc9b6d8911781b16ee38ea20b01a601089cc8ea554a0acb19ef80a1e") -- darkest_dungeon_linux_content
+setManifestid(262065, "6916143788005228094", 195359248)
+addappid(262066, 1, "5ac9e3783153c138b4fbe2ca2fad3c3fde61883c56b8a4a6945fd186c3503e1c") -- darkest_dungeon_linux_data
+setManifestid(262066, "2919454914283038758", 2371000510)
+-- SHARED DEPOTS (from other apps)
+addappid(228985, 1, "21a2f639584d9bd462c5c4b3e10f881cba8a17ae674c830c4f083551cd356e9c") -- VC 2013 Redist (Shared from App 228980)
+setManifestid(228985, "3966345552745568756", 13699237)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "5753583882400741046", 25674515)
+-- DLCS WITH DEDICATED DEPOTS
+-- Darkest Dungeon The Musketeer (AppID: 445700)
+addappid(445700) --Dlcname Darkest Dungeon The Musketeer
+addappid(445700, 1, "f49dbb1bf10058d543c577196757756572d32615971242e63d9a5a945903741b") -- Darkest Dungeon The Musketeer - darkest_dungeon_musketeer_windows_shared_content
+setManifestid(445700, "1910576351267588826", 19940108)
+addappid(445701, 1, "a2f4ee66ab860ba416c504648d2fdc24b25877abed72abc6a80bd5d80db45c58") -- Darkest Dungeon The Musketeer - darkest_dungeon_musketeer_osx_shared_content
+setManifestid(445701, "8167459794238687528", 19940108)
+addappid(445702, 1, "06f8bafa494c20f0eaa74cfc34a237f907789911f7226d207b719ad12810d075") -- Darkest Dungeon The Musketeer - darkest_dungeon_musketeer_linux_shared_content
+setManifestid(445702, "303813516494152901", 19940108)
+-- Darkest Dungeon The Crimson Court (AppID: 580100)
+addappid(580100) --Dlcname Darkest Dungeon The Crimson Court
+addappid(580100, 1, "326ca1f3e2c2a5b128d19b9ea4cb0eeb4dd71767ba4649beb35b4964a2f3036d") -- Darkest Dungeon The Crimson Court - darkest_dungeon_crimson_court_windows_content
+setManifestid(580100, "997098627559525709", 360696546)
+addappid(580101, 1, "ee5837a6d587a663372bb57cf2ab4527e8d590470905ab6c252ab2810641e0a4") -- Darkest Dungeon The Crimson Court - darkest_dungeon_crimson_court_osx_content
+setManifestid(580101, "3443802060249888977", 360696546)
+addappid(580102, 1, "1830572dced421bddf06c78c75d178d4c10185652567a7a527787c8db22fff2f") -- Darkest Dungeon The Crimson Court - darkest_dungeon_crimson_court_linux_content
+setManifestid(580102, "4506000746151544241", 360696546)
+-- Darkest Dungeon The Shieldbreaker (AppID: 702540)
+addappid(702540) --Dlcname Darkest Dungeon The Shieldbreaker
+addappid(702540, 1, "a072f106d99256a1419ba3b11cbcfe2b88690ebb337e0013b6658ecf70443c5f") -- Darkest Dungeon The Shieldbreaker - darkest_dungeon_shieldbreaker_windows_content
+setManifestid(702540, "385638166620788848", 40024569)
+addappid(702541, 1, "23a51aba543af134313157cd260951b978d7fc9c7324ed2970a3d1a3981b093a") -- Darkest Dungeon The Shieldbreaker - darkest_dungeon_shieldbreaker_osx_content
+setManifestid(702541, "6965914485267238717", 40024569)
+addappid(702542, 1, "4ede4a6602034a69b581069259516b7e22bfffaa8ef452b07688ecbfa4bfe9b1") -- Darkest Dungeon The Shieldbreaker - darkest_dungeon_shieldbreaker_linux_content
+setManifestid(702542, "4258374143576351227", 40024569)
+-- Darkest Dungeon The Color of Madness (AppID: 735730)
+addappid(735730) --Dlcname Darkest Dungeon The Color of Madness
+addappid(735730, 1, "5aea239e9d2d39fb207060d004d83521f96e2c2376c7ee3292544057f3953333") -- Darkest Dungeon The Color of Madness - darkest_dungeon_color_of_madness_windows_content
+setManifestid(735730, "2494379863658361380", 651754999)
+addappid(735731, 1, "961483d44b60822f029a8a6f399aa9881c3b10bb551c55fc6cf2ef0907f878fa") -- Darkest Dungeon The Color of Madness - darkest_dungeon_color_of_madness_osx_content
+setManifestid(735731, "5502763798423000639", 651754999)
+addappid(735732, 1, "ee6a70a5c052a74214bfe1965668567dc83abe1e87647d38c0dc676df1b385e0") -- Darkest Dungeon The Color of Madness - darkest_dungeon_color_of_madness_linux_content
+setManifestid(735732, "4131764727576325281", 651754999)
+-- Darkest Dungeon The Butchers Circus (AppID: 1117860)
+addappid(1117860) --Dlcname Darkest Dungeon The Butchers Circus
+addappid(1117860, 1, "eade86a7d3e1fb1164eb5a1886ae5d93db775162aa411c3744c8a27aee496c9f") -- Darkest Dungeon The Butchers Circus - darkest_dungeon_the_pit_windows_content
+setManifestid(1117860, "6376649910526554716", 545038955)
+addappid(1117861, 1, "a50099d9d81bd78ea990cdae6108db35cc59dbe777dfca43db5e42c332d5c129") -- Darkest Dungeon The Butchers Circus - darkest_dungeon_the_pit_osx_content
+setManifestid(1117861, "2183525769666721026", 545038955)
+addappid(1117862, 1, "888d380eaa1cf07630bc75e55d54618a00649f08c5a3309ee49ec839ccc0cff6") -- Darkest Dungeon The Butchers Circus - darkest_dungeon_the_pit_linux_content
+setManifestid(1117862, "5150525322187587414", 545038955)
+-- Darkest Dungeon The Fires Edge (AppID: 4964110)
+addappid(4964110) --Dlcname Darkest Dungeon The Fires Edge
+addappid(4964110, 1, "fd09bbb4fd3ace258fdb9974422b5a31e11da17c43def2811fa61e293a6cc391") -- Darkest Dungeon The Fires Edge - Depot 4964110
+setManifestid(4964110, "5943914155077137892", 62782644)
+addappid(4964111, 1, "ac3dd2fadfee7bdedc96d24351a512682faedf0e31af3e26ef795b4d09ee4535") -- Darkest Dungeon The Fires Edge - Depot 4964111
+setManifestid(4964111, "6632641221942699964", 62782644)
+addappid(4964112, 1, "22ec0daba71a6fb7eb43e71b64e0e2049377767974110b70e775f3549d867c8a") -- Darkest Dungeon The Fires Edge - Depot 4964112
+setManifestid(4964112, "9070910386423941167", 62782644)
