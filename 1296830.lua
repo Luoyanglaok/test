@@ -22,3 +22,41 @@ setManifestid(2612952, "5973679343989166898", 2240354464)
 addtoken(2936000, "15755738597420251343")
 addappid(2936000, 1, "3f9660fd9153125226d5a791c896e95e7f91196474916e114a6b5a7cc6bc82ed") --Dlcname 暖雪 Warm Snow - 美术设定集
 setManifestid(2936000, "1496916447034636149", 367431120)
+-- 1296830's Lua and Manifest Created by Hubcap Manifest
+-- 暖雪 Warm Snow
+-- Created: September 19, 2026 at 05:12:25 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 17101361 (public branch)
+-- Build Date: January 23, 2025 at 01:36:31 EST (1737614191)
+-- Total Depots: 8
+-- Total DLCs: 3
+-- MAIN APPLICATION
+addappid(1296830, 1, "373b49edeece86acfbc0b5528914e44336ca46bea5098615af432db2eb1f8823") -- 暖雪 Warm Snow
+-- MAIN APP DEPOTS
+addappid(1296831, 1, "cf5d2cd621a67cb4a476d6390fe2d9e4506dcc772b691c35acc5bcc6c4a7e976") -- 暖雪 Warm Snow Content
+setManifestid(1296831, "5191741389914849473", 15237639401)
+addappid(1296832, 1, "d5aa12207c07cf9f8ba98b9e6fdc9b08c0883ff5f80e0da3d720c6bdd2cb5c43") -- Depot 1296832
+setManifestid(1296832, "2934943906401015285", 8558342926)
+-- DLCS WITH DEDICATED DEPOTS
+--  Warm Snow - FirstDLC (AppID: 2147220)
+addappid(2147220) --Dlcname Warm Snow - FirstDLC
+addappid(2147220, 1, "d9be6d05aa5eca0530a97338b5ce85d0aa680ea87d3cf330e242af3d908a44ef") --  Warm Snow - FirstDLC - Depot 2147220
+setManifestid(2147220, "1125160281922234017", 10)
+addappid(2147222, 1, "f90956526a139781a45069ee419ce8aed9d0642bdbd267ca0cec80f2e86ac481") --  Warm Snow - FirstDLC - Depot 2147222
+setManifestid(2147222, "6068627155823496470", 15043922642)
+--  Warm Snow - DLC2 (AppID: 2612950)
+addappid(2612950) --Dlcname Warm Snow - DLC2
+addappid(2612950, 1, "e72f0b985b64245d58130d6953c964ec1a19e15cbcf1bea48e69fb419f39a0f1") --  Warm Snow - DLC2 - Depot 2612950
+setManifestid(2612950, "5923179117909807892", 15237671145)
+addappid(2612951, 1, "8836b7eab3392d6916577bff52e2b164064115d58d59696306e1933c342c8a4c") --  Warm Snow - DLC2 - Depot 2612951
+setManifestid(2612951, "1629603847288100961", 15217912557)
+addappid(2612952, 1, "a0e808e703d416af24ea88a613a8ff91a92e5508669aeba93c54581e55715569") --  Warm Snow - DLC2 - Depot 2612952
+setManifestid(2612952, "5973679343989166898", 15237663905)
+-- addappid(2612959, 1, "MISSING_KEY") --  Warm Snow - DLC2 - Depot 2612959 (no key available)
+--  Warm Snow -  (AppID: 2936000)
+addappid(2936000) --Dlcname Warm Snow -
+addappid(2936000, 1, "3f9660fd9153125226d5a791c896e95e7f91196474916e114a6b5a7cc6bc82ed") --  Warm Snow -  - Depot 2936000
+setManifestid(2936000, "1496916447034636149", 366532635)
+-- EMPTY DEPOTS (no content on any branch)
+-- addappid(1296833) -- Depot 1296833 (empty depot)
+-- addappid(1296834) -- Depot 1296834 (empty depot)
