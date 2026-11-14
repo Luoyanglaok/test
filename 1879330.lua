@@ -7,3 +7,24 @@ addappid(1879333,0,"a02ae77c03851be8c4441c52b0ab8503b418f832d0035ab6a13ec4ca83ce
 setManifestid(1879333,"896277143113647716")
 addappid(1879334,0,"04a5aab7be5b8c0cd6be58dc98053000a93293e80d52ffb5d41841173af05f7d")
 setManifestid(1879334,"1389646914835364737")
+-- 1879330's Lua and Manifest Created by Hubcap Manifest
+-- WARRIORS OROCHI 3 Ultimate Definitive Edition
+-- Created: September 19, 2026 at 03:31:51 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 9422288 (public branch)
+-- Build Date: August 31, 2022 at 04:02:57 EDT (1661932977)
+-- Total Depots: 4
+-- Total DLCs: 0
+-- MAIN APPLICATION
+addappid(1879330, 1, "9bda24c0f01c39115ab5db43443a5917804a5bc903c69ffd1e23e2c9ccf60821") -- WARRIORS OROCHI 3 Ultimate Definitive Edition
+-- MAIN APP DEPOTS
+addappid(1879331, 1, "22b5adb092b925360661b865cfb859a11116c8a3f041d4a8aa0b5db7b79fc36b") -- Depot 1879331
+setManifestid(1879331, "1539022615160572190", 295336)
+addappid(1879332, 1, "0f4da0326fa3e0ef870af18b5bae9fc19f6f5ef7442e05f7137b6f1d0bdf2f7d") -- Depot 1879332
+setManifestid(1879332, "6468570346559079623", 16940380160)
+addappid(1879333, 1, "a02ae77c03851be8c4441c52b0ab8503b418f832d0035ab6a13ec4ca83ce27b7") -- Depot 1879333
+setManifestid(1879333, "896277143113647716", 13242592)
+addappid(1879334, 1, "04a5aab7be5b8c0cd6be58dc98053000a93293e80d52ffb5d41841173af05f7d") -- Depot 1879334
+setManifestid(1879334, "1389646914835364737", 4961855865)
+-- EMPTY DEPOTS (no content on any branch)
+-- addappid(1879335) -- Depot 1879335 (empty depot)
