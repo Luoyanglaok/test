@@ -99,3 +99,113 @@ addappid(1316261) --Dlcname Titanfall™ 2: Heat Sink Volt
 addappid(1316262) --Dlcname Titanfall™ 2: MRVN EPG
 addappid(1316263) --Dlcname Titanfall™ 2: Headhunter Alternator
 addappid(1316264) --Dlcname Titanfall™ 2: Masterwork R-6P Softball
+-- 1237970's Lua and Manifest Created by Hubcap Manifest
+-- Titanfall® 2
+-- Created: November 04, 2026 at 18:00:41 EST
+-- Website: https://hubcapmanifest.com/
+-- Build: 10350970 (public branch)
+-- Build Date: January 18, 2023 at 13:05:34 EST (1674065134)
+-- Total Depots: 16
+-- Total DLCs: 64
+-- Shared Depots: 4
+-- MAIN APPLICATION
+addappid(1237970, 1, "122d4c732e5a62474555aaa81e115e257281117ab3cfee68ff8d5182f685ece7") -- Titanfall® 2
+-- MAIN APP DEPOTS
+addappid(1237971, 1, "22aeb051a8e530542cbb99bd7c78cbd283bfa6f65c010a98efb20a97bc86aa16") -- Titanfall 2 - Content
+setManifestid(1237971, "2801113779391264796", 67602196163)
+addappid(1237972, 1, "1d9462a7d7c94ffa925137129e0d07155cec5786d601ecc5e9dd46b96e9dcf4f") -- Titanfall 2 - en_US
+setManifestid(1237972, "5076953189658140889", 763076727)
+addappid(1237973, 1, "a6695112317ed9e5f7e6787f0a5993fb27cc5b814533bc7e1fe03fbc5a233cc8") -- Titanfall 2 - fr_FR
+setManifestid(1237973, "7846189424213860451", 713687235)
+addappid(1237974, 1, "700b101f5341fc3838393cfa779eea0c102b5f8475a3d291e404edab244da2e8") -- Titanfall 2 - de_DE
+setManifestid(1237974, "4918993176297451540", 717798880)
+addappid(1237975, 1, "16820ddfb43fcb0b1216a8aaba999f8f81babbba13583daff40de1706e172fc4") -- Titanfall 2 - it_IT
+setManifestid(1237975, "6149384324018133109", 734621776)
+addappid(1237976, 1, "ef53756e02e0bc170d3f3ebaa729f6e196e2a75a4aec7ab88abdae33402bfd35") -- Titanfall 2 - es_ES
+setManifestid(1237976, "6093231552820258157", 754619351)
+addappid(1237977, 1, "386502850c1881ca4598319b7de7cfc05380fa06d0ba4b94584cd2bee9143e21") -- Titanfall 2 - pl_PL
+setManifestid(1237977, "666533038113272042", 721875784)
+addappid(1237978, 1, "af4f8e6b536c27584c137b2e000bc626ecc02baa9d8c90bbaa31d678390bb192") -- Titanfall 2 - ru_RU
+setManifestid(1237978, "1147887117574715547", 750756738)
+addappid(1237979, 1, "2196528e90e15287581f7e1ec7a6fa7e0f2aa8c4662536795ea606641abb83db") -- Titanfall 2 - es_MX
+setManifestid(1237979, "4200522030241028353", 753310727)
+addappid(1238106, 1, "3dd6726943280308ae1f43edfb95d9cec6def09c0792791f8c7791701cdc1e67") -- Titanfall 2 - ja_JP
+setManifestid(1238106, "6657923150700234666", 707710239)
+addappid(1238107, 1, "3a9aed574fd2b18d063b9dff4cad6f8c81e83abc4406613a99445d46fa3a57fd") -- Titanfall 2 - pt_BR
+setManifestid(1238107, "5340648545387345990", 734961241)
+addappid(1238108, 1, "700772775e8368324e2801763da29fd3a6fda344d3d2c1132c5a452ee41aa563") -- Titanfall 2 - zh_TW
+setManifestid(1238108, "5218246798794462392", 676036601)
+-- SHARED DEPOTS (from other apps)
+addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") -- VC 2010 Redist (Shared from App 228980)
+setManifestid(228983, "8124929965194586177", 19265607)
+addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") -- VC 2012 Redist (Shared from App 228980)
+setManifestid(228984, "2547553897526095397", 13742505)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") -- Depot 3340991 (Shared from App 3340990)
+setManifestid(3340991, "556631282418311229", 254018335)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(1238100) --Dlcname Titanfall 2 Monarchs Reign Bundle --NoDepot
+addappid(1238101) --Dlcname Titanfall 2 Jump Start Pack --NoDepot
+addappid(1238102) --Dlcname Titanfall 2 Colony Reborn Bundle --NoDepot
+addappid(1238103) --Dlcname Titanfall 2 Prime Titan Bundle --NoDepot
+addappid(1238104) --Dlcname Titanfall 2 Angel Citys Most Wanted Bundle --NoDepot
+addappid(1238105) --Dlcname Titanfall 2 Nitro Scorch Pack --NoDepot
+addappid(1288681) --Dlcname Titanfall 2 Deluxe Edition - Key --NoDepot
+addappid(1288682) --Dlcname Titanfall 2 Ultimate Edition - Key --NoDepot
+addappid(1288683) --Dlcname Titanfall 2 Underground R-201 Carbine --NoDepot
+addappid(1288684) --Dlcname Titanfall 2 Deluxe Edition Content --NoDepot
+addappid(1288685) --Dlcname Titanfall 2 Jump Start Pack - UE --NoDepot
+addappid(1304960) --Dlcname Titanfall 2 Colony Reborn Tone Art Pack --NoDepot
+addappid(1305010) --Dlcname Titanfall 2 Crimson Fury CAR --NoDepot
+addappid(1315800) --Dlcname Titanfall 2 Ion Prime --NoDepot
+addappid(1315801) --Dlcname Titanfall 2 Scorch Prime --NoDepot
+addappid(1315802) --Dlcname Titanfall 2 Ion Art Pack 1 --NoDepot
+addappid(1315803) --Dlcname Titanfall 2 Tone Art Pack 1 --NoDepot
+addappid(1315804) --Dlcname Titanfall 2 Scorch Art Pack 1 --NoDepot
+addappid(1315805) --Dlcname Titanfall 2 Legion Art Pack 1 --NoDepot
+addappid(1315806) --Dlcname Titanfall 2 Northstar Art Pack 1 --NoDepot
+addappid(1315807) --Dlcname Titanfall 2 Ronin Art Pack 1 --NoDepot
+addappid(1315808) --Dlcname Titanfall 2 Angel City Callsign Pack --NoDepot
+addappid(1315809) --Dlcname Titanfall 2 Angel City Camo Pack --NoDepot
+addappid(1315870) --Dlcname Titanfall 2 Legion Prime --NoDepot
+addappid(1315871) --Dlcname Titanfall 2 Northstar Prime --NoDepot
+addappid(1315872) --Dlcname Titanfall 2 Colony Reborn Ion Art Pack --NoDepot
+addappid(1315873) --Dlcname Titanfall 2 Colony Reborn Scorch Art Pack --NoDepot
+addappid(1315874) --Dlcname Titanfall 2 Colony Reborn Legion Art Pack --NoDepot
+addappid(1315875) --Dlcname Titanfall 2 Colony Reborn Northstar Art Pack --NoDepot
+addappid(1315876) --Dlcname Titanfall 2 Colony Reborn Ronin Art Pack --NoDepot
+addappid(1315877) --Dlcname Titanfall 2 Colony Reborn Callsign Pack --NoDepot
+addappid(1315878) --Dlcname Titanfall 2 Colony Reborn Camo Pack --NoDepot
+addappid(1316020) --Dlcname Titanfall 2 Tone Prime --NoDepot
+addappid(1316021) --Dlcname Titanfall 2 Ronin Prime --NoDepot
+addappid(1316022) --Dlcname Titanfall 2 Monarchs Reign Ion Art Pack --NoDepot
+addappid(1316023) --Dlcname Titanfall 2 Monarchs Reign Tone Art Pack --NoDepot
+addappid(1316024) --Dlcname Titanfall 2 Monarchs Reign Scorch Art Pack --NoDepot
+addappid(1316025) --Dlcname Titanfall 2 Monarchs Reign Legion Art Pack --NoDepot
+addappid(1316026) --Dlcname Titanfall 2 Monarchs Reign Northstar Art Pack --NoDepot
+addappid(1316027) --Dlcname Titanfall 2 Monarchs Reign Ronin Art Pack --NoDepot
+addappid(1316028) --Dlcname Titanfall 2 Monarchs Reign Callsign Pack --NoDepot
+addappid(1316029) --Dlcname Titanfall 2 Monarchs Reign Camo Pack --NoDepot
+addappid(1316070) --Dlcname Titanfall 2 Masterwork G2A5 --NoDepot
+addappid(1316071) --Dlcname Titanfall 2 Blue Fade Flatline --NoDepot
+addappid(1316072) --Dlcname Titanfall 2 Frontier Patriot Alternator --NoDepot
+addappid(1316073) --Dlcname Titanfall 2 Badlands EVA-8 Auto --NoDepot
+addappid(1316074) --Dlcname Titanfall 2 Aqua Fade B3 Wingman --NoDepot
+addappid(1316075) --Dlcname Titanfall 2 Phantom Archer --NoDepot
+addappid(1316076) --Dlcname Titanfall 2 Mochi Hemlok BF-R --NoDepot
+addappid(1316140) --Dlcname Titanfall 2 Purple Fade R-97 --NoDepot
+addappid(1316141) --Dlcname Titanfall 2 Masterwork Kraber-AP Sniper --NoDepot
+addappid(1316142) --Dlcname Titanfall 2 Crimson Fury SA-3 Mozambique --NoDepot
+addappid(1316143) --Dlcname Titanfall 2 Lead Farmer Spitfire --NoDepot
+addappid(1316144) --Dlcname Titanfall 2 RSPN Customs X-55 Devotion --NoDepot
+addappid(1316145) --Dlcname Titanfall 2 8-Bit LG-97 Thunderbolt --NoDepot
+addappid(1316146) --Dlcname Titanfall 2 Frontier Patriot R-201 Carbine --NoDepot
+addappid(1316240) --Dlcname Titanfall 2 Crimson Fury Mastiff --NoDepot
+addappid(1316241) --Dlcname Titanfall 2 Masterwork Sidewinder SMR --NoDepot
+addappid(1316242) --Dlcname Titanfall 2 Heat Sink L-STAR --NoDepot
+addappid(1316260) --Dlcname Titanfall 2 Badlands Flatline --NoDepot
+addappid(1316261) --Dlcname Titanfall 2 Heat Sink Volt --NoDepot
+addappid(1316262) --Dlcname Titanfall 2 MRVN EPG --NoDepot
+addappid(1316263) --Dlcname Titanfall 2 Headhunter Alternator --NoDepot
+addappid(1316264) --Dlcname Titanfall 2 Masterwork R-6P Softball --NoDepot
