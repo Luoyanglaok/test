@@ -162,3 +162,186 @@ addappid(609860) --Dlcname AppID 609860
 addtoken(609860, "10089511559827480899")
 addappid(638030) --Dlcname AppID 638030
 addtoken(638030, "7558579898638661010")
+-- 447040's Lua and Manifest Created by Hubcap Manifest
+-- Watch_Dogs 2
+-- Created: November 05, 2026 at 13:28:50 EST
+-- Website: https://hubcapmanifest.com/
+-- Build: 11638094 (public branch)
+-- Build Date: July 06, 2023 at 04:33:14 EDT (1688632394)
+-- Total Depots: 50
+-- Total DLCs: 43
+-- Shared Depots: 5
+-- MAIN APPLICATION
+addappid(447040, 1, "22f527ef6fec3336f6bc0e9b2f9fcf2cdd41248bdae7d6716d3857053ecb73e3") -- Watch_Dogs 2
+-- MAIN APP DEPOTS
+addappid(447041, 1, "fc4010cf09dba8216eb41e3c9cb3c070d9560f152196cb6024e79e3f17f25e30") -- Watch_Dogs2 Binaries
+setManifestid(447041, "3302179946055213415", 160789018)
+addappid(447042, 1, "678946fb045b108ba74ad0f53329a0c8159fc926efca91b6718517585ae8d7e2") -- Watch_Dogs2 Common
+setManifestid(447042, "997218509313186758", 21293506610)
+addappid(447043, 1, "e6b3f3a3dc41dee22b161d129bb9b122e5c6a2f52375e39751414142d872966c") -- Watch_Dogs2 Support
+setManifestid(447043, "1462578941831404281", 283379)
+addappid(447044, 1, "9c8d01d2514263ec1d948361eb6024344e70a7eb7c6450a9709d586d50c6dad2") -- Watch_Dogs2 English
+setManifestid(447044, "6218236977191698684", 2099197389)
+addappid(447045, 1, "e25792b08cc6e3b270d8265c8fabd4eb8a270e3efed468c96d4623d7703fafae") -- Watch_Dogs2 French
+setManifestid(447045, "4453696128671745411", 1992850729)
+addappid(447046, 1, "32d567f43bc976416c7ddc1d45678bbfb80533fce7b8c70d55f30a0ec63288b8") -- Watch_Dogs2 Italian
+setManifestid(447046, "8361138808695365836", 2153616880)
+addappid(447047, 1, "7fb570147fa727fd08c9f26d495f329678c878237bbeca9d4b462439c75cd74b") -- Watch_Dogs2 German
+setManifestid(447047, "4212646599686875567", 2107933140)
+addappid(447048, 1, "b4581df8d2c1e5a0d5fd3e9b7179cc7f8f8b56920c9166a6d606dcf781287c2b") -- Watch_Dogs2 Spanish
+setManifestid(447048, "4034890384220773207", 4466838349)
+addappid(447049, 1, "fdf6bc76a3e2ddd798d1b620fa7e09f432db69215fbecf09ba388d7369103297") -- Watch_Dogs2 Russian
+setManifestid(447049, "6769050862969085397", 1912752993)
+addappid(523270, 1, "930558d1da6f0df4e392c1da31a5f5865c52abb94c5bc5125c1fc224bb5d8598") -- Watch_Dogs2 Brazilian
+setManifestid(523270, "6318734218003619987", 2157128092)
+addappid(523271, 1, "8c60696a063ec9810fdab8013e0429bd516850431309169df9b3208050ea3f67") -- Watch_Dogs2 Japanese
+setManifestid(523271, "3235299862685763202", 2047574302)
+addappid(523272, 1, "d1d96b641664dbea7556a3cd0107767e114acfdfeaa4b35bec66b7c92e36c27a") -- Watch_Dogs2 Dutch
+setManifestid(523272, "909727842574637004", 2099197389)
+addappid(523273, 1, "5216b813ab563b947de7d8d45b8fc49219487ae9f7d04f497483cb64e083a451") -- Watch_Dogs2 Polish
+setManifestid(523273, "6692884236765333991", 2099197389)
+addappid(523274, 1, "b00012ee0c00ff848850d64b9543c01480cf930fd0e2c77f1e789fb60c05120c") -- Watch_Dogs2 Czech
+setManifestid(523274, "5108994015488200994", 2099197389)
+addappid(523275, 1, "6e55905d4b3fa00548f4e799a40e4cf2063c9d706953e3dd04aa18029100f35f") -- Watch_Dogs2 Hungarian
+setManifestid(523275, "5896793830775181708", 2099197389)
+addappid(523276, 1, "21bce069ef2a972824611dd8a68bd9ec6d4b3a61d2e68c0414fda6c5a4e932b1") -- Watch_Dogs2 Korean
+setManifestid(523276, "8848020721928518196", 2099197389)
+addappid(523277, 1, "c6c310a416c5191a74339fde859b311c71706805769308e58605d2613afd50d6") -- Watch_Dogs2 Traditional Chinese
+setManifestid(523277, "8887530144915320680", 2099197389)
+addappid(523278, 1, "29be437ec393f5c15a3468c9c7794759fc2d58b53324219ed0a6d288cea8a899") -- Watch_Dogs2 Simplified Chinese
+setManifestid(523278, "6790149592184840366", 2099197389)
+addappid(523279, 1, "a7931d0e7e65cd2b542a9af6359e1b6cac6dd21212b5e80807d52e11b355abeb") -- Watch_Dogs2 Arabic
+setManifestid(523279, "2872166881631289131", 2099197389)
+addappid(523280, 1, "1c990f3e4447b150cd8f7cd8d8de63c35098fd2cc2bbff9ca20254ab6a5914de") -- Watch_Dogs 2 Common Patch
+setManifestid(523280, "2019220971208328935", 2464183913)
+-- SHARED DEPOTS (from other apps)
+addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") -- VC 2010 Redist (Shared from App 228980)
+setManifestid(228983, "8124929965194586177", 19265607)
+addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") -- VC 2012 Redist (Shared from App 228980)
+setManifestid(228984, "2547553897526095397", 13742505)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "5753583882400741046", 25674515)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") -- Ubisoft Connect PC Client Content (Shared from App 1716750)
+setManifestid(1716751, "6945505966615327303", 263096496)
+-- DLCS WITH DEDICATED DEPOTS
+-- Watch_Dogs 2 -T-Bone Pack (AppID: 525000)
+addappid(525000) --Dlcname Watch_Dogs 2 -T-Bone Pack
+addappid(525000, 1, "7f7c5389bdb55eb129ad979a9f25bb9119d2213b72c20bf9ded7a089b9b140d3") -- Watch_Dogs 2 -T-Bone Pack - Watch_Dogs 2 -T-Bone Pack (525000) Depot
+setManifestid(525000, "3818770049609403556", 8467)
+-- Watch_Dogs 2 - High Res Texture Pack (AppID: 525010)
+addappid(525010) --Dlcname Watch_Dogs 2 - High Res Texture Pack
+addappid(525010, 1, "cd810c8bc9e08fce6eaa195c9a329fc616d21f4e0bb766dbfedb0c7fde1dc5e2") -- Watch_Dogs 2 - High Res Texture Pack - Watch_Dogs 2 - High Res Texture Pack (525010) Depot
+setManifestid(525010, "7483836175353315398", 6762265918)
+-- Watch_Dogs 2 - Root Access Bundle (AppID: 525011)
+addappid(525011) --Dlcname Watch_Dogs 2 - Root Access Bundle
+addappid(525011, 1, "9dbffd3d9fafdab811d3be8a6208cb6924bf74eead3da1213fc73327d544cd47") -- Watch_Dogs 2 - Root Access Bundle - Watch_Dogs 2 - Root Access Bundle (525011) Depot
+setManifestid(525011, "1533862689114266704", 16554)
+-- Watch_Dogs 2 - Punk Rock (AppID: 525012)
+addappid(525012) --Dlcname Watch_Dogs 2 - Punk Rock
+addappid(525012, 1, "e3e816ba17301fedc531913fae48eb34a2908a80b1a8b5f61ccf7fa10379cfb8") -- Watch_Dogs 2 - Punk Rock - Watch_Dogs 2 - Punk Rock (525012) Depot
+setManifestid(525012, "7038970996526637326", 16554)
+-- Watch_Dogs 2 - Psychedelic (AppID: 525013)
+addappid(525013) --Dlcname Watch_Dogs 2 - Psychedelic
+addappid(525013, 1, "3cd5645e21198ba6a14eedf9e5bae31957d9d69e58c508932d2c3ce732609834") -- Watch_Dogs 2 - Psychedelic - Watch_Dogs 2 - Psychedelic (525013) Depot
+setManifestid(525013, "7151604820994488599", 16554)
+-- Watch_Dogs 2 - Black hat (AppID: 525014)
+addappid(525014) --Dlcname Watch_Dogs 2 - Black hat
+addappid(525014, 1, "357c21ff0ced6060a2529bd7c3798090d6eae7651dd4e75d340f6bb2a278e4bd") -- Watch_Dogs 2 - Black hat - Watch_Dogs 2 - Black hat (525014) Depot
+setManifestid(525014, "596936042021230472", 16554)
+-- Watch_Dogs 2 - Pixel Art (AppID: 525015)
+addappid(525015) --Dlcname Watch_Dogs 2 - Pixel Art
+addappid(525015, 1, "82020e3b98669314a4fb9bd307edffc343e699ddfd317eb05eb6f2d7f798d766") -- Watch_Dogs 2 - Pixel Art - Watch_Dogs 2 - Pixel Art (525015) Depot
+setManifestid(525015, "2890509369308159084", 16554)
+-- Watch_Dogs 2 - Guru (AppID: 525016)
+addappid(525016) --Dlcname Watch_Dogs 2 - Guru
+addappid(525016, 1, "ec987ead6cd53607ab10a33a73d8a9a0d1d39207b2e24974e81db0e0c2d56744") -- Watch_Dogs 2 - Guru - Watch_Dogs 2 - Guru (525016) Depot
+setManifestid(525016, "1654460707176312840", 16554)
+-- Watch_Dogs 2 - EliteSec (AppID: 525017)
+addappid(525017) --Dlcname Watch_Dogs 2 - EliteSec
+addappid(525017, 1, "c2fa62b43a2276d22c672fe08528f5b044548880a79f9e2ed8b1cd21b7524dcd") -- Watch_Dogs 2 - EliteSec - Watch_Dogs 2 - EliteSec (525017) Depot
+setManifestid(525017, "5960420828558892132", 16554)
+-- Watch_Dogs 2 - Glam (AppID: 525018)
+addappid(525018) --Dlcname Watch_Dogs 2 - Glam
+addappid(525018, 1, "91ac37996aacef4e8cc6f4913b93d61449bd7835dcf5c02218e63af1add634ce") -- Watch_Dogs 2 - Glam - Watch_Dogs 2 - Glam (525018) Depot
+setManifestid(525018, "1977170010505170029", 16554)
+-- Watch_Dogs 2 - Private Eye (AppID: 525019)
+addappid(525019) --Dlcname Watch_Dogs 2 - Private Eye
+addappid(525019, 1, "ed3231482c421a8d72104e4b8c42d6ea6afb50fba10da0b294c97bb631fa6a24") -- Watch_Dogs 2 - Private Eye - Watch_Dogs 2 - Private Eye (525019) Depot
+setManifestid(525019, "799387533860932796", 16554)
+-- Watch_Dogs 2 - Human Conditions (AppID: 525030)
+addappid(525030) --Dlcname Watch_Dogs 2 - Human Conditions
+addappid(525030, 1, "110a318600e96e739eca55a825805b4635221f867ee024200f33de45a01a945f") -- Watch_Dogs 2 - Human Conditions - Watch_Dogs 2 - Biometric (525030) Depot
+setManifestid(525030, "961189566217530477", 746298935)
+-- Watch_Dogs 2 - No Compromise (AppID: 525031)
+addappid(525031) --Dlcname Watch_Dogs 2 - No Compromise
+addappid(525031, 1, "d4c8e985e882c44ffce80096d7c027de5c34a59d87fcd0955ee284d560ac3626") -- Watch_Dogs 2 - No Compromise - Watch_Dogs 2 - DLC3 (525031) Depot
+setManifestid(525031, "4871371175234558281", 245521345)
+-- Watch_Dogs 2 - Urban Artist (AppID: 525032)
+addappid(525032) --Dlcname Watch_Dogs 2 - Urban Artist
+addappid(525032, 1, "837184fe6583a2469935f5dd99aef8dcb9b354c978bdbed1a8d069f6bf02a661") -- Watch_Dogs 2 - Urban Artist - Watch_Dogs 2 - Urban Artist (525032) Depot
+setManifestid(525032, "2323705252351048819", 16554)
+-- Watch_Dogs 2 - Ubisoft (AppID: 525033)
+addappid(525033) --Dlcname Watch_Dogs 2 - Ubisoft
+addappid(525033, 1, "13f213413f1c8a3c19323829d8d220d84db2950c565f2556e6800eead21f2039") -- Watch_Dogs 2 - Ubisoft - Watch_Dogs 2 - Ubisoft (525033) Depot
+setManifestid(525033, "8966076327864415293", 16554)
+-- Watch_Dogs 2 - Dumpster Diver (AppID: 525034)
+addappid(525034) --Dlcname Watch_Dogs 2 - Dumpster Diver
+addappid(525034, 1, "85a1a4e9c3551688baa44cb2d7b69c4a85af53234fe8d83c8802960dc5533e73") -- Watch_Dogs 2 - Dumpster Diver - Watch_Dogs 2 - Dumpster Diver (525034) Depot
+setManifestid(525034, "4735303425651977581", 16554)
+-- Watch_Dogs 2 - Ded Labs (AppID: 525035)
+addappid(525035) --Dlcname Watch_Dogs 2 - Ded Labs
+addappid(525035, 1, "986d23fcc348f57f6e9924b4e6125b01612db8b57ab4b7823621eacc1048ba70") -- Watch_Dogs 2 - Ded Labs - Watch_Dogs 2 - Ded Labs (525035) Depot
+setManifestid(525035, "4979247215084820783", 16554)
+-- Watch_Dogs 2 - Hometown (AppID: 525036)
+addappid(525036) --Dlcname Watch_Dogs 2 - Hometown
+addappid(525036, 1, "9eb3aed80a4013a78b3840b1236ba2ce13e1eb93fcce973a03b43ff158494fa2") -- Watch_Dogs 2 - Hometown - Watch_Dogs 2 - Hometown (525036) Depot
+setManifestid(525036, "1082048085711066933", 16554)
+-- Watch_Dogs 2 - Guts, Grit and Liberty (AppID: 525037)
+addappid(525037) --Dlcname Watch_Dogs 2 - Guts, Grit and Liberty
+addappid(525037, 1, "61697e9cb4ae840cc906f9562dea6ee0a91ef31b4c55970440e9d2c33363906e") -- Watch_Dogs 2 - Guts, Grit and Liberty - Watch_Dogs 2 - Guts, Grit and Liberty (525037) Depot
+setManifestid(525037, "8218952416726370481", 16554)
+-- Watch_Dogs 2 - Retro Modernist Pack (AppID: 597070)
+addappid(597070) --Dlcname Watch_Dogs 2 - Retro Modernist Pack
+addappid(597070, 1, "c3eaa401606a95b8153af0f2c29757005401025517d5de96a2dfa278b6fc727d") -- Watch_Dogs 2 - Retro Modernist Pack - Watch_Dogs 2 - Pop Art Pack (597070) Depot
+setManifestid(597070, "3993095586736265619", 16554)
+-- Watch_Dogs 2 - Glow_Pro Pack  (AppID: 597071)
+addappid(597071) --Dlcname Watch_Dogs 2 - Glow_Pro Pack
+addappid(597071, 1, "f9563a74f2e98e964f42074b94cc28e99d37c39f048d9e911e21c06f733f42fd") -- Watch_Dogs 2 - Glow_Pro Pack  - Watch_Dogs 2 - Neon Rave Pack (597071) Depot
+setManifestid(597071, "2783599295679915178", 16554)
+-- Watch_Dogs 2 - Ride Britannia Pack (AppID: 597072)
+addappid(597072) --Dlcname Watch_Dogs 2 - Ride Britannia Pack
+addappid(597072, 1, "63e78917f0a2e5d4525306c7ff7a0cf97c828437cbcce37885425f41e1299e0b") -- Watch_Dogs 2 - Ride Britannia Pack - Watch_Dogs 2 - British Pack (597072) Depot
+setManifestid(597072, "1872353120461941193", 16554)
+-- Watch_Dogs 2 - Kick It Pack (AppID: 597073)
+addappid(597073) --Dlcname Watch_Dogs 2 - Kick It Pack
+addappid(597073, 1, "bd769c9d5ab2142217889e096545aa1328bc5cef720639468dd7ee9580e06b97") -- Watch_Dogs 2 - Kick It Pack - Watch_Dogs 2 - Fresh Prince Pack (597073) Depot
+setManifestid(597073, "2885932048396936671", 16554)
+-- Watch_Dogs 2 - Velvet Cowboy  (AppID: 597074)
+addappid(597074) --Dlcname Watch_Dogs 2 - Velvet Cowboy
+addappid(597074, 1, "54b69ac8918f1b41a621c69b454f30be6613c3a7c5f74dbf93a106eb985c0d23") -- Watch_Dogs 2 - Velvet Cowboy  - Watch_Dogs 2 - 70s Pack (597074) Depot
+setManifestid(597074, "3618130764127901160", 16554)
+-- Watch_Dogs 2 - Bay Area Thrash Pack (AppID: 597075)
+addappid(597075) --Dlcname Watch_Dogs 2 - Bay Area Thrash Pack
+addappid(597075, 1, "461868921ac918577ff1ac0e624d5ef1c58b8e9cde5386d62f1cb25753fb27b3") -- Watch_Dogs 2 - Bay Area Thrash Pack - Watch_Dogs 2 - Biker Thrash Pack (597075) Depot
+setManifestid(597075, "1641108175604409131", 16554)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(555240) --Dlcname Watch_Dogs 2 - Season Pass --NoDepot
+addappid(558380) --Dlcname Watch_Dog 2 - WW Uplay Activation --NoDepot
+addappid(558381) --Dlcname Watch_Dog 2 - ASIA Uplay Activation --NoDepot
+addappid(558382) --Dlcname Watch_Dog 2 - RU-CN Uplay Activation --NoDepot
+addappid(558390) --Dlcname Watch_Dogs 2 - Ultimate pack --NoDepot
+addappid(558391) --Dlcname Watch_Dogs 2 - Supreme pack --NoDepot
+addappid(558400) --Dlcname Watch_Dogs 2 - Zodiac Killer Mission --NoDepot
+addappid(581400) --Dlcname Watch_Dogs 2 - Fully Decked Out Bundle --NoDepot
+addappid(597076) --Dlcname Watch_Dogs 2 - Mega Pack --NoDepot
+addappid(597077) --Dlcname Watch_Dogs 2 - Retro Modernist Pack Uplay Activation --NoDepot
+addappid(597078) --Dlcname Watch_Dogs 2 - Glow_Pro Pack Uplay Activation --NoDepot
+addappid(597079) --Dlcname Watch_Dogs 2 - Ride Britannia Pack Uplay Activation --NoDepot
+addappid(597100) --Dlcname Watch_Dogs 2 - Kick It Pack Uplay Activation --NoDepot
+addappid(597101) --Dlcname Watch_Dogs 2 - Velvet Cowboy Uplay Activation --NoDepot
+addappid(597102) --Dlcname Watch_Dogs 2 - Bay Area Thrash Pack Uplay Activation --NoDepot
+addappid(597103) --Dlcname Watch_Dogs 2 - Mega Pack Uplay Activation --NoDepot
+addappid(609860) --Dlcname Watch_Dogs 2 - Human Conditions Uplay Activation --NoDepot
+addappid(638030) --Dlcname Watch_Dogs 2 - No Compromise Uplay Activation --NoDepot
