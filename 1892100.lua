@@ -12,3 +12,8 @@ addappid(1892100) -- Heart Abyss
 -- MAIN APP DEPOTS
 addappid(1892101, 1, "f76a0c3c593f058ac0a0f583f804fd8247dc1ce95e74afe9a3b4fd5e750ad4fd") -- Depot 1892101
 setManifestid(1892101, "7547277658856004295", 640715696)
+
+-- Created: November 13, 2026 at 09:55:25 EST
+-- Build: 26642390 (public branch)
+-- Build Date: November 13, 2026 at 06:03:00 EST (1794567780)
+setManifestid(1892101, "173301529689584475", 607085616)
