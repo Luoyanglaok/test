@@ -28,3 +28,53 @@ addappid(1938024,0,"ef14c284b41cff0b7af9dbc711044a82cabba512bd399d6a16d913d9bd48
 setManifestid(1938024,"4592752040724132724")
 addappid(3340992,0,"7112f072ac3a0100e541bc9b1556d3dd0697e7641094f3389e811ceb50efaf3e")
 setManifestid(3340992,"2787832777200282612")
+-- 1938010's Lua and Manifest Created by Hubcap Manifest
+-- WILD HEARTS™
+-- Created: November 05, 2026 at 13:23:16 EST
+-- Website: https://hubcapmanifest.com/
+-- Build: 12142996 (public branch)
+-- Build Date: September 08, 2023 at 10:30:41 EDT (1694183441)
+-- Total Depots: 15
+-- Total DLCs: 6
+-- Shared Depots: 2
+-- MAIN APPLICATION
+addappid(1938010, 1, "59c2a3802de4ee77aae23bb28b8671f39344e7e30d9cfb670c3d0032534470bf") -- WILD HEARTS™
+-- MAIN APP DEPOTS
+addappid(1938011, 1, "9ce6911b3af383789befb5d0adb5d82a53daf6f7f2882b279d8ea3624126e3f8") -- Depot 1938011
+setManifestid(1938011, "3209942483188464472", 81441291654)
+addappid(1938012, 1, "8926b99530a4fa06aa3e65436c1ef4264f193596e34032a7b9381f86f0054f5e") -- Depot 1938012
+setManifestid(1938012, "8492436986988692819", 918)
+addappid(1938013, 1, "0864e6e7ca529e9c2d0732d19871ab006abd8aeadc2be5130b965a6a86458af8") -- Depot 1938013
+setManifestid(1938013, "2170671953157648682", 918)
+addappid(1938014, 1, "477eb7c7672d4e74203e761477d9e0c629af9abf7d0249fed2cc2179da1ceb93") -- Depot 1938014
+setManifestid(1938014, "8073479861078819702", 918)
+addappid(1938015, 1, "0e02e73174fc62dd51d6ddd790d6ba614430ec3cbd276511c59393e63ab9eca6") -- Depot 1938015
+setManifestid(1938015, "1230415933150598343", 918)
+addappid(1938016, 1, "1828e886a10fe7e4e38b0550c61ad50437349a791ab057167091a3ceb3884134") -- Depot 1938016
+setManifestid(1938016, "3654624299260363343", 918)
+addappid(1938017, 1, "73ed0b42bccdf2e505b0e3ab43e8e6f744219e1bda578e3845f900ebe7878edd") -- Depot 1938017
+setManifestid(1938017, "3238482745264392608", 918)
+addappid(1938018, 1, "559e526844bc2e3876f57c49847088edc57acf9aff41c1cd0d2a8baafc4a2daf") -- Depot 1938018
+setManifestid(1938018, "5532290653972662458", 918)
+addappid(1938019, 1, "25928be9fd6f460277b973e729044675cfa5c22b49312a0aa8264ea7a759a5d1") -- Depot 1938019
+setManifestid(1938019, "5476871506142379742", 918)
+addappid(1938021, 1, "51d836c1c7c0da1a2c91571e3e3199218f00a8951f2826b3f6bdac617a76c737") -- Depot 1938021
+setManifestid(1938021, "5816998381154774159", 918)
+addappid(1938022, 1, "413ac099b949989edf035f72e9f229c8fa7eeeb5f244f6dd63ba88188088eb8d") -- Depot 1938022
+setManifestid(1938022, "5044094919088947604", 918)
+addappid(1938023, 1, "544f6791aefe70809101da89b0510106d2199f692ea80f1c838035e0961df268") -- Depot 1938023
+setManifestid(1938023, "2817903967110408702", 918)
+addappid(1938024, 1, "ef14c284b41cff0b7af9dbc711044a82cabba512bd399d6a16d913d9bd48703e") -- Depot 1938024
+setManifestid(1938024, "4592752040724132724", 918)
+-- SHARED DEPOTS (from other apps)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+setManifestid(228988, "6645201662696499616", 29212173)
+addappid(3340992, 1, "7112f072ac3a0100e541bc9b1556d3dd0697e7641094f3389e811ceb50efaf3e") -- Depot 3340992 (Shared from App 3340990)
+setManifestid(3340992, "5112252350092789838", 254018334)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(1938020) --Dlcname WILD HEARTS Standard Edition Key --NoDepot
+addappid(2092830) --Dlcname WILD HEARTS Karakuri Upgrade --NoDepot
+addappid(2095410) --Dlcname WILD HEARTS Deluxe Edition Bundle Key --NoDepot
+addappid(2095411) --Dlcname WILD HEARTS Pre-Order Edition Key --NoDepot
+addappid(2095412) --Dlcname WILD HEARTS Deluxe Pre-Order Edition Bundle Key --NoDepot
+addappid(2105270) --Dlcname WILD HEARTS - EA Play Trial Key --NoDepot
