@@ -80,3 +80,115 @@ addtoken(1754681, "1746634817671374687")
 addappid(1754682) --Dlcname AppID 1754682
 addtoken(1754682, "17015986415343029936")
 addappid(1754685) --Dlcname Atelier Sophie 2 - Season Pass
+-- 1621310's Lua and Manifest Created by Hubcap Manifest
+-- Atelier Sophie 2: The Alchemist of the Mysterious Dream
+-- Created: September 18, 2026 at 08:34:11 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 10418371 (public branch)
+-- Build Date: January 27, 2023 at 08:56:09 EST (1674827769)
+-- Total Depots: 25
+-- Total DLCs: 25
+-- Shared Depots: 2
+-- MAIN APPLICATION
+addappid(1621310, 1, "aec3a1abd98c3aa9c83987b27b62b84f8168183d63f9a2b40e6a82ed412da7d5") -- Atelier Sophie 2: The Alchemist of the Mysterious Dream
+-- MAIN APP DEPOTS
+addappid(1621311, 1, "7efa5dc2c1f058948f98a3e2b75be10a0cf423134af8a02f79e9f78dc4602157") -- Depot 1621311
+setManifestid(1621311, "5269180525473962898", 18576190108)
+-- SHARED DEPOTS (from other apps)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+setManifestid(228988, "6645201662696499616", 29212173)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+-- DLCS WITH DEDICATED DEPOTS
+-- Atelier Sophie 2 - Atelier Series Legacy Swimsuit Set (AppID: 1754680)
+addappid(1754680) --Dlcname Atelier Sophie 2 - Atelier Series Legacy Swimsuit Set
+addappid(1754680, 1, "19f21896c7cbe76801f0112566e96cb32d1c6c5efba7b056d7f24985f29ddf69") -- Atelier Sophie 2 - Atelier Series Legacy Swimsuit Set - Depot 1754680
+setManifestid(1754680, "7595365842800207484", 98609956)
+-- Atelier Sophie 2 - Sophies Costume Easy Breezy (AppID: 1754683)
+addappid(1754683) --Dlcname Atelier Sophie 2 - Sophies Costume Easy Breezy
+addappid(1754683, 1, "84ea7914b3a4be9ab29aaaa095d4ecabb421ede988931c9df531e7eb39702655") -- Atelier Sophie 2 - Sophies Costume Easy Breezy - Depot 1754683
+setManifestid(1754683, "2884889386278386742", 23107722)
+-- Atelier Sophie 2 - Sophies Costume Comfy and Casual (AppID: 1754684)
+addappid(1754684) --Dlcname Atelier Sophie 2 - Sophies Costume Comfy and Casual
+addappid(1754684, 1, "4c4249b7ae1cbad87da903e7b1094b9807fa78daec77ddbdf33e630c4d119478") -- Atelier Sophie 2 - Sophies Costume Comfy and Casual - Depot 1754684
+setManifestid(1754684, "4724039468765267212", 14798410)
+-- Atelier Sophie 2 - SophieRamizels Costumes Grandmas Outfit (Matching Set) (AppID: 1754686)
+addappid(1754686) --Dlcname Atelier Sophie 2 - SophieRamizels Costumes Grandmas Outfit (Matching Set)
+addappid(1754686, 1, "c7c617a143b13671c071b9c68613aee3a3b732e915b9ffa29e226ada8a5a3898") -- Atelier Sophie 2 - SophieRamizels Costumes Grandmas Outfit (Matching Set) - Depot 1754686
+setManifestid(1754686, "8884762970164532723", 39860143)
+-- Atelier Sophie 2 - Sophies Costume Alchemist of the Mysterious Journey (AppID: 1754687)
+addappid(1754687) --Dlcname Atelier Sophie 2 - Sophies Costume Alchemist of the Mysterious Journey
+addappid(1754687, 1, "d2234ecbeb4b503ae106df5680d0c6c613b421027bade9352299d6dc6fe432ca") -- Atelier Sophie 2 - Sophies Costume Alchemist of the Mysterious Journey - Depot 1754687
+setManifestid(1754687, "4369955370819607665", 17850123)
+-- Atelier Sophie 2 - Plachtas Costume Haute Couture (AppID: 1754688)
+addappid(1754688) --Dlcname Atelier Sophie 2 - Plachtas Costume Haute Couture
+addappid(1754688, 1, "3e88a9d47ab78f7bcdbeccd14956e5d593fa48195b16cfeff5ab3dbfe31531a0") -- Atelier Sophie 2 - Plachtas Costume Haute Couture - Depot 1754688
+setManifestid(1754688, "5712629861566771067", 16662369)
+-- Atelier Sophie 2 - Ramizels Costume Ertona Hunter (AppID: 1754689)
+addappid(1754689) --Dlcname Atelier Sophie 2 - Ramizels Costume Ertona Hunter
+addappid(1754689, 1, "8e2305c7b006bfa0897d3829a86905e4b2b5c16d0ecdff30ef23ff218b70759e") -- Atelier Sophie 2 - Ramizels Costume Ertona Hunter - Depot 1754689
+setManifestid(1754689, "3785983125693932894", 15854970)
+-- Atelier Sophie 2 - Accessory 25 Glasses (AppID: 1754690)
+addappid(1754690) --Dlcname Atelier Sophie 2 - Accessory 25 Glasses
+addappid(1754690, 1, "2234668fadcf8604d2a6d54d11cb91bc1ac801765a437a97e9d6cbcbe4c4ecde") -- Atelier Sophie 2 - Accessory 25 Glasses - Depot 1754690
+setManifestid(1754690, "703177582357918028", 1993972)
+-- Atelier Sophie 2 - Accessory Animal Headband (AppID: 1754691)
+addappid(1754691) --Dlcname Atelier Sophie 2 - Accessory Animal Headband
+addappid(1754691, 1, "bd5a71f908e3be7dac852e56dc93a2ea6a08fe5c9b28ffdaa6b587563cbb12fd") -- Atelier Sophie 2 - Accessory Animal Headband - Depot 1754691
+setManifestid(1754691, "8062694440485836289", 2884871)
+-- Atelier Sophie 2 - SophiePlachtaRamizelAlettes Costume Bunny-Eared Salesgirl (AppID: 1754692)
+addappid(1754692) --Dlcname Atelier Sophie 2 - SophiePlachtaRamizelAlettes Costume Bunny-Eared Salesgirl
+addappid(1754692, 1, "fa1773985960e293ff442f39e4769bae393091b693960bc712350bdefbcdbac9") -- Atelier Sophie 2 - SophiePlachtaRamizelAlettes Costume Bunny-Eared Salesgirl - Depot 1754692
+setManifestid(1754692, "1444197957677054757", 69643054)
+-- Atelier Sophie 2 - Recipe Expansion Pack The Art of Synthesis (AppID: 1754693)
+addappid(1754693) --Dlcname Atelier Sophie 2 - Recipe Expansion Pack The Art of Synthesis
+addappid(1754693, 1, "2f3ddbd2688abc427f48ab3144b6b3492b54fdb0ea5a08b8e89d74509439d0fb") -- Atelier Sophie 2 - Recipe Expansion Pack The Art of Synthesis - Depot 1754693
+setManifestid(1754693, "858447598732692701", 920880)
+-- Atelier Sophie 2 - Recipe Expansion Pack The Art of Battle (AppID: 1754694)
+addappid(1754694) --Dlcname Atelier Sophie 2 - Recipe Expansion Pack The Art of Battle
+addappid(1754694, 1, "7ff85e8497b2526a676d9b7653ba1461045be0785ad93b5a5d310a97b90895cb") -- Atelier Sophie 2 - Recipe Expansion Pack The Art of Battle - Depot 1754694
+setManifestid(1754694, "4844543110183554031", 4817742)
+-- Atelier Sophie 2 - Gust Extra BGM Pack (AppID: 1754695)
+addappid(1754695) --Dlcname Atelier Sophie 2 - Gust Extra BGM Pack
+addappid(1754695, 1, "1b285977b0be3b48b8cf640aa63c0d8b85e853d670aa2acd5d7ccb1a05440fad") -- Atelier Sophie 2 - Gust Extra BGM Pack - Depot 1754695
+setManifestid(1754695, "239842428436587579", 1290948351)
+-- Atelier Sophie 2 - Extra Area Heartscape (AppID: 1754696)
+addappid(1754696) --Dlcname Atelier Sophie 2 - Extra Area Heartscape
+addappid(1754696, 1, "5358e8fac5274f01364d3bc414c5953d3fe293f777ce09aeb074d0ad271a1d67") -- Atelier Sophie 2 - Extra Area Heartscape - Depot 1754696
+setManifestid(1754696, "8589538989680081933", 338626631)
+-- Atelier Sophie 2 - Sophies Swimsuit White Canvas (AppID: 1754697)
+addappid(1754697) --Dlcname Atelier Sophie 2 - Sophies Swimsuit White Canvas
+addappid(1754697, 1, "9bd5f83ecc0f987dbc59790df0e37fb82c110f683e53dcc58806ee08e43c4dde") -- Atelier Sophie 2 - Sophies Swimsuit White Canvas - Depot 1754697
+setManifestid(1754697, "3944099572505315737", 11382935)
+-- Atelier Sophie 2 - Plachtas Swimsuit Clivia Nobilis (AppID: 1754698)
+addappid(1754698) --Dlcname Atelier Sophie 2 - Plachtas Swimsuit Clivia Nobilis
+addappid(1754698, 1, "0f1689965003e30d98b944f77870832ebfa9208f7b1f7bb2563f74aa66cce8f4") -- Atelier Sophie 2 - Plachtas Swimsuit Clivia Nobilis - Depot 1754698
+setManifestid(1754698, "1490338041946224317", 26614452)
+-- Atelier Sophie 2 - Ramizels Swimsuit Agapanthus Romance (AppID: 1754699)
+addappid(1754699) --Dlcname Atelier Sophie 2 - Ramizels Swimsuit Agapanthus Romance
+addappid(1754699, 1, "1f367420406fb8d4c7e30ecc28f2c72283bcef5df00e584e54645a2828932852") -- Atelier Sophie 2 - Ramizels Swimsuit Agapanthus Romance - Depot 1754699
+setManifestid(1754699, "2484368571832440506", 19014810)
+-- Atelier Sophie 2 - Alettes Swimsuit Rainmaker (AppID: 1754700)
+addappid(1754700) --Dlcname Atelier Sophie 2 - Alettes Swimsuit Rainmaker
+addappid(1754700, 1, "5850698dcb737db293d85d928794dceb3455934ba9b1b19e0069d95d37675a28") -- Atelier Sophie 2 - Alettes Swimsuit Rainmaker - Depot 1754700
+setManifestid(1754700, "4328401927093576770", 14244426)
+-- Atelier Sophie 2 - Oliass Swimsuit Vegetable Garden (AppID: 1754701)
+addappid(1754701) --Dlcname Atelier Sophie 2 - Oliass Swimsuit Vegetable Garden
+addappid(1754701, 1, "9e0bc7fa0aa1c6657e3cbf6f6aff4d065ceaab93b8c57d5165988610255d9046") -- Atelier Sophie 2 - Oliass Swimsuit Vegetable Garden - Depot 1754701
+setManifestid(1754701, "2567436537784201991", 11583436)
+-- Atelier Sophie 2 - Diebolds Swimsuit Knight Commander (AppID: 1754702)
+addappid(1754702) --Dlcname Atelier Sophie 2 - Diebolds Swimsuit Knight Commander
+addappid(1754702, 1, "ba9d4356ba2c21c741558b8a9686a6a919a0933d888aa8b28f0bbd91aa783dd1") -- Atelier Sophie 2 - Diebolds Swimsuit Knight Commander - Depot 1754702
+setManifestid(1754702, "4636656465222311258", 18931682)
+-- Atelier Sophie 2 - Atelier Series Legacy BGM Pack (AppID: 1754703)
+addappid(1754703) --Dlcname Atelier Sophie 2 - Atelier Series Legacy BGM Pack
+addappid(1754703, 1, "d3e7799d9a68e156608d74aa0ef6049e36dd0df1308c016b0dc15f90f59298e7") -- Atelier Sophie 2 - Atelier Series Legacy BGM Pack - Depot 1754703
+setManifestid(1754703, "3952985351826138857", 3439313407)
+-- Atelier Sophie 2 - Extra ScenarioArea Atelier Plachta (AppID: 1754704)
+addappid(1754704) --Dlcname Atelier Sophie 2 - Extra ScenarioArea Atelier Plachta
+addappid(1754704, 1, "669094ba47d811aeb2e10100040bbdb32afa56f42f401920d9b989b5f55bf9ad") -- Atelier Sophie 2 - Extra ScenarioArea Atelier Plachta - Depot 1754704
+setManifestid(1754704, "2663273283167581852", 903400123)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(1754681) --Dlcname Atelier Sophie 2 - Useful Weapons Set --NoDepot
+addappid(1754682) --Dlcname Atelier Sophie 2 - Useful Items Set --NoDepot
+addappid(1754685) --Dlcname Atelier Sophie 2 - Season Pass --NoDepot
