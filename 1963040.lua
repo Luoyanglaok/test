@@ -45,3 +45,53 @@ addappid(229020, 1, "efca2304d92ac2bb7ebca174e6e5015fb0daf45d7db8ecfc1db6eaccdc7
 setManifestid(229020, "5799761707845834510", 591984)
 addappid(229030, 1, "92f0f88867c8d5f351090eb2d27aeb50e2b621ae8a34708265d2c20c36fbcf5e") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(229030, "1043465440436835055", 50071472)
+-- 1963040's Lua and Manifest Created by Hubcap Manifest
+-- 山门与幻境（The Lost Village）
+-- Created: October 23, 2026 at 02:50:02 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 26152725 (public branch)
+-- Build Date: October 23, 2026 at 01:55:50 EDT (1792734950)
+-- Total Depots: 13
+-- Total DLCs: 5
+-- Shared Depots: 6
+-- MAIN APPLICATION
+addappid(1963040, 1, "3e57e6e6c2fd2cb888e7df69c4217c0432d7067b2ea56d920b71e90c18a18c12") -- 山门与幻境（The Lost Village）
+-- MAIN APP DEPOTS
+addappid(1963041, 1, "0960237e0bdfa0375c4556be4c342956e5f6d446657bc4d0a9644f32316b9c76") -- Depot 1963041
+setManifestid(1963041, "9204960334660133571", 13975830531)
+addappid(1963042, 1, "61e5e1650a0b0a2ee690399ead28cc4d11ac3a1058dfd64ceb46f82bc9ce948f") -- Depot 1963042
+setManifestid(1963042, "5729363257035477947", 13957673843)
+-- SHARED DEPOTS (from other apps)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "5753583882400741046", 25674515)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+addappid(229005, 1, "aa18a527cdc103aeb3d12caafd6f581689a14467aa55658ba583a9af6e90313a") -- .NET 4.6 Redist (Shared from App 228980)
+setManifestid(229005, "7992454656023763365", 62009092)
+addappid(229012, 1, "421e499f39a617c1a3b6baf11fbc65ffebd541d2c39c38d3bf6ffbd87919ce12") -- XNA 4.0 Redist (Shared from App 228980)
+setManifestid(229012, "4353723233161159493", 7061608)
+addappid(229020, 1, "efca2304d92ac2bb7ebca174e6e5015fb0daf45d7db8ecfc1db6eaccdc7b27d9") -- OpenAL 2.0.7.0 Redist (Shared from App 228980)
+setManifestid(229020, "5799761707845834510", 810085)
+addappid(229030, 1, "92f0f88867c8d5f351090eb2d27aeb50e2b621ae8a34708265d2c20c36fbcf5e") -- PhysX System Software 8.09.04 (Shared from App 228980)
+setManifestid(229030, "1043465440436835055", 51790718)
+-- DLCS WITH DEDICATED DEPOTS
+-- TheLostVillage -  (AppID: 2850340)
+addappid(2850340) --Dlcname TheLostVillage -
+addappid(2850340, 1, "423f4ec9aa4edff9616f9a065bf6d4a7b3a50e7a5989eca2eba1fe2e8c232af2") -- TheLostVillage -  - Depot 2850340
+setManifestid(2850340, "3581378244241433097", 69581209)
+-- TheLostVillage- (AppID: 2917210)
+addappid(2917210) --Dlcname TheLostVillage-
+addappid(2917210, 1, "bdeb1eccedd69002ef23f347d2ef3b65a79887c96a4996cbe1fe7c53a79c2c2f") -- TheLostVillage- - Depot 2917210
+setManifestid(2917210, "4002384482655671079", 3101531)
+-- TheLostVillage- (AppID: 3227480)
+addappid(3227480) --Dlcname TheLostVillage-
+addappid(3227480, 1, "ba1dbc2707196bda0ba7d451b6a81412ed21c6d4f581d5c411674292da812ef3") -- TheLostVillage- - Depot 3227480
+setManifestid(3227480, "3971885926465697198", 259062)
+-- TheLostVillage- (AppID: 3348000)
+addappid(3348000) --Dlcname TheLostVillage-
+addappid(3348000, 1, "137af1b6a775c42a78e9b1386d97ed46074f1296114ef4983770b48ab2b7653a") -- TheLostVillage- - Depot 3348000
+setManifestid(3348000, "3423465725393360040", 299517)
+-- TheLostVillage- (AppID: 3600860)
+addappid(3600860) --Dlcname TheLostVillage-
+addappid(3600860, 1, "0a7688ca5818fb37401d2e52695c01778e352644ff6e5f37c434fbc42bb93784") -- TheLostVillage- - Depot 3600860
+setManifestid(3600860, "3557495147778647459", 1643003)
