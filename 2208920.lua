@@ -51,3 +51,71 @@ addappid(2253270) --Dlcname Assassins Creed - Free Weekend Ownership JP
 --Dlcname Assassins Creed Valhalla - Wrath of the Druids Ubisoft Activation
 --Dlcname Assassins Creed Valhalla - The Siege of Paris Ubisoft Activation
 --Dlcname Assassins Creed Valhalla Dawn of Ragnarok Ubisoft Activation
+-- 2208920's Lua and Manifest Created by Hubcap Manifest
+-- Assassin's Creed Valhalla
+-- Created: November 05, 2026 at 09:10:30 EST
+-- Website: https://hubcapmanifest.com/
+-- Build: 26142239 (public branch)
+-- Build Date: October 22, 2026 at 15:19:39 EDT (1792696779)
+-- Total Depots: 14
+-- Total DLCs: 19
+-- Shared Depots: 2
+-- MAIN APPLICATION
+addappid(2208920, 1, "341fe3f4ec62cf0fff12951236111c3843329d327e446d032c371f5a9951fc5a") -- Assassin's Creed Valhalla
+-- MAIN APP DEPOTS
+addappid(2208921, 1, "730d1287dca1022d13b02c888d506c722defbd62ebb8d2e5d63b4b1225c2214a") -- Depot 2208921
+setManifestid(2208921, "6278931035807773113", 121005081942)
+addappid(2208922, 1, "f63ecfc0cf19563c881154f4f30d417f6e06e8ba36d97ef158b3b3011b4f50a9") -- Depot 2208922
+setManifestid(2208922, "9134213676153211952", 1889683216)
+addappid(2208923, 1, "f8db6be76c7006843019640140a96b0041a94b0822637ed0a6c4263947677a32") -- Depot 2208923
+setManifestid(2208923, "263026949759441130", 1891506589)
+addappid(2208924, 1, "6fb2adf9e1c7b80b53a1d54671995dd9643882d572928bb4708152502c97defa") -- Depot 2208924
+setManifestid(2208924, "695868890233753547", 1869707944)
+addappid(2208925, 1, "9dfe80e165990a0f9897b0e9d8d406d4aaf5686e1b0ab51873ad6720dec85cba") -- Depot 2208925
+setManifestid(2208925, "6857264363759358797", 1824916085)
+addappid(2208926, 1, "e79a8d81b33f3cee16adf9d5ef9a91234f811ce435f76f7ed4ad6699081feb96") -- Depot 2208926
+setManifestid(2208926, "9087313228259552134", 1894970202)
+addappid(2208927, 1, "7637d15ea02bb0532437a3e39f2741fb9856fe16c551034b6fa557420133d0d3") -- Depot 2208927
+setManifestid(2208927, "2992301042586024036", 1931565378)
+addappid(2208928, 1, "59bbbd6d54128c3aa8bb676161987f4a6039aa9a73ef888e3072bcb67671b357") -- Depot 2208928
+setManifestid(2208928, "3952138475651660933", 1746803236)
+addappid(2208929, 1, "79ad447f1ccd9123e04990015c1ae80ec5b1ed29bd3b8abe427fca13d21cb3e2") -- Depot 2208929
+setManifestid(2208929, "603665797137398867", 1947033919)
+addappid(2210143, 1, "c0c5f510b0fc245b42abe2178d14c78dcb832353ac2b26a2e6158c656ddd2471") -- Depot 2210143
+setManifestid(2210143, "3213394118833844700", 12792405440)
+addappid(2210144, 1, "5b4d7f7cf88e57952d1fd1622b39c4655b20f21d3c3f7382a6cb4bf3bfc1cead") -- Depot 2210144
+setManifestid(2210144, "6388637255164890336", 10942430358)
+addappid(2210145, 1, "7a47174cc2e1deac0c6e920f778139b00568388bacd9fcd70802fedb611fa355") -- Depot 2210145
+setManifestid(2210145, "5024033353800553144", 16846961095)
+-- SHARED DEPOTS (from other apps)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+setManifestid(228988, "6645201662696499616", 29212173)
+addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") -- Ubisoft Connect PC Client Content (Shared from App 1716750)
+setManifestid(1716751, "6945505966615327303", 263096496)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(2210140) --Dlcname Assassins Creed Valhalla - Dawn of Ragnark --NoDepot
+addappid(2210141) --Dlcname Assassins Creed Valhalla - The Siege of Paris --NoDepot
+addappid(2210142) --Dlcname Assassins Creed Valhalla - Wrath of the Druids --NoDepot
+addappid(2210541) --Dlcname Assassins Creed Valhalla Deluxe Edition Ubisoft Activation --NoDepot
+addappid(2210730) --Dlcname Assassins Creed Valhalla Ragnarok Edition Ubisoft Activation --NoDepot
+addappid(2210731) --Dlcname Assassins Creed Valhalla Complete Edition Ubisoft Activation --NoDepot
+addappid(2210734) --Dlcname Assassins Creed Valhalla - Wrath of the Druids Ubisoft Activation --NoDepot
+addappid(2210735) --Dlcname Assassins Creed Valhalla - The Siege of Paris Ubisoft Activation --NoDepot
+addappid(2210736) --Dlcname Assassins Creed Valhalla Dawn of Ragnarok Ubisoft Activation --NoDepot
+addappid(2210740) --Dlcname Assassins Creed Valhalla - Season Pass --NoDepot
+addappid(2210741) --Dlcname Assassins Creed Valhalla Season Pass Ubisoft Activation --NoDepot
+addappid(2216800) --Dlcname Assassins Creed Valhalla Ragnarok Edition Japan Ubisoft Activation --NoDepot
+addappid(2216801) --Dlcname Assassins Creed Valhalla Deluxe Edition Japan Ubisoft Activation --NoDepot
+addappid(2216802) --Dlcname Assassins Creed Valhalla Complete Edition Japan Ubisoft Activation --NoDepot
+addappid(2216803) --Dlcname Assassins Creed Valhalla Japan Ubisoft Activation --NoDepot
+addappid(2216804) --Dlcname Assassins Creed Valhalla Ubisoft Activation --NoDepot
+addappid(2247900) --Dlcname Assassins Creed Valhalla - Free Weekend Ownership --NoDepot
+addappid(2251610) --Dlcname Assassins Creed Valhalla - Full Game Ownership --NoDepot
+addappid(2253270) --Dlcname Assassins Creed - Free Weekend Ownership JP --NoDepot
+-- EMPTY DEPOTS (no content on any branch)
+-- addappid(2210541) -- Depot 2210541 (empty depot)
+-- addappid(2210730) -- Depot 2210730 (empty depot)
+-- addappid(2210731) -- Depot 2210731 (empty depot)
+-- addappid(2210734) -- Depot 2210734 (empty depot)
+-- addappid(2210735) -- Depot 2210735 (empty depot)
+-- addappid(2210736) -- Depot 2210736 (empty depot)
