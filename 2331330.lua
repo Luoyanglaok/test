@@ -12,3 +12,27 @@ addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74
 setManifestid(228988, "6645201662696499616", 22411856)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
+-- 2331330's Lua and Manifest Created by Hubcap Manifest
+-- The Bridge Curse 2: The Extrication
+-- Created: September 19, 2026 at 00:53:16 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 16048090 (public branch)
+-- Build Date: October 15, 2024 at 03:33:37 EDT (1728977617)
+-- Total Depots: 4
+-- Total DLCs: 1
+-- Shared Depots: 2
+-- MAIN APPLICATION
+addappid(2331330, 1, "61606afe7ed788ce0946f30bbde3394998ebd18ef45e0c2a0bd13d32927391ab") -- The Bridge Curse 2: The Extrication
+-- MAIN APP DEPOTS
+addappid(2331331, 1, "eb2fadb9b6ec0e6369a6cdc4d441e912bc8b31a0477d2bc3395efcaf83bb9b0a") -- Depot 2331331
+setManifestid(2331331, "9080237809025849929", 6006101459)
+-- SHARED DEPOTS (from other apps)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+setManifestid(228988, "6645201662696499616", 29212173)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+-- DLCS WITH DEDICATED DEPOTS
+-- The Bridge Curse Road 2 The Extrication The art of game Book (AppID: 2915350)
+addappid(2915350) --Dlcname The Bridge Curse Road 2 The Extrication The art of game Book
+addappid(2915350, 1, "3fd91fa1147d67e1d3d767cafccd9f3dcc1f36b1501629175a64b022cf5509c5") -- The Bridge Curse Road 2 The Extrication The art of game Book - Depot 2915350
+setManifestid(2915350, "6707451284262026015", 360160614)
