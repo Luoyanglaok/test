@@ -19,3 +19,34 @@ setManifestid(2377462, "8693556843502666168", 0)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
+-- 2254740's Lua and Manifest Created by Hubcap Manifest
+-- Persona 5 Tactica
+-- Created: September 18, 2026 at 20:16:33 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 20538850 (public branch)
+-- Build Date: October 25, 2025 at 01:39:44 EDT (1761370784)
+-- Total Depots: 6
+-- Total DLCs: 4
+-- Shared Depots: 1
+-- MAIN APPLICATION
+addappid(2254740, 1, "86489b315af1d44f012ed6c37f2af91615a7a660837c9cab8deff39b450d065d") -- Persona 5 Tactica
+-- MAIN APP DEPOTS
+addappid(2254741, 1, "025ff3d951f39f6737173ca90de98b40c56f8ea0f1d0be4d59d11328d74f409b") -- Depot 2254741
+setManifestid(2254741, "6791489377519143618", 17316584396)
+-- SHARED DEPOTS (from other apps)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "5753583882400741046", 25674515)
+-- DLCS WITH DEDICATED DEPOTS
+-- Persona 5 Tactica Orpheus Picaro  Izanagi Picaro (AppID: 2377440)
+addappid(2377440) --Dlcname Persona 5 Tactica Orpheus Picaro  Izanagi Picaro
+addappid(2377440, 1, "2ea9621c7e11c0a35a39310c5ddebd9027c6a7405504ca40a8d5f5d95551c86f") -- Persona 5 Tactica Orpheus Picaro  Izanagi Picaro - Depot 2377440
+-- Persona 5 Tactica Repaint Your Heart Challenge Pack (AppID: 2377460)
+addappid(2377460) --Dlcname Persona 5 Tactica Repaint Your Heart Challenge Pack
+addappid(2377460, 1, "5a06313ad2816cf0f1b8ce9c8bd060f695c66259a49f08f003471511a72ba659") -- Persona 5 Tactica Repaint Your Heart Challenge Pack - Depot 2377460
+setManifestid(2377460, "8726855442506987686", 120860881)
+-- Persona 5 Tactica Weapon Pack (AppID: 2377461)
+addappid(2377461) --Dlcname Persona 5 Tactica Weapon Pack
+addappid(2377461, 1, "0c5872695516b4b3882fb14552a849ef52d2a9c98b8928cf91da7a708c73fce1") -- Persona 5 Tactica Weapon Pack - Depot 2377461
+-- Persona 5 Tactica Picaro Summoning Pack  Raoul Persona (AppID: 2377462)
+addappid(2377462) --Dlcname Persona 5 Tactica Picaro Summoning Pack  Raoul Persona
+addappid(2377462, 1, "69212faea0ab119a38451aaa3e6205bd3630aea21ec29283eb8be7e756d95a33") -- Persona 5 Tactica Picaro Summoning Pack  Raoul Persona - Depot 2377462
