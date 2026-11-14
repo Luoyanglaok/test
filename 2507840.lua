@@ -7,3 +7,22 @@ addappid(2507843,0,"2ac4f36e23b19d159f9a79e88fa8041309131cc834b96d5163cbe952c116
 setManifestid(2507843,"5133526813062540761")
 addappid(2507844,0,"93a4d23a8b93d46cf9b959e5c96642ba0bd69c798032be999c593910da9da07c")
 setManifestid(2507844,"7023278011385589064")
+-- 2507840's Lua and Manifest Created by Hubcap Manifest
+-- Whispered Promises ~ 14 Days of Love with Anna
+-- Created: September 19, 2026 at 03:44:35 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 13493183 (public branch)
+-- Build Date: February 18, 2024 at 20:38:08 EST (1708306688)
+-- Total Depots: 4
+-- Total DLCs: 0
+-- MAIN APPLICATION
+addappid(2507840, 1, "6e0f5eb101e14f7190a82d9c743a882e2d6b65d601e7c148a4af3a2c282e348f") -- Whispered Promises ~ 14 Days of Love with Anna
+-- MAIN APP DEPOTS
+addappid(2507841, 1, "0d154fd2a38deedac06b868af878a4d8d3fe75e904d818ea747e318c65c80a85") -- Depot 2507841
+setManifestid(2507841, "3844093799158946191", 790479738)
+addappid(2507842, 1, "4b731b4233164a4cb66b781d6f862684b44c157fbf1ca4d846cc825de4b7578e") -- Depot 2507842
+setManifestid(2507842, "7070843423978463963", 807130010)
+addappid(2507843, 1, "2ac4f36e23b19d159f9a79e88fa8041309131cc834b96d5163cbe952c1164442") -- Depot 2507843
+setManifestid(2507843, "5133526813062540761", 806864851)
+addappid(2507844, 1, "93a4d23a8b93d46cf9b959e5c96642ba0bd69c798032be999c593910da9da07c") -- Depot 2507844
+setManifestid(2507844, "7023278011385589064", 807575369)
