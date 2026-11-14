@@ -14,3 +14,24 @@ addappid(4830561, 1, "3e71b2f7f078052d5e7c3cb31c5f421c3c8e05ff7e26943c00ebab5a72
 setManifestid(4830561, "3287825058259696814", 128095690064)
 --Dlcname 盛夏的我们-2K高清资源包
 --Dlcname 盛夏的我们-4K高清资源包
+-- 4767430's Lua and Manifest Created by Hubcap Manifest
+-- 盛夏的我们
+-- Created: November 14, 2026 at 02:29:44 EST
+-- Website: https://hubcapmanifest.com/
+-- Build: 26620559 (public branch)
+-- Build Date: November 12, 2026 at 10:07:17 EST (1794496037)
+-- Total Depots: 1
+-- Total DLCs: 0 (2 excluded)
+-- MAIN APPLICATION
+addappid(4767430) -- 盛夏的我们
+-- MAIN APP DEPOTS
+addappid(4767431, 1, "38ee41b5252b6143b4634d00c9581ed02b3b39f3e703f1eec0caee3190acc81f") -- Depot 4767431
+setManifestid(4767431, "2043932963851009163", 54909433789)
+-- EXCLUDED DLCS:
+-- DLCS EXCLUDED (MISSING DEPOT KEYS)
+-- -2K (AppID: 4830550) - missing depot keys
+-- addappid(4830550)
+-- -4K (AppID: 4830560) - missing depot keys
+-- addappid(4830560)
+-- EMPTY DEPOTS (no content on any branch)
+-- addappid(4767433) -- Depot 4767433 (empty depot)
