@@ -94,3 +94,139 @@ setManifestid(4007520, "5191904910392251962", 499086016)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
+-- 2852190's Lua and Manifest Created by Hubcap Manifest
+-- Monster Hunter Stories 3: Twisted Reflection
+-- Created: September 20, 2026 at 02:19:55 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 24016036 (public branch)
+-- Build Date: July 02, 2026 at 03:31:27 EDT (1782977487)
+-- Total Depots: 31
+-- Total DLCs: 29
+-- Shared Depots: 1
+-- MAIN APPLICATION
+addappid(2852190, 1, "787c31aa0484811d8e5dedc92eb126f7b09ba686c105c57158bcf06beb46e03f") -- Monster Hunter Stories 3: Twisted Reflection
+-- MAIN APP DEPOTS
+addappid(2852191, 1, "d9ab76ecfa885be755b04a902f6949a0ee65ed60942bda0caeea1cb8832f65cf") -- Depot 2852191
+setManifestid(2852191, "6158104409197440181", 40362324503)
+-- SHARED DEPOTS (from other apps)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "5753583882400741046", 25674515)
+-- DLCS WITH DEDICATED DEPOTS
+-- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Eleanor Skyscale Queen (AppID: 3581270)
+addappid(3581270) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Eleanor Skyscale Queen
+addappid(3581270, 1, "ef13f858536aa4b5c54307a638e5efb7764ab9763ce513f0893d9d752cf458ea") -- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Eleanor Skyscale Queen - Depot 3581270
+setManifestid(3581270, "8458212944527962292", 13629357)
+-- Monster Hunter Stories 3 Twisted Reflection - Special Outfits Set (AppID: 3581280)
+addappid(3581280) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Special Outfits Set
+addappid(3581280, 1, "585336c8945a87126b16997b0323567b357fbbb3cf529cd362fa6ec10f93329d") -- Monster Hunter Stories 3 Twisted Reflection - Special Outfits Set - Depot 3581280
+setManifestid(3581280, "7569748194585989011", 129898591)
+-- Monster Hunter Stories 3 Twisted Reflection - Monster Hair Malzeno Bob (AppID: 3581290)
+addappid(3581290) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Monster Hair Malzeno Bob
+addappid(3581290, 1, "94d76ae0d0ff4533fc1db50e587a91c84454342672882ed4849f773615336cd6") -- Monster Hunter Stories 3 Twisted Reflection - Monster Hair Malzeno Bob - Depot 3581290
+setManifestid(3581290, "2093297960475433885", 2277139)
+-- Monster Hunter Stories 3 Twisted Reflection - Monster Hair Hellfire Tail (AppID: 3581300)
+addappid(3581300) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Monster Hair Hellfire Tail
+addappid(3581300, 1, "0928f3f1790516b082ca620d36abae082684c31f0073341bca492de242831a09") -- Monster Hunter Stories 3 Twisted Reflection - Monster Hair Hellfire Tail - Depot 3581300
+setManifestid(3581300, "8952166521260427532", 2716992)
+-- Monster Hunter Stories 3 Twisted Reflection - Monster Hair Espinas Spikes (AppID: 3581310)
+addappid(3581310) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Monster Hair Espinas Spikes
+addappid(3581310, 1, "678544f31185ca208900fc3b509c2b0f0db2f9383ffb3a408cc5b01ff33828e3") -- Monster Hunter Stories 3 Twisted Reflection - Monster Hair Espinas Spikes - Depot 3581310
+setManifestid(3581310, "6376214278045416999", 1586180)
+-- Monster Hunter Stories 3 Twisted Reflection - Monster Hair Garangolm Nest (AppID: 3581320)
+addappid(3581320) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Monster Hair Garangolm Nest
+addappid(3581320, 1, "72b08e75337e0436b49187778e9d57c98b43b6944a1b6731d50fcf54018851e0") -- Monster Hunter Stories 3 Twisted Reflection - Monster Hair Garangolm Nest - Depot 3581320
+setManifestid(3581320, "3127807661445653310", 2880190)
+-- Monster Hunter Stories 3 Twisted Reflection - Monster Hair Octolocks Princess (AppID: 3581330)
+addappid(3581330) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Monster Hair Octolocks Princess
+addappid(3581330, 1, "5133aff38832e81fbb44ddbcf1be7bed1a60f2bc3512e81cd3cf9d6809be42fc") -- Monster Hunter Stories 3 Twisted Reflection - Monster Hair Octolocks Princess - Depot 3581330
+setManifestid(3581330, "240227128175926447", 4546745)
+-- Monster Hunter Stories 3 Twisted Reflection - Monster Hair Goss Hairagy (AppID: 3581340)
+addappid(3581340) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Monster Hair Goss Hairagy
+addappid(3581340, 1, "28d189a8b1dcf05fe55df9c24f2026603b5b7ce3a851764f9654cd3f9048cb68") -- Monster Hunter Stories 3 Twisted Reflection - Monster Hair Goss Hairagy - Depot 3581340
+setManifestid(3581340, "4135893026995074115", 5349821)
+-- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Eleanor Foreign Dancer (AppID: 3581380)
+addappid(3581380) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Eleanor Foreign Dancer
+addappid(3581380, 1, "2de77f7d0978c2524258337ea4eb8837adc735aef087362b12425e26fc06956f") -- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Eleanor Foreign Dancer - Depot 3581380
+setManifestid(3581380, "4887326740324044471", 23375300)
+-- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Gaul Fur-tive Five Leader (AppID: 3581390)
+addappid(3581390) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Gaul Fur-tive Five Leader
+addappid(3581390, 1, "52ca7186e556b209f821b8df5252d70e4e3f54813b6e68841688e269d9f24255") -- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Gaul Fur-tive Five Leader - Depot 3581390
+setManifestid(3581390, "2728666657550847926", 10294690)
+-- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Kora Attendants Attire (AppID: 3581400)
+addappid(3581400) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Kora Attendants Attire
+addappid(3581400, 1, "0656897589842d8b5f43294dbc6cf1b3322f474f0cd0f44bd15b3b2d8764f8cf") -- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Kora Attendants Attire - Depot 3581400
+setManifestid(3581400, "1463607991440957207", 19945464)
+-- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Ogden Summertime Ogden (AppID: 3581410)
+addappid(3581410) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Ogden Summertime Ogden
+addappid(3581410, 1, "ddff775d6666c34298b5adb830451180d8c76c47805551cac13d84d1e0de82b1") -- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Ogden Summertime Ogden - Depot 3581410
+setManifestid(3581410, "2909396534256144995", 11226400)
+-- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Thea Canyne Ward (AppID: 3581420)
+addappid(3581420) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Thea Canyne Ward
+addappid(3581420, 1, "7f3529d148dea90208308cc087a305b65934fff1e9c8f904d351a9402a353aff") -- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Thea Canyne Ward - Depot 3581420
+setManifestid(3581420, "5379677702933453096", 15107775)
+-- Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Shogun Rudy (AppID: 3581430)
+addappid(3581430) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Shogun Rudy
+addappid(3581430, 1, "15a47d2f5a349aa24e600074429047313e185e288e5399157223d27bb3f97b1b") -- Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Shogun Rudy - Depot 3581430
+setManifestid(3581430, "1977062647901345030", 8759551)
+-- Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Rudyzeno (AppID: 3581440)
+addappid(3581440) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Rudyzeno
+addappid(3581440, 1, "f03ec354e423bfaece6ea9f22263abcc5c1afb97fa317f3794989b3f82d6443b") -- Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Rudyzeno - Depot 3581440
+setManifestid(3581440, "451376771089979740", 14194105)
+-- Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Rudys Arkbelt (AppID: 3581450)
+addappid(3581450) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Rudys Arkbelt
+addappid(3581450, 1, "d45246faa11048ff03056a420f73ff4f80b9ca1dd61a4a77d36b4cd7f53cc51d") -- Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Rudys Arkbelt - Depot 3581450
+setManifestid(3581450, "1506988313793986765", 10126384)
+-- Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Scintillating Armor (AppID: 3581460)
+addappid(3581460) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Scintillating Armor
+addappid(3581460, 1, "955f11da865a79a14ed09d05caac901334031a7f994cc98bff1bb3b09cb64198") -- Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Scintillating Armor - Depot 3581460
+setManifestid(3581460, "8124295821573494354", 14140211)
+-- Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Relaxed-acabra (AppID: 3581470)
+addappid(3581470) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Relaxed-acabra
+addappid(3581470, 1, "36d4431ea0b56006c4cef362163e584d212331c31721591efefb66458a208d16") -- Monster Hunter Stories 3 Twisted Reflection - Rudys Outfit Relaxed-acabra - Depot 3581470
+setManifestid(3581470, "2640357821360084225", 11649741)
+-- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Simon Wind Wyverns Friend (AppID: 3581480)
+addappid(3581480) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Simon Wind Wyverns Friend
+addappid(3581480, 1, "b42ab35e827d7a2936b4412ad36b56964a8aa00f845590800d722d2c9d6bf9e8") -- Monster Hunter Stories 3 Twisted Reflection - Layered Armor for Simon Wind Wyverns Friend - Depot 3581480
+setManifestid(3581480, "7764411618427858643", 23110838)
+-- Monster Hunter Stories 3 Twisted Reflection - Accessory Crystalline Ornament (AppID: 3872750)
+addappid(3872750) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Accessory Crystalline Ornament
+addappid(3872750, 1, "99291b2fd491c4bfc5d77d61237974ccb2cea8b1768f9664d5ec44cfe71e5161") -- Monster Hunter Stories 3 Twisted Reflection - Accessory Crystalline Ornament - Depot 3872750
+setManifestid(3872750, "3294195697823073321", 6631341)
+-- Accessory Square-Framed Glasses (AppID: 3879360)
+addappid(3879360) --Dlcname Accessory Square-Framed Glasses
+addappid(3879360, 1, "723fb6344fb84d8a3fac559c578182a09d5b65956eb5cb578b2e9f0094c3cb62") -- Accessory Square-Framed Glasses - Depot 3879360
+setManifestid(3879360, "5572507035609083706", 1310648)
+-- Monster Hunter Stories 3 Twisted Reflection - Accessory Pearl Earrings (AppID: 3879370)
+addappid(3879370) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Accessory Pearl Earrings
+addappid(3879370, 1, "08972fb6b7cf121e1fcf663996d010a299888ee70c547ac806821cf31ad4b088") -- Monster Hunter Stories 3 Twisted Reflection - Accessory Pearl Earrings - Depot 3879370
+setManifestid(3879370, "3533586002260635852", 1150816)
+-- Accessory Pom-Pom Earrings (AppID: 3879380)
+addappid(3879380) --Dlcname Accessory Pom-Pom Earrings
+addappid(3879380, 1, "9cc00e11fdaab23c845e9ccfee48a996421bd2fab4647a5fd9acc6fe7335a5c5") -- Accessory Pom-Pom Earrings - Depot 3879380
+setManifestid(3879380, "3600498023744702612", 1229953)
+-- Monster Hunter Stories 3 Twisted Reflection - Accessory Royal Monocle (AppID: 3879390)
+addappid(3879390) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Accessory Royal Monocle
+addappid(3879390, 1, "016ae6967147fb51c1b6ce30a762439b3b9d528f759d529d28998215449c77a8") -- Monster Hunter Stories 3 Twisted Reflection - Accessory Royal Monocle - Depot 3879390
+setManifestid(3879390, "2898806657553241633", 1331788)
+-- Monster Hunter Stories 3 Twisted Reflection - Accessory Gold Circlet (AppID: 3879400)
+addappid(3879400) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Accessory Gold Circlet
+addappid(3879400, 1, "ae5e5e1120dc2085e8f9b68942bc777dbc99b200133bf9b5e673dbafd251d02a") -- Monster Hunter Stories 3 Twisted Reflection - Accessory Gold Circlet - Depot 3879400
+setManifestid(3879400, "6273590793040211798", 7294507)
+-- Monster Hunter Stories 3 Twisted Reflection - Accessory Fang Talisman (AppID: 3879410)
+addappid(3879410) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Accessory Fang Talisman
+addappid(3879410, 1, "6228d3dad1c231156c712832ab5ca24a10a266d4cccb7f051ae445c4d2776d0d") -- Monster Hunter Stories 3 Twisted Reflection - Accessory Fang Talisman - Depot 3879410
+setManifestid(3879410, "3541962698066773047", 6434177)
+-- Monster Hunter Stories 3 Twisted Reflection - Accessory Protective Band (AppID: 3879430)
+addappid(3879430) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Accessory Protective Band
+addappid(3879430, 1, "ae426b4a5d9bfecf5bdd516fb6f8a19e0a2baf24f7c04e583a15f33b3667d4f3") -- Monster Hunter Stories 3 Twisted Reflection - Accessory Protective Band - Depot 3879430
+setManifestid(3879430, "7768962081441671320", 4449191)
+-- Monster Hunter Stories 3 Twisted Reflection - Accessory Ornament of Bonds (AppID: 3879440)
+addappid(3879440) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Accessory Ornament of Bonds
+addappid(3879440, 1, "d458841a7d8dda1966fec434794cd931b4a15a153fe6054f8a382de498a5e6f7") -- Monster Hunter Stories 3 Twisted Reflection - Accessory Ornament of Bonds - Depot 3879440
+setManifestid(3879440, "1522236329607587316", 4755183)
+-- Monster Hunter Stories 3 Twisted Reflection - Additional Side Story Rudy (AppID: 4007520)
+addappid(4007520) --Dlcname Monster Hunter Stories 3 Twisted Reflection - Additional Side Story Rudy
+addappid(4007520, 1, "fd6cef0e8d2cc6b0da0b7eb581ed452836f4d3fd3f680a0ff2e5bab17dba6079") -- Monster Hunter Stories 3 Twisted Reflection - Additional Side Story Rudy - Depot 4007520
+setManifestid(4007520, "5191904910392251962", 524268912)
+-- EMPTY DEPOTS (no content on any branch)
+-- addappid(4283830) -- Depot 4283830 (empty depot)
