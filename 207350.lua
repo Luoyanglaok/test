@@ -13,3 +13,32 @@ addappid(207355,0,"d995c5aa9b4d763b60d4059f9be58dd6a091c5643a79c00a4aee541150bf7
 setManifestid(207355,"690201929799744125")
 addappid(207356,0,"dc65e42516c6efb4b6016a8ed834f56cbf5b8af4df4128fd40ed795bd2f9ac14")
 setManifestid(207356,"1161830686126410059")
+-- 207350's Lua and Manifest Created by Hubcap Manifest
+-- Ys Origin
+-- Created: September 19, 2026 at 04:16:44 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 13122302 (public branch)
+-- Build Date: January 08, 2024 at 20:26:04 EST (1704763564)
+-- Total Depots: 8
+-- Total DLCs: 0
+-- Shared Depots: 2
+-- MAIN APPLICATION
+addappid(207350, 1, "fe72eeb3ee1005d85ae8019a5a639e2d1be388ac7f6d41a5561014d1297e6b0a") -- Ys Origin
+-- MAIN APP DEPOTS
+addappid(207351, 1, "d07cb2ff4d007ea8c11d8778b7828c1c65db11c00d199a0e442ff7901494b815") -- Ys Origin Content
+setManifestid(207351, "1770619590605009824", 2385955351)
+addappid(207352, 1, "62c70e9616a6e04c41c9880f74a39d22fcde98defe6f3c1d179d2b788cc51ca5") -- Depot 207352
+setManifestid(207352, "586877273092606493", 210703066)
+addappid(207353, 1, "a2f2feee4361ae4f8b4b3c63c65ed0768c23b333eaeacfce2c3e16334cc8a4ab") -- Depot 207353
+setManifestid(207353, "53762313180693284", 205731537)
+addappid(207354, 1, "4880695ae7fddf3ccba5ec7ae64692b9c36d2dc02cbc07968f938bcfb1812091") -- Depot 207354
+setManifestid(207354, "3967737675374674379", 206600190)
+addappid(207355, 1, "d995c5aa9b4d763b60d4059f9be58dd6a091c5643a79c00a4aee541150bf73ab") -- Depot 207355
+setManifestid(207355, "690201929799744125", 207154823)
+addappid(207356, 1, "dc65e42516c6efb4b6016a8ed834f56cbf5b8af4df4128fd40ed795bd2f9ac14") -- Depot 207356
+setManifestid(207356, "1161830686126410059", 205633667)
+-- SHARED DEPOTS (from other apps)
+addappid(228982, 1, "fa2997f03c3576c41174f200596ab2246fd1e39c0911f9b869e92635ae5b0ff5") -- VC 2008 Redist (Shared from App 228980)
+setManifestid(228982, "6413394087650432851", 9688647)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
