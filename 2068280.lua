@@ -28,3 +28,45 @@ setManifestid(3636782, "4914104943878966614", 11567872)
 --Dlcname Nordic Ashes Twilight of Yggdrasil
 addappid(4501990, 1, "444f67e695996bc61357eeca787e1d206bd39160cef5c6066fae3b5a4561548e") --Dlcname Nordic Ashes Twilight of Yggdrasil
 setManifestid(4501990, "7065807900947634745", 8443744)
+-- 2068280's Lua and Manifest Created by Hubcap Manifest
+-- Nordic Ashes
+-- Created: November 10, 2026 at 04:49:39 EST
+-- Website: https://hubcapmanifest.com/
+-- Build: 26538410 (public branch)
+-- Build Date: November 09, 2026 at 06:39:10 EST (1794224350)
+-- Total Depots: 11
+-- Total DLCs: 4
+-- MAIN APPLICATION
+addappid(2068280, 1, "88bfba35f5dd0f0680c5db767218aeaa00cd91e6621151e04758d25c1fa4240d") -- Nordic Ashes
+-- MAIN APP DEPOTS
+addappid(2068281, 1, "ee7ffd7c9029c2c860eab9bb927eba2a68583d2327418c1fa50e13a0aa0e3534") -- Depot 2068281
+setManifestid(2068281, "1142079485095490264", 786466569)
+addappid(2068282, 1, "01210614ee8eafe7be521b727beab3aefa41b46c6a42ba8299ee4478f6c890df") -- Depot 2068282
+setManifestid(2068282, "8166554465030507150", 890948586)
+addappid(2068283, 1, "df31c8266051f43e78990b5d97bd3b9eb293126391b671e1b14a051d460bf91b") -- Depot 2068283
+setManifestid(2068283, "1986887145329637535", 825493471)
+-- DLCS WITH DEDICATED DEPOTS
+-- Nordic Ashes Digital Artbook (AppID: 2952100)
+addappid(2952100) --Dlcname Nordic Ashes Digital Artbook
+addappid(2952100, 1, "288f3607fd60a1291dc7c8ac494a41f2f85aa8c9ca7cffc02e25fcbe4489ecf5") -- Nordic Ashes Digital Artbook - Depot 2952100
+setManifestid(2952100, "515509976132042656", 162392933)
+-- Nordic Ashes Dark Knights (AppID: 3312220)
+addappid(3312220) --Dlcname Nordic Ashes Dark Knights
+addappid(3312220, 1, "bab077fa19c68ee5c41735feff8f93076ae2d6c43631a8394311c453d1c7644a") -- Nordic Ashes Dark Knights - Depot 3312220
+setManifestid(3312220, "6404997703055802125", 100074)
+addappid(3312221, 1, "aa939f25a524b5953c06c2efdf929ea8dff8946b60f531a949f1ff71d317b30c") -- Nordic Ashes Dark Knights - Depot 3312221
+setManifestid(3312221, "8141255087922911130", 100180)
+addappid(3312222, 1, "978fabfc5fcaa61865a4c1fba48f7363495110c31bc7001f14f4ed3a7b5c6a52") -- Nordic Ashes Dark Knights - Depot 3312222
+setManifestid(3312222, "5061725352799868296", 100019)
+-- Nordic Ashes Remnants of Corruption (AppID: 3636780)
+addappid(3636780) --Dlcname Nordic Ashes Remnants of Corruption
+addappid(3636780, 1, "cb00c6cd0e5c55518a12fac8bf4339a6ad9580427e363e3f54cd97403ebbd75a") -- Nordic Ashes Remnants of Corruption - Depot 3636780
+setManifestid(3636780, "4580824260724737476", 10360448)
+addappid(3636781, 1, "416b71bca45f18ceef8184700f4aac288dd17baff8cd4848f82702cbdd646141") -- Nordic Ashes Remnants of Corruption - Depot 3636781
+setManifestid(3636781, "992695585333769543", 11409544)
+addappid(3636782, 1, "3301678f8868a72b848f3280ab9b29e85446b780b03c47971d7004e81e8c69f5") -- Nordic Ashes Remnants of Corruption - Depot 3636782
+setManifestid(3636782, "4914104943878966614", 11411779)
+-- Nordic Ashes Twilight of Yggdrasil (AppID: 4501990)
+addappid(4501990) --Dlcname Nordic Ashes Twilight of Yggdrasil
+addappid(4501990, 1, "444f67e695996bc61357eeca787e1d206bd39160cef5c6066fae3b5a4561548e") -- Nordic Ashes Twilight of Yggdrasil - Depot 4501990
+setManifestid(4501990, "7065807900947634745", 8443043)
