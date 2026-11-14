@@ -14,3 +14,29 @@ addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f69
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(229007, 1, "eba9fa9ff4f811929c119074450f49f739113bcae9317ded9bea262aa21ec58d") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(229007, "4477590687906973371", 118846656)
+-- 1173780's Lua and Manifest Created by Hubcap Manifest
+-- FINAL FANTASY II
+-- Created: September 18, 2026 at 13:38:58 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 20251646 (public branch)
+-- Build Date: October 04, 2025 at 07:22:42 EDT (1759576962)
+-- Total Depots: 5
+-- Total DLCs: 1
+-- Shared Depots: 3
+-- MAIN APPLICATION
+addappid(1173780, 1, "e7fd5884a5735c5c1469d66c2252df613fce7b023e1df885dd30b7f2afc592e9") -- FINAL FANTASY II
+-- MAIN APP DEPOTS
+addappid(1173781, 1, "2b92c4a4fee49b0e20479eddaaeb5ee4dc9c31a380f07c06ab5edb9501ca9fd1") -- LastSP2 Content
+setManifestid(1173781, "8860911887013610828", 378646092)
+-- SHARED DEPOTS (from other apps)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+setManifestid(228988, "6645201662696499616", 29212173)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+addappid(229007, 1, "eba9fa9ff4f811929c119074450f49f739113bcae9317ded9bea262aa21ec58d") -- .NET 4.8 Redist (Shared from App 228980)
+setManifestid(229007, "4477590687906973371", 117381405)
+-- DLCS WITH DEDICATED DEPOTS
+-- FINAL FANTASY II OST  Wallpaper (AppID: 1638320)
+addappid(1638320) --Dlcname FINAL FANTASY II OST  Wallpaper
+addappid(1638320, 1, "4104b8d6e24585b8b33b8fe368ca07e2aaf4320289cd78bd6f2cea44e8794db3") -- FINAL FANTASY II OST  Wallpaper - FINAL FANTASY II: OST & Wallpaper (1638320) Depot
+setManifestid(1638320, "3600457892978541419", 51522989)
