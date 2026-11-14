@@ -59,3 +59,73 @@ addappid(3777620) --Dlcname SnowRunner - Season 18: Patch & Power
 addappid(3777630) --Dlcname SnowRunner - Season 19: Research & Restore
 addappid(3777650) --Dlcname SnowRunner - Mercedes-Benz Trucks Dual Pack 1
 addappid(3777660) --Dlcname SnowRunner - Mercedes-Benz Trucks Dual Pack 2
+-- 1465360's Lua and Manifest Created by Hubcap Manifest
+-- SnowRunner
+-- Created: November 02, 2026 at 06:35:17 EST
+-- Website: https://hubcapmanifest.com/
+-- Build: 26218478 (public branch)
+-- Build Date: October 26, 2026 at 10:02:06 EDT (1793023326)
+-- Total Depots: 3
+-- Total DLCs: 50
+-- Shared Depots: 1
+-- MAIN APPLICATION
+addappid(1465360, 1, "73f8f030255f23904e82de2afed639196197db79e1dc6e22d0d7e8eeb220fbd3") -- SnowRunner
+-- MAIN APP DEPOTS
+addappid(1465361, 1, "0dd93272d1d47d5943b93081730b61e39d20a49e42873ca743dcd30322161fb0") -- Codename - SR Content
+setManifestid(1465361, "253781604922236075", 75879629748)
+addappid(1465362, 1, "924ebaf5547a976d7080e139e3ce420ce10a76bdcd89d74fa74a98fb7312b7fc") -- Depot 1465362
+setManifestid(1465362, "8920584982304117109", 52401032402)
+-- SHARED DEPOTS (from other apps)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "5753583882400741046", 25674515)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(1533000) --Dlcname SnowRunner - Sabertooth Livery --NoDepot
+addappid(1533001) --Dlcname SnowRunner - Navistar 5000-MV Tractor --NoDepot
+addappid(1533002) --Dlcname SnowRunner - High Roller Pack --NoDepot
+addappid(1533003) --Dlcname SnowRunner - Loaded Dice Vinyl Wrap --NoDepot
+addappid(1533004) --Dlcname SnowRunner - Scorched Vinyl Wrap --NoDepot
+addappid(1533005) --Dlcname SnowRunner - True Colors Vinyl Wrap --NoDepot
+addappid(1533006) --Dlcname SnowRunner - Season 1 Search  Recover --NoDepot
+addappid(1533007) --Dlcname SnowRunner - Season 2 Explore  Expand --NoDepot
+addappid(1533008) --Dlcname SnowRunner - Season 3 Locate  Deliver --NoDepot
+addappid(1533009) --Dlcname SnowRunner - Season 4 New Frontiers --NoDepot
+addappid(1533010) --Dlcname SnowRunner - Western Star 49X --NoDepot
+addappid(1533011) --Dlcname SnowRunner - Clasico Pack --NoDepot
+addappid(1585810) --Dlcname SnowRunner - Anniversary DLC --NoDepot
+addappid(1585811) --Dlcname SnowRunner - TATRA Dual Pack --NoDepot
+addappid(1585812) --Dlcname SnowRunner - Season 5 Build  Dispatch --NoDepot
+addappid(1585813) --Dlcname SnowRunner - Season 6 Haul  Hustle --NoDepot
+addappid(1585814) --Dlcname SnowRunner - Season 7 Compete  Conquer --NoDepot
+addappid(1585815) --Dlcname SnowRunner - Season 8 Grand Harvest --NoDepot
+addappid(1585816) --Dlcname SnowRunner - GMC Brigadier --NoDepot
+addappid(1613110) --Dlcname SnowRunner - Jeep Dual Pack --NoDepot
+addappid(1613111) --Dlcname SnowRunner - Burning Bright Vinyl Wrap Pack --NoDepot
+addappid(1785850) --Dlcname SnowRunner - Land Rover Dual Pack --NoDepot
+addappid(1838500) --Dlcname SnowRunner - Crocodile Pack --NoDepot
+addappid(2058880) --Dlcname SnowRunner - Rezvani Hercules --NoDepot
+addappid(2058881) --Dlcname SnowRunner - Western Star Wolf Pack --NoDepot
+addappid(2154170) --Dlcname SnowRunner - Save the Day Vinyl Wrap Pack --NoDepot
+addappid(2154171) --Dlcname SnowRunner - Season 9 Renew  Rebuild --NoDepot
+addappid(2154172) --Dlcname SnowRunner - Season 10 Fix  Connect --NoDepot
+addappid(2154173) --Dlcname SnowRunner - Season 11 Lights  Cameras --NoDepot
+addappid(2154174) --Dlcname SnowRunner - Season 12 Public Energy --NoDepot
+addappid(2353720) --Dlcname SnowRunner - The Mastodon --NoDepot
+addappid(2353721) --Dlcname SnowRunner - Kenworth W990 --NoDepot
+addappid(2353722) --Dlcname SnowRunner - Jack of All Treads Tire Pack --NoDepot
+addappid(2353723) --Dlcname SnowRunner - Kenworth Dual Pack --NoDepot
+addappid(2709430) --Dlcname SnowRunner - Salt of the Earth Vinyl Wrap Pack --NoDepot
+addappid(2709450) --Dlcname SnowRunner - Season 13 Dig  Drill --NoDepot
+addappid(2709460) --Dlcname SnowRunner - Season 14 Reap  Sow --NoDepot
+addappid(2709470) --Dlcname SnowRunner - Season 15 Oil  Dirt --NoDepot
+addappid(2709480) --Dlcname SnowRunner - Season 16 High Voltage --NoDepot
+addappid(2856380) --Dlcname SnowRunner - The Atom --NoDepot
+addappid(3023640) --Dlcname SnowRunner - Rezvani Tank --NoDepot
+addappid(3398280) --Dlcname SnowRunner - Mack Dual Pack --NoDepot
+addappid(3623240) --Dlcname SnowRunner - Freightliner  Western Star Dual Pack --NoDepot
+addappid(3623250) --Dlcname SnowRunner - Dragon Wagons Dual Pack --NoDepot
+addappid(3777600) --Dlcname SnowRunner  Pathfinders Vinyl Wrap Pack --NoDepot
+addappid(3777610) --Dlcname SnowRunner - Season 17 Repair  Rescue --NoDepot
+addappid(3777620) --Dlcname SnowRunner - Season 18 Patch  Power --NoDepot
+addappid(3777630) --Dlcname SnowRunner - Season 19 Research  Restore --NoDepot
+addappid(3777650) --Dlcname SnowRunner - Mercedes-Benz Trucks Dual Pack 1 --NoDepot
+addappid(3777660) --Dlcname SnowRunner - Mercedes-Benz Trucks Dual Pack 2 --NoDepot
