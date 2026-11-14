@@ -54,3 +54,79 @@ addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f69
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(229006, 1, "9bc3e05ce55153e5c315cb18024602ca15958a7be03adc5ffbe53b00a8524416") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(229006, "1784011429307107530", 84953712)
+-- 244210's Lua and Manifest Created by Hubcap Manifest
+-- Assetto Corsa
+-- Created: September 18, 2026 at 08:29:14 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 14923034 (public branch)
+-- Build Date: July 03, 2024 at 15:32:25 EDT (1720035145)
+-- Total Depots: 19
+-- Total DLCs: 12
+-- Shared Depots: 5
+-- MAIN APPLICATION
+addappid(244210, 1, "f23245bf2e189422f4977c167c5b7f0d5ecccbc7a595e398f8936329d080ff12") -- Assetto Corsa
+-- MAIN APP DEPOTS
+addappid(244211, 1, "7cbd509f5c33d07d80375e94bb55d9951e1bea4861f99c10421e1e37d9c6e6a7") -- Assetto Corsa Content
+setManifestid(244211, "4950336537810395690", 27514993499)
+addappid(1552200, 1, "444bd6db596de2c511ca39ee2a4951964633006317ad87ead552f83989b69b38") -- Depot: Assetto Corsa - Internal 2 (1552200)
+setManifestid(1552200, "8950059475089434747", 9)
+-- SHARED DEPOTS (from other apps)
+addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") -- VC 2010 Redist (Shared from App 228980)
+setManifestid(228983, "8124929965194586177", 19265607)
+addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") -- VC 2012 Redist (Shared from App 228980)
+setManifestid(228984, "2547553897526095397", 13742505)
+addappid(228985, 1, "21a2f639584d9bd462c5c4b3e10f881cba8a17ae674c830c4f083551cd356e9c") -- VC 2013 Redist (Shared from App 228980)
+setManifestid(228985, "3966345552745568756", 13699237)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+addappid(229006, 1, "9bc3e05ce55153e5c315cb18024602ca15958a7be03adc5ffbe53b00a8524416") -- .NET 4.7 Redist (Shared from App 228980)
+setManifestid(229006, "1784011429307107530", 83944258)
+-- DLCS WITH DEDICATED DEPOTS
+-- Assetto Corsa - Dream Pack 1 (AppID: 347990)
+addappid(347990) --Dlcname Assetto Corsa - Dream Pack 1
+addappid(347990, 1, "789cc0104f4b59d55b96c7a310101e6c4766036645244af72bbda39ae7ad03aa") -- Assetto Corsa - Dream Pack 1 - Assetto Corsa - Dream Pack 1 (347990) Depot
+setManifestid(347990, "6791848099595238056", 2822674518)
+-- Assetto Corsa - Dream Pack 2 (AppID: 404430)
+addappid(404430) --Dlcname Assetto Corsa - Dream Pack 2
+addappid(404430, 1, "23de34042efaf92152ae28c16315c8ca57ec21f59069a50ed08ee7c161a07ccb") -- Assetto Corsa - Dream Pack 2 - Assetto Corsa - Dream Pack 2 (404430) Depot
+setManifestid(404430, "3305068408340865881", 1700478184)
+-- Assetto Corsa - Dream Pack 3 (AppID: 423630)
+addappid(423630) --Dlcname Assetto Corsa - Dream Pack 3
+addappid(423630, 1, "e103fe276e451f80152f996b0609a23fa4b816cfba6ce09afd352ba595d58a87") -- Assetto Corsa - Dream Pack 3 - Assetto Corsa - Dream Pack 3 (423630) Depot
+setManifestid(423630, "143182663462094843", 1963485806)
+-- Assetto Corsa - Japanese Pack (AppID: 467980)
+addappid(467980) --Dlcname Assetto Corsa - Japanese Pack
+addappid(467980, 1, "8e4d401e0d78fceea18c3a6e3da94f91cfc1ea9620b93bfe1e7cd93fa83bcae7") -- Assetto Corsa - Japanese Pack - Japanese Pack (467980) Depot
+setManifestid(467980, "1919441460742340991", 1503901576)
+-- Assetto Corsa - Red Pack (AppID: 493190)
+addappid(493190) --Dlcname Assetto Corsa - Red Pack
+addappid(493190, 1, "7fce09bb241009bdbfd30240ca2d73d3f8d50c85236266e8a64dac9b187a981c") -- Assetto Corsa - Red Pack - Assetto Corsa - Italian Pack (493190) Depot
+setManifestid(493190, "6702276192559020176", 1729205493)
+-- Assetto Corsa - Tripl3 Pack (AppID: 509350)
+addappid(509350) --Dlcname Assetto Corsa - Tripl3 Pack
+addappid(509350, 1, "304503a53fcb2b4a404d501ab0f4b44e83590876df21979e5308c07935da2761") -- Assetto Corsa - Tripl3 Pack - Assetto Corsa - DP6 (509350) Depot
+setManifestid(509350, "5232019972713022175", 1441985575)
+-- Assetto Corsa - Porsche Pack I (AppID: 526060)
+addappid(526060) --Dlcname Assetto Corsa - Porsche Pack I
+addappid(526060, 1, "5cdea49412168d3835761d2454bf97a87d7261c6f6058e0095edab66d9a41461") -- Assetto Corsa - Porsche Pack I - Assetto Corsa - Porsche Pack I (526060) Depot
+setManifestid(526060, "1609580688491246185", 1186303335)
+-- Assetto Corsa - Porsche Pack II (AppID: 540710)
+addappid(540710) --Dlcname Assetto Corsa - Porsche Pack II
+addappid(540710, 1, "9c7da758ba906a41a39245cd6dcc6f69547231a9d6fb1973b39313afe5354fd4") -- Assetto Corsa - Porsche Pack II - Assetto Corsa - Porsche Pack II (540710) Depot
+setManifestid(540710, "7212972613834439529", 1102607557)
+-- Assetto Corsa - Porsche Pack III (AppID: 540711)
+addappid(540711) --Dlcname Assetto Corsa - Porsche Pack III
+addappid(540711, 1, "6f2fac093cc2cf5e1d1ab99c1c1a766422f97502d689a93cf51076c8aa8d0cf2") -- Assetto Corsa - Porsche Pack III - Assetto Corsa - Porsche Pack III (540711) Depot
+setManifestid(540711, "5205419179365407728", 1197023840)
+-- Assetto Corsa - Ready to Race Pack (AppID: 619680)
+addappid(619680) --Dlcname Assetto Corsa - Ready to Race Pack
+addappid(619680, 1, "78bda0cdc6e6a57c2a9e2b081db27d0ce9f34bd02196d2b996d17593f77bd124") -- Assetto Corsa - Ready to Race Pack - Assetto Corsa - DLC10 (619680) Depot
+setManifestid(619680, "5396831645102266732", 1618620198)
+-- Assetto Corsa - Ferrari Pack (AppID: 675590)
+addappid(675590) --Dlcname Assetto Corsa - Ferrari Pack
+addappid(675590, 1, "962fcf3fd904ee05f71944f3b51692c67799b42d94a81ea6cfc368ea60889f12") -- Assetto Corsa - Ferrari Pack - Assetto Corsa - Ferrari Pack (675590) Depot
+setManifestid(675590, "4281175229020665840", 1171644294)
+-- Assetto Corsa - Ferrari Hublot Esports Series Pack (AppID: 1387540)
+addappid(1387540) --Dlcname Assetto Corsa - Ferrari Hublot Esports Series Pack
+addappid(1387540, 1, "e9c1b30b9c55940e7a331ec99a84c63c1594420060295bdee11f86c5bd15eb85") -- Assetto Corsa - Ferrari Hublot Esports Series Pack - Depot: Assetto Corsa - Ferrari Hublot Esports Series Pack (1387540)
+setManifestid(1387540, "9131952850290736705", 2280318776)
