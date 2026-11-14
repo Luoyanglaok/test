@@ -9,3 +9,22 @@ setManifestid(1016113, "3915861750576990930", 50133504)
 --Share Depots
 addappid(229006, 1, "9bc3e05ce55153e5c315cb18024602ca15958a7be03adc5ffbe53b00a8524416") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(229006, "1784011429307107530", 84953712)
+-- 1016110's Lua and Manifest Created by Hubcap Manifest
+-- Self-Reliance 自我性赖
+-- Created: September 18, 2026 at 22:33:11 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 7293490 (public branch)
+-- Build Date: September 02, 2021 at 09:41:25 EDT (1630590085)
+-- Total Depots: 3
+-- Total DLCs: 0
+-- Shared Depots: 1
+-- MAIN APPLICATION
+addappid(1016110) -- Self-Reliance 自我性赖
+-- MAIN APP DEPOTS
+addappid(1016112, 1, "ab03e5a01a1c3e956d2c11dfdf1218cfdc4a4738d954d664871af5ae7258439b") -- Self-Reliance 自我性赖 Release Windows
+setManifestid(1016112, "4501881274744827029", 104868554)
+addappid(1016113, 1, "b84bd02db422e135fd3980da9b10e46e629795e17beb0f107313e71af433e440") -- Self-Reliance 自我性赖 Release Mac
+setManifestid(1016113, "3915861750576990930", 98159875)
+-- SHARED DEPOTS (from other apps)
+addappid(229006, 1, "9bc3e05ce55153e5c315cb18024602ca15958a7be03adc5ffbe53b00a8524416") -- .NET 4.7 Redist (Shared from App 228980)
+setManifestid(229006, "1784011429307107530", 83944258)
