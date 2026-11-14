@@ -8,3 +8,21 @@ setManifestid(3044741, "2671468225850350297", 2574886128)
 addappid(3780670) --Dlcname V-LOVER！ArtBook
 addappid(3780671, 1, "2a16fbc9fcdc2b7b9070a75c785401d3d2c93f751ac3c16a2fb1c649d67a0ad1") --Dlc Windows Depot V-LOVER！ArtBook
 setManifestid(3780671, "3887514347642553427", 1517069280)
+-- 3044740's Lua and Manifest Created by Hubcap Manifest
+-- V-LOVER!
+-- Created: September 19, 2026 at 13:29:52 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 19562155 (public branch)
+-- Build Date: August 11, 2025 at 20:56:23 EDT (1754960183)
+-- Total Depots: 2
+-- Total DLCs: 1
+-- MAIN APPLICATION
+addappid(3044740, 1, "002d6b01936631994440387fc0ce48d9dd44fae13b1a84330c4d0e64ed653939") -- V-LOVER!
+-- MAIN APP DEPOTS
+addappid(3044741, 1, "7fe1736dcd0fdddc507d4692a06a7610a694c6875eeeca84ae09158c2ddf2165") -- Depot 3044741
+setManifestid(3044741, "2671468225850350297", 9314702428)
+-- DLCS WITH DEDICATED DEPOTS
+-- V-LOVERArtBook (AppID: 3780670)
+addappid(3780670) --Dlcname V-LOVERArtBook
+addappid(3780671, 1, "2a16fbc9fcdc2b7b9070a75c785401d3d2c93f751ac3c16a2fb1c649d67a0ad1") -- V-LOVERArtBook - Depot 3780671
+setManifestid(3780671, "3887514347642553427", 1960381906)
