@@ -9,3 +9,26 @@ addappid(2088163,0,"5477ede40ae0380eaedb0e963e347119f22065bce1229d3ff188cdb50d59
 setManifestid(2088163,"3049847089802524353")
 addappid(2088164,0,"db3b8e0ac593e6f9842466767bde3f12145ce913d20f249f637c260aa9a33668")
 setManifestid(2088164,"5211636511833288007")
+-- 2088160's Lua and Manifest Created by Hubcap Manifest
+-- 天外武林 (Traveler of Wuxia)
+-- Created: September 19, 2026 at 04:53:39 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 11889328 (public branch)
+-- Build Date: August 08, 2023 at 00:11:49 EDT (1691467909)
+-- Total Depots: 5
+-- Total DLCs: 0
+-- Shared Depots: 1
+-- MAIN APPLICATION
+addappid(2088160, 1, "0cdbec9f78f67b102af9266994553a8cbe5279f56ec0bb41a4da76888b4fc7b7") -- 天外武林 (Traveler of Wuxia)
+-- MAIN APP DEPOTS
+addappid(2088161, 1, "9713ad297d1534bc244210d967712dc83b1031b4c7b5ecd8676553b291a35407") -- Depot 2088161
+setManifestid(2088161, "8145863733578015921", 4755464468)
+addappid(2088162, 1, "05e5b3ce9e8839bf9446fc6e697ba5d06de8299a53e2c6dd31c8dd4dc88986a0") -- Depot 2088162
+setManifestid(2088162, "9199473352765810566", 3194403)
+addappid(2088163, 1, "5477ede40ae0380eaedb0e963e347119f22065bce1229d3ff188cdb50d593105") -- Depot 2088163
+setManifestid(2088163, "3049847089802524353", 3163477)
+addappid(2088164, 1, "db3b8e0ac593e6f9842466767bde3f12145ce913d20f249f637c260aa9a33668") -- Depot 2088164
+setManifestid(2088164, "5211636511833288007", 3228579)
+-- SHARED DEPOTS (from other apps)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+setManifestid(228988, "6645201662696499616", 29212173)
