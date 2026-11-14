@@ -7,3 +7,21 @@ setManifestid(2291681, "1585438778104121488", 1133623184)
 --Dlcname The Arrogant Kaiju Princess and The Detective Servant ArtBook
 addappid(2714820, 1, "232e0645e594dbe740dbb0bf1557d765dd0444558df6d159de8734b3fb51e255") --Dlcname The Arrogant Kaiju Princess and The Detective Servant ArtBook
 setManifestid(2714820, "4057397915279419981", 144017440)
+-- 2291680's Lua and Manifest Created by Hubcap Manifest
+-- The Arrogant Kaiju Princess and The Detective Servant
+-- Created: September 19, 2026 at 00:48:49 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 16847143 (public branch)
+-- Build Date: December 25, 2024 at 00:28:56 EST (1735104536)
+-- Total Depots: 2
+-- Total DLCs: 1
+-- MAIN APPLICATION
+addappid(2291680, 1, "14a51b81f58e18c0558c035d022e2180e58f6e8c0ec757f967eba4c2ae64eda4") -- The Arrogant Kaiju Princess and The Detective Servant
+-- MAIN APP DEPOTS
+addappid(2291681, 1, "d5f249db247fe7b9d64a53304732e9775a8ffc470308d03c4e96fc84f8775f71") -- Depot 2291681
+setManifestid(2291681, "1585438778104121488", 4279156943)
+-- DLCS WITH DEDICATED DEPOTS
+-- The Arrogant Kaiju Princess and The Detective Servant  ArtBook (AppID: 2714820)
+addappid(2714820) --Dlcname The Arrogant Kaiju Princess and The Detective Servant  ArtBook
+addappid(2714820, 1, "232e0645e594dbe740dbb0bf1557d765dd0444558df6d159de8734b3fb51e255") -- The Arrogant Kaiju Princess and The Detective Servant  ArtBook - Depot 2714820
+setManifestid(2714820, "4057397915279419981", 150382556)
