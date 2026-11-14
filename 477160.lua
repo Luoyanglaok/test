@@ -16,3 +16,28 @@ addappid(477166, 1, "3efd94cbca4e47344be62115da0240c6b360356e1634b47f47dbbd82b4d
 setManifestid(477166, "2111907740247976469", 304)
 addappid(632870, 1, "292790c00ead9bdc3e2da82f59687f73b21c059eb0e98e3d6d55a9218b594ae9") --Main Windows Depot Human Fall Flat
 setManifestid(632870, "6110178810839816362", 59201904)
+-- 477160's Lua and Manifest Created by Hubcap Manifest
+-- Human Fall Flat
+-- Created: October 29, 2026 at 07:48:21 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 26159008 (public branch)
+-- Build Date: October 23, 2026 at 07:38:20 EDT (1792755500)
+-- Total Depots: 7
+-- Total DLCs: 0
+-- MAIN APPLICATION
+addappid(477160, 1, "6183f2ec8046e4576180f01e2e88d7934ca49dc5db95f178bc343e50c852b770") -- Human Fall Flat
+-- MAIN APP DEPOTS
+addappid(477161, 1, "8bc8773aa491fcab031c973d15bae81a5139cd9d28bdbe82776e9f39dba071d1") -- Human: Fall Flat Content
+setManifestid(477161, "1402388624850019390", 6457109436)
+addappid(477162, 1, "3e1b0a746178eda39e69d130aac41e225a61f7777ccd8907b3b81f02918242ac") -- Human: Fall Flat Mac
+setManifestid(477162, "2039614225018019018", 6477994779)
+addappid(477163, 1, "48a9d63f348dcd848df0af0fe2eb01efddbb549c03d113bfca9d88015d8b6b7d") -- Human: Fall Flat Linux
+setManifestid(477163, "129240740414445083", 1494469867)
+addappid(632870, 1, "292790c00ead9bdc3e2da82f59687f73b21c059eb0e98e3d6d55a9218b594ae9") -- Human: Fall Flat Official Soundtrack (632870) Depot
+setManifestid(632870, "6110178810839816362", 77926307)
+addappid(477164, 1, "d05522bd5e3f6e7f6bc455253be55a9d3057b94b95da110d6365a246121a5fdc") -- Human: Fall Flat Workshop
+setManifestid(477164, "6577834523877167712", 337515550)
+addappid(477165, 1, "91b02c0aecb8688c5844032fe30518f25ac754a1b32ca68c91a6021623d06ebd") -- 人类一败涂地 / Human Fall Flat SC
+setManifestid(477165, "7673690209049765361", 9638949962)
+addappid(477166, 1, "3efd94cbca4e47344be62115da0240c6b360356e1634b47f47dbbd82b4de329d") -- Depot 477166
+setManifestid(477166, "2111907740247976469", 446)
