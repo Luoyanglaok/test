@@ -11,3 +11,24 @@ setManifestid(1092793, "2837417147648473697", 1646125760)
 --Share Depots
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
+-- 1092790's Lua and Manifest Created by Hubcap Manifest
+-- Inscryption
+-- Created: September 18, 2026 at 16:14:54 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 8988081 (public branch)
+-- Build Date: June 22, 2022 at 14:13:21 EDT (1655921601)
+-- Total Depots: 4
+-- Total DLCs: 0
+-- Shared Depots: 1
+-- MAIN APPLICATION
+addappid(1092790, 1, "1cd6bc4e25e1b2efe7b57ac9809f6663961bab9a2b80d9e0c12825064b01ce12") -- Inscryption
+-- MAIN APP DEPOTS
+addappid(1092791, 1, "524d1fbf5c623583299f19bd4dc4a02744b00056a2b186d832c65fd7158da589") -- DiskCardGame (Windows)
+setManifestid(1092791, "7643223640022802336", 3513688626)
+addappid(1092792, 1, "5924feedab4af060584bed3e37159d187ab7f66c44892fc04470cbbeb40f6da6") -- Inscryption (Mac)
+setManifestid(1092792, "515434762609872657", 3267997182)
+addappid(1092793, 1, "6a24bea06c382f9d2e86202c4b8935ce1c2168c88c89a3be1aa052a9ed41159b") -- Inscryption (Linux)
+setManifestid(1092793, "2837417147648473697", 3255328485)
+-- SHARED DEPOTS (from other apps)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
