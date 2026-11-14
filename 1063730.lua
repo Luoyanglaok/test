@@ -37,3 +37,52 @@ addappid(2221520) --Dlcname New World Azoth Edition
 addappid(2487480) --Dlcname New World Rise of the Angry Earth
 addappid(3161150) --Dlcname New World: Aeternum - Standard Edition
 addappid(3161160) --Dlcname New World: Aeternum - Deluxe Edition
+-- 1063730's Lua and Manifest Created by Hubcap Manifest
+-- New World: Aeternum
+-- Created: October 17, 2026 at 03:21:25 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 25810808 (public branch)
+-- Build Date: October 08, 2026 at 14:01:12 EDT (1791482472)
+-- Total Depots: 12
+-- Total DLCs: 9
+-- Shared Depots: 2
+-- MAIN APPLICATION
+addappid(1063730, 1, "3969db2b306a0a0138a9b0d6ccad5c782cfa24e95a2de864400d405316ec452e") -- New World: Aeternum
+-- MAIN APP DEPOTS
+addappid(1063731, 1, "3d40a764fce79086fca5d6ec9b71ab93a9b539b43510269327bcf68dc420081a") -- Main Game Content
+setManifestid(1063731, "5174342979991993709", 74266048744)
+addappid(1063732, 1, "1a6d3cfd214ea9edae0c047154695474ad222fbb9663df3536177e6524d992f9") -- Depot 1063732
+setManifestid(1063732, "8727805150002139876", 2154519504)
+addappid(1063733, 1, "84ae5ddfec1337f0954f8dbb8ae7862b503115fa0cecde91191886b154fb8dd8") -- Depot 1063733
+setManifestid(1063733, "3546858100498545930", 2240773127)
+addappid(1063734, 1, "9ac25234e5db7ab0a1b696412992c3a432b06b49840eb383c42ef65fb8182a23") -- Depot 1063734
+setManifestid(1063734, "9111743203731257121", 2039618926)
+addappid(1063735, 1, "d86ebc93de739c675894a49390d24bbe1e8d068f8807fbc3b7ff8a8f746a9863") -- Depot 1063735
+setManifestid(1063735, "7776237486126409347", 2308851016)
+addappid(1063736, 1, "a95f0a127122291e0606ea1e236324cf4e6ce693dc493f3d74157e1cb0b1a2d2") -- Depot 1063736
+setManifestid(1063736, "3595423815969747539", 2093630710)
+addappid(1063737, 1, "aef030bb115c126069afc825632e4686a89ad080bed843d6721e2d2521f67640") -- Depot 1063737
+setManifestid(1063737, "2355597040595485237", 2154519504)
+addappid(1063738, 1, "460f6208eeb04784578d12eb5e0a4f1f1167da2da29c39367f8e568f670db19d") -- Depot 1063738
+setManifestid(1063738, "4047504666857596920", 2154519504)
+addappid(1063739, 1, "945f658ad330c5df1f98d799bed37d69cc0380bfad054133bd5b9eb45c2f1c9c") -- Depot 1063739
+setManifestid(1063739, "3636760981410281892", 2308851016)
+-- SHARED DEPOTS (from other apps)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "5753583882400741046", 25674515)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+-- DLCS WITH DEDICATED DEPOTS
+-- New World Digital Art Book (AppID: 1200566)
+addappid(1200566) --Dlcname New World Digital Art Book
+addappid(1200566, 1, "62dee2d57bdbb651633764350102f2900adc0587c6115c676ae246501d7291ac") -- New World Digital Art Book - New World - Digital Art Book (1200566) Depot
+setManifestid(1200566, "6793007841600635654", 402743150)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(1266150) --Dlcname Return to Aeternum - Dracul - EU Central --NoDepot
+addappid(1266151) --Dlcname Return to Aeternum - Death - US East --NoDepot
+addappid(1266152) --Dlcname Return to Aeternum - Titan - US West --NoDepot
+addappid(1266153) --Dlcname Return to Aeternum - Overlord - SA East --NoDepot
+addappid(2221520) --Dlcname New World Azoth Edition --NoDepot
+addappid(2487480) --Dlcname New World Rise of the Angry Earth --NoDepot
+addappid(3161150) --Dlcname New World Aeternum - Standard Edition --NoDepot
+addappid(3161160) --Dlcname New World Aeternum - Deluxe Edition --NoDepot
