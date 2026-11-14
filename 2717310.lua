@@ -10,3 +10,22 @@ addappid(2717313, 1, "f5219a905ec1171edb4d39b6416134c9a06b0b7936347e2f1f3c0a5da5
 setManifestid(2717313, "2153154426471507684", 764931824)
 addappid(2717314, 1, "714047a9078baa2464e3de4732d971321579d00c49b0bce110ee12d6b9ea861c") --Main Windows Language Depot English Fallen Young Wife~Netorare H without telling her husband~
 setManifestid(2717314, "5411891580555870779", 755944000)
+-- 2717310's Lua and Manifest Created by Hubcap Manifest
+-- Fallen Young Wife~Netorare H without telling her husband~
+-- Created: September 18, 2026 at 13:23:14 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 14997679 (public branch)
+-- Build Date: July 11, 2024 at 02:36:11 EDT (1720679771)
+-- Total Depots: 4
+-- Total DLCs: 0
+-- MAIN APPLICATION
+addappid(2717310, 1, "df8a95a835fc796c19403fe8c205766dd6264b91c0b2efb49460c9236c91a491") -- Fallen Young Wife~Netorare H without telling her husband~
+-- MAIN APP DEPOTS
+addappid(2717311, 1, "bbc3b77d41e72f8e14be5a3fa08c3236e81740527aa35ca68f80020b330a9294") -- Depot 2717311
+setManifestid(2717311, "4002810353066467009", 884748845)
+addappid(2717312, 1, "06122fc99fe897e20197dd5d1a19fcc97f77fc741b0e3fcd7e16bea3d713c1e2") -- Depot 2717312
+setManifestid(2717312, "1346524016019426381", 896943262)
+addappid(2717313, 1, "f5219a905ec1171edb4d39b6416134c9a06b0b7936347e2f1f3c0a5da5c20918") -- Depot 2717313
+setManifestid(2717313, "2153154426471507684", 896943604)
+addappid(2717314, 1, "714047a9078baa2464e3de4732d971321579d00c49b0bce110ee12d6b9ea861c") -- Depot 2717314
+setManifestid(2717314, "5411891580555870779", 881998307)
