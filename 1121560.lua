@@ -52,3 +52,63 @@ addappid(1188616) --Dlcname Atelier Ryza: "Ever Summer Queen & the Secret Island
 addappid(1188617) --Dlcname Atelier Ryza: "The End of an Adventure and Beyond"
 addappid(1188618) --Dlcname Atelier Ryza: "Secret Solitary Island"
 addappid(1188619) --Dlcname Atelier Ryza: Klaudia's Story "Atelier Klaudia"
+-- 1121560's Lua and Manifest Created by Hubcap Manifest
+-- Atelier Ryza: Ever Darkness & the Secret Hideout
+-- Created: September 18, 2026 at 08:33:49 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 15768026 (public branch)
+-- Build Date: September 20, 2024 at 04:36:09 EDT (1726821369)
+-- Total Depots: 6
+-- Total DLCs: 30
+-- Shared Depots: 2
+-- MAIN APPLICATION
+addappid(1121560, 1, "848c6a1149e572fc184cc27e783c734ae22cd233fdb1bb45b34645aad17a894d") -- Atelier Ryza: Ever Darkness & the Secret Hideout
+-- MAIN APP DEPOTS
+addappid(1121561, 1, "c25c7c608f0a0a502f4c292abd2728c319fe27ad39145d6da7e5976ba83d2fa2") -- Juvenile Content
+setManifestid(1121561, "4770515783795775162", 19229612048)
+-- SHARED DEPOTS (from other apps)
+addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") -- VC 2015 Redist (Shared from App 228980)
+setManifestid(228986, "8782296191957114623", 29759921)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+-- DLCS WITH DEDICATED DEPOTS
+-- Atelier Ryza Atelier Series Legacy BGM Pack (AppID: 1188601)
+addappid(1188601) --Dlcname Atelier Ryza Atelier Series Legacy BGM Pack
+addappid(1188601, 1, "7378106d64320a9c03f2fd6e1aea2e03d6d809532719c9446511990185f8b158") -- Atelier Ryza Atelier Series Legacy BGM Pack - Atelier Ryza: Atelier Series Legacy BGM Pack (1188601) デポ
+setManifestid(1188601, "492911901642481015", 3213683048)
+-- Atelier Ryza GUST Extra BGM Pack (AppID: 1188620)
+addappid(1188620) --Dlcname Atelier Ryza GUST Extra BGM Pack
+addappid(1188620, 1, "ef158d5a2d6acc5ce19051ddd1324ba81da79117b78324d67437dd4392cd0505") -- Atelier Ryza GUST Extra BGM Pack - Atelier Ryza: GUST Extra BGM Pack (1188620) デポ
+setManifestid(1188620, "601879598125903599", 1286304149)
+-- Atelier Ryza Ryza 1 Million Units CelebrationWhite Lily of Summer (AppID: 1604860)
+addappid(1604860) --Dlcname Atelier Ryza Ryza 1 Million Units CelebrationWhite Lily of Summer
+addappid(1604860, 1, "178b311809b024a9aa8cc6557ebea125a96f72d93d184a5980b2d66349f7ec3d") -- Atelier Ryza Ryza 1 Million Units CelebrationWhite Lily of Summer - Atelier Ryza: 【Ryza 1 Million Units Celebration】White Lily of Summer (1604860) デポ
+setManifestid(1604860, "2017982345092845238", 13124279)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(1154590) --Dlcname Atelier Ryza Ryzas Outfit Divertimento Embrace --NoDepot
+addappid(1154591) --Dlcname Atelier Ryza Ryzas Costume Summer Adventure --NoDepot
+addappid(1154592) --Dlcname Atelier Ryza Hideout Parts Pixie Forest --NoDepot
+addappid(1154593) --Dlcname Atelier Ryza Hideout Parts Lakeside Hideout --NoDepot
+addappid(1154594) --Dlcname Atelier Ryza Costume Set Another Fashion --NoDepot
+addappid(1154595) --Dlcname Atelier Ryza Costume Set Summer Style --NoDepot
+addappid(1154596) --Dlcname Atelier Ryza Initial Dash Item Set --NoDepot
+addappid(1154597) --Dlcname Atelier Ryza Extra Large Rebuild Gem Pack --NoDepot
+addappid(1188600) --Dlcname Atelier Ryza Season Pass Kurken Island Jam-packed Pass --NoDepot
+addappid(1188602) --Dlcname Atelier Ryza Stylish Weapon Skins - Ryza --NoDepot
+addappid(1188603) --Dlcname Atelier Ryza Stylish Weapon Skins - Klaudia --NoDepot
+addappid(1188604) --Dlcname Atelier Ryza Stylish Weapon Skins - Lent --NoDepot
+addappid(1188605) --Dlcname Atelier Ryza Stylish Weapon Skins - Tao --NoDepot
+addappid(1188606) --Dlcname Atelier Ryza Stylish Weapon Skins - Empel --NoDepot
+addappid(1188607) --Dlcname Atelier Ryza Stylish Weapon Skins - Lila --NoDepot
+addappid(1188608) --Dlcname Atelier Ryza Taos Story Interwoven Fate --NoDepot
+addappid(1188609) --Dlcname Atelier Ryza Lents Story True Strength --NoDepot
+addappid(1188610) --Dlcname Atelier Ryza Sunlight Flower --NoDepot
+addappid(1188611) --Dlcname Atelier Ryza Elegant Mermaid --NoDepot
+addappid(1188612) --Dlcname Atelier Ryza Muscle Volcano --NoDepot
+addappid(1188613) --Dlcname Atelier Ryza Captain Tao --NoDepot
+addappid(1188614) --Dlcname Atelier Ryza Ocean Dandy --NoDepot
+addappid(1188615) --Dlcname Atelier Ryza Cool Selenite --NoDepot
+addappid(1188616) --Dlcname Atelier Ryza Ever Summer Queen  the Secret Island --NoDepot
+addappid(1188617) --Dlcname Atelier Ryza The End of an Adventure and Beyond --NoDepot
+addappid(1188618) --Dlcname Atelier Ryza Secret Solitary Island --NoDepot
+addappid(1188619) --Dlcname Atelier Ryza Klaudias Story Atelier Klaudia --NoDepot
