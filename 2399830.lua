@@ -3,34 +3,34 @@
 --Gamename ARK: Survival Ascended
 addappid(2399830, 1, "b1ea599fef75fb79ad1302210f84313f0e014f3dc079f2af31ae524390ddf59d") --Mainappid ARK: Survival Ascended
 addappid(2399831, 1, "320e0bcc46f1e7d88e18488c73990878eedbc06c3284015e1d0af97abe143e23") --Main Windows Depot ARK: Survival Ascended
-setManifestid(2399831, "6222807442531775815", 207188824752)
+setManifestid(2399831, "582490481127457028", 207311363328)
 --Dlcname ARK: The Center Ascended
 addappid(2827030, 1, "ca47571a30440cd0d827bee6a57a945cf56d25fd4dbc19435d608994b021302a") --Dlcname ARK: The Center Ascended
-setManifestid(2827030, "8700401805318491635", 9107785808)
+setManifestid(2827030, "4108766266043651680", 9109815296)
 --Dlcname ARK: Scorched Earth Ascended
 addappid(2849450, 1, "06a4aa068a1a3940e0c7eff34508ad6474806f4b46520ef9ea12b4b7f77a3d0e") --Dlcname ARK: Scorched Earth Ascended
-setManifestid(2849450, "7226482850052355662", 6095608368)
+setManifestid(2849450, "8888747617984553450", 6123446416)
 --Dlcname ARK: Aberration Ascended
 addappid(3059650, 1, "84b1a413568c28ea0226bbd983fbf08741ead907cc7cd9cdd447056405850bd2") --Dlcname ARK: Aberration Ascended
-setManifestid(3059650, "8845568126493594052", 6918196448)
+setManifestid(3059650, "159964549369082984", 6918185968)
 --Dlcname ARK: Extinction Ascended
 addappid(3349320, 1, "e0cbc7f932b6b5ffa7e36b9fe8ccf5b2317d5073f520b8a357a7bb8e32d7a181") --Dlcname ARK: Extinction Ascended
-setManifestid(3349320, "7884039482057207946", 5342713152)
+setManifestid(3349320, "5921414655042294942", 5342742336)
 --Dlcname ARK: Astraeos
 addappid(3483400, 1, "8f2706fe64f86426091cbb9a23dedbc3ec0c53a78877abb9b549edded5f436ea") --Dlcname ARK: Astraeos
-setManifestid(3483400, "6508086934431189559", 9108175792)
+setManifestid(3483400, "5176864481529006867", 9139581072)
 --Dlcname ARK: Lost Colony
 addappid(3583650, 1, "e7d5b3c53aabefd8ec1f24038e55c6e614c31d7e5c6237c443e83c4eb1fc5a83") --Dlcname ARK: Lost Colony
-setManifestid(3583650, "1751757080050960603", 38279787712)
+setManifestid(3583650, "1576265373764561788", 38293782448)
 --Dlcname ARK: Ragnarok Ascended
 addappid(3675020, 1, "5028ee914f2c74aba43cc91d7f2f49fd5ad0ec96dcb76372ed26deec22b0e88c") --Dlcname ARK: Ragnarok Ascended
-setManifestid(3675020, "2329037342281258452", 11882616912)
+setManifestid(3675020, "2627221033932501501", 11898633312)
 --Dlcname ARK: Valguero Ascended
 addappid(3982310, 1, "184547e9bf5059e77f7971af6c7a064a5a7eb7a76a3b210fbeed6ebb00df991c") --Dlcname ARK: Valguero Ascended
-setManifestid(3982310, "6811371658668753670", 19250715248)
+setManifestid(3982310, "5757699822972481862", 19277337664)
 --Dlcname ARK: Genesis Ascended Part 1
 addappid(4558470, 1, "4b8207f4622bf4e9eb35a0da27d875f87b29ea9081d4cf4188ebf38cbbf1fde3") --Dlcname ARK: Genesis Ascended Part 1
-setManifestid(4558470, "6280186753365219206", 18286627936)
+setManifestid(4558470, "7819089486049023008", 18287367616)
 --Dlcname ARK: Dragontopia
 addappid(4558490, 1, "d20fe0649f9a014dbb0feb29ecd21514ec3b7743f4d49d3cb8885afb1b22e020") --Dlcname ARK: Dragontopia
 setManifestid(4558490, "5157510924718883041", 64)
