@@ -42,3 +42,69 @@ setManifestid(228989, "5753583882400741046", 25108528)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(3036400) --Dlcname Tales of Graces f Remastered - Deluxe Upgrade Pack
+-- 2530980's Lua and Manifest Created by Hubcap Manifest
+-- Tales of Graces f Remastered
+-- Created: September 19, 2026 at 00:34:26 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 20566712 (public branch)
+-- Build Date: October 27, 2025 at 20:50:46 EDT (1761612646)
+-- Total Depots: 14
+-- Total DLCs: 11
+-- Shared Depots: 3
+-- MAIN APPLICATION
+addappid(2530980) -- Tales of Graces f Remastered
+-- MAIN APP DEPOTS
+addappid(2530981, 1, "a93f851271a22d8fd77c25f7ab3f895e3a9d638ead344dce1379db3b9c287f31") -- Depot 2530981
+setManifestid(2530981, "6425980835889277771", 11670934906)
+-- SHARED DEPOTS (from other apps)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+setManifestid(228988, "6645201662696499616", 29212173)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "5753583882400741046", 25674515)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+-- DLCS WITH DEDICATED DEPOTS
+-- Tales of Graces f Remastered - Digital Artbook  Soundtrack (AppID: 2867770)
+addappid(2867770) --Dlcname Tales of Graces f Remastered - Digital Artbook  Soundtrack
+addappid(2867770, 1, "8494db845bd40739acc2ef44d165a27f6e6b7c3704d7c76c393ac4cc5a2e14e9") -- Tales of Graces f Remastered - Digital Artbook  Soundtrack - Depot 2867770
+setManifestid(2867770, "6809673853936930383", 1120950948)
+-- Tales of Graces f Remastered - Lv. Up5 (1) (AppID: 3030040)
+addappid(3030040) --Dlcname Tales of Graces f Remastered - Lv. Up5 (1)
+addappid(3030040, 1, "567db2ea52f3117ea696a99d34885266103b1e6c94a2386b44b395fea1362e5b") -- Tales of Graces f Remastered - Lv. Up5 (1) - Depot 3030040
+setManifestid(3030040, "2951432785041943557", 5568)
+-- Tales of Graces f Remastered - Lv. Up5 (2) (AppID: 3030050)
+addappid(3030050) --Dlcname Tales of Graces f Remastered - Lv. Up5 (2)
+addappid(3030050, 1, "56d222937ef2f954ac3756fa8cbb68722c2a570ded1fb9c8e0702ac1bc27cda9") -- Tales of Graces f Remastered - Lv. Up5 (2) - Depot 3030050
+setManifestid(3030050, "2098670069409097196", 5568)
+-- Tales of Graces f Remastered - Lv. Up5 (3) (AppID: 3030060)
+addappid(3030060) --Dlcname Tales of Graces f Remastered - Lv. Up5 (3)
+addappid(3030060, 1, "b6ddc550c380151b3660fa370b4827eabce743c68e17ea386bcf71d307a21c3a") -- Tales of Graces f Remastered - Lv. Up5 (3) - Depot 3030060
+setManifestid(3030060, "6667209296224177368", 5568)
+-- Tales of Graces f Remastered - Lv. Up5 (4) (AppID: 3030070)
+addappid(3030070) --Dlcname Tales of Graces f Remastered - Lv. Up5 (4)
+addappid(3030070, 1, "08de21488414c17cab1796a951079e09111a80e4204fecc8b711e34739dcf3b2") -- Tales of Graces f Remastered - Lv. Up5 (4) - Depot 3030070
+setManifestid(3030070, "948140070896436998", 5568)
+-- Tales of Graces f Remastered - Lv. Up10 (1) (AppID: 3030080)
+addappid(3030080) --Dlcname Tales of Graces f Remastered - Lv. Up10 (1)
+addappid(3030080, 1, "84956132289ea4731f59ad71d63c28e47cb673e51b005121d36490c9ad59c6fc") -- Tales of Graces f Remastered - Lv. Up10 (1) - Depot 3030080
+setManifestid(3030080, "8521794286580637024", 5568)
+-- Tales of Graces f Remastered - Lv. Up10 (2) (AppID: 3030090)
+addappid(3030090) --Dlcname Tales of Graces f Remastered - Lv. Up10 (2)
+addappid(3030090, 1, "ac138dee693e850bc7f30c5040275fe6407252458519fca689dbfd71d627aa0b") -- Tales of Graces f Remastered - Lv. Up10 (2) - Depot 3030090
+setManifestid(3030090, "148064564312882189", 5568)
+-- Tales of Graces f Remastered - Super Adventuring Assistance Set (AppID: 3030100)
+addappid(3030100) --Dlcname Tales of Graces f Remastered - Super Adventuring Assistance Set
+addappid(3030100, 1, "d7c288a9392822bc42ff451f5ec9373e868c925907501fde446b75ea3795af75") -- Tales of Graces f Remastered - Super Adventuring Assistance Set - Depot 3030100
+setManifestid(3030100, "1108790364712378151", 5696)
+-- Tales of Graces f Remastered - Super Growth Support Herb Set (AppID: 3030110)
+addappid(3030110) --Dlcname Tales of Graces f Remastered - Super Growth Support Herb Set
+addappid(3030110, 1, "9733847a96f124ec76f92ba93964435f83786d5f35d93829c5abcd1088ba560a") -- Tales of Graces f Remastered - Super Growth Support Herb Set - Depot 3030110
+setManifestid(3030110, "7317304723515031547", 5856)
+-- Tales of Graces f Remastered - Battle BGM pack (AppID: 3030120)
+addappid(3030120) --Dlcname Tales of Graces f Remastered - Battle BGM pack
+addappid(3030120, 1, "511e7e46ad335906712799cdc6d166533623b2fcb692239e73e74a29024fe31f") -- Tales of Graces f Remastered - Battle BGM pack - Depot 3030120
+setManifestid(3030120, "2752733581216505518", 104721694)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(3036400) --Dlcname Tales of Graces f Remastered - Deluxe Upgrade Pack --NoDepot
+-- EMPTY DEPOTS (no content on any branch)
+-- addappid(2530982) -- Depot 2530982 (empty depot)
