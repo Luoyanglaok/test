@@ -24,3 +24,43 @@ addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f69
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(229020, 1, "efca2304d92ac2bb7ebca174e6e5015fb0daf45d7db8ecfc1db6eaccdc7b27d9") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(229020, "5799761707845834510", 591984)
+-- 1348390's Lua and Manifest Created by Hubcap Manifest
+-- I am an Air Traffic Controller 4
+-- Created: September 18, 2026 at 15:57:24 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 18561612 (public branch)
+-- Build Date: May 22, 2025 at 03:13:15 EDT (1747897995)
+-- Total Depots: 8
+-- Total DLCs: 5
+-- Shared Depots: 2
+-- MAIN APPLICATION
+addappid(1348390, 1, "eaeb4f96385db2bf98b45539187b04c1e1370e7be74757d02a16169a721bd31f") -- I am an Air Traffic Controller 4
+-- MAIN APP DEPOTS
+addappid(1348391, 1, "83dd23f8ebf15429ba37eb351292fe512f84998e9f0a1730c39cf0ee9ae14f7c") -- I am an Air Traffic Controller 4 Content
+setManifestid(1348391, "6218529634618338827", 2153836533)
+-- SHARED DEPOTS (from other apps)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+addappid(229020, 1, "efca2304d92ac2bb7ebca174e6e5015fb0daf45d7db8ecfc1db6eaccdc7b27d9") -- OpenAL 2.0.7.0 Redist (Shared from App 228980)
+setManifestid(229020, "5799761707845834510", 810085)
+-- DLCS WITH DEDICATED DEPOTS
+-- ATC4 Airport NAHA [ROAH] (AppID: 1453720)
+addappid(1453720) --Dlcname ATC4 Airport NAHA [ROAH]
+addappid(1453720, 1, "fc129e773a5d0bbe78635edf07ef59b4dfc0a328d57b2f87cf1174831747701e") -- ATC4 Airport NAHA [ROAH] - ATC4: Airport NAHA [ROAH] (1453720)
+setManifestid(1453720, "9201370084379897391", 1673433900)
+-- ATC4 Airport NEW CHITOSE [RJCC] (AppID: 1839300)
+addappid(1839300) --Dlcname ATC4 Airport NEW CHITOSE [RJCC]
+addappid(1839300, 1, "5029ce7eee68a5c2c481ed0f7dcdbcad0f9afcafeda1f21a827dcb1e92bef3ae") -- ATC4 Airport NEW CHITOSE [RJCC] - Depot 1839300
+setManifestid(1839300, "1108323167789386125", 2772536955)
+-- ATC4 Airport OSAKA [RJOO] (AppID: 2314640)
+addappid(2314640) --Dlcname ATC4 Airport OSAKA [RJOO]
+addappid(2314640, 1, "ecf227381f521d40d063adbc2f9abd77c93c3ada28357b70b4a3adf4d24465f2") -- ATC4 Airport OSAKA [RJOO] - Depot 2314640
+setManifestid(2314640, "9187076701320502830", 1791603157)
+-- ATC4 Airport NAGOYA [RJGG] (AppID: 2659940)
+addappid(2659940) --Dlcname ATC4 Airport NAGOYA [RJGG]
+addappid(2659940, 1, "874a829901eee553e055be01f4b16f0e4ef568efd4f1fdc9faa1d4222e2d4b3b") -- ATC4 Airport NAGOYA [RJGG] - Depot 2659940
+setManifestid(2659940, "2549510232727509371", 1662161988)
+-- ATC4 Airport NARITA [RJAA] (AppID: 2670310)
+addappid(2670310) --Dlcname ATC4 Airport NARITA [RJAA]
+addappid(2670310, 1, "fd9e680fa895022ae6e766c46d3a79bd498bb7d735c0d42a547d185dfb3b87b9") -- ATC4 Airport NARITA [RJAA] - Depot 2670310
+setManifestid(2670310, "2676231596182276888", 2200593520)
