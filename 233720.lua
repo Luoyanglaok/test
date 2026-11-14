@@ -16,3 +16,29 @@ addappid(317961, 1, "2b6038ba81cbc0cd78b769403e6822aa29cf3717c0b645c48f41d41dfab
 setManifestid(317961, "5653254213267219564", 755570608)
 addappid(317962, 1, "a5d9976e325380413a3388d77d30a268d8e28b8702e4e370b08f98178ffb4660") --Dlc Linux Depot AppID 317960
 setManifestid(317962, "7756701100521687015", 735353920)
+-- 233720's Lua and Manifest Created by Hubcap Manifest
+-- Surgeon Simulator
+-- Created: September 19, 2026 at 00:20:32 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 1165866 (public branch)
+-- Build Date: June 06, 2016 at 07:50:36 EDT (1465213836)
+-- Total Depots: 6
+-- Total DLCs: 1
+-- MAIN APPLICATION
+addappid(233720, 1, "6ad87c0d5714cbc1295f8e0cb63ef8b871be8e03510949539636da7cb63dbdac") -- Surgeon Simulator
+-- MAIN APP DEPOTS
+addappid(233721, 1, "d35dca79d15aceeb962840cc06af9c61dd038f5cf9283e469663fd63ee090a5a") -- Surgeon Simulator Windows
+setManifestid(233721, "8469634463222804287", 891944009)
+addappid(233722, 1, "63af86194cc3a9165b47d4344897c1743432d6742191044190b5b204d2b8ccfb") -- Surgeon Simulator Mac
+setManifestid(233722, "3024770143432895355", 902679404)
+addappid(233723, 1, "a0811369f5094519a9e049496ad5bd2c1aae633160a78379d4ecd72818a89356") -- Surgeon Simulator Linux
+setManifestid(233723, "2273141338475583055", 959734967)
+-- DLCS WITH DEDICATED DEPOTS
+-- Surgeon Simulator - Anniversary Edition Content (AppID: 317960)
+addappid(317960) --Dlcname Surgeon Simulator - Anniversary Edition Content
+addappid(317960, 1, "ccd7ea8b717679799cd07c3fdce7e842480e377d8f9fe60df8b41f7900eabab5") -- Surgeon Simulator - Anniversary Edition Content - Surgeon Simulator - Anniversary Edition Content (317960) Depot
+setManifestid(317960, "8797057588258470615", 1557007018)
+addappid(317961, 1, "2b6038ba81cbc0cd78b769403e6822aa29cf3717c0b645c48f41d41dfab893a7") -- Surgeon Simulator - Anniversary Edition Content - Surgeon Simulator AE Content Mac
+setManifestid(317961, "5653254213267219564", 1529137181)
+addappid(317962, 1, "a5d9976e325380413a3388d77d30a268d8e28b8702e4e370b08f98178ffb4660") -- Surgeon Simulator - Anniversary Edition Content - Surgeon Simulator AE Content Linux
+setManifestid(317962, "7756701100521687015", 1407317712)
