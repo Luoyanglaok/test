@@ -15,3 +15,30 @@ addappid(204037,0,"a91c152e19fc75ff8ff39e6e5ecb1e9b964a79961466e08882c2405d8c5c1
 setManifestid(204037,"534836533388574634")
 addappid(204038,0,"efe57d55c21b3265d27eb5c38cdc1381ab092157eea4e1783ed02953c8f69eba")
 setManifestid(204038,"6214166627527531367")
+-- 204030's Lua and Manifest Created by Hubcap Manifest
+-- Fable - The Lost Chapters
+-- Created: September 18, 2026 at 13:18:04 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 29928 (public branch)
+-- Build Date: December 06, 2012 at 17:54:55 EST (1354834495)
+-- Total Depots: 8
+-- Total DLCs: 0
+-- MAIN APPLICATION
+addappid(204030, 1, "424e6dd31d4c7432f55db5115e4831c3435ee8c9fd9f2b7809fdec35af1dd48a") -- Fable - The Lost Chapters
+-- MAIN APP DEPOTS
+addappid(204031, 1, "5120dba151cbd54f093cb2ca33905e1d4111a8488df59edd520d3ad1af3f453d") -- Fable The Lost Chapters content
+setManifestid(204031, "4851643669131737008", 2174576699)
+addappid(204032, 1, "d98986433858175ba64117feefbb1fb8c3031ec451b5bf3b30da1d2f1a3f14de") -- Fable The Lost Chapters spanish
+setManifestid(204032, "7364333388369686290", 778950423)
+addappid(204033, 1, "0994ac853b26c161dcf01cf7bbfe5d3bef6bdfbb869c10c3a53b15b7393f253f") -- Fable The Lost Chapters english
+setManifestid(204033, "2626011862337573013", 750415046)
+addappid(204034, 1, "f496afbbc2266f287273dc141ee3295ab85810fc476b9710f366f61391e0e685") -- Fable The Lost Chapters german
+setManifestid(204034, "6057892524750631795", 839412075)
+addappid(204035, 1, "d3616a8d93670360a76d47b381961be8bf352cb429f8048da748c59c3b271e5b") -- Fable The Lost Chapters french
+setManifestid(204035, "4031302774238153424", 736792112)
+addappid(204036, 1, "8e905d463b5575658235b5334f93ff28eb7303006436c41d756ea0efdbc518c8") -- Fable The Lost Chapters italian
+setManifestid(204036, "5351267515103146433", 822881913)
+addappid(204037, 1, "a91c152e19fc75ff8ff39e6e5ecb1e9b964a79961466e08882c2405d8c5c1398") -- Fable The Lost Chapters tchinese
+setManifestid(204037, "534836533388574634", 863462351)
+addappid(204038, 1, "efe57d55c21b3265d27eb5c38cdc1381ab092157eea4e1783ed02953c8f69eba") -- Fable The Lost Chapters Japanese
+setManifestid(204038, "6214166627527531367", 740165117)
