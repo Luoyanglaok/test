@@ -6,3 +6,18 @@ addappid(1105501, 1, "cffc68d6e7a4f09d3a9c8f4749651f94d5f148f5b9adc30190b522a895
 setManifestid(1105501, "5842515233882728709", 23972704208)
 addappid(1105502, 1, "237653df87e9e42840a9f5111f0aabcd598c530a044ed29d27104d4a05cb7d57") --Main Windows Depot Yakuza 4 Remastered
 setManifestid(1105502, "7909158784907782245", 21008400)
+-- 1105500's Lua and Manifest Created by Hubcap Manifest
+-- Yakuza 4 Remastered
+-- Created: September 19, 2026 at 04:11:12 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 6407475 (public branch)
+-- Build Date: March 19, 2021 at 06:05:02 EDT (1616148302)
+-- Total Depots: 2
+-- Total DLCs: 0
+-- MAIN APPLICATION
+addappid(1105500, 1, "c85cc4d080cd2a5a7eaba253c0ff16336f136315d2520dfc6512a518bb54e86f") -- Yakuza 4 Remastered
+-- MAIN APP DEPOTS
+addappid(1105501, 1, "cffc68d6e7a4f09d3a9c8f4749651f94d5f148f5b9adc30190b522a8954ad140") -- RINO 4 Content
+setManifestid(1105501, "5842515233882728709", 36635935957)
+addappid(1105502, 1, "237653df87e9e42840a9f5111f0aabcd598c530a044ed29d27104d4a05cb7d57") -- RINO 4 Depot - Bin
+setManifestid(1105502, "7909158784907782245", 28396336)
