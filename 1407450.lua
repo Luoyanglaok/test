@@ -4,3 +4,19 @@ addappid(1407451,0,"e77c2b5425b6c805511e3c7765549c490def944d6408b724c7f5e5296618
 setManifestid(1407451,"8849391909608443023")
 addappid(1407452,0,"f34851dd40298961c2625dd380b7a365558b0824159a15b0c7eda39026cd9c42")
 setManifestid(1407452,"8296180848148533287")
+-- 1407450's Lua and Manifest Created by Hubcap Manifest
+-- 大江湖之苍龙与白鸟
+-- Created: September 19, 2026 at 04:52:55 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 17602089 (public branch)
+-- Build Date: March 05, 2025 at 04:53:37 EST (1741168417)
+-- Total Depots: 2
+-- Total DLCs: 0
+-- MAIN APPLICATION
+addappid(1407450, 1, "af5df74c3cb9a1642f0435e782b9aa0b28bc34581a757fc014570f7d5316ecdf") -- 大江湖之苍龙与白鸟
+addtoken(1407450, "4466851740961391198")
+-- MAIN APP DEPOTS
+addappid(1407451, 1, "e77c2b5425b6c805511e3c7765549c490def944d6408b724c7f5e5296618e42c") -- Depot 1407451
+setManifestid(1407451, "8849391909608443023", 2204826408)
+addappid(1407452, 1, "f34851dd40298961c2625dd380b7a365558b0824159a15b0c7eda39026cd9c42") -- Depot 1407452
+setManifestid(1407452, "8296180848148533287", 2262149961)
