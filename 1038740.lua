@@ -11,3 +11,25 @@ addappid(1144310, 1, "52f63dc2a01454f4e568e56e3bdf0bd8c358d736f8ee3361ae57b93e84
 addappid(1038743, 1, "d448d0b124926697f5dea30b9625b0318ef4653401b039e138533ce8868852fa") --Dlc Macos Depot Fluffy Store - Listening with you
 setManifestid(1038743, "936898904993466245", 1382605168)
 setManifestid(1144310, "2331346570701764453", 1368267184)
+-- 1038740's Lua and Manifest Created by Hubcap Manifest
+-- Fluffy Store
+-- Created: September 18, 2026 at 13:51:00 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 11085344 (public branch)
+-- Build Date: April 25, 2023 at 07:22:48 EDT (1682421768)
+-- Total Depots: 4
+-- Total DLCs: 1
+-- MAIN APPLICATION
+addappid(1038740, 1, "4fee9996c071255efcfe5d7b41a03c58c8012e34fc3eecc66e230a73bdf433c8") -- Fluffy Store
+-- MAIN APP DEPOTS
+addappid(1038741, 1, "17b6b3694121e8324b812e9f2b6a07b765d4034fd124066c998700077e971682") -- Fluffy Store Depot
+setManifestid(1038741, "2412286977590667143", 1410578109)
+addappid(1038742, 1, "1d3ef3e61fd2478a8f1303978eecb32c4aa9c2475993f1d593859644b119eb9d") -- Fluffy Store Depot For Mac
+setManifestid(1038742, "4662417038219142094", 1481242653)
+-- DLCS WITH DEDICATED DEPOTS
+-- Fluffy Store - Listening with you (AppID: 1144310)
+addappid(1144310) --Dlcname Fluffy Store - Listening with you
+addappid(1144310, 1, "52f63dc2a01454f4e568e56e3bdf0bd8c358d736f8ee3361ae57b93e847bd756") -- Fluffy Store - Listening with you - Fluffy Store - Listening with you (1144310) Depot
+setManifestid(1144310, "2331346570701764453", 1727483544)
+addappid(1038743, 1, "d448d0b124926697f5dea30b9625b0318ef4653401b039e138533ce8868852fa") -- Fluffy Store - Listening with you - Fluffy Store - Listening with you - Depot for Mac
+setManifestid(1038743, "936898904993466245", 1781370400)
