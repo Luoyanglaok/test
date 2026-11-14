@@ -57,3 +57,65 @@ addappid(1286916) --Dlcname Need for Speed™ Payback - Pontiac Firebird Superbu
 addappid(1328030) --Dlcname Need for Speed™ Payback: MINI John Cooper Works Countryman and Infiniti Q60 S Bundle
 addappid(1328031) --Dlcname Need for Speed™ Payback: Pontiac Firebird & Aston Martin DB5 Superbuild Bundle
 addappid(1328032) --Dlcname Need for Speed™ Payback: Chevrolet Colorado ZR2, Range Rover Sport SVR & Alfa Romeo Quadrifoglio Bundle
+-- 1262580's Lua and Manifest Created by Hubcap Manifest
+-- Need for Speed™ Payback
+-- Created: November 04, 2026 at 23:51:36 EST
+-- Website: https://hubcapmanifest.com/
+-- Build: 10351388 (public branch)
+-- Build Date: January 18, 2023 at 14:11:13 EST (1674069073)
+-- Total Depots: 16
+-- Total DLCs: 16
+-- Shared Depots: 4
+-- MAIN APPLICATION
+addappid(1262580, 1, "3c832a676728c023f38c011e31e1f4178256146c7ae0b53f7fb53deeed6fbc6c") -- Need for Speed™ Payback
+-- MAIN APP DEPOTS
+addappid(1262581, 1, "bc329d84c6374c986032b34aef38842598bcc144dada9d99208b5d435950bcb2") -- Need for Speed Payback - Content
+setManifestid(1262581, "357005021937610436", 30043263892)
+addappid(1262582, 1, "d944730a0e8c04a08204140dad83af1b5fca609f02dcbea733e17084e4127541") -- Need for Speed Payback - en_US
+setManifestid(1262582, "5863695221893818676", 109783)
+addappid(1262583, 1, "b3d27fd471f00e9c5d6ade77d8beff63126e810eb62c7dfe8df91a12cabf63f1") -- Need for Speed Payback - fr_FR
+setManifestid(1262583, "2648130320752963299", 119431)
+addappid(1262584, 1, "f015179710bded315ad9db719d9b33cb2fe5502df5be951452422a5eee4505ce") -- Need for Speed Payback - es_ES
+setManifestid(1262584, "6167966323350507217", 127410)
+addappid(1262585, 1, "ee745b0c2aa66285f5639bf257523e871c90adc72c580e10c173da6572ceb2ae") -- Need for Speed Payback - de_DE
+setManifestid(1262585, "8425487637255684564", 108911)
+addappid(1262586, 1, "06bfc2f9d256fc4cc670dd0f2b4737c6ccef2dbc9c19fa18757b7a9670e500d7") -- Need for Speed Payback - it_IT
+setManifestid(1262586, "9161042106020848297", 114648)
+addappid(1262587, 1, "ecf19cfeb5cb8d9c6e5247568fd491570ebb7012dab96bfeeb70105143ec4f77") -- Need for Speed Payback - ru_RU
+setManifestid(1262587, "2308047677415325841", 188157)
+addappid(1262588, 1, "7ba879daae75903a3f0f43be34e7460ba6f9f0c02b1c6216ea728f16699847e6") -- Need for Speed Payback - pl_PL
+setManifestid(1262588, "8823147079463610523", 117880)
+addappid(1262589, 1, "96f9233b209291966cc85d5f05c318a54d09220daf68594b45255d99f989af73") -- Need for Speed Payback - pt_BR
+setManifestid(1262589, "5377929380182925135", 112502)
+addappid(1262593, 1, "32217cc93c93905daacce6e78cc377791cff5097f5770f41c6fd5f062466ea1c") -- Need for Speed Payback - ja_JP
+setManifestid(1262593, "7634373501136800354", 197357)
+addappid(1262594, 1, "acc117a10ae6835a786d131a23d4499992e594856965f28817dc8f0281a38db7") -- Need for Speed Payback - zh_TW
+setManifestid(1262594, "932528729461720503", 165396)
+addappid(1262595, 1, "2d59fa0b555dc9b121b943daf5294b65ff625b94e596442d6ee92705033750d9") -- Need for Speed Payback - zh_CN
+setManifestid(1262595, "3380269875663664524", 176771)
+-- SHARED DEPOTS (from other apps)
+addappid(228985, 1, "21a2f639584d9bd462c5c4b3e10f881cba8a17ae674c830c4f083551cd356e9c") -- VC 2013 Redist (Shared from App 228980)
+setManifestid(228985, "3966345552745568756", 13699237)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+setManifestid(228988, "6645201662696499616", 29212173)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") -- Depot 3340991 (Shared from App 3340990)
+setManifestid(3340991, "556631282418311229", 254018335)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(1262590) --Dlcname Need for Speed Payback - All DLC Cars Bundle --NoDepot
+addappid(1262591) --Dlcname Need for Speed Payback - Fortune Valley Map Shortcuts --NoDepot
+addappid(1262592) --Dlcname Need for Speed Payback - Speedcross Story --NoDepot
+addappid(1286900) --Dlcname Need for Speed Payback Deluxe Edition - Key --NoDepot
+addappid(1286902) --Dlcname Need for Speed Payback - High Roller Pack --NoDepot
+addappid(1286903) --Dlcname Need for Speed Payback - MINI John Cooper Works Countryman --NoDepot
+addappid(1286904) --Dlcname Need for Speed Payback - Platinum Car Pack --NoDepot
+addappid(1286905) --Dlcname Need for Speed Payback -  Infiniti Q60 S --NoDepot
+addappid(1286912) --Dlcname Need for Speed Payback - Chevrolet Colorado ZR2 --NoDepot
+addappid(1286913) --Dlcname Need for Speed Payback - Aston Martin DB5 Superbuild --NoDepot
+addappid(1286914) --Dlcname Need for Speed Payback - Range Rover Sport SVR --NoDepot
+addappid(1286915) --Dlcname Need for Speed Payback - Alfa Romeo Quadrifoglio --NoDepot
+addappid(1286916) --Dlcname Need for Speed Payback - Pontiac Firebird Superbuild --NoDepot
+addappid(1328030) --Dlcname Need for Speed Payback MINI John Cooper Works Countryman and Infiniti Q60 S Bundle --NoDepot
+addappid(1328031) --Dlcname Need for Speed Payback Pontiac Firebird  Aston Martin DB5 Superbuild Bundle --NoDepot
+addappid(1328032) --Dlcname Need for Speed Payback Chevrolet Colorado ZR2, Range Rover Sport SVR  Alfa Romeo Quadrifoglio Bundle --NoDepot
