@@ -14,3 +14,28 @@ addappid(1858560) --Dlcname 幻想乡妖怪塔防 - 永江衣玖扩展包 - Touh
 addappid(2062240) --Dlcname 幻想乡妖怪塔防 - 藤原妹红扩展包 - Touhou Monster TD ~ Mokou DLC
 --Missing Dlcs
 --Dlcname 幻想乡妖怪塔防 - 博士琪露诺 扩展包
+-- 1671350's Lua and Manifest Created by Hubcap Manifest
+-- 幻想乡妖怪塔防 ~ Touhou Monster TD
+-- Created: September 19, 2026 at 05:01:10 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 9620646 (public branch)
+-- Build Date: September 29, 2022 at 15:30:56 EDT (1664479856)
+-- Total Depots: 4
+-- Total DLCs: 3
+-- MAIN APPLICATION
+addappid(1671350, 1, "37927648ae6ac97d396605adc5b64728a386089bac62bbbd6c258691db70f62c") -- 幻想乡妖怪塔防 ~ Touhou Monster TD
+-- MAIN APP DEPOTS
+addappid(1671351, 1, "6bf27780460f234a2a1f168dfae569d02865db73cca7ce1f613b4cdb06fcec94") -- 幻想乡妖怪塔防 Content
+setManifestid(1671351, "8673748418367646435", 3495831438)
+addappid(1671352, 1, "56afb2e2d84f633952a6b7c53e1da726571c44256bb0cf753df5dc0610388e25") -- macOS
+setManifestid(1671352, "9124699972351878885", 3519889808)
+addappid(1671353, 1, "9cb38a6fc1d959bf52aba591332700a1ead60c2ccf1f13196f1c8e5d27b68e4d") -- Linux
+setManifestid(1671353, "8601012582230773814", 3547573385)
+addappid(1671354, 1, "deb6273c55461622df48625cfeee1da5dfc4d132ff86ebfd322fee31800d0ec8") -- Windows 32bit
+setManifestid(1671354, "590891462823639597", 3488189669)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(1768370) --Dlcname - --NoDepot
+addappid(1858560) --Dlcname -  - Touhou Monster TD  Nagae Iku DLC --NoDepot
+addappid(2062240) --Dlcname -  - Touhou Monster TD  Mokou DLC --NoDepot
+-- EMPTY DEPOTS (no content on any branch)
+-- addappid(1768370) -- Depot 1768370 (empty depot)
