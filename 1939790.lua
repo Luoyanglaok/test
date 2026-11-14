@@ -14,3 +14,29 @@ setManifestid(2144700, "8302270182410517085", 36924960)
 --Dlcname 纸嫁衣3鸳鸯债-原声集
 addappid(2144710, 1, "e16400d3b44b76110b075670d0520d1895064a22a6f2e299dcef6136f46ad13a") --Dlcname 纸嫁衣3鸳鸯债-原声集
 setManifestid(2144710, "9056311196515366566", 134762016)
+-- 1939790's Lua and Manifest Created by Hubcap Manifest
+-- 纸嫁衣3鸳鸯债
+-- Created: September 19, 2026 at 05:29:10 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 24195999 (public branch)
+-- Build Date: July 14, 2026 at 01:45:29 EDT (1784007929)
+-- Total Depots: 5
+-- Total DLCs: 2
+-- MAIN APPLICATION
+addappid(1939790, 1, "87667885ddf144eca61e349499c660d87ae82798271b5dfab5061e40fcc7df10") -- 纸嫁衣3鸳鸯债
+-- MAIN APP DEPOTS
+addappid(1939791, 1, "7de0aae77c62ef479e8b577947fc7456f4463c385e974d8a3f5ea9bb933580a4") -- Depot 1939791
+setManifestid(1939791, "5423990839559453494", 218735130)
+addappid(1939792, 1, "ab79e4ba8e7101a54a4b7c5460d4a492222e01514ea8d551e2ffec128734afce") -- Depot 1939792
+setManifestid(1939792, "3728041407000541491", 238921843)
+addappid(1939793, 1, "8ab10d18cc5e676144d619c03fece0121396d3e528db6e31e01d9c6068ced6ce") -- Depot 1939793
+setManifestid(1939793, "6422025843996115522", 258026435)
+-- DLCS WITH DEDICATED DEPOTS
+-- 3- (AppID: 2144700)
+addappid(2144700) --Dlcname 3-
+addappid(2144700, 1, "212ee8551f9ba98b74155ccd2bb6648a1c8fcd454650eecede6a9862e4003b23") -- 3- - Depot 2144700
+setManifestid(2144700, "8302270182410517085", 36871784)
+-- 3- (AppID: 2144710)
+addappid(2144710) --Dlcname 3-
+addappid(2144710, 1, "e16400d3b44b76110b075670d0520d1895064a22a6f2e299dcef6136f46ad13a") -- 3- - Depot 2144710
+setManifestid(2144710, "9056311196515366566", 147385546)
