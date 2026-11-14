@@ -4,3 +4,16 @@
 addappid(1097370, 1, "59e8126019524223d5b556ea790d27ce00dfe826630a41d89df064367d342b13") --Mainappid パラディンリアス
 addappid(1097371, 1, "ebbd318c18cf0cb59b16e9a854d0bd962807978682eb9a865ddb8ae9c87321b7") --Main Windows Depot パラディンリアス
 setManifestid(1097371, "3518189139650934497", 531758976)
+-- 1097370's Lua and Manifest Created by Hubcap Manifest
+-- パラディンリアス
+-- Created: September 19, 2026 at 04:33:04 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 11559991 (public branch)
+-- Build Date: June 26, 2023 at 08:59:36 EDT (1687784376)
+-- Total Depots: 1
+-- Total DLCs: 0
+-- MAIN APPLICATION
+addappid(1097370, 1, "59e8126019524223d5b556ea790d27ce00dfe826630a41d89df064367d342b13") -- パラディンリアス
+-- MAIN APP DEPOTS
+addappid(1097371, 1, "ebbd318c18cf0cb59b16e9a854d0bd962807978682eb9a865ddb8ae9c87321b7") -- PaladinLias
+setManifestid(1097371, "3518189139650934497", 664150608)
