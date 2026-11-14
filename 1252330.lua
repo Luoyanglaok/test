@@ -59,3 +59,65 @@ setManifestid(228990, "1829726630299308803", 100658080)
 addappid(1843490) --Dlcname DEATHLOOP Deluxe Pack
 --Missing Dlcs
 --Dlcname DEATHLOOP - Deluxe
+-- 1252330's Lua and Manifest Created by Hubcap Manifest
+-- DEATHLOOP
+-- Created: September 18, 2026 at 11:35:54 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 22517541 (public branch)
+-- Build Date: March 26, 2026 at 10:30:29 EDT (1774535429)
+-- Total Depots: 23
+-- Total DLCs: 3
+-- Shared Depots: 2
+-- MAIN APPLICATION
+addappid(1252330, 1, "52db456124778ce316f6b72fb5832381a08eae04ca763eebad69ed0322c308ee") -- DEATHLOOP
+-- MAIN APP DEPOTS
+addappid(1252331, 1, "58b28c0846de6dc666f7ffc9ddaee12e8783bcef954824a3ae2d7bed843cd1b5") -- retail_exe
+setManifestid(1252331, "4307913600288777524", 307242760)
+addappid(1252332, 1, "b5825fe7468cc622b47fada1fec85127f5a8d3e9ec4030e0809f0f75d27c68d2") -- retail_dll
+setManifestid(1252332, "7756515403886399932", 22213245)
+addappid(1252333, 1, "829dc92a1c71697c00cfc3b81b850c9498d048c349399de413507fe5d59d0522") -- retail_pdb
+setManifestid(1252333, "4717335115166333868", 387346432)
+addappid(1252334, 1, "3ea9535dac5d1d028071a51bba6b1993ca3ab210f4bbf52b03b7d660b8251420") -- video
+setManifestid(1252334, "7052144862704367276", 3802886724)
+addappid(1252335, 1, "de090e863404b3885ae8e9eb767aa33efad7cfede6fb56746698ca83d8accb26") -- content_0
+setManifestid(1252335, "4828408049895003180", 23585216666)
+addappid(1252336, 1, "3a6b5870c39881a67e8397504d3b76a99e8d15dfc4cedda444be478c30055ca3") -- English
+setManifestid(1252336, "4031132991936740152", 470548223)
+addappid(1252337, 1, "087c22f74642923f9419910cddef82d4b4fbe3b62249428994eb037ae6f31a62") -- French
+setManifestid(1252337, "8643001918957321558", 513530759)
+addappid(1252338, 1, "e2584921d3668d9fc419378630d33bb1cdf2c850278e9a2959948ab0109b3d5d") -- Italian
+setManifestid(1252338, "3923745902209662408", 504455460)
+addappid(1252339, 1, "5439bc9d1b198659064db03136914f302e953e8508654b3fe20ab6fd9238e92d") -- German
+setManifestid(1252339, "6445165614644260445", 509024394)
+addappid(1468560, 1, "234a2af60458cce44cb1ea4046323fa73b043c61045d7284b13a8f55c4dc4f81") -- Spanish
+setManifestid(1468560, "5229418971981442778", 522404146)
+addappid(1468561, 1, "580fc41e84dc165c29246cd53ad943efa0e2dbc23bf6862d109242ee6dc5b90a") -- Russian
+setManifestid(1468561, "5888569909866798205", 521523039)
+addappid(1468562, 1, "89b085f18aacdeb6679d962aafe4f082a19ebdf7103145f963a30a2ce330b737") -- Polish
+setManifestid(1468562, "8333201661608913330", 509998184)
+addappid(1468563, 1, "4df00396ffc322183c891cc2f6998fa2115800fc97f6dc739bdaa43e33d4ffad") -- MexicanSpanish
+setManifestid(1468563, "5584629150162661232", 506041031)
+addappid(1468564, 1, "b531b64db753e37c1f62d1c5203aa2b7308114ed6ed652c50f456487504e4ecd") -- BrazilianPortuguese
+setManifestid(1468564, "8627865511963116707", 487615726)
+addappid(1468565, 1, "e238ef96bd90d4836e4820f693c4e2843252ed026958950550dd9cc5e55f97b9") -- SimplifiedChinese
+addappid(1468566, 1, "c11f92cf9a3362c871b83013635ee30df206413c39b1db3f988d5e9d5b3d9082") -- Japanese
+setManifestid(1468566, "2215659064260582269", 478679022)
+addappid(1468567, 1, "6b8ae305c0cae0dc8457d285651c6051613c0146d40949007b111057b935f183") -- Korean
+addappid(1468568, 1, "a470d26eaa6293cdd2131db5fcf14ef84ad3e60ec2035b40e1e46df73170fd95") -- TraditionalChinese
+addappid(1468569, 1, "bab0fad2a278921d63f60926fe6e504b7c8bdd66061415a3d500fd22ea803512") -- Arabic
+addappid(1468573, 1, "e6ee3526293b32a5ae22920f4055e6696e1380faf5dbaea3c1b43a7d42e638a8") -- Shipping_exe
+setManifestid(1468573, "8895710705102938684", 861067252)
+-- SHARED DEPOTS (from other apps)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+setManifestid(228988, "6645201662696499616", 29212173)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+-- DLCS WITH DEDICATED DEPOTS
+-- DEATHLOOP - PreOrder (AppID: 1457700)
+addappid(1457700) --Dlcname DEATHLOOP - PreOrder
+addappid(1457700, 1, "2f2dd5204db57e08ba78a9d1ad9c8318862be2d71bab34746a320112bd8715f7") -- DEATHLOOP - PreOrder - DEATHLOOP - PreOrder (1457700) Depot
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(1457701) --Dlcname DEATHLOOP - Deluxe --NoDepot
+addappid(1843490) --Dlcname DEATHLOOP Deluxe Pack --NoDepot
+-- EMPTY DEPOTS (no content on any branch)
+-- addappid(1457701) -- Depot 1457701 (empty depot)
