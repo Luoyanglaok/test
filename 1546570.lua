@@ -15,3 +15,28 @@ addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f69
 setManifestid(228990, "1829726630299308803", 100658080)
 addappid(229004, 1, "56ebe05d052f59ad2e9b101102de603dca17402a9bb2ef0015962c6b3275a2d0") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(229004, "5220958916987797232", 70811632)
+-- 1546570's Lua and Manifest Created by Hubcap Manifest
+-- Sword and Fairy
+-- Created: September 19, 2026 at 00:26:25 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 6606701 (public branch)
+-- Build Date: April 27, 2021 at 05:31:31 EDT (1619515891)
+-- Total Depots: 6
+-- Total DLCs: 0
+-- Shared Depots: 3
+-- MAIN APPLICATION
+addappid(1546570, 1, "97a9c5280b0e9e559f78ea361e4d75113e729d95a447a1f86da20dafd6ab21ae") -- Sword and Fairy
+-- MAIN APP DEPOTS
+addappid(1546571, 1, "cc0f374a05a2b117c2fbc7e75564534df000971871283846490724ac2a7fb893") -- 仙劍奇俠傳 Content
+setManifestid(1546571, "679638667279782355", 647713423)
+addappid(1546572, 1, "a14e97e749760bcc4c2d661f37f6502b8df2d3e4a04c71b7aec0c9663d10dc11") -- 仙劍奇俠傳 Depot x86
+setManifestid(1546572, "7902539983970035829", 14197786)
+addappid(1546573, 1, "93885a34c035a0cd626eb93ee9252ba3af3934fd9c379b0e692177a494535320") -- 仙劍奇俠傳 Depot x64
+setManifestid(1546573, "1973994728710015310", 12993562)
+-- SHARED DEPOTS (from other apps)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+setManifestid(228988, "6645201662696499616", 29212173)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+addappid(229004, 1, "56ebe05d052f59ad2e9b101102de603dca17402a9bb2ef0015962c6b3275a2d0") -- .NET 4.5.2 Redist (Shared from App 228980)
+setManifestid(229004, "5220958916987797232", 70000464)
