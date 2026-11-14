@@ -69,3 +69,105 @@ addappid(5094350) --Dlcname Age of Wonders 4: Expansion Pass 4
 addappid(5094370) --Dlcname Age of Wonders 4: The Silver Seas
 addappid(5094380) --Dlcname Age of Wonders 4: Court of the Archfey
 addappid(5094390) --Dlcname Age of Wonders 4: Forge of the Firstborn
+-- 1669000's Lua and Manifest Created by Hubcap Manifest
+-- Age of Wonders 4
+-- Created: November 06, 2026 at 09:04:18 EST
+-- Website: https://hubcapmanifest.com/
+-- Build: 26482553 (public branch)
+-- Build Date: November 06, 2026 at 06:05:49 EST (1793963149)
+-- Total Depots: 22
+-- Total DLCs: 22 (2 excluded)
+-- Shared Depots: 3
+-- MAIN APPLICATION
+addappid(1669000, 1, "af2a71eb151a9b1847e1be622c9084650267ff44d0f8a29cf9c516b8aaf92284") -- Age of Wonders 4
+-- MAIN APP DEPOTS
+addappid(1669001, 1, "c9f8c2fa2410e5cdca74811acc196b199d9831a62e6f4365e521fcadca9d12a5") -- Depot 1669001
+setManifestid(1669001, "4591284591102499311", 34785309196)
+addappid(1669002, 1, "c4f706f7261dee685e2d74998d61a7b4fb175bb47659cce89b560f89fe30ff61") -- Depot 1669002
+setManifestid(1669002, "7322959566172874391", 373233020)
+-- SHARED DEPOTS (from other apps)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "5753583882400741046", 25674515)
+addappid(229004, 1, "56ebe05d052f59ad2e9b101102de603dca17402a9bb2ef0015962c6b3275a2d0") -- .NET 4.5.2 Redist (Shared from App 228980)
+setManifestid(229004, "5220958916987797232", 70000464)
+addappid(229005, 1, "aa18a527cdc103aeb3d12caafd6f581689a14467aa55658ba583a9af6e90313a") -- .NET 4.6 Redist (Shared from App 228980)
+setManifestid(229005, "7992454656023763365", 62009092)
+-- DLCS WITH DEDICATED DEPOTS
+-- Age of Wonders 4 Pre-Order Content Pack (AppID: 2257970)
+addappid(2257970) --Dlcname Age of Wonders 4 Pre-Order Content Pack
+addappid(2257970, 1, "2725cc874450911b4c09f09607e3a3125e1daa5574ee01d74fe2b27e7d8400f0") -- Age of Wonders 4 Pre-Order Content Pack - Depot 2257970
+setManifestid(2257970, "2865807012584769022", 163176)
+-- Age of Wonders 4 Sign-Up Content (AppID: 2257990)
+addappid(2257990) --Dlcname Age of Wonders 4 Sign-Up Content
+addappid(2257990, 1, "7e40f1272e9d72fa90cb32e8faf281b53d56bd56d220983df52143d7590517e8") -- Age of Wonders 4 Sign-Up Content - Depot 2257990
+setManifestid(2257990, "3586028993103183297", 161493)
+-- Age of Wonders 4 Archmage Attire (AppID: 2330150)
+addappid(2330150) --Dlcname Age of Wonders 4 Archmage Attire
+addappid(2330150, 1, "279b4878ac89aace60e568e256cfa63ceff174760e2873b46fece3f4435209cb") -- Age of Wonders 4 Archmage Attire - Depot 2330150
+setManifestid(2330150, "1952808027203437358", 145854)
+-- Age of Wonders 4 Dragon Dawn (AppID: 2367860)
+addappid(2367860) --Dlcname Age of Wonders 4 Dragon Dawn
+addappid(2367860, 1, "0deaaf18077207ee03464d1de42b12c00ac5a7d0030f00d7f27ddf8f1c93d0f4") -- Age of Wonders 4 Dragon Dawn - Depot 2367860
+setManifestid(2367860, "7815419419515787571", 184113)
+-- Age of Wonders 4 Empires  Ashes (AppID: 2401830)
+addappid(2401830) --Dlcname Age of Wonders 4 Empires  Ashes
+addappid(2401830, 1, "8c4094bd7b64677817f0211860cbf741b9157cafe4a11f2421288c69ae5107e8") -- Age of Wonders 4 Empires  Ashes - Depot 2401830
+setManifestid(2401830, "3447008450579376002", 177441)
+-- Age of Wonders 4 Primal Fury (AppID: 2401850)
+addappid(2401850) --Dlcname Age of Wonders 4 Primal Fury
+addappid(2401850, 1, "c29a39c1b2c6028d82b7dd85839375cca70dda4dfdee57687761ae35e4c082e5") -- Age of Wonders 4 Primal Fury - Depot 2401850
+setManifestid(2401850, "4962773803312409013", 174865)
+-- Age of Wonders 4 Eldritch Realms (AppID: 2401860)
+addappid(2401860) --Dlcname Age of Wonders 4 Eldritch Realms
+addappid(2401860, 1, "46a1086fb27c2492df2940ac528d7793ed980733ce1c2ea0ab216202a1244dd7") -- Age of Wonders 4 Eldritch Realms - Depot 2401860
+setManifestid(2401860, "7513830674370079236", 169789)
+-- Age of Wonders 4 Ways of War (AppID: 2914280)
+addappid(2914280) --Dlcname Age of Wonders 4 Ways of War
+addappid(2914280, 1, "efa7dbf9c27c1c8fe6553dab29b0e257ecb8c3a3235765ae79671ff744affd13") -- Age of Wonders 4 Ways of War - Depot 2914280
+setManifestid(2914280, "8430218516059799238", 171549)
+-- Age of Wonders 4 Herald of Glory (AppID: 3119880)
+addappid(3119880) --Dlcname Age of Wonders 4 Herald of Glory
+addappid(3119880, 1, "bc0d77b48758274a4e61539d17c04865ad8c53089786afd2de063fe74551ba6e") -- Age of Wonders 4 Herald of Glory - Depot 3119880
+setManifestid(3119880, "5200052240744467692", 152039)
+-- Age of Wonders 4 Giant Kings (AppID: 3181500)
+addappid(3181500) --Dlcname Age of Wonders 4 Giant Kings
+addappid(3181500, 1, "f597777e5312438bf357be4399b5be50ebe4b75a469dd5afcb5093d146926979") -- Age of Wonders 4 Giant Kings - Depot 3181500
+setManifestid(3181500, "5177705880271432925", 158543)
+-- Age of Wonders 4 Archon Prophecy (AppID: 3181540)
+addappid(3181540) --Dlcname Age of Wonders 4 Archon Prophecy
+addappid(3181540, 1, "f86f726aa931e7892ad89db18d3c78c584e28d33b8fe9a5a61fc719f5ee781df") -- Age of Wonders 4 Archon Prophecy - Depot 3181540
+setManifestid(3181540, "8537650910095910606", 162029)
+-- Age of Wonders 4 Cosmic Wanderer (AppID: 3976880)
+addappid(3976880) --Dlcname Age of Wonders 4 Cosmic Wanderer
+addappid(3976880, 1, "39a77fa2093f3ae27e165741196b5c00d8f2eb5c45a17424eb2fde4b1a463e27") -- Age of Wonders 4 Cosmic Wanderer - Depot 3976880
+setManifestid(3976880, "2292722318957502403", 132936)
+-- Age of Wonders 4 Thrones of Blood (AppID: 3976890)
+addappid(3976890) --Dlcname Age of Wonders 4 Thrones of Blood
+addappid(3976890, 1, "2f987a8a2c58bca2438dd5d289b828062080765e1a93f67a02902ecc7d0a3df9") -- Age of Wonders 4 Thrones of Blood - Depot 3976890
+setManifestid(3976890, "7629479392294477694", 159740)
+-- Age of Wonders 4 Rise from Ruin (AppID: 3976900)
+addappid(3976900) --Dlcname Age of Wonders 4 Rise from Ruin
+addappid(3976900, 1, "3856d8be22a62f830e08221f4277d6e157f85d10fa3078558d5427a809c8e052") -- Age of Wonders 4 Rise from Ruin - Depot 3976900
+setManifestid(3976900, "3557468737389726411", 148598)
+-- Age of Wonders 4 Secrets of the Archmages (AppID: 3976910)
+addappid(3976910) --Dlcname Age of Wonders 4 Secrets of the Archmages
+addappid(3976910, 1, "6dae354884b7ca9d44e76df0d87702403b7ceceac690c48775f920fa7a40810c") -- Age of Wonders 4 Secrets of the Archmages - Depot 3976910
+setManifestid(3976910, "4286036722396025002", 173316)
+-- Age of Wonders 4 Singer of Storms (AppID: 5094360)
+addappid(5094360) --Dlcname Age of Wonders 4 Singer of Storms
+addappid(5094360, 1, "e3d7495ac914851c45e6cca852c341e1a35fad6290d149646b0ffa285d4df307") -- Age of Wonders 4 Singer of Storms - Depot 5094360
+setManifestid(5094360, "5186650158819964336", 145251)
+-- Age of Wonders 4 The Silver Seas (AppID: 5094370)
+addappid(5094370) --Dlcname Age of Wonders 4 The Silver Seas
+addappid(5094370, 1, "6ce9297cc8f6fd861521bbe5539f923687632f9812f69548308c6f867733b272") -- Age of Wonders 4 The Silver Seas - Depot 5094370
+setManifestid(5094370, "6279234683586247352", 168341)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(2260160) --Dlcname Age of Wonders 4 Expansion Pass 1 --NoDepot
+addappid(3181480) --Dlcname Age of Wonders 4 Expansion Pass 2 --NoDepot
+addappid(3976440) --Dlcname Age of Wonders 4 Expansion Pass 3 --NoDepot
+addappid(4143090) --Dlcname Age of Wonders 4 Collectors Bundle --NoDepot
+addappid(5094350) --Dlcname Age of Wonders 4 Expansion Pass 4 --NoDepot
+-- EXCLUDED DLCS:
+-- UNRELEASED DLCS (COMMENTED OUT)
+-- addappid(5094380) -- DLC 5094380 (unreleased)
+-- addappid(5094390) -- DLC 5094390 (unreleased)
