@@ -15,3 +15,32 @@ addappid(3600613,0,"0cfa1da6e24b2c3052858aa76cd81ecfb43d99425483a1ac656bb78e863b
 setManifestid(3600613,"1545576484035844369")
 addappid(3600614,0,"395d004a3731b2fdbad2ddcc8c729bf89f242363227f9754f7c5053854712220")
 setManifestid(3600614,"5203866258376406776")
+-- 2846220's Lua and Manifest Created by Hubcap Manifest
+-- Together with Oneesan~Yuina's Sweet Encouragement~
+-- Created: September 19, 2026 at 01:59:38 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 17333183 (public branch)
+-- Build Date: February 12, 2025 at 03:38:52 EST (1739349532)
+-- Total Depots: 8
+-- Total DLCs: 1
+-- Shared Depots: 4
+-- MAIN APPLICATION
+addappid(2846220, 1, "d1de0292efc24a2c4f7c7658cbe670d1ca91464f9aec18065c8aa13014306128") -- Together with Oneesan~Yuina's Sweet Encouragement~
+-- MAIN APP DEPOTS
+addappid(2846221, 1, "44ef95668a222003eeda4bdf982dad64225e46476fe3bfe7381f66459a7e6c2b") -- Depot 2846221
+setManifestid(2846221, "577613248307694815", 1317835017)
+addappid(2846222, 1, "174862808be56406075baccf737c5af097ca99658f58ccfda45eb446bc119142") -- Depot 2846222
+setManifestid(2846222, "2780793587199936648", 1445158612)
+addappid(2846223, 1, "3284ea906d2672359424624e1c28e051d735ffd75da76d2ff5685438214af9a0") -- Depot 2846223
+setManifestid(2846223, "7879738007703196035", 1453689172)
+addappid(2846224, 1, "b183c0d591eb576635152e65e5fdd95ede8199fc102369b86961f4b728603b6d") -- Depot 2846224
+setManifestid(2846224, "5550020452625865405", 1457857506)
+-- SHARED DEPOTS (from other apps)
+addappid(3600611, 1, "dc3cff5ca1b4c550fa694aa1647297ae84c09a8c6b11d157c927f20cc33f0c7c") -- Depot 3600611 (Shared from App 3600610)
+setManifestid(3600611, "5154888066110619618", 2041450125)
+addappid(3600612, 1, "045c8b781f69a7cf36c963dd7c136c31cf6fe67865da37e4b164111f6a37e693") -- Depot 3600612 (Shared from App 3600610)
+setManifestid(3600612, "8673141201542553456", 2043142477)
+addappid(3600613, 1, "0cfa1da6e24b2c3052858aa76cd81ecfb43d99425483a1ac656bb78e863bf1b6") -- Depot 3600613 (Shared from App 3600610)
+setManifestid(3600613, "1545576484035844369", 2071834041)
+addappid(3600614, 1, "395d004a3731b2fdbad2ddcc8c729bf89f242363227f9754f7c5053854712220") -- Depot 3600614 (Shared from App 3600610)
+setManifestid(3600614, "5203866258376406776", 2077696065)
