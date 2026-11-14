@@ -7,3 +7,22 @@ addappid(2588584,0,"6277a9df11ab3738ab6d1aeca89c5cdacc30322f05f7eff1a7be8c80b748
 setManifestid(2588584,"8577997781870710717")
 addappid(2588585,0,"609239f899ea5d55fdfb1997845559694c428997edfde442ec48e2ca2a899b2e")
 setManifestid(2588585,"5675174389204818246")
+-- 2588580's Lua and Manifest Created by Hubcap Manifest
+-- Demon's GunPlay
+-- Created: September 18, 2026 at 11:44:45 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 13225586 (public branch)
+-- Build Date: January 20, 2024 at 00:41:07 EST (1705729267)
+-- Total Depots: 4
+-- Total DLCs: 0
+-- MAIN APPLICATION
+addappid(2588580, 1, "021d1cbaf3447e481ab0c0cc220be6d70d199db17448fc0d28772b027ba32c13") -- Demon's GunPlay
+-- MAIN APP DEPOTS
+addappid(2588582, 1, "e35327098127444c83a2fb3330c02b5adc3d1a20f23b22f4457e084b0fa09391") -- Depot 2588582
+setManifestid(2588582, "6956079757091564643", 375601169)
+addappid(2588583, 1, "cc13f6881b5618c3e60cb7cb1d60cfb2877ce112f9d4d0e957795ae3e6fa8a44") -- Depot 2588583
+setManifestid(2588583, "6296630564345986638", 378038634)
+addappid(2588584, 1, "6277a9df11ab3738ab6d1aeca89c5cdacc30322f05f7eff1a7be8c80b7484b36") -- Depot 2588584
+setManifestid(2588584, "8577997781870710717", 354696765)
+addappid(2588585, 1, "609239f899ea5d55fdfb1997845559694c428997edfde442ec48e2ca2a899b2e") -- Depot 2588585
+setManifestid(2588585, "5675174389204818246", 354438619)
