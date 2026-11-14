@@ -4,3 +4,16 @@
 addappid(1007650) --Mainappid Real Girl 3 - Virtual Sex
 addappid(1007652, 1, "1ef505b2994ac6fc93ec950f5829ec85b9fbffb1b50138a0d83fb10f926c3548") --Main Windows Depot Real Girl 3 - Virtual Sex
 setManifestid(1007652, "287569777539986368", 1665847504)
+-- 1007650's Lua and Manifest Created by Hubcap Manifest
+-- Real Girl 3 - Virtual Sex
+-- Created: September 20, 2026 at 13:58:06 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 15052569 (public branch)
+-- Build Date: July 16, 2024 at 13:40:41 EDT (1721151641)
+-- Total Depots: 1
+-- Total DLCs: 0
+-- MAIN APPLICATION
+addappid(1007650) -- Real Girl 3 - Virtual Sex
+-- MAIN APP DEPOTS
+addappid(1007652, 1, "1ef505b2994ac6fc93ec950f5829ec85b9fbffb1b50138a0d83fb10f926c3548") -- Depot 1007652
+setManifestid(1007652, "287569777539986368", 1989039434)
