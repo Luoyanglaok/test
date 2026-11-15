@@ -1,6 +1,5 @@
 addappid(1546070)
 addappid(1546071,0,"de80988609f6c2172197e412a5b7e37f2a900a3666d7f64600cdb03fe86087f7")
-setManifestid(1546071,"6979228006024241803")
 -- 1546070's Lua and Manifest Created by Hubcap Manifest
 -- Human Within
 -- Created: September 18, 2026 at 15:52:45 EDT
