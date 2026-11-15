@@ -3,7 +3,6 @@
 --Gamename The Legend of Heroes: Trails from Zero
 addappid(1668510) --Mainappid The Legend of Heroes: Trails from Zero
 addappid(1668511, 1, "4dc7ce12681ff9fa9563d3ca8ab00f4da2c966d5b3d8973d37f1518080a8ae18") --Main Windows Depot The Legend of Heroes: Trails from Zero
-setManifestid(1668511, "786899813109260500", 3724606496)
 --Dlcname The Legend of Heroes: Trails from Zero - SSS Classified Files Digital Art Book
 addappid(2098610, 1, "221110e4ec72b935c1482c20763910e118019c0e7368284a8185cb11352f4644") --Dlcname The Legend of Heroes: Trails from Zero - SSS Classified Files Digital Art Book
 setManifestid(2098610, "430895301975231520", 50993520)
