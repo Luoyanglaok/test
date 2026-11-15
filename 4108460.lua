@@ -1,0 +1,29 @@
+-- 4108460's Lua and Manifest Created by Hubcap Manifest
+-- 灭寇1939：上川往事
+-- Created: September 20, 2026 at 16:02:09 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 24611286 (public branch)
+-- Build Date: August 07, 2026 at 06:34:13 EDT (1786098853)
+-- Total Depots: 6
+-- Total DLCs: 2
+
+-- MAIN APPLICATION
+addappid(4108460) -- 灭寇1939：上川往事
+-- MAIN APP DEPOTS
+addappid(4108461, 1, "2ef50a5229464fc7ec2688dbddb4bbfef4a836ad7ddb83a9ca39cdc56296a82a") -- Depot 4108461
+setManifestid(4108461, "1957792741985974783", 43181381963)
+addappid(4108462, 1, "96c6dd084defd4a56b9790239b42eff46cd141aebb913005332e01d5e36f7c61") -- Depot 4108462
+setManifestid(4108462, "4210568830280904546", 43253560984)
+-- DLCS WITH DEDICATED DEPOTS
+-- 1939 4K (AppID: 4306700)
+addappid(4306700) --Dlcname 1939 4K
+addappid(4306701, 1, "42f624502cdbd645089b999736e5c044c03e777323c3df34a6c79ae7336aaf75") -- 1939 4K - Depot 4306701
+setManifestid(4306701, "4622450668007763443", 341699565384)
+addappid(4306702, 1, "e92c4b1d8170d5d91552fd21773c858f9a38468f1f240bbcfe8bf3636d785a03") -- 1939 4K - Depot 4306702
+setManifestid(4306702, "6684147478024689800", 341698648793)
+-- 1939- (AppID: 4306710)
+addappid(4306710) --Dlcname 1939-
+addappid(4306711, 1, "81f9315b6008a4a8cc181c4f1fb296e0045a4dab19734ae8f21483fe4958a717") -- 1939- - Depot 4306711
+setManifestid(4306711, "5218479606125971105", 1842762593)
+addappid(4306712, 1, "b249a6d9b780c76c6c2812d68754b4a8718e954eb473907b1fdcda6434a7a8fd") -- 1939- - Depot 4306712
+setManifestid(4306712, "2213076753097465514", 1843164460)
