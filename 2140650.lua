@@ -1,6 +1,5 @@
 addappid(2140650)
 addappid(2140651,0,"0c18c740ee124a67894e324dd7cf67a1d21e654b5f4b7e5c544a93f43b3d7c53")
-setManifestid(2140651,"7472805493094440101")
 -- 2140650's Lua and Manifest Created by Hubcap Manifest
 -- Harvest Moon: The Winds of Anthos
 -- Created: September 18, 2026 at 15:14:04 EDT
