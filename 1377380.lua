@@ -2,7 +2,6 @@ addappid(1377380)
 setManifestid(228988,"6645201662696499616")
 setManifestid(228990,"1829726630299308803")
 addappid(1377381,0,"6addb8dd08b6d64b9aa384474d0208f9121b2d32289af430eb93a7c200fac05c")
-setManifestid(1377381,"1034033449627907228")
 -- 1377380's Lua and Manifest Created by Hubcap Manifest
 -- Night of the Dead
 -- Created: September 18, 2026 at 19:19:52 EDT
