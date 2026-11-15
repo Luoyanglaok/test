@@ -1,6 +1,5 @@
 addappid(1795770)
 addappid(1795771,0,"1373a36b4bb7242de322b0a18e31b5082309207a28934d877b8f7f59dcfc8234")
-setManifestid(1795771,"6778579918668674619")
 -- 1795770's Lua and Manifest Created by Hubcap Manifest
 -- Pretty Girls Rivers (Shisen-Sho)
 -- Created: September 19, 2026 at 08:24:04 EDT
