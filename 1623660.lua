@@ -2,7 +2,6 @@ addappid(1623660)
 setManifestid(228988,"6645201662696499616")
 setManifestid(228990,"1829726630299308803")
 addappid(1623661,0,"1041c3b158f316ee0590805796ae98ddb308f7468e1ce6de0ed1df161c879141")
-setManifestid(1623661,"8374630436524835686")
 -- 1623660's Lua and Manifest Created by Hubcap Manifest
 -- MIR4
 -- Created: November 11, 2026 at 06:11:22 EST
