@@ -3,7 +3,6 @@
 --Gamename The Legend of Heroes: Trails to Azure
 addappid(1668520) --Mainappid The Legend of Heroes: Trails to Azure
 addappid(1668521, 1, "7ff8469ddb0a97bf177dca7527ef140b913e1760b8b518d5c33d2c4ff6d83991") --Main Windows Depot The Legend of Heroes: Trails to Azure
-setManifestid(1668521, "5304827234162091462", 5781092320)
 --Dlcname The Legend of Heroes: Trails to Azure - Azure Archives Art Book
 addappid(2318450, 1, "65baad6b6ab19166844a787c56547647791c3995b429de289bc040011930b501") --Dlcname The Legend of Heroes: Trails to Azure - Azure Archives Art Book
 setManifestid(2318450, "2839230936373364187", 47144464)
