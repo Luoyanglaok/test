@@ -1,6 +1,5 @@
 addappid(1590760)
 addappid(1590761,0,"582787963ed712941b80876d6bf558142ecd14682722438b0b64d3bfe68be66d")
-setManifestid(1590761,"3289353508982195138")
 -- 1590760's Lua and Manifest Created by Hubcap Manifest
 -- Metal Slug Tactics
 -- Created: September 18, 2026 at 18:16:31 EDT
