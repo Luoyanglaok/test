@@ -7,3 +7,22 @@ addappid(345351,0,"14849fffc81ea2d3839584d6689572ae90ab5650af482c7a28dad7faccde6
 setManifestid(345351,"5447495725645347770")
 addappid(345352,0,"4fbdec13288eafd5f6f3eac4a1969f985c702b6042345c408b0c9e65f65d9603")
 setManifestid(345352,"1963913736343334081")
+-- 345350's Lua and Manifest Created by Hubcap Manifest
+-- LIGHTNING RETURNS: FINAL FANTASY XIII
+-- Created: September 18, 2026 at 17:19:22 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 6942799 (public branch)
+-- Build Date: June 28, 2021 at 01:58:27 EDT (1624859907)
+-- Total Depots: 6
+-- Total DLCs: 0
+-- Shared Depots: 4
+-- MAIN APPLICATION
+addappid(345350, 1, "18966e94153f21646e8e98cb3829ca2965b105f4658c2c0b56a8d22830368628") -- LIGHTNING RETURNS: FINAL FANTASY XIII
+-- MAIN APP DEPOTS
+addappid(345351, 1, "14849fffc81ea2d3839584d6689572ae90ab5650af482c7a28dad7faccde61e7") -- LIGHTNING RETURNS: FINAL FANTASY XIII Japan
+addappid(345352, 1, "4fbdec13288eafd5f6f3eac4a1969f985c702b6042345c408b0c9e65f65d9603") -- LIGHTNING RETURNS: FINAL FANTASY XIII ww
+-- SHARED DEPOTS (from other apps)
+addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") -- VC 2010 Redist (Shared from App 228980)
+addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") -- VC 2012 Redist (Shared from App 228980)
+addappid(228985, 1, "21a2f639584d9bd462c5c4b3e10f881cba8a17ae674c830c4f083551cd356e9c") -- VC 2013 Redist (Shared from App 228980)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
