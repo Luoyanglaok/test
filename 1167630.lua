@@ -3,7 +3,6 @@
 --Gamename Teardown
 addappid(1167630, 1, "ab0df752844fd0c6a4d4275dc2f775619b833994f46509037bc18f01c9fe97f9") --Mainappid Teardown
 addappid(1167634, 1, "4e402173b44873473aa98965b7075111059716ebc005137bc93e3e645fe13027") --Main Windows Depot Teardown
-setManifestid(1167634, "7308486543230138149", 2799243856)
 --Dlcname Teardown: Time Campers
 addappid(2657050, 1, "74eef5a7cdbac71c450a5d63ef57f193af7d4f1fd9717a88ece34eb6d9be7c3c") --Dlcname Teardown: Time Campers
 setManifestid(2657050, "1980525409973984131", 714948848)
