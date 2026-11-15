@@ -3,7 +3,6 @@
 --Gamename Assassin's Creed Valhalla
 addappid(2208920, 1, "341fe3f4ec62cf0fff12951236111c3843329d327e446d032c371f5a9951fc5a") --Mainappid Assassin's Creed Valhalla
 addappid(2208921, 1, "730d1287dca1022d13b02c888d506c722defbd62ebb8d2e5d63b4b1225c2214a") --Main Windows Depot Assassin's Creed Valhalla
-setManifestid(2208921, "2445790618997915167", 74265411040)
 addappid(2208922, 1, "f63ecfc0cf19563c881154f4f30d417f6e06e8ba36d97ef158b3b3011b4f50a9") --Main Windows Depot Assassin's Creed Valhalla
 setManifestid(2208922, "9134213676153211952", 1703659280)
 addappid(2208923, 1, "f8db6be76c7006843019640140a96b0041a94b0822637ed0a6c4263947677a32") --Main Windows Depot Assassin's Creed Valhalla
@@ -21,16 +20,12 @@ setManifestid(2208928, "3952138475651660933", 1554269408)
 addappid(2208929, 1, "79ad447f1ccd9123e04990015c1ae80ec5b1ed29bd3b8abe427fca13d21cb3e2") --Main Windows Depot Assassin's Creed Valhalla
 setManifestid(2208929, "603665797137398867", 1757741024)
 addappid(2210143, 1, "c0c5f510b0fc245b42abe2178d14c78dcb832353ac2b26a2e6158c656ddd2471") --Main Windows Depot Assassin's Creed Valhalla
-setManifestid(2210143, "2642565480194191165", 11962464880)
 addappid(2210144, 1, "5b4d7f7cf88e57952d1fd1622b39c4655b20f21d3c3f7382a6cb4bf3bfc1cead") --Main Windows Depot Assassin's Creed Valhalla
-setManifestid(2210144, "1830309223910627976", 10218252096)
 addappid(2210145, 1, "7a47174cc2e1deac0c6e920f778139b00568388bacd9fcd70802fedb611fa355") --Main Windows Depot Assassin's Creed Valhalla
-setManifestid(2210145, "8504924204849894571", 15028217536)
 --Share Depots
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228988, "6645201662696499616", 22411856)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") --Share Windows Depot Ubisoft Connect PC Client
-setManifestid(1716751, "9195087212945014229", 262797760)
 addappid(2210140) --Dlcname Assassins Creed Valhalla - Dawn of Ragnarök
 addappid(2210141) --Dlcname Assassins Creed Valhalla - The Siege of Paris
 addappid(2210142) --Dlcname Assassins Creed Valhalla - Wrath of the Druids
