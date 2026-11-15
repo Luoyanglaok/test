@@ -1,5 +1,4 @@
 addappid(1329410)
-setManifestid(1329411,"7991417755339690311")
 
 -- 1329410's Lua and Manifest Created by Hubcap Manifest
 -- 雀魂麻将(MahjongSoul)
