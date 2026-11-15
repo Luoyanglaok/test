@@ -3,11 +3,8 @@
 --Gamename Nordic Ashes: Survivors of Ragnarok
 addappid(2068280, 1, "88bfba35f5dd0f0680c5db767218aeaa00cd91e6621151e04758d25c1fa4240d") --Mainappid Nordic Ashes: Survivors of Ragnarok
 addappid(2068281, 1, "ee7ffd7c9029c2c860eab9bb927eba2a68583d2327418c1fa50e13a0aa0e3534") --Main Windows Depot Nordic Ashes: Survivors of Ragnarok
-setManifestid(2068281, "8187756905109395127", 675568272)
 addappid(2068282, 1, "01210614ee8eafe7be521b727beab3aefa41b46c6a42ba8299ee4478f6c890df") --Main Macos Depot Nordic Ashes: Survivors of Ragnarok
-setManifestid(2068282, "5250641419831144294", 703483360)
 addappid(2068283, 1, "df31c8266051f43e78990b5d97bd3b9eb293126391b671e1b14a051d460bf91b") --Main Linux Depot Nordic Ashes: Survivors of Ragnarok
-setManifestid(2068283, "4860819743264869141", 679699856)
 --Dlcname Nordic Ashes Digital Artbook
 addappid(2952100, 1, "288f3607fd60a1291dc7c8ac494a41f2f85aa8c9ca7cffc02e25fcbe4489ecf5") --Dlcname Nordic Ashes Digital Artbook
 setManifestid(2952100, "515509976132042656", 143665312)
