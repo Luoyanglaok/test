@@ -1,6 +1,5 @@
 addappid(2178930)
 addappid(2178931,0,"cb80e163ec34f6ba2692ac9c6e8cb13eb7c033df7e198eb1d4132066a11c28f4")
-setManifestid(2178931,"2677615518313079603")
 -- 2178930's Lua and Manifest Created by Hubcap Manifest
 -- Sexbot
 -- Created: September 18, 2026 at 22:39:40 EDT
