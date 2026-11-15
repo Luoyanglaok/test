@@ -3,7 +3,6 @@
 --Gamename 下一站江湖Ⅱ
 addappid(1606180, 1, "8ac605401cca020b8849769c24cbdab583d22e6aea9f5a5394d3df1334cd2582") --Mainappid 下一站江湖Ⅱ
 addappid(1606181, 1, "78085baa1a1489cac9f2593fc792421a3c773edf3317721f5b02ccb7b9c07898") --Main Windows Depot 下一站江湖Ⅱ
-setManifestid(1606181, "5753319134771590542", 15029568320)
 --Dlcname 下一站江湖Ⅱ-纯外观DLC《江湖如梦》
 addappid(2905470, 1, "5e0e8e4e9b25bd36951858ffd7fe45086c92ca50d89481201f01b39e18aff304") --Dlcname 下一站江湖Ⅱ-纯外观DLC《江湖如梦》
 setManifestid(2905470, "2357287501546393262", 190107376)
