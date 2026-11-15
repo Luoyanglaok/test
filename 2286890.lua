@@ -3,7 +3,6 @@
 --Gamename 面仙
 addappid(2286890) --Mainappid 面仙
 addappid(2286891, 1, "f0afd99da6abae9260ac037559fd2122f56501ec7138848acbe86c083c6ffd20") --Main Windows Depot 面仙
-setManifestid(2286891, "1942931733830461423", 7995908144)
 -- 2286890's Lua and Manifest Created by Hubcap Manifest
 -- 面仙
 -- Created: October 31, 2026 at 06:04:56 EDT
