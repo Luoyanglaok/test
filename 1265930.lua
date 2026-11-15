@@ -2,7 +2,6 @@ addappid(1265930)
 setManifestid(228988,"6645201662696499616")
 setManifestid(228990,"1829726630299308803")
 addappid(1265931,0,"f03554a039cea967647878f3e6215ee9fe74c906f4a8d5d088201c36534cb435")
-setManifestid(1265931,"8536498938836101723")
 -- 1265930's Lua and Manifest Created by Hubcap Manifest
 -- Life is Strange: Before the Storm Remastered
 -- Created: September 18, 2026 at 17:17:35 EDT
