@@ -43,3 +43,58 @@ setManifestid(228988, "6645201662696499616", 22411856)
 addappid(3811120) --Dlcname The Red Alchemist & the White Guardian - Atelier Season Pass
 --Missing Dlcs
 --Dlcname The Red Alchemist & the White Guardian - "Midnight Costume Set" Early Distribution Costumes for Rias and Slade
+-- 3259600's Lua and Manifest Created by Hubcap Manifest
+-- Atelier Resleriana: The Red Alchemist & the White Guardian
+-- Created: September 19, 2026 at 17:37:08 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 21744965 (public branch)
+-- Build Date: February 02, 2026 at 04:11:51 EST (1770023511)
+-- Total Depots: 13
+-- Total DLCs: 12 (1 excluded)
+-- Shared Depots: 1
+-- MAIN APPLICATION
+addappid(3259600, 1, "92e3e515fd9ae8a580abf4baf829f13aebcd1ae2e47dd8b08476f30c8b5c1537") -- Atelier Resleriana: The Red Alchemist & the White Guardian
+-- MAIN APP DEPOTS
+addappid(3259601, 1, "ae634a9eec6e2ae45901364376e5c088e269ae26071c8b7741b4a9b681bdf85c") -- Depot 3259601
+-- SHARED DEPOTS (from other apps)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+-- DLCS WITH DEDICATED DEPOTS
+-- The Red Alchemist  the White Guardian - Digital Deluxe Pack (AppID: 3811090)
+addappid(3811090) --Dlcname The Red Alchemist  the White Guardian - Digital Deluxe Pack
+addappid(3811090, 1, "c6402a39e57409af780a6941b3eb551458899ac990877fc4eae4085a0e6cd963") -- The Red Alchemist  the White Guardian - Digital Deluxe Pack - Depot 3811090
+-- The Red Alchemist  the White Guardian - Rough Time Costume Set for Rias and Slade (AppID: 3811100)
+addappid(3811100) --Dlcname The Red Alchemist  the White Guardian - Rough Time Costume Set for Rias and Slade
+addappid(3811100, 1, "4c981d6c3b8f831fbb44d55631fb10454974be174034b5ca814d4eea4d3d4141") -- The Red Alchemist  the White Guardian - Rough Time Costume Set for Rias and Slade - Depot 3811100
+-- The Red Alchemist  the White Guardian - Activewear Adventuring Set (AppID: 3811110)
+addappid(3811110) --Dlcname The Red Alchemist  the White Guardian - Activewear Adventuring Set
+addappid(3811110, 1, "fdb0f863798896be92f76b7738c9a5e7a6c9b6616d4afd4e28216cbae0aa631f") -- The Red Alchemist  the White Guardian - Activewear Adventuring Set - Depot 3811110
+-- The Red Alchemist  the White Guardian - Alchemist of Memories Costumes for Rias and Slade (AppID: 3811130)
+addappid(3811130) --Dlcname The Red Alchemist  the White Guardian - Alchemist of Memories Costumes for Rias and Slade
+addappid(3811130, 1, "3b21d7253db784922ca1da073dc42392f86a5587d1df1ed179a785d0a566e4bd") -- The Red Alchemist  the White Guardian - Alchemist of Memories Costumes for Rias and Slade - Depot 3811130
+-- The Red Alchemist  the White Guardian - Additional Characters - Resna and Valeria (AppID: 3811140)
+addappid(3811140) --Dlcname The Red Alchemist  the White Guardian - Additional Characters - Resna and Valeria
+addappid(3811140, 1, "a58f936ebf74e67c496ff9a3d0b66f546b135f0c14a6b707e810826aca58e4de") -- The Red Alchemist  the White Guardian - Additional Characters - Resna and Valeria - Depot 3811140
+-- The Red Alchemist  the White Guardian - Beginning of Summer Days Costume Set (AppID: 3811150)
+addappid(3811150) --Dlcname The Red Alchemist  the White Guardian - Beginning of Summer Days Costume Set
+addappid(3811150, 1, "e9bed5ce6ec95fe658b145fca48a06912af4d94bfc6c38af456d842ab497e8b4") -- The Red Alchemist  the White Guardian - Beginning of Summer Days Costume Set - Depot 3811150
+-- The Red Alchemist  the White Guardian - Recipe Expansion Pack The Essence of Alchemy (AppID: 3811160)
+addappid(3811160) --Dlcname The Red Alchemist  the White Guardian - Recipe Expansion Pack The Essence of Alchemy
+addappid(3811160, 1, "5a4540e097afc45fa0a973d70efa330c2a77e91a2e8612b5b60ed9c64284c031") -- The Red Alchemist  the White Guardian - Recipe Expansion Pack The Essence of Alchemy - Depot 3811160
+-- The Red Alchemist  the White Guardian - High-Difficulty Dungeon Backwards-Ticking Clock Workshop (AppID: 3811170)
+addappid(3811170) --Dlcname The Red Alchemist  the White Guardian - High-Difficulty Dungeon Backwards-Ticking Clock Workshop
+addappid(3811170, 1, "33fe56839b85f465bdb43ff3c1d53a1c70c0c9cfec36ac1e2e10900d3cac4964") -- The Red Alchemist  the White Guardian - High-Difficulty Dungeon Backwards-Ticking Clock Workshop - Depot 3811170
+-- The Red Alchemist  the White Guardian - Gust Extra BGM Pack (AppID: 3811180)
+addappid(3811180) --Dlcname The Red Alchemist  the White Guardian - Gust Extra BGM Pack
+addappid(3811180, 1, "1b0ebc42b6b1c083f7dc0eaa131088d447042cd8e0d680f449dd3a8e00e79ac0") -- The Red Alchemist  the White Guardian - Gust Extra BGM Pack - Depot 3811180
+-- The Red Alchemist  the White Guardian - Atelier Series Legacy BGM Pack (AppID: 3811190)
+addappid(3811190) --Dlcname The Red Alchemist  the White Guardian - Atelier Series Legacy BGM Pack
+addappid(3811190, 1, "3418124474c4fe5bce32cb7cf2b4ca3f0698edaf99193c2e2cf2c72971009845") -- The Red Alchemist  the White Guardian - Atelier Series Legacy BGM Pack - Depot 3811190
+-- The Red Alchemist  the White Guardian - Atelier Resleriana Special Music Pack (AppID: 3811200)
+addappid(3811200) --Dlcname The Red Alchemist  the White Guardian - Atelier Resleriana Special Music Pack
+addappid(3811200, 1, "53d15104d853e8522237c04e3f7b4abedf19103b727dd89001134724511fb2e1") -- The Red Alchemist  the White Guardian - Atelier Resleriana Special Music Pack - Depot 3811200
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(3811120) --Dlcname The Red Alchemist  the White Guardian - Atelier Season Pass --NoDepot
+-- EXCLUDED DLCS:
+-- DLCS EXCLUDED (MISSING DEPOT KEYS)
+-- The Red Alchemist  the White Guardian - Midnight Costume Set Early Distribution Costumes for Rias and Slade (AppID: 3811080) - missing depot keys
+-- addappid(3811080)
