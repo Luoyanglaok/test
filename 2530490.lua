@@ -1,6 +1,5 @@
 addappid(2530490)
 addappid(2530491,0,"7edbb8d7ab46a4c9dd432e79bd83ff5fa540cd15144a384e599065a20590d31d")
-setManifestid(2530491,"147637878496238783")
 -- 2530490's Lua and Manifest Created by Hubcap Manifest
 -- Lost Eidolons: Veil of the Witch
 -- Created: September 18, 2026 at 17:31:47 EDT
