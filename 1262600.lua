@@ -26,7 +26,6 @@ setManifestid(1282192,"4768016057589550447")
 addappid(1282193,0,"9d2162574361aa8a1c5bf66ff4e8754755cd78924666f3495fc800721c7c98c9")
 setManifestid(1282193,"8246709154605044882")
 addappid(3340991,0,"023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491")
-setManifestid(3340991,"1318423300601359782")
 -- 1262600's Lua and Manifest Created by Hubcap Manifest
 -- Need for Speed™ Rivals
 -- Created: November 04, 2026 at 23:51:14 EST
