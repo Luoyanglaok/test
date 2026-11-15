@@ -1,6 +1,5 @@
 addappid(1612780)
 addappid(1612781,0,"ee08e32e050de9d437206154ab7d76fa10be7728e765abd345d8a35a2e79040c")
-setManifestid(1612781,"2114499633121670995")
 -- 1612780's Lua and Manifest Created by Hubcap Manifest
 -- The Centennial Case: A Shijima Story
 -- Created: September 19, 2026 at 00:54:46 EDT
