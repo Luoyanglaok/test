@@ -1,6 +1,5 @@
 addappid(2078910)
 addappid(2078911,0,"ca47cfa859a0729e7198bde0c958be7956f9bb89d2af8a066acb02d20e70ba0a")
-setManifestid(2078911,"7742024639507911394")
 -- 2078910's Lua and Manifest Created by Hubcap Manifest
 -- 汉尘：腐草为萤
 -- Created: November 11, 2026 at 07:05:08 EST
