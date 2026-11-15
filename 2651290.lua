@@ -1,6 +1,5 @@
 addappid(2651290)
 addappid(2651292,0,"695bc3fdfafcddb5bd381f74f0f5df25e7834bf690e4d325face89a635a706d5")
-setManifestid(2651292,"2393496181461999492")
 -- 2651290's Lua and Manifest Created by Hubcap Manifest
 -- Urban Legend Hunters 2: Double
 -- Created: September 19, 2026 at 02:59:01 EDT
