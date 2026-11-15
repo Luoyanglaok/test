@@ -2,7 +2,6 @@ addappid(1777620)
 setManifestid(228988,"6645201662696499616")
 setManifestid(228990,"1829726630299308803")
 addappid(1777621,0,"d5aef697152a0dbff354e6b2a075efd389cec458dd76e8aa2e6f6495ac4285f6")
-setManifestid(1777621,"8870412920937373799")
 -- 1777620's Lua and Manifest Created by Hubcap Manifest
 -- Soul Hackers 2
 -- Created: September 18, 2026 at 23:24:55 EDT
