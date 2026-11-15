@@ -1,6 +1,5 @@
 addappid(1430760)
 addappid(1430761,0,"63fed22ae0423ecd4bfea90e201fc98d953636578f824bbb610442283ad1b8cd")
-setManifestid(1430761,"1191817954613823122")
 -- 1430760's Lua and Manifest Created by Hubcap Manifest
 -- Aquarist
 -- Created: October 03, 2026 at 20:25:36 EDT
