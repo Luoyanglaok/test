@@ -1,0 +1,22 @@
+-- 3192240's Lua and Manifest Created by Hubcap Manifest
+-- Island NTR Survival SS
+-- Created: October 01, 2026 at 17:01:42 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 25647154 (public branch)
+-- Build Date: October 01, 2026 at 03:47:20 EDT (1790840840)
+-- Total Depots: 5
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(3192240) -- Island NTR Survival SS
+-- MAIN APP DEPOTS
+addappid(3192241, 1, "d403b9f0047a7d5b47dbcdd15509f4062e82a85eabd673ef3984158cb63eb285") -- Depot 3192241
+setManifestid(3192241, "8918532149409015325", 1287477980)
+addappid(3192242, 1, "21d31aab570a4a97ac29593ee2a16210d2c0c7aa2bd984084852d69d6943e417") -- Depot 3192242
+setManifestid(3192242, "6436221484122834850", 1305422568)
+addappid(3192243, 1, "c2b2bd9036328038a8118f77387723a1423762c2404989808fded35f84dc5809") -- Depot 3192243
+setManifestid(3192243, "5012119112942315800", 1299904617)
+addappid(3192244, 1, "0dbdc19d77af5dba1ebe61bb965024057346214ebe6f276bed7bcff87670042f") -- Depot 3192244
+setManifestid(3192244, "5003868035151271453", 1287566205)
+addappid(3192245, 1, "63057e403458b4609627c023066e2b92009282e15d0108715bb4c235091643b8") -- Depot 3192245
+setManifestid(3192245, "3659833390575057353", 1297362591)
