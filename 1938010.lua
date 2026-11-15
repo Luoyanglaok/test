@@ -27,7 +27,6 @@ setManifestid(1938023,"2817903967110408702")
 addappid(1938024,0,"ef14c284b41cff0b7af9dbc711044a82cabba512bd399d6a16d913d9bd48703e")
 setManifestid(1938024,"4592752040724132724")
 addappid(3340992,0,"7112f072ac3a0100e541bc9b1556d3dd0697e7641094f3389e811ceb50efaf3e")
-setManifestid(3340992,"2787832777200282612")
 -- 1938010's Lua and Manifest Created by Hubcap Manifest
 -- WILD HEARTS™
 -- Created: November 05, 2026 at 13:23:16 EST
