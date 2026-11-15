@@ -1,7 +1,6 @@
 addappid(1665130)
 setManifestid(228988,"6645201662696499616")
 addappid(1665131,0,"fe1b574cd3fd2a82bd0a0d56a7dbd0abfcad414b522a1f437ea24b69c1a2a21b")
-setManifestid(1665131,"3340706108057609536")
 -- 1665130's Lua and Manifest Created by Hubcap Manifest
 -- PAC-MAN MUSEUM+
 -- Created: September 18, 2026 at 20:00:37 EDT
