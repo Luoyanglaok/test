@@ -1,7 +1,5 @@
 addappid(2484110)
-setManifestid(228989,"3514306556860204959")
 addappid(2484111,0,"b3a968d9a6cc78c6beb8210974b098248155fb4c1381c8ee468f6dc99d7f0a9d")
-setManifestid(2484111,"5385722665125488566")
 -- 2484110's Lua and Manifest Created by Hubcap Manifest
 -- FINAL FANTASY VII EVER CRISIS
 -- Created: October 05, 2026 at 10:59:12 EDT
