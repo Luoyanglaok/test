@@ -1,7 +1,6 @@
 addappid(1883260)
 setManifestid(228988,"6645201662696499616")
 addappid(1883261,0,"64e96126cefb28a7ab462c8a1c6c894597f99b34dbaa22ef8cf444f0a2d43c8c")
-setManifestid(1883261,"3017281877717818479")
 -- 1883260's Lua and Manifest Created by Hubcap Manifest
 -- Little Noah: Scion of Paradise
 -- Created: September 18, 2026 at 17:23:43 EDT
