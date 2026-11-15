@@ -4,7 +4,6 @@
 addappid(1858630, 1, "9b32f746e41b3fa7b3c3260806e4bead05621161eaf4b77f61eb08ee29723329") --Mainappid SWORD ART ONLINE Fractured Daydream
 addtoken(1858630, "14829250357920636736")
 addappid(1858631, 1, "21adba4e332aa48b0f8834b0896bc582f7132947f62dd148cd8d5a3f1df6cfee") --Main Windows Depot SWORD ART ONLINE Fractured Daydream
-setManifestid(1858631, "5577948923501207356", 54590192928)
 --Dlcname SWORD ART ONLINE Fractured Daydream - Digital Artbook & Soundtrack
 addappid(2387391, 1, "0b159382f281cad0e7b1c810c1dce8d0c7265e096706792f5e90920a8c92bfe1") --Dlcname SWORD ART ONLINE Fractured Daydream - Digital Artbook & Soundtrack
 setManifestid(2387391, "4660245419420526948", 641817232)
