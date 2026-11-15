@@ -1,9 +1,7 @@
 addappid(2455640)
 setManifestid(228988,"6645201662696499616")
-setManifestid(228989,"3514306556860204959")
 setManifestid(228990,"1829726630299308803")
 addappid(2455641,0,"e203486d7b9a34f0df0728458d20a368e5abc9a4a9bcfcf7d3987af942a8be9c")
-setManifestid(2455641,"3682751951894722619")
 -- 2455640's Lua and Manifest Created by Hubcap Manifest
 -- Romancing SaGa 2: Revenge of the Seven
 -- Created: September 18, 2026 at 21:53:48 EDT
