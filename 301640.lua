@@ -39,3 +39,37 @@ addappid(350358,0,"aa570cf6abc73181de72aac059d7aa5028005277eb8d157a67bde6e5534b2
 setManifestid(350358,"8869681891059620166")
 addappid(350359,0,"40ed63e2bf3f79c424f805a0ce4e7e8e9681f687227de564fe5f024d28494517")
 setManifestid(350359,"4798984787030030407")
+-- 301640's Lua and Manifest Created by Hubcap Manifest
+-- Zombie Army Trilogy
+-- Created: September 19, 2026 at 04:23:02 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 740960 (public branch)
+-- Build Date: August 20, 2015 at 00:27:03 EDT (1440044823)
+-- Total Depots: 21
+-- Total DLCs: 0
+-- Shared Depots: 2
+-- MAIN APPLICATION
+addappid(301640, 1, "5dd9c616750040d0c2692ecef4cb600233359c40d731c01512b3509d32fb0b61") -- Zombie Army Trilogy
+-- MAIN APP DEPOTS
+addappid(301641, 1, "550204c5e1c64a694d1452d5290bdc5aa4fd6f553204efbfc2daa43063b1927e") -- Zombie Army Trilogy Exe
+addappid(301642, 1, "fc92c06a03000c5b9e43cabcd680f0bb7d31cc47b53c5bcace13ed471bdfc349") -- Zombie Army Trilogy Shared
+addappid(301643, 1, "9121a06f2dbb3e4ba8acb556357cc26ac8361526a4430f8f8f8c410cd0816c4e") -- Zombie Army Trilogy English
+addappid(301644, 1, "0b6cff7dc2454494d8194f1748e5e0aa69f11e4793ee4fbf6a5f36a2f825631e") -- Zombie Army Trilogy French
+addappid(301645, 1, "117a6f3bf468c644662086b03be84c1d261d05627eaafa077776cf3d5a507708") -- Zombie Army Trilogy German
+addappid(301646, 1, "4fac840cb7f9f94e866839c5038822ebc97a25603a228af4791cbdae65cee82f") -- Zombie Army Trilogy Italian
+addappid(301647, 1, "b40feb34bb9dc2734621107d878010bded38a948830fc669aabe95dd10bb9602") -- Zombie Army Trilogy Spanish
+addappid(301648, 1, "eb307050659919f5d6f06e6d43d6f830ed7d577a83629f647dc7fb63b388553d") -- Zombie Army Trilogy Polish
+addappid(301649, 1, "b5966c5b79722af27f1203fc33bad122858c372828bbf51c51f8f0380d8193d8") -- Zombie Army Trilogy Russian
+addappid(350350, 1, "d29150a79821258cf0d58fe4243767bf6f9309d3ac8482e11b5a149f5789a5ee") -- Zombie Army Trilogy Brazilian Portuguese
+addappid(350351, 1, "3ff3e69e43200c80a698bc4022eee75a387716ea516186c3e9efa8daf5ba47aa") -- Zombie Army Trilogy Simplified Chinese
+addappid(350352, 1, "baac96e5a543a966de1ab8913b10f86570bf142bd381716927a6eae4c935ba96") -- Zombie Army Trilogy Japanese
+addappid(350353, 1, "2f1b2877dd5c38ed8f807f51d764805d524f0a5a5c13074b90ab21898acf2777") -- Zombie Army Trilogy Korean
+addappid(350354, 1, "68518fe71ab809807043315532f7eaf2df615af49792679c648658f4a5647d21") -- Zombie Army Trilogy Base
+addappid(350355, 1, "e54bfdcf4cb3934afd8864bd2a5927b231683c79a312432d1e8b011a3a794a32") -- Zombie Army Trilogy Levels
+addappid(350356, 1, "089fb68dad0484b31152e79d45aa50d958783cdb9efb2f0e4476acc8cddc25ac") -- Zombie Army Trilogy Textures
+addappid(350357, 1, "9fcc72da0a1e0bff6c4bd382d6fe91b2fefbb91feb2f92d2c46312d101867333") -- Zombie Army Trilogy Base (Germany)
+addappid(350358, 1, "aa570cf6abc73181de72aac059d7aa5028005277eb8d157a67bde6e5534b2100") -- Zombie Army Trilogy Levels (Germany)
+addappid(350359, 1, "40ed63e2bf3f79c424f805a0ce4e7e8e9681f687227de564fe5f024d28494517") -- Zombie Army Trilogy Textures (Germany)
+-- SHARED DEPOTS (from other apps)
+addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") -- VC 2010 Redist (Shared from App 228980)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
