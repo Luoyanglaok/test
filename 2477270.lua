@@ -1,5 +1,4 @@
 addappid(2477270)
-setManifestid(2477271,"1418832092790912035")
 
 -- 2477270's Lua and Manifest Created by Hubcap Manifest
 -- Lust's Cupid
