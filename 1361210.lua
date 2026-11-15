@@ -3,11 +3,8 @@
 --Gamename Warhammer 40,000: Darktide
 addappid(1361210, 1, "d8f8f9d34cd33dc89c6b15b6f066ddae9fb4c640efe172c2320ddb86764c0a1a") --Mainappid Warhammer 40,000: Darktide
 addappid(1361211, 1, "91a13a5dcfb61da0b70e706684905b0c2aa90d8287d89e17507c0b94bc0f6e62") --Main Windows Depot Warhammer 40,000: Darktide
-setManifestid(1361211, "8996611047797368886", 86232382784)
 addappid(1361212, 1, "4d49f54fcf910bba344e8488b85616043a21cf7d6d486b8ad37085ffc6bf9401") --Main Windows Depot Warhammer 40,000: Darktide
-setManifestid(1361212, "5990150591810997331", 243600832)
 addappid(1361213, 1, "5b665c11f3ab71ed186993ab184691c52af53a8d86ffd0c2fd8fbc8ec33b757d") --Main Windows Depot Warhammer 40,000: Darktide
-setManifestid(1361213, "9209862899812953262", 131664144)
 --Share Depots
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228983, "8124929965194586177", 19214528)
