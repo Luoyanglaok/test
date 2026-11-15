@@ -1,6 +1,5 @@
 addappid(2711030)
 addappid(2711031,0,"0f306d09a4ddc220d66412aeecb4ae31445760a1dd1f8132a821f67a5dda744f")
-setManifestid(2711031,"7358511199395526561")
 -- 2711030's Lua and Manifest Created by Hubcap Manifest
 -- Sugardew Island - Your cozy farm shop
 -- Created: October 27, 2026 at 05:59:59 EDT
