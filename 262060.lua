@@ -3,17 +3,11 @@
 --Gamename Darkest Dungeon®
 addappid(262060, 1, "74a1007ed0ae35bd91851091c3748151ab4bf964a3786929e9c9cbce2b9a72af") --Mainappid Darkest Dungeon®
 addappid(262061, 1, "80ffcb74d1590f74ea3d6bf442f54d2a0d21327bae63d6e0cfdad768c7c7b7c2") --Main Windows Depot Darkest Dungeon®
-setManifestid(262061, "1244433749584235551", 1540397904)
 addappid(262062, 1, "c573ff0fbec6f00c8ff86aafc2085945c6a0b934b6396b0c135574e1326f7470") --Main Windows Depot Darkest Dungeon®
-setManifestid(262062, "1206048241558749867", 41509888)
 addappid(262063, 1, "29e00db53e36359014c7975e1991156a35c28410f92643c66fcab5a98239f741") --Main Macos Depot Darkest Dungeon®
-setManifestid(262063, "2219298281416020748", 21502576)
 addappid(262064, 1, "2658baced519789ef83fa5c378667f2d6fa3e62c1c1901b3bc5d357cee4ecb78") --Main Macos Depot Darkest Dungeon®
-setManifestid(262064, "4056165404409068453", 1613443456)
 addappid(262065, 1, "1ed93be3fc9b6d8911781b16ee38ea20b01a601089cc8ea554a0acb19ef80a1e") --Main Linux Depot Darkest Dungeon®
-setManifestid(262065, "340638292043141637", 48771424)
 addappid(262066, 1, "5ac9e3783153c138b4fbe2ca2fad3c3fde61883c56b8a4a6945fd186c3503e1c") --Main Linux Depot Darkest Dungeon®
-setManifestid(262066, "2696495893750052224", 1641931104)
 addappid(262067, 1, "334f6660706f46b4eae29cd2e97f40b3eca5b30925a6a8fd606259f5f42e3d3a") --Main Windows Depot Darkest Dungeon®
 setManifestid(262067, "7956625292074888999", 57689456)
 --Dlcname Darkest Dungeon®: The Musketeer
@@ -25,7 +19,6 @@ addappid(445702, 1, "06f8bafa494c20f0eaa74cfc34a237f907789911f7226d207b719ad1281
 setManifestid(445702, "303813516494152901", 13538784)
 --Dlcname Darkest Dungeon®: The Crimson Court
 addappid(580100, 1, "326ca1f3e2c2a5b128d19b9ea4cb0eeb4dd71767ba4649beb35b4964a2f3036d") --Dlcname Darkest Dungeon®: The Crimson Court
-setManifestid(580100, "206808106523346539", 322587248)
 addappid(580101, 1, "ee5837a6d587a663372bb57cf2ab4527e8d590470905ab6c252ab2810641e0a4") --Dlc Macos Depot Darkest Dungeon®: The Crimson Court
 setManifestid(580101, "3443802060249888977", 322587248)
 addappid(580102, 1, "1830572dced421bddf06c78c75d178d4c10185652567a7a527787c8db22fff2f") --Dlc Linux Depot Darkest Dungeon®: The Crimson Court
