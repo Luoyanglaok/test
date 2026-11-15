@@ -1,6 +1,5 @@
 addappid(1396240)
 addappid(1396241,0,"c49f850a8ed604c11ed85e7e6279f7b1ebac6f9bddc9b03b73c47431820437c9")
-setManifestid(1396241,"5537347681244164573")
 -- 1396240's Lua and Manifest Created by Hubcap Manifest
 -- Contraband Police: Prologue
 -- Created: September 18, 2026 at 10:46:51 EDT
