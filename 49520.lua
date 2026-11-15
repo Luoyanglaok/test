@@ -1,0 +1,762 @@
+-- 49520's Lua and Manifest Created by Hubcap Manifest
+-- Borderlands 2
+-- Created: September 18, 2026 at 09:34:19 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 9218157 (public branch)
+-- Build Date: July 29, 2022 at 15:35:11 EDT (1659123311)
+-- Total Depots: 307
+-- Total DLCs: 53
+
+-- MAIN APPLICATION
+addappid(49520, 1, "0330ed6fcd52923b3590f41847090ff93669f663b1bb20b6e4882a61b499413c") -- Borderlands 2
+-- MAIN APP DEPOTS
+addappid(49521, 1, "94a0fd593250a97bdd2bf1de1e28afbc41101853df57f014a6583b77870a7dd5") -- Borderlands 2 base content
+setManifestid(49521, "1814281763320166407", 4787843392)
+addappid(49522, 1, "f942e9355e66e8f8d527478d0b6fc91e4fcc4d1e0de907c45ee450c79b64abc2") -- Borderlands 2 executables
+setManifestid(49522, "2926581323978225406", 131372776)
+addappid(49524, 1, "12e5d9b423b7918a02dbe8e82f4bdf06b60e1cc9f107ab591798fd56504faf0a") -- Borderlands 2 english
+setManifestid(49524, "6578301864025148422", 520260552)
+addappid(49525, 1, "28fa90287e98e4b0122cc748473d061ff47892fc74b9d9afbe1d51b896575359") -- Borderlands 2 french
+setManifestid(49525, "6047869949040216355", 576123835)
+addappid(49526, 1, "3b2bb841d45a546c4bbcb708eb2368a11fa7464463ced46d094875557c2381ec") -- Borderlands 2 italian
+setManifestid(49526, "5607216101274819803", 594427879)
+addappid(49527, 1, "8f2c3388e7a92caf4d3bb885ae615feb913843f2d43aa95a108ca1246d7fc345") -- Borderlands 2 german
+setManifestid(49527, "1568708735971233380", 590032204)
+addappid(49528, 1, "fc6a8af12db3d5d03f12ad105c18ef2dfed598234471a0dd0d9ce8177a8a264e") -- Borderlands 2 spanish
+setManifestid(49528, "7319521826128772436", 565036765)
+addappid(49530, 1, "be0ad0f410bd2469f033f75a9b3680b671857a5f54a7e3742f28b7e3e16a62a6") -- Borderlands 2 japanese
+setManifestid(49530, "5876169102421174257", 542094123)
+addappid(49523, 1, "9af54e127abc866178a4f75b3429f6ec86505fde8679e8d92004db6d67db569b") -- Borderlands 2 Patch Data
+setManifestid(49523, "2560638791427374988", 2962519430)
+addappid(49529, 1, "b59f2d192d1870dff2ed834a90068a84a3b1147c6a8868e317f5ee3fc006be80") -- Borderlands 2 korean
+setManifestid(49529, "6236902821534131044", 531112856)
+addappid(221701, 1, "e597b4b781a65afc14c265cdfbcdbf8ea87a8d66f06a86f06984d0b2fe8e8753") -- base content OS X
+setManifestid(221701, "6422949341526953102", 7587046389)
+addappid(221702, 1, "bb7c1b90e108446dd0161725fd4cef2a0182f1428bd150bc0f038b7325cf7300") -- executables OS X
+setManifestid(221702, "4551330883967031827", 151551452)
+addappid(221703, 1, "d6a7be7b13c8ca5119d1b659142fc82a11e88a02dff0da2718c3fd994c68c063") -- english OS X
+setManifestid(221703, "9192722727207182975", 554211904)
+addappid(221704, 1, "270382976272ff2f94ed20a0e6a999a3b5dc6f38b5c172df3244e91bda604429") -- french OS X
+setManifestid(221704, "1695595474601152653", 613487316)
+addappid(221705, 1, "c1dcb4adc1f08bab6b5ac8104ded8f2c53ff641d5e3cf18084ae66a894332a37") -- italian OS X
+setManifestid(221705, "7094669290145705243", 632083315)
+addappid(221706, 1, "be634263ff9f3033b200ee688d9b649a7581861459d26312576a05ce377a657a") -- german OS X
+setManifestid(221706, "2876284076771576106", 627008726)
+addappid(221707, 1, "e64c1b6b0a4d0f51280e7e5bab6055a4ae4f659fa45d2418fb7414d5e07d8c91") -- spanish OS X
+setManifestid(221707, "1814998925382636184", 598956967)
+addappid(225835, 1, "303f87865d77becb09ce43c9d6e8d1493e4f60562ac826cafe9f758b39501c29") -- Gardenia01 - OSX
+setManifestid(225835, "112215640167174212", 155)
+addappid(224169, 1, "9ee55d274c08b135268c0cfd9cecc2e686bee5baced009ea0203fa5de1c8a53d") -- Gardenia04 - OSX
+setManifestid(224169, "455291013621413666", 107)
+addappid(224146, 1, "41fa839f4c845940cf2b5a4af1d95aacb1c852c42c0f33a3a80be05a9bc68363") -- Gardenia05 - OSX
+setManifestid(224146, "368894541134236125", 83)
+addappid(49532, 1, "55153a0e9a0d0584de21af6fa1a8e387d29fb802ab1433861966d7d72e428285") -- Borderlands 2 Traditional Chinese
+setManifestid(49532, "6420403829609078649", 529062493)
+addappid(49531, 1, "2d4913a41b86975bc4287747bf4d4554e3538c6036240450f2fc2502b5897235") -- Linux Content
+setManifestid(49531, "6481171509090769449", 6401199965)
+addappid(49533, 1, "04a014ca68ed085aa7e73773ea5dd266fb135ff3e9df51cd6a97520a1601aaf8") -- Linux Executable
+setManifestid(49533, "6500387858843925764", 45990045)
+addappid(49534, 1, "29cd9c5f3ba27dfac965a71b4d97dedc32fd5761919ae9b75ed787566cb7b241") -- Linux English
+setManifestid(49534, "3078093375635681567", 553810358)
+addappid(49535, 1, "57cdf600965a34270ad8aa4215a72167e67372bfc0f231444968e6597d64f2d2") -- Linux French
+setManifestid(49535, "2016241171784373166", 612313048)
+addappid(49536, 1, "f194a5cae652109cd04d77fc9d832be9c3f01ffcf5918c8d4394383d33580ec2") -- Linux Italian
+setManifestid(49536, "4516434111460867953", 630937945)
+addappid(49537, 1, "ed8991c0cd3dd9a3ca02feeb52ce257f92be83704a955e1daaccec9abde407ec") -- Linux German
+setManifestid(49537, "1367427302476376168", 625840892)
+addappid(49538, 1, "684c07a7232787c9671befbcbdaee39f43699987679e54d73d5a64b1bc2d1cb0") -- Linux Spanish
+setManifestid(49538, "1485663203626297060", 597811473)
+addappid(207869, 1, "d9696d19e181fea02e0065f5aa4cd726dfa9e609525793880ff4a1e41c9ad4bb") -- Linux Collectors Edition
+setManifestid(207869, "377829080894435847", 51)
+addappid(207886, 1, "7e751da5c9590ddb7cd6c3cd25bcffef0ca5765669851fe4c0b180dc298fb8dd") -- Linux Gardenia05
+setManifestid(207886, "7592481094888766510", 83)
+addappid(207887, 1, "6b46262db3891ed8404aa5988ade556d7db8b3f0241e9fc953082b59d74e6e1b") -- Linux Gardenia04
+setManifestid(207887, "8651204426718490114", 107)
+addappid(208697, 1, "fcf9bb1908cc7c490c6849b049fc8282b496276e388cd5f846e996ccd6a92a98") -- Linux Gardenia01
+setManifestid(208697, "4406472801658604309", 155)
+addappid(224178, 1, "79541dbf2298cbd4e6c81d9594f1c2c49ec619c5171ef02aea31ec35aea29024") -- OSX Korean
+setManifestid(224178, "2439148584749385924", 558742662)
+addappid(224179, 1, "3a621d44c39ff617939f38763ccb7363b726445e5e2c08b9441dfe015b98c3aa") -- OSX Traditional Chinese
+setManifestid(224179, "3534881424996809594", 556655058)
+-- DLCS WITH DEDICATED DEPOTS
+-- Borderlands 2 Captain Scarlett and her Pirates Booty (AppID: 207870)
+addappid(207870) --Dlcname Borderlands 2 Captain Scarlett and her Pirates Booty
+addappid(207871, 1, "dac47b2e1e77c28f76ae6a9fffc17a69b15abd92249eb2ff23564ad398d3087e") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Borderlands 2 Orchid Content
+setManifestid(207871, "4720087696379918851", 407842075)
+addappid(207872, 1, "89ad78dd30f34a21cd4a78410076354752ff457578a7263ea26936085f052948") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Borderlands 2 Orchid English Audio
+setManifestid(207872, "8504175511764325878", 162692051)
+addappid(207873, 1, "10defbdef3d191ad25ecc0c8bb1d1967e68f9fca5d5a657f2a1113b64d304267") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Borderlands 2 Orchid French Audio
+setManifestid(207873, "1552457503116849544", 174791774)
+addappid(207874, 1, "80b34e74360cf5a2330ddc5373923f707e714c8dd6cf4a9ce0aaa98c7ff92346") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Borderlands 2 Orchid German Audio
+setManifestid(207874, "2724033832835394869", 181101905)
+addappid(207875, 1, "9879b72fa48fb3daf67b6b569bb673ab884abab2f14af5a25d8b9887b5b9017a") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Borderlands 2 Orchid Italian Audio
+setManifestid(207875, "873991231805407560", 176865040)
+addappid(207876, 1, "b6cd10f747342f170b993a53eadcacf11a13720d6029dd4092f08c14fecfceb2") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Borderlands 2 Orchid Japanese Audio
+setManifestid(207876, "8058584111371118371", 167726079)
+addappid(207877, 1, "6c6c560c95ca1be0a05145ca4500aa0ec9fde68ec89c1873d60bdcf4d8e52659") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Borderlands 2 Orchid Spanish Audio
+setManifestid(207877, "2838040280722710942", 172242104)
+addappid(207884, 1, "d0aee7b7004b0c1f2536769e08f65a23b9a1a9c5e14c7dd231321adfa885c9e7") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Borderlands 2 Orchid Korean content
+setManifestid(207884, "436607148179160578", 162692051)
+addappid(207878, 1, "bc31001b29856da0ef7808ac73d676cae4b7aef12b07baac7c61a2e7d89a8ed9") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Orchid Content OSX
+setManifestid(207878, "5592250528431827909", 570534111)
+addappid(207879, 1, "dfb89f894f330e6947ef2c69ae6f7615260d23ffd85cc05f5d0e9b9399b5725d") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Orchid English Audio OSX
+setManifestid(207879, "442531760753517649", 162692051)
+addappid(207880, 1, "809d2f3a32a83f9a1ef032a74d8c1661027d20320d287fab60315124cae3d275") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Orchid French Audio OSX
+setManifestid(207880, "248204764880857380", 174791774)
+addappid(207881, 1, "68d3c67454f27ad3a34fabf84eb7c9a06e2777f6504eb598acab5d6d485a7e58") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Orchid German Audio OSX
+setManifestid(207881, "1150642500665127521", 181101905)
+addappid(207882, 1, "1fd8e7a8c57c00ffca6fb19193c720a6ff0de523a466e4dcf3ab05be9c542c94") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Orchid Italian Audio OSX
+setManifestid(207882, "2176156144177036615", 176865040)
+addappid(207883, 1, "6c2cf4582c4e2f704c89439bb3d340f232a05507549a8bd49686c3db1ef0105b") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Orchid Spanish Audio OSX
+setManifestid(207883, "2589936001120611297", 172242104)
+addappid(207885, 1, "5e13c14462a60d854079a062d81847f01b6240867598695fbb4d025f5939ebfa") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Orchid Traditional Chinese Audio
+setManifestid(207885, "143433637647794965", 162692051)
+addappid(49539, 1, "c60b1eceaea03db64aa4aaeb2ec5b20e90d741522c623fffec3d9309eaaa2a28") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Linux Orchid Content
+setManifestid(49539, "6944507181019005251", 407842060)
+addappid(207851, 1, "ec83b3155eb25e03f649de98a5f29950f4133f2e3444e033768055c61be7408b") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Linux Orchid English
+setManifestid(207851, "4083629802143382515", 162692051)
+addappid(207852, 1, "d9d05e6ed025eadb74015ced74cade8567d09ff0a3535daf391246b4a4a73be5") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Linux Orchid French
+setManifestid(207852, "8353326020465820185", 174791774)
+addappid(207853, 1, "cb5787f2343342cfac1942cfb27eb10fe52c938e31a3da8b12ac0b8ec0179d1a") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Linux Orchid German
+setManifestid(207853, "739680894840902256", 181101905)
+addappid(207854, 1, "2721ec4db14ccbf36f1dd74ebd8069caa41c0ee506890750d4927d2c343a012a") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Linux Orchid Italian
+setManifestid(207854, "8938346975152162580", 176865040)
+addappid(207855, 1, "65950797b649a6265cd48b48ba228b465d36e0a9d4bb4e31eb90ffc78a5fadfa") -- Borderlands 2 Captain Scarlett and her Pirates Booty - Linux Orchid Spanish
+setManifestid(207855, "4120211284148251072", 172242104)
+addappid(224147, 1, "e2bf5f04d5e59c44b9755426aaf69e0b2caa99a9dd28bb5d4a2d0b66b2004e85") -- Borderlands 2 Captain Scarlett and her Pirates Booty - OSX Orchid Japanese Audio
+setManifestid(224147, "7869392458866530363", 167726079)
+-- Borderlands 2 Creature Dome (AppID: 208691)
+addappid(208691) --Dlcname Borderlands 2 Creature Dome
+addtoken(208691, "17868823211247130669")
+addappid(208691, 1, "b51f3d8dda20fdb276329089575d19d711abbfcbe2f0ca4a1c14fb8e2a635a90") -- Borderlands 2 Creature Dome - Borderlands 2 POGamestop
+setManifestid(208691, "2939872950691657820", 51)
+-- Borderlands 2 Mr. Torgues Campaign of Carnage (AppID: 213210)
+addappid(213210) --Dlcname Borderlands 2 Mr. Torgues Campaign of Carnage
+addappid(213211, 1, "5750aaedd0d7dc8901a5e7142c46e883d5b495737f518f98ca561c4c6c871176") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Borderlands 2 Iris Content
+setManifestid(213211, "1819713119155702913", 676843021)
+addappid(213212, 1, "2cf32f4a6fa59c41f7b59b9ff547575e4b13d0a6fc3be14999d2e98a07fd8230") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Borderlands 2 Iris English Audio
+setManifestid(213212, "7153055603949124659", 213220516)
+addappid(213213, 1, "732c466e24b90e79ee757234c15afa9313900f5eccc1524cf139eaff151419a2") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Borderlands 2 Iris French Audio
+setManifestid(213213, "556100268078836059", 233202908)
+addappid(213214, 1, "8d93b17bf25cb2dac55001106d53876b8b73280e831afa5d97849cb379547829") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Borderlands 2 Iris German Audio
+setManifestid(213214, "4193236224030823934", 239778114)
+addappid(213215, 1, "cacfd23271ff78a7eecca3dde4e0acc3f69800660164ef60d11d65b987495aec") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Borderlands 2 Iris Italian Audio
+setManifestid(213215, "2523024861839919077", 237846396)
+addappid(213216, 1, "924846b22dabb9879cf8723a770960acb4d63160d4592a22de595abe6bc62925") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Borderlands 2 Iris Japanese Audio
+setManifestid(213216, "2074360391341706822", 212723677)
+addappid(213217, 1, "9c0d7a6ce833e6b3ab9ec0b3ad3224398ddae928cc8526bed06084e83d0e4a5b") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Borderlands 2 Iris Spanish Audio
+setManifestid(213217, "5383582908775616409", 228975757)
+addappid(213224, 1, "40e92c5b2b49ae11f9b00541ceed6b721610bf4c05214a5f6acc59bf17f4d12e") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Borderlands 2 Iris Korean content
+setManifestid(213224, "5953207012651209239", 213220516)
+addappid(213218, 1, "a64fe0beaf1d9d75608c25af638492ba687eb0466d56fa6ba2716abed7550d6a") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Iris Content OSX
+setManifestid(213218, "4483963879154111531", 890063517)
+addappid(213219, 1, "a9ac22cd6555c3ec2bd2571b131d1b729d7490eee9bd1ce0447be209dc51c11c") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Iris English Audio OSX
+setManifestid(213219, "40572564778217545", 213220516)
+addappid(213220, 1, "7717e2b7a8d94e341a49ce6c50276177ddb36dd3de7d86b964c8b3226b5096ec") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Iris French Audio OSX
+setManifestid(213220, "132777356712919303", 233202908)
+addappid(213221, 1, "46225f817d0d530f59a2dbd1c712290f69d6ed58635aef6d1d557e91b0f0ec07") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Iris German Audio OSX
+setManifestid(213221, "816686643533690991", 239778114)
+addappid(213222, 1, "874673124e5e3ded1f62562f4065c964dab2aa5bce468b8bf63a541a52d464d1") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Iris Italian Audio OSX
+setManifestid(213222, "192332395336309524", 237846396)
+addappid(213223, 1, "4125a1299ce16db2a8fd2d9ce37fc8339b53f2a6d581dc108ea21ae8c5fe8cd1") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Iris Spanish Audio OSX
+setManifestid(213223, "247691759781441724", 228975757)
+addappid(213225, 1, "2ffe8c67103c88ebe891180b31c4e883da62fe84a439da40a5cb153aa2db13ad") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Iris Traditional Chinese Audio
+setManifestid(213225, "323693053003498950", 213220516)
+addappid(207856, 1, "b2ac5bc2521c6fd75834b0ce81e1f719212f27e098e14549fdcc105a287b6f90") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Linux Iris Content
+setManifestid(207856, "4298781241774637095", 676843001)
+addappid(207857, 1, "edbe3be0bc6f7347e919334a952172df71239101ef051d2c2c786f27ccd2fa92") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Linux Iris English
+setManifestid(207857, "4097654954498470625", 213220516)
+addappid(207858, 1, "946be1d0cd04ff45de5f92ac09c15fc98c51d833809473c3dc756ba20f2b56ec") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Linux Iris French
+setManifestid(207858, "6808082856961344654", 233202908)
+addappid(207859, 1, "efd246a05e899b8ba14e725496a0aec0b334adf42886a15f14bf1e5f02b0286f") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Linux Iris German
+setManifestid(207859, "876339170077367152", 239778114)
+addappid(207860, 1, "7476202f77a11547298d35299415ff4fff2306f4a7db9dcfdbc3a6821fcb33c7") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Linux Iris Italian
+setManifestid(207860, "3225155154248422147", 237846396)
+addappid(207861, 1, "efed99bd6ad8906a37a7cc5edd560f347ec760dfc116df33c73e666313a51d73") -- Borderlands 2 Mr. Torgues Campaign of Carnage - Linux Iris Spanish
+setManifestid(207861, "2637347087446622345", 228975757)
+addappid(224148, 1, "e77e65fec1b3683ec212071c057342000c4c26137f3af35ffa4bb63449b04b1a") -- Borderlands 2 Mr. Torgues Campaign of Carnage - OSX Iris Japanese Audio
+setManifestid(224148, "4010001414636834259", 212723677)
+-- Borderlands 2 Premiere Club (AppID: 213231)
+addappid(213231) --Dlcname Borderlands 2 Premiere Club
+addappid(213231, 1, "eec675949af4dd276f6a3ce8c96c73346bff045a1f9e44b2b52d64a1dd3b338a") -- Borderlands 2 Premiere Club - Borderlands 2 Premier Club
+setManifestid(213231, "4408201024981585615", 89)
+addappid(213232, 1, "a37f7e329e3fe608cdc289271dcb8f3beef1867348e2fe38f79ebbb611672697") -- Borderlands 2 Premiere Club - Premiere Club OSX
+setManifestid(213232, "8064329448360764644", 82)
+addappid(207862, 1, "3fc372a0fd929836bcc5029385b7eebe8e05c30722c3d2e862edc2944007730f") -- Borderlands 2 Premiere Club - Linux Premier Club
+setManifestid(207862, "635765018431181367", 82)
+-- Borderlands 2 Sir Hammerlocks Big Game Hunt (AppID: 213250)
+addappid(213250) --Dlcname Borderlands 2 Sir Hammerlocks Big Game Hunt
+addappid(213251, 1, "de668f99599772903510fb37920b33a3d018353f53c444f5cc9ef77436c9897c") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Borderlands 2 Sage Content
+setManifestid(213251, "4230804209598581342", 522909103)
+addappid(213252, 1, "928b4f8b2b409f934bb8fb731fcefb819eb21fddd92b1414aa11cf74e69ed2cf") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Borderlands 2 Sage English Audio
+setManifestid(213252, "2786469522222481976", 124821843)
+addappid(213253, 1, "c0e064a778fa9e638b2e4a8c06babb9f3191d2357834bd4edfac1729d82ca38b") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Borderlands 2 Sage French Audio
+setManifestid(213253, "6711246511521987637", 136807773)
+addappid(213254, 1, "9cd1ceff5ff5b854fd6e85eaeb16d81699be98ce48906d6e4834e0a625328f10") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Borderlands 2 Sage German Audio
+setManifestid(213254, "435288336387677627", 140102832)
+addappid(213255, 1, "bd214b4522e9f2ea0a709b3c292b32e1784febf78ecc1ba6458ffefed57c30b6") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Borderlands 2 Sage Italian Audio
+setManifestid(213255, "5570448271482770755", 135797248)
+addappid(213256, 1, "79f987b9e253118aaa10cd444003b2fb7e485dee396bf1935a19ea9c051a45e8") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Borderlands 2 Sage Japanese Audio
+setManifestid(213256, "2117027990779850802", 126476671)
+addappid(213257, 1, "38d0e4476367d55f567a556bc88d2e4da24968ea34ac9f4a846c17a26e6e507f") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Borderlands 2 Sage Spanish Audio
+setManifestid(213257, "4201909077054481477", 131760883)
+addappid(213264, 1, "56625c867da1ed30c34b859d92ff8cdc541b4f86317cd58c05263a7869b6248b") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Borderlands 2 Sage Korean content
+setManifestid(213264, "6513490411053167888", 124821843)
+addappid(213258, 1, "b580ad99ce74383622c6182db44d70797f618f3fc381c83364844d872fd1ec46") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Sage Content OSX
+setManifestid(213258, "6383658693773635287", 647730934)
+addappid(213259, 1, "220f5bee58df03b8d6c402935c3e7edea0ea3ab6d23eadbae8ab6a06393a9bcc") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Sage English Audio OSX
+setManifestid(213259, "2441887876868324540", 124821843)
+addappid(213260, 1, "370bc0b9c41cb0bce391982be1970d6813cad85bc9a8eee250bc256cf28dcfc6") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Sage French Audio OSX
+setManifestid(213260, "1076555357847865804", 136807773)
+addappid(213261, 1, "d3afcc82366b5272b1a66a1e1afa063ccd75ac865dbf0976820b260db5545d53") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Sage German Audio OSX
+setManifestid(213261, "386798546889883230", 140102832)
+addappid(213262, 1, "f7b4a8211d67247477292178b37a3f8c58f7ed2263517cde65b713b5f675c531") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Sage Italian Audio OSX
+setManifestid(213262, "101787965085805074", 135797248)
+addappid(213263, 1, "665eb70a0831c4db2ecc6ccf8d596aac32696f4097f0c0f3b22ca6bee86b2821") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Sage Spanish Audio OSX
+setManifestid(213263, "235477444645193468", 131760883)
+addappid(213265, 1, "c89bc75fe61c79ee15450ea43eaba31de9b711a507ee22225b47861084660d91") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Sage Traditional Chinese Audio
+setManifestid(213265, "121502615052212142", 124821843)
+addappid(207863, 1, "b3b6e970908b258e1e4007e9fbe4d5589f198edf5ad51d8beaf8fd85cf8286e1") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Linux Sage Content
+setManifestid(207863, "4200993981843119743", 522909091)
+addappid(207864, 1, "2e3640e0ed63ce4927339d1ea295f19ec0e5736588ce1d04ce966ad3c6b81aa9") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Linux Sage English
+setManifestid(207864, "8319948509126808297", 124821843)
+addappid(207865, 1, "18ba91b8d8df3f1a8692dc8a95ef080baedf485118cce27296135a535fa9b4ad") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Linux Sage French
+setManifestid(207865, "9165061595469226398", 136807773)
+addappid(207866, 1, "ebd0a49d814a672e6a9645abd16d64b48236445362940d77c2df640afe656777") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Linux Sage German
+setManifestid(207866, "8364809412999164305", 140102832)
+addappid(207867, 1, "ec92c74378e6be746ee107b780a2c6428cbaa917906e7300c16967fbc11db015") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Linux Sage Italian
+setManifestid(207867, "7657387881297709767", 135797248)
+addappid(207868, 1, "f2d6c24e07ba6b291cdc66c47fa24797f5aa1f03385830694f83950ddc5b43f7") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - Linux Sage Spanish
+setManifestid(207868, "8896078727910844995", 131760883)
+addappid(224149, 1, "8fb4c6f65e6713682f613fd15867d37b58429a77ff9a1b902deb36d73e2a7271") -- Borderlands 2 Sir Hammerlocks Big Game Hunt - OSX Sage Japanese Audio
+setManifestid(224149, "4916601746158975065", 126476671)
+-- Borderlands 2 Collectors Edition (AppID: 213781)
+addappid(213781) --Dlcname Borderlands 2 Collectors Edition
+addappid(213781, 1, "c8a7720fe6db351a9f330859089d0c3326ac4f38e6dee9f8ad4d866c5f450c82") -- Borderlands 2 Collectors Edition - Borderlands 2 Collectors
+setManifestid(213781, "7451648490842175878", 53)
+-- Borderlands 2 Collectors Edition OSX (AppID: 213782)
+addappid(213782) --Dlcname Borderlands 2 Collectors Edition OSX
+addtoken(213782, "5154669132489965769")
+addappid(213782, 1, "222cf42f9f8de5a1a5f25e2d52beabc5cb09a2efcccf05778c6d1eff511138bf") -- Borderlands 2 Collectors Edition OSX - Collectors Edition OSX
+setManifestid(213782, "4812614628647792041", 51)
+-- Borderlands 2 Tiny Tinas Assault on Dragon Keep (AppID: 218550)
+addappid(218550) --Dlcname Borderlands 2 Tiny Tinas Assault on Dragon Keep
+addappid(218551, 1, "16a69b63c54a3006900c58d90d83d7300687a80affc5da86fc02461d254578f7") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster Content
+setManifestid(218551, "2245198977491049860", 1297324988)
+addappid(218552, 1, "aa25db347626a0fb2b2fb79b5248602671a5786e44f90b87f42483f9c0b7f542") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster English Audio
+setManifestid(218552, "3391347423903179284", 183739795)
+addappid(218553, 1, "eea1e8ff9cbe1ec7ac68325e51b6f7c20da8c81a46d8bfee140c493f83133523") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster French Audio
+setManifestid(218553, "1418741582678039726", 201936084)
+addappid(218554, 1, "45816fffc688104fd77fbf2883a7ff9098cc176eab744b243cce37fb8543ce1b") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster German Audio
+setManifestid(218554, "266649169969345165", 206817551)
+addappid(218555, 1, "d4f4e44a29dc693f6828e709df01e538015b05cff4779a881254f538a1e8a799") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster Italian Audio
+setManifestid(218555, "1086562403967493620", 200710844)
+addappid(218556, 1, "c7a44a8a783b9db0367961027429979b424e111ac359274baeb356d112f16051") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster Japanese Audio
+setManifestid(218556, "2703281665658847228", 187847138)
+addappid(218557, 1, "5c7d52bd61733d833f4fc5d10ba497b9be9b7b6f4eb2da43a6edb56ae8d5c04d") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster Spanish Audio
+setManifestid(218557, "581215082047184452", 191725836)
+addappid(218558, 1, "4d2f742333c1ac997e84d97db7800d225d3add3ca95f044e2057b40719314295") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster Korean Audio
+setManifestid(218558, "6048780771867987144", 183739795)
+addappid(238771, 1, "acea6db8b58a2901a58ce780269e5fdde2eeff749d3e0d5ed05a258c4ade25a1") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster Content OSX
+setManifestid(238771, "4910915941554376501", 1481064737)
+addappid(238772, 1, "d8a1f2a7bbe82e3917976c321e626b9227d7a8daf7e1796e7e8f0d9747ee5af9") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster English Audio OSX
+setManifestid(238772, "540956565100524623", 183739795)
+addappid(238773, 1, "0d960da578af00518447bf9cb247e240250ca0d4477e5eda378c83dae77db2fd") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster French Audio OSX
+setManifestid(238773, "233149439267086523", 201936084)
+addappid(238774, 1, "6871e7bf4f91cad34c7cc452a75ab875f403a7f26f30051f0ecbe231051c82ba") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster German Audio OSX
+setManifestid(238774, "1208323322987563258", 206817551)
+addappid(238775, 1, "2622047510813694b2021e30f392833a90a2b0bd7e7768d19c63ac9a249004a0") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster Italian Audio OSX
+setManifestid(238775, "59046845871420527", 200710844)
+addappid(238776, 1, "7ed9f574ff15bcac5d7937480b73b27f5da35f581570c618bf3a1ab1dc804697") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster Spanish Audio OSX
+setManifestid(238776, "66152229379978511", 191725836)
+addappid(218559, 1, "a3549d9e196873a0b2cc0d803a98213977db6ff8b66328d94c0daf5cc94599d0") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Aster Traditional Chinese Audio
+setManifestid(218559, "4468673414057416366", 183739795)
+addappid(208699, 1, "69592c2881fcbf1fd68240d9dffef7b893d692e0a2e8b8e1f2271635f11f728b") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Linux Aster Content
+setManifestid(208699, "7438275520973789468", 1297324942)
+addappid(208700, 1, "26723e634b466c1fee2ee53cd724b94eed957667b7c42257470ae30451a1f395") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Linux Aster English
+setManifestid(208700, "2228540506631254916", 183739795)
+addappid(208701, 1, "9e50299ef821356abc1ffcd1de1fd95692f12a05c715b906bccd19ce54a8f970") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Linux Aster French
+setManifestid(208701, "7232964166617626763", 201936084)
+addappid(208702, 1, "890c6551270a088bbd6c4f40b9d4acc8525b0878db55a727efe3bd460fdc2552") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Linux Aster German
+setManifestid(208702, "7214063351631133410", 206817551)
+addappid(208703, 1, "07f1c31f09e62535e93f4ac6a48a66fdb98b1612ac5deea18f4d55d76c3fe626") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Linux Aster Italian
+setManifestid(208703, "5007540632123718806", 200710844)
+addappid(208704, 1, "35bb0f7d1b878d6fe3b799c9a912679bb67ac1de04e3ae1c08bef252705deeb2") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - Linux Aster Spanish
+setManifestid(208704, "4741853849793742534", 191725836)
+addappid(224151, 1, "ddc9a09ae2ce501ebd32d286aee8e72b8dc3266829654bbb54778fd012a15ba3") -- Borderlands 2 Tiny Tinas Assault on Dragon Keep - OSX Aster Japanese Audio
+setManifestid(224151, "4118228495228416717", 187847138)
+-- Borderlands 2 Mechromancer Beatmaster Pack (AppID: 224140)
+addappid(224140) --Dlcname Borderlands 2 Mechromancer Beatmaster Pack
+addappid(224140, 1, "4b09cbb894bbde8c2caeb5b89bc627c02a06c013bfa544e3a836346878c89f35") -- Borderlands 2 Mechromancer Beatmaster Pack - Gardenia05 - Mechro
+setManifestid(224140, "7143810694287648355", 8)
+-- Borderlands 2 Gunzerker Greasy Grunt Pack (AppID: 224141)
+addappid(224141) --Dlcname Borderlands 2 Gunzerker Greasy Grunt Pack
+addappid(224141, 1, "a15a55defcc653f85e840c0153486bf17a52a3379628fe2fb2d6565ef42ba70b") -- Borderlands 2 Gunzerker Greasy Grunt Pack - Gardenia05 - Merc
+setManifestid(224141, "3267018885977288452", 8)
+-- Borderlands 2 Psycho Party Pack (AppID: 224142)
+addappid(224142) --Dlcname Borderlands 2 Psycho Party Pack
+addappid(224142, 1, "40c8ecb46ebb7c5450b5ae183252a248b2675159460249f2e09ff88ebcafeb67") -- Borderlands 2 Psycho Party Pack - Gardenia05 - Psycho
+setManifestid(224142, "3964873934546600061", 8)
+-- Borderlands 2 Siren Learned Warrior Pack (AppID: 224143)
+addappid(224143) --Dlcname Borderlands 2 Siren Learned Warrior Pack
+addappid(224143, 1, "22c4b1b8251893beadc6299b1661e71e9b72cca1cf3c8021302091d2ba6381ed") -- Borderlands 2 Siren Learned Warrior Pack - Gardenia05 - Siren
+setManifestid(224143, "6203516146552504073", 8)
+-- Borderlands 2 Commando Devilish Good Looks Pack (AppID: 224144)
+addappid(224144) --Dlcname Borderlands 2 Commando Devilish Good Looks Pack
+addappid(224144, 1, "90233c9dc1fbd115c40f5c73a651ff4e35176a8cad51e0ddb473f938565786eb") -- Borderlands 2 Commando Devilish Good Looks Pack - Gardenia05 - Soldier
+setManifestid(224144, "2750779583507095142", 8)
+-- Borderlands 2 Assassin Cl0ckw0rk Pack (AppID: 224145)
+addappid(224145) --Dlcname Borderlands 2 Assassin Cl0ckw0rk Pack
+addappid(224145, 1, "80967e628dd37e9d38231818f0fb11a473f7e701093f189a010144ba760fedad") -- Borderlands 2 Assassin Cl0ckw0rk Pack - Gardenia05 - Zero
+setManifestid(224145, "6008543708015280854", 8)
+-- Borderlands 2 Mechromancer Steampunk Slayer Pack (AppID: 224160)
+addappid(224160) --Dlcname Borderlands 2 Mechromancer Steampunk Slayer Pack
+addappid(224160, 1, "9a062731eb1d7099f3c7ab83a1446912ea081d24da56f357a87071ebf258438b") -- Borderlands 2 Mechromancer Steampunk Slayer Pack - Gardenia04 - MechroHP04
+setManifestid(224160, "6930821910705872837", 8)
+-- Borderlands 2 Gunzerker Dapper Gent Pack (AppID: 224161)
+addappid(224161) --Dlcname Borderlands 2 Gunzerker Dapper Gent Pack
+addappid(224161, 1, "b6d17d0770f7f419e6a99faad8fc0d3e99326d6b3586374d87cbfea143f50c87") -- Borderlands 2 Gunzerker Dapper Gent Pack - Gardenia04 - MercHP04
+setManifestid(224161, "8574775120254067052", 8)
+-- Borderlands 2 Psycho Dark Psyche Pack (AppID: 224162)
+addappid(224162) --Dlcname Borderlands 2 Psycho Dark Psyche Pack
+addappid(224162, 1, "92014c09132031857f36451a82eaec55ee5cfe32d076741de812976c1f1f6f0e") -- Borderlands 2 Psycho Dark Psyche Pack - Gardenia04 - PsychoHP04
+setManifestid(224162, "7214415502057582400", 8)
+-- Borderlands 2 Psycho Madness Pack (AppID: 224163)
+addappid(224163) --Dlcname Borderlands 2 Psycho Madness Pack
+addappid(224163, 1, "9d295f661cbaa413decf58b1ef33755381d209e48d577d626ad0ed30f44f84f6") -- Borderlands 2 Psycho Madness Pack - Gardenia04 - PsychoHP04B
+setManifestid(224163, "9115428229623882773", 8)
+-- Borderlands 2 Psycho Supremacy Pack (AppID: 224164)
+addappid(224164) --Dlcname Borderlands 2 Psycho Supremacy Pack
+addappid(224164, 1, "4f8d8624da802dcbb18ac64deb2e78c8ad7bd0242fd007ec37116fa686e7ffa3") -- Borderlands 2 Psycho Supremacy Pack - Gardenia04 - PsychoHP04C
+setManifestid(224164, "4124884966291985086", 8)
+-- Borderlands 2 Psycho Domination Pack (AppID: 224165)
+addappid(224165) --Dlcname Borderlands 2 Psycho Domination Pack
+addappid(224165, 1, "156af058562dcc16869e9c5429962b29e87cfff294b915ceb3f1e7809c14116d") -- Borderlands 2 Psycho Domination Pack - Gardenia04 - PsychoHP04D
+setManifestid(224165, "50392498263079614", 8)
+-- Borderlands 2 Siren Glitter and Gore Pack (AppID: 224166)
+addappid(224166) --Dlcname Borderlands 2 Siren Glitter and Gore Pack
+addappid(224166, 1, "6d4ef83276e8ce7d9ecdc318dce713d25965567e02936b03fb426bc0ac8fd80b") -- Borderlands 2 Siren Glitter and Gore Pack - Gardenia04 - SirenHP04
+setManifestid(224166, "3583383138455035624", 8)
+-- Borderlands 2 Commando Haggard Hunter Pack (AppID: 224167)
+addappid(224167) --Dlcname Borderlands 2 Commando Haggard Hunter Pack
+addappid(224167, 1, "3b2429c4e36dc26c416b42eac69281b5b95352e40a3df3c27f98d77b38ea2fbd") -- Borderlands 2 Commando Haggard Hunter Pack - Gardenia04 - SoldierHP04
+setManifestid(224167, "2486729977605493963", 8)
+-- Borderlands 2 Assassin Stinging Blade Pack (AppID: 224168)
+addappid(224168) --Dlcname Borderlands 2 Assassin Stinging Blade Pack
+addappid(224168, 1, "fd007e7bb106f7128701477e0fdb30bfb163c481bd708e75a257d993065aa042") -- Borderlands 2 Assassin Stinging Blade Pack - Gardenia04 - ZeroHP04
+setManifestid(224168, "5271109851097033481", 8)
+-- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 (AppID: 224180)
+addappid(224180) --Dlcname Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2
+addappid(224181, 1, "57bf21e4f4ce9cfa6360ceadf0d9822c459156812c0f86de8e9d60aa5fda0bd9") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia content
+setManifestid(224181, "713836548591223757", 87148522)
+addappid(224182, 1, "9b2089708963b638abe5877dbe1869a61c4992ec38630a35064382a7ea412125") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia English Audio
+setManifestid(224182, "5640025581352496983", 109897573)
+addappid(224183, 1, "0aaa8501ea04b709ebca0491e7115ff270e7037cf70f019cd549a0814674a82c") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia French Audio
+setManifestid(224183, "1580110931871578601", 120511740)
+addappid(224184, 1, "bef2dfb77ed0318e9d1e8ba3f1e1cb98189bcac44d2b771289a94b4445b61d4e") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia German Audio
+setManifestid(224184, "8635513351920439083", 124886592)
+addappid(224185, 1, "310b0f0031a7e0c6bc9cf0f642bcaa47254696d1a939566b0b6e2810b0d05b67") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia Italian Audio
+setManifestid(224185, "1220051806060104267", 119548279)
+addappid(224186, 1, "d23a512c838f1d5aa262273b83a2bca2675346ec907db8340edb30fcc4aa7d0c") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia Japanese Audio
+setManifestid(224186, "2180765881580996087", 113259583)
+addappid(224187, 1, "ed0ab8407366cf1afab2c2caa3ffdfd7c1e756e0bfad7efaf9f20e8ccbe18a50") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia Spanish Audio
+setManifestid(224187, "9082103082056847152", 119026533)
+addappid(224188, 1, "b09ca7a09b02b7c288d146b32bd91ad2765af573c64d733f7252c6ad1d9094c1") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia Korean Audio
+setManifestid(224188, "5532596975786220794", 109897573)
+addappid(224189, 1, "52f9e53a9329ccaa04ad2b4654bd26017ecde810d5184e57e1c9a60c3fd5edfe") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia Content OSX
+setManifestid(224189, "1089591800594699062", 197046091)
+addappid(224190, 1, "13716ad0f17e23bfed91b6b22dd7427d1dd62e576fc0b5d83c422e1d59a8f799") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia English Audio OSX
+setManifestid(224190, "1198632973818948384", 109897573)
+addappid(224191, 1, "a03ea9f41559373c1bcb35333c98aff2d3de117161931d815ad1a6d0e5c7400f") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia French Audio OSX
+setManifestid(224191, "2071271832781575080", 120511740)
+addappid(224192, 1, "d69bd280215aae90cf943762e7d3e81a2405d4710b0d93ff19297525683b53fe") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia German Audio OSX
+setManifestid(224192, "691560739453385696", 124886592)
+addappid(224193, 1, "5b06f5953668612b662157d55167482416510970e384cbaec85fe294d36ee7bd") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia Italian Audio OSX
+setManifestid(224193, "639511234085206139", 119548279)
+addappid(224194, 1, "4472a9edb329e21cd35fa6372f41a9779e7e05dcb9095aef514d839d5143d4d7") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia Spanish Audio OSX
+setManifestid(224194, "1461743875032720205", 119026533)
+addappid(224195, 1, "ce1e6e66eb39642d539aa2f6ceaecf80206c955635bafb3c02a96aea323d5bdf") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Lobelia Traditional Chinese Audio
+setManifestid(224195, "194161357110641742", 109897573)
+addappid(207888, 1, "53a374535fb17b9b050a8b0c940b19ddcaf7dd0e0fbc646c5db4dc1196914019") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Linux Lobelia Content
+setManifestid(207888, "87606106637027928", 87148518)
+addappid(207889, 1, "2cd46d20ebf41a8cceda19a2ef4e4624fd58409a46490be35807e691ecd7230a") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Linux Lobelia English
+setManifestid(207889, "2924840091861334282", 109897573)
+addappid(208692, 1, "3273a978e4df2b71716b81f888d8b10769810def6954686c51fb6919f1a9111f") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Linux Lobelia French
+setManifestid(208692, "6593305547937502857", 120511740)
+addappid(208693, 1, "c2ea51d95503adf95dfc978198e5a37dfb2fc1a8deadb3c6f9abf01ef7aff2e8") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Linux Lobelia German
+setManifestid(208693, "6864208631196565740", 124886592)
+addappid(208694, 1, "4a4233a200fff96d1362c86eb2fe4774be3660a5b49a938e8f9123c2aca50922") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Linux Lobelia Italian
+setManifestid(208694, "7557325578643767142", 119548279)
+addappid(208695, 1, "d663680ee87af84b426ee3a54759dd3ee707b32b962621a9c5309559c05f5a67") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack 2 - Linux Lobelia Spanish
+setManifestid(208695, "7424723029681346156", 119026533)
+-- Borderlands 2 Ultimate Vault Hunter Upgrade Pack (AppID: 224200)
+addappid(224200) --Dlcname Borderlands 2 Ultimate Vault Hunter Upgrade Pack
+addappid(224201, 1, "8d3cf30982ab3164d02a2144ff0c1a18811c7f87505a0e0471044e8bdd15ecdc") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack - Gladiolus license
+setManifestid(224201, "6760016920634550816", 42)
+addappid(224202, 1, "d1f48036dc4e3e4e7b923d090f56bbf0bc808879d8178f4ec53ce0f8d6aa8740") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack - Gladiolus license OSX
+setManifestid(224202, "5355434174137770547", 42)
+addappid(208696, 1, "2703ad8cfdc0ba3ed38e0702eaf3b1bfa98eeb10d0cc4a00b41fed1c915c2188") -- Borderlands 2 Ultimate Vault Hunter Upgrade Pack - Linux Gladiolus
+setManifestid(208696, "112647093475338283", 42)
+-- Borderlands 2 Commando Madness Pack (AppID: 225820)
+addappid(225820) --Dlcname Borderlands 2 Commando Madness Pack
+addappid(225820, 1, "3c24cfda77062aa75a38cafce464a68d2783a377bc40bdbe66eef0aaef42b51d") -- Borderlands 2 Commando Madness Pack - Gardenia01 - Soldier Madness Pack (Zany)
+setManifestid(225820, "4509866760689259512", 8)
+-- Borderlands 2 Commando Supremacy Pack (AppID: 225821)
+addappid(225821) --Dlcname Borderlands 2 Commando Supremacy Pack
+addappid(225821, 1, "5d448075bb99e879398c1ad128272ee71bf5ceca9ee39e8537dd77a27bda328e") -- Borderlands 2 Commando Supremacy Pack - Gardenia01 - Soldier Supremacy Pack	(Power)
+setManifestid(225821, "6070726545453278067", 8)
+-- Borderlands 2 Commando Domination Pack (AppID: 225822)
+addappid(225822) --Dlcname Borderlands 2 Commando Domination Pack
+addappid(225822, 1, "a4caa85cda548d232b0727ee7a77da06faa44db2234f4b8aae3fe1215c5fea28") -- Borderlands 2 Commando Domination Pack - Gardenia01 - Soldier Domination Pack (Cool)
+setManifestid(225822, "7394286873986363480", 8)
+-- Borderlands 2 Siren Madness Pack (AppID: 225823)
+addappid(225823) --Dlcname Borderlands 2 Siren Madness Pack
+addappid(225823, 1, "20948a42f7861cac99db57883cfe9894cb97d74d1d57198bddb378896fd67d58") -- Borderlands 2 Siren Madness Pack - Gardenia01 - Siren Madness Pack (Zany)
+setManifestid(225823, "5036098323264207801", 8)
+-- Borderlands 2 Siren Supremacy Pack (AppID: 225824)
+addappid(225824) --Dlcname Borderlands 2 Siren Supremacy Pack
+addappid(225824, 1, "327845eab3b4c7f7c8b2eedcf30488375849f98b6460398d60539d3b675fc921") -- Borderlands 2 Siren Supremacy Pack - Gardenia01 - Siren Supremacy Pack (Power)
+setManifestid(225824, "6731553612754319067", 8)
+-- Borderlands 2 Siren Domination Pack (AppID: 225825)
+addappid(225825) --Dlcname Borderlands 2 Siren Domination Pack
+addappid(225825, 1, "0e127e7cbc4df3e66ebd388051ceb0b2b865677378b381628929eb2da6ba26e9") -- Borderlands 2 Siren Domination Pack - Gardenia01 - Siren Domination Pack (Cool)
+setManifestid(225825, "6502704021079714788", 8)
+-- Borderlands 2 Gunzerker Madness Pack (AppID: 225826)
+addappid(225826) --Dlcname Borderlands 2 Gunzerker Madness Pack
+addappid(225826, 1, "d46cc04dd1aacd40f5c63fd2de3c22626f2017c7c963179505118a5deffed18c") -- Borderlands 2 Gunzerker Madness Pack - Gardenia01 - Gunzerker Madness Pack (Zany)
+setManifestid(225826, "7469930989872052266", 8)
+-- Borderlands 2 Gunzerker Supremacy Pack (AppID: 225827)
+addappid(225827) --Dlcname Borderlands 2 Gunzerker Supremacy Pack
+addappid(225827, 1, "02ddce4c0e508c634290aa5f980abaa11101105fb8ffb0057b267642fcb1fbb3") -- Borderlands 2 Gunzerker Supremacy Pack - Gardenia01 - Gunzerker Supremacy Pack (Power)
+setManifestid(225827, "6814821154986121611", 8)
+-- Borderlands 2 Gunzerker Domination Pack (AppID: 225828)
+addappid(225828) --Dlcname Borderlands 2 Gunzerker Domination Pack
+addappid(225828, 1, "93318d87540868e08451c1e7362d7123f4375ea827f927c00d7bcf2b6a485934") -- Borderlands 2 Gunzerker Domination Pack - Gardenia01 - Gunzerker Domination Pack (Cool)
+setManifestid(225828, "1901021865349389720", 8)
+-- Borderlands 2 Mechromancer Madness Pack (AppID: 225829)
+addappid(225829) --Dlcname Borderlands 2 Mechromancer Madness Pack
+addappid(225829, 1, "1e157bb95e3a4b5066695bcba41ffe4a72f6a3ace1e9a82a6d54387a0da2e34e") -- Borderlands 2 Mechromancer Madness Pack - Gardenia01 - Mechromancer Madness Pack (Zany)
+setManifestid(225829, "3509022508885649085", 8)
+-- Borderlands 2 Mechromancer Supremacy Pack (AppID: 225830)
+addappid(225830) --Dlcname Borderlands 2 Mechromancer Supremacy Pack
+addappid(225830, 1, "5f5ab576a19551c1a6547e9e5ae2e3807ac2d1e17a3170ac994eb5d3297f7fc1") -- Borderlands 2 Mechromancer Supremacy Pack - Gardenia01 - Mechromancer Supremacy Pack (Power)
+setManifestid(225830, "7411412237426451947", 8)
+-- Borderlands 2 Mechromancer Domination Pack (AppID: 225831)
+addappid(225831) --Dlcname Borderlands 2 Mechromancer Domination Pack
+addappid(225831, 1, "85ca6522750cd264e3e19ce89feb19222ae0f80ef8f43be878796d5d8d0c233f") -- Borderlands 2 Mechromancer Domination Pack - Gardenia01 - Mechromancer Domination Pack (Cool)
+setManifestid(225831, "2823369334606818526", 8)
+-- Borderlands 2 Assassin Madness Pack (AppID: 225832)
+addappid(225832) --Dlcname Borderlands 2 Assassin Madness Pack
+addappid(225832, 1, "87d97f636e05bf7401294e6bd33b48a874a1eef5d5a93efe87f8e97f3fcb3c06") -- Borderlands 2 Assassin Madness Pack - Gardenia01 - Assassin Madness Pack (Zany)
+setManifestid(225832, "6589504303343476642", 8)
+-- Borderlands 2 Assassin Supremacy Pack (AppID: 225833)
+addappid(225833) --Dlcname Borderlands 2 Assassin Supremacy Pack
+addappid(225833, 1, "f36d61e379c2f5301e627a8610b76f82085c2b4af45e471579115c8ababc26b3") -- Borderlands 2 Assassin Supremacy Pack - Gardenia01 - Assassin Supremacy Pack (Power)
+setManifestid(225833, "3348813867352031043", 8)
+-- Borderlands 2 Assassin Domination Pack (AppID: 225834)
+addappid(225834) --Dlcname Borderlands 2 Assassin Domination Pack
+addappid(225834, 1, "9c12b7c10f6e06fa73c269ef706fd35b4d8db2c46044152fafa88a1505933ec4") -- Borderlands 2 Assassin Domination Pack - Gardenia01 - Assassin Domination Pack (Cool)
+setManifestid(225834, "8745115485754485594", 8)
+-- Borderlands 2 Psycho Pack (AppID: 230090)
+addappid(230090) --Dlcname Borderlands 2 Psycho Pack
+addappid(230091, 1, "749a08c05612cc724eba4ffc87b961aac1d512f31282e909c266b22a87cb88d2") -- Borderlands 2 Psycho Pack - Lilac license
+setManifestid(230091, "4150905156733498601", 38)
+addappid(230092, 1, "bede10898ded4cfcab33e1236bfd96e0d9d1448e3a250ea8a08a1d1988ed4bc3") -- Borderlands 2 Psycho Pack - Lilac license OSX
+setManifestid(230092, "2393877721138070110", 38)
+addappid(208698, 1, "fcd86b62bcb209868e5d298786313f467e552df92bc09323ad853f520a806af0") -- Borderlands 2 Psycho Pack - Linux Lilac
+setManifestid(208698, "989356765231415731", 38)
+-- Borderlands 2 Headhunter 1 Bloody Harvest (AppID: 245890)
+addappid(245890) --Dlcname Borderlands 2 Headhunter 1 Bloody Harvest
+addappid(245891, 1, "9b847528b506742c1958cc1112a8e51139ee993b5f4ebbfd61776f49e537b189") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax content
+setManifestid(245891, "8815659757319900084", 142740387)
+addappid(245892, 1, "cfef1559a6df0e7b45abe4353a4f1ed13e17785b90f14b9a093ff5047eb56a97") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax English Audio
+setManifestid(245892, "358460810140711551", 85482792)
+addappid(245893, 1, "6787caaa6e3ff4921512d032aaab779bff497a4c23a33881c396b8b419a2738f") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax French Audio
+setManifestid(245893, "8081940931846180054", 94913135)
+addappid(245894, 1, "3fbe5924bf0055bbb134a481b93305516e86bcd007f95bd0ecf1546f2748ec58") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax German Audio
+setManifestid(245894, "6505567520491641499", 97047428)
+addappid(245895, 1, "66e5c01538a5e0eb5510aa3f4b5e257b7ed8a55cc64299b2250f302aa18324d8") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax Italian Audio
+setManifestid(245895, "5875283547314484466", 93454484)
+addappid(245896, 1, "3387a4ca19bd9426ffae7b584d0cf43f9620fc5f0a4a5cb60e3d848908642104") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax Japanese Audio
+setManifestid(245896, "7747646704538317848", 87171920)
+addappid(245897, 1, "6fd1a0765f72b050a0d49bae2594ad31f8cb8db0776e661f3df160904721367e") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax Spanish Audio
+setManifestid(245897, "6785716663867749886", 92534781)
+addappid(245898, 1, "55bd8120b9500fa9656515f9910d7cb6c00b24aecb6fbab1aad631a01eed84cf") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax Korean Audio
+setManifestid(245898, "2298846840103963673", 85482792)
+addappid(245899, 1, "973ffb5e4e7f248d2fddf569d1f08c957bf430970469298e1b7cbc8f7552c4cd") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax Content OSX
+setManifestid(245899, "7185498752812040718", 228223177)
+addappid(245900, 1, "6fc0376cc9c6e4126d8b46fe61214cf0bf906a180b826e0e2f45243c5e3cfef9") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax English Audio OSX
+setManifestid(245900, "371486247087876685", 85482792)
+addappid(245901, 1, "2f199009f796ee68b31031c54cc46ae87a36291ae7e5927b12ce2d654dc7d08c") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax French Audio OSX
+setManifestid(245901, "730761236942039263", 94913135)
+addappid(245902, 1, "f1f706662494284872da3f7048867ee5faaab31113154c05bc299af0ff0ae02f") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax German Audio OSX
+setManifestid(245902, "38590354064849857", 97047428)
+addappid(245903, 1, "9a07e158914b5be735a818a5c1639bfd638122c77338df3cbe758f2ffbda4996") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax Italian Audio OSX
+setManifestid(245903, "427116884716708597", 93454484)
+addappid(245904, 1, "b2db81cfcd29ec64b17be750db3a54080d3073b6a11f5efade128c1ee9469828") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax Spanish Audio OSX
+setManifestid(245904, "390015859411924453", 92534781)
+addappid(245905, 1, "415796299f3feaeef8f5d8e1a46576ec98f4b766e0ddadde747f0dcbde930b01") -- Borderlands 2 Headhunter 1 Bloody Harvest - Flax Traditional Chinese Audio
+setManifestid(245905, "658991635049466079", 85482792)
+addappid(208705, 1, "b1dc6223ea7abbf432c4b987b544ad7791c1066f94ce7a86982c0c721a2a5264") -- Borderlands 2 Headhunter 1 Bloody Harvest - Linux Flax Content
+setManifestid(208705, "1404218381002970216", 142740385)
+addappid(208706, 1, "e3781fa553b2fe9e410fdfe77f9463b11beef55fab57508d87ed5ba29dc1a1b3") -- Borderlands 2 Headhunter 1 Bloody Harvest - Linux Flax English
+setManifestid(208706, "6563170449308406496", 85482792)
+addappid(208707, 1, "c7abcc97484910cf40b94f8dc9d9a04697df94438d8ec63d62757c412a4d8d0c") -- Borderlands 2 Headhunter 1 Bloody Harvest - Linux Flax French
+setManifestid(208707, "6564250674871317370", 94913135)
+addappid(208708, 1, "e27c0aa68a6d48002d0dae8c5cbcc906f1ba9ef0b31b59f7b55a86ef06f744b3") -- Borderlands 2 Headhunter 1 Bloody Harvest - Linux Flax German
+setManifestid(208708, "5341901238431133653", 97047428)
+addappid(208709, 1, "ac5b95d0dc12246d307363ab40c35b3f1f00665cd51d888f4927c182ff9351b1") -- Borderlands 2 Headhunter 1 Bloody Harvest - Linux Flax Italian
+setManifestid(208709, "5386696969351434513", 93454484)
+addappid(213226, 1, "d9e55c35c884dde8b54e5ec7a80ba94d860b8a6d3d58dac9ed3f76985e84bf3a") -- Borderlands 2 Headhunter 1 Bloody Harvest - Linux Flax Spanish
+setManifestid(213226, "3785234635431972511", 92534781)
+-- Borderlands 2 Headhunter 2 Wattle Gobbler (AppID: 245910)
+addappid(245910) --Dlcname Borderlands 2 Headhunter 2 Wattle Gobbler
+addappid(245911, 1, "1e3159249fffde581d3faebc318d615d21c3c380f75106ba62749b4ac5ba90fb") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG content
+setManifestid(245911, "685348919544118730", 298567141)
+addappid(245912, 1, "1a4b83b0b42c12de40edc0b38173f5e73965c058ab25b29e59b3e5bdfb6a754d") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG English Audio
+setManifestid(245912, "2954203565467874489", 163088697)
+addappid(245913, 1, "b2f10701d3f4a975523a69b1667f1ffd33e923c7938d7ac5be4cf55a99136ff0") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG French Audio
+setManifestid(245913, "4549302860389342435", 176656264)
+addappid(245914, 1, "4a9f026e8b014067a9e54ef3c4ab13499fabca15b83a9673806288edbdd3ba18") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG German Audio
+setManifestid(245914, "7261494239192179471", 183544556)
+addappid(245915, 1, "87d9fac3f019c0e9cfbd5b6816b8cc712edb87c3b482b2d4ce38110d16a69ada") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG Italian Audio
+setManifestid(245915, "3156989884273103800", 176290769)
+addappid(245916, 1, "41055ed48812a2142a094f6004be1fe78889d6de6bf22dffb57f96dff3fa825b") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG Japanese Audio
+setManifestid(245916, "1634553899729026614", 169632187)
+addappid(245917, 1, "705b81913d1d09286c68d08917a3c11238db89e8e5ce8aa3f3a1f18541f32654") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG Spanish Audio
+setManifestid(245917, "6953425967822790005", 172054837)
+addappid(245918, 1, "fdea1cab55359c206fb8f7f347feaa662e408b30812869274697fb2dc1a44a22") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG Korean Audio
+setManifestid(245918, "7941316082107553106", 163088697)
+addappid(245919, 1, "3298f73cbb2716ecc1f6725ac6b964dc90d8334e71659fdb195c5dc4fbf744bf") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG Content OSX
+setManifestid(245919, "7977268773290974656", 461655836)
+addappid(245920, 1, "7d2a6384794ed1a9bc7bb74c5523dd97556caee3b57b7870f9b4f09320cfd6fb") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG English Audio OSX
+setManifestid(245920, "784795682455518602", 163088697)
+addappid(245921, 1, "ea36aa91fec594dcbe3c1cbd133e1149fd3cd85a21f7dce3fc3fcec6e3fbfa61") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG French Audio OSX
+setManifestid(245921, "615839231913024144", 176656264)
+addappid(245922, 1, "60cdb6bbc89e2393c630266e04619b5ec07cd13cb41b671b9f7b80deb7e16fea") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG German Audio OSX
+setManifestid(245922, "667160497508297320", 183544556)
+addappid(245923, 1, "3f9be0a4198963f7eef7466aa8e1e44b1f13edeba35ddd75c27a505391cee910") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG Italian Audio OSX
+setManifestid(245923, "756926211997327027", 176290769)
+addappid(245924, 1, "ab5edf3b70a9cca1f30b3ee6a175b5e12686826f0c60ded23252f5e10f20efa1") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG Spanish Audio OSX
+setManifestid(245924, "868774989616290269", 172054837)
+addappid(245925, 1, "ff5866eb043c6cfff8939dd6a56cb2bffa882c8f215d68b4a74887d499b18320") -- Borderlands 2 Headhunter 2 Wattle Gobbler - AlliumTG Traditional Chinese Audio
+setManifestid(245925, "1316579476709896495", 163088697)
+addappid(213227, 1, "807cd854a72a194425a2692cd96f2708ab60838bc001a50fd3e14c35833e857b") -- Borderlands 2 Headhunter 2 Wattle Gobbler - Linux AlliumTG Content
+setManifestid(213227, "1982808373942949776", 298567139)
+addappid(213228, 1, "09c536f7299d2e1b60c5bd359bf222830e2322a2f94dac171f6e787ccc4f3bad") -- Borderlands 2 Headhunter 2 Wattle Gobbler - Linux AlliumTG English
+setManifestid(213228, "8978768790518077292", 163088697)
+addappid(213229, 1, "21e931a47816693862d145f61619f65215e613b3533cec68103e36c434488b8a") -- Borderlands 2 Headhunter 2 Wattle Gobbler - Linux AlliumTG French
+setManifestid(213229, "419829208672747324", 176656264)
+addappid(213233, 1, "55fc53221d0d00b6d0bc64dd459b1eabb8f90863daea1eda3e8f504cdadf4d5b") -- Borderlands 2 Headhunter 2 Wattle Gobbler - Linux AlliumTG German
+setManifestid(213233, "1309211231173864197", 183544556)
+addappid(213234, 1, "36896feb719939c15ef204dd2939c12bd0a97e9a8e23e7fa13150050035a9be1") -- Borderlands 2 Headhunter 2 Wattle Gobbler - Linux AlliumTG Italian
+setManifestid(213234, "7856819297358244716", 176290769)
+addappid(213235, 1, "89be2a7a45c41e2ced433f98fa149b787f1720a4f3e5328ab569f4f0ccfa90d1") -- Borderlands 2 Headhunter 2 Wattle Gobbler - Linux AlliumTG Spanish
+setManifestid(213235, "6785053937962112657", 172054837)
+-- Borderlands 2 Headhunter 3 Mercenary Day (AppID: 245930)
+addappid(245930) --Dlcname Borderlands 2 Headhunter 3 Mercenary Day
+addappid(245931, 1, "853fa043b89b40bf00fe0851cd652249a044c16f17b4f8f3f36e58d66d804910") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas content
+setManifestid(245931, "3405752120517974135", 298567141)
+addappid(245932, 1, "746b4c7d99c4c6ee9579cd0dbda701d43b098eab9d3dc6ec31468a7b514bd91d") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas English Audio
+setManifestid(245932, "8775212710627628117", 163088697)
+addappid(245933, 1, "e1c5daa704a500c8ebf3155499389bd3fb7900aaf596ebb6520bf0cd3081845f") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas French Audio
+setManifestid(245933, "7223852440037731628", 176656264)
+addappid(245934, 1, "a4ad62dc735610d8a53ab1c2b6b838db89edceda32875ec7a7a959ff93d91c11") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas German Audio
+setManifestid(245934, "5343986266348125681", 183544556)
+addappid(245935, 1, "b054abbc846602d633eeba56089e74bcaff24762945764ef6e8689c885ec6480") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas Italian Audio
+setManifestid(245935, "1722146431621202937", 176290769)
+addappid(245936, 1, "49dfd95e24d8389ba40d3ff5a13c4832ee18aed6470b3a75dd5d52d96ef86866") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas Japanese Audio
+setManifestid(245936, "6587782303794941201", 169632187)
+addappid(245937, 1, "d7f0ca55a87cfa82bf333d9082055b323cbde3dd0ad218ba6c9857a46941c34d") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas Spanish Audio
+setManifestid(245937, "7381328743425820419", 172054837)
+addappid(245938, 1, "60f75a827343ed56edcebd14913c898c9f458ace43ad1f97d0d61240ef7fb159") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas Korean Audio
+setManifestid(245938, "1585277479331997620", 163088697)
+addappid(245939, 1, "d9c4e4e4116df6941d7664182ec4802f4e6dfaf4b7bf283d02079aa28bb6621a") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas Content OSX
+setManifestid(245939, "6130580679176484342", 461655836)
+addappid(245940, 1, "0415c38b1cc1ce7add2c5bdd817ce4572b14d7d1cbdf437a3483594d08eea206") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas English Audio OSX
+setManifestid(245940, "1804314352974773507", 163088697)
+addappid(245941, 1, "76c6a5c3339bd5185c3194bc143398f912aff0a1f438c0279b481efdb3cec58b") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas French Audio OSX
+setManifestid(245941, "357922526198335257", 176656264)
+addappid(245942, 1, "b2e6d83a01c127ffe8f3d0e4857af0636e4bfb9e22f68b17099bcd57cba8b868") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas German Audio OSX
+setManifestid(245942, "285768752247328194", 183544556)
+addappid(245943, 1, "3d57a791de58dc005b660a3f870a0bb9b9ff921f9abfc1584acd7c2fb7c7c71c") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas Italian Audio OSX
+setManifestid(245943, "802773788936227865", 176290769)
+addappid(245944, 1, "840707664efa34be8268e14033d20c14961ee0a1ec3099c3c1ec5ac91aa045be") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas Spanish Audio OSX
+setManifestid(245944, "90665569789084429", 172054837)
+addappid(245945, 1, "6d70cf5dd966ce70b4c13e03ed5ce5dc31f42afff71fc17a28938c4ec118d16d") -- Borderlands 2 Headhunter 3 Mercenary Day - AlliumXmas Traditional Chinese Audio
+setManifestid(245945, "1073542581840961324", 163088697)
+addappid(213236, 1, "180f23cf662c219f7013d2991f297d3100756b834f9cfa829f853198dc83bdc1") -- Borderlands 2 Headhunter 3 Mercenary Day - Linux AlliumXmas Content
+setManifestid(213236, "557677500251619871", 298567139)
+addappid(213237, 1, "721469155fc394f30bf34ef7489a8b8e18f84d778f11e82f8263017b031f01d8") -- Borderlands 2 Headhunter 3 Mercenary Day - Linux AlliumXmas English
+setManifestid(213237, "8346028747432988782", 163088697)
+addappid(213238, 1, "e0e28c830055fda4404273e9ea2caadc13fc35a085ccc86eae42d8d97f648255") -- Borderlands 2 Headhunter 3 Mercenary Day - Linux AlliumXmas French
+setManifestid(213238, "4852166862400217261", 176656264)
+addappid(213239, 1, "4879544e5fdb8fa295a11ebf2bea36244f57daa7034a8727e687ef75cba49bf5") -- Borderlands 2 Headhunter 3 Mercenary Day - Linux AlliumXmas German
+setManifestid(213239, "14181669346749536", 183544556)
+addappid(213240, 1, "0f0f3d1e4a0d5c76eb0b64d9cf6b698ae317a95d6900da9ec2c5129faadd3ade") -- Borderlands 2 Headhunter 3 Mercenary Day - Linux AlliumXmas Italian
+setManifestid(213240, "2428531341901339994", 176290769)
+addappid(213241, 1, "35b22cb99cc12c7356ceac46cb3e3b41e944cb17f0d70acce1016ff5ead0f0a8") -- Borderlands 2 Headhunter 3 Mercenary Day - Linux AlliumXmas Spanish
+setManifestid(213241, "4372712791325789556", 172054837)
+-- Borderlands 2 Headhunter 4 Wedding Day Massacre (AppID: 245950)
+addappid(245950) --Dlcname Borderlands 2 Headhunter 4 Wedding Day Massacre
+addappid(245951, 1, "10aa6668806b5444c8045d582e489cc8dabb645396ae92741ba562e8ce7f9caf") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday content
+setManifestid(245951, "8797395393664935768", 324999754)
+addappid(245952, 1, "48dd984c239610b811531098a6b63230b1aa97d27feeb5c3fce8fc99ce06221d") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday English Audio
+setManifestid(245952, "5401264141258035143", 155571111)
+addappid(245953, 1, "5c72587dbe02753cc48c69a1d58689bccd4dda6e14c01bbfb94e48e72c6df7aa") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday French Audio
+setManifestid(245953, "2092971336170593344", 52382410)
+addappid(245954, 1, "c8c0bd1b1a4670d63821bff5a93b548908338d9fa750c34440721d56fe87f463") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday German Audio
+setManifestid(245954, "7070217202767533121", 51485790)
+addappid(245955, 1, "adb678aad03749f716ade03d9101bbb0c1a49821e4e8d66ae77b4e91f5c16e7f") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday Italian Audio
+setManifestid(245955, "8020935381114143962", 52957359)
+addappid(245956, 1, "29423cf47bd23719c0455741e68ee8574e1270200cb796c43ace5375fe9ac870") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday Japanese Audio
+setManifestid(245956, "760537062727945934", 52467427)
+addappid(245957, 1, "c68e33798116ffc6b130d5ec9327407d863650c2ffe483c0f83d36d99e194bc1") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday Spanish Audio
+setManifestid(245957, "6301603009356981870", 49562607)
+addappid(245958, 1, "76b1f441c9eda75a5a51e3cb66e1ba62037bbafb5a28efb3ab16babd2c66d055") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday Korean Audio
+setManifestid(245958, "2816250457324367629", 155571111)
+addappid(245959, 1, "0da7c94ac160ee4976a1614ee2bbcc89b02d6af0179b2b7a142095719f52aff1") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday Content OSX
+setManifestid(245959, "8929999187187208207", 480570863)
+addappid(245960, 1, "7ffba7432893c42996c55eeee7b12ec980ae6fe2d1d698a37e850babca21c14d") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday English Audio OSX
+setManifestid(245960, "1196830192908601889", 155571111)
+addappid(245961, 1, "2f849b1ed610a60ca502971804cc96bbcc8c8675e269617602b02a216f5ec2b8") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday French Audio OSX
+setManifestid(245961, "697947221492063198", 52382410)
+addappid(245962, 1, "3596dbe3377956c7070bb84802035fac651577efc9fa3f2a0f0012eaef8b9cbd") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday German Audio OSX
+setManifestid(245962, "390530248640600403", 51485790)
+addappid(245963, 1, "0754dab5f74cfe49b36667e8703fbb2a470146c2cec7c0cc845f13f5c8d624a5") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday Italian Audio OSX
+setManifestid(245963, "1499677457495863852", 52957359)
+addappid(245964, 1, "42d901f77e2dd6092579ac0e7f6938bc095878eb0dde5997e623d5405869648d") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday Spanish Audio OSX
+setManifestid(245964, "191339480436545736", 49562607)
+addappid(245965, 1, "b2baf13608cdcdd2729701ae7a97b79f8e314ede3cd2d0efea4bf8104390b1bb") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - NasturtiumVday Traditional Chinese Audio
+setManifestid(245965, "994329278682008370", 155571111)
+addappid(213242, 1, "6ab00bb763b02ae4a33e2fbe0db9aa0f211ea805c109302b32ced39504e73578") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - Linux NasturtiumVDay Content
+setManifestid(213242, "7099480689677355006", 324999752)
+addappid(213243, 1, "7ef9c291d530786736176785d17b25b6132d3d835a179920bc9dded621863ba0") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - Linux NasturtiumVDay English
+setManifestid(213243, "3161996274979523076", 155571111)
+addappid(213244, 1, "40ee34de9e0303d1b5c2faa6d28d38e7bfa766c707e7bfe8365a5f399bbb32ca") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - Linux NasturtiumVDay French
+setManifestid(213244, "3773216131367821853", 52382410)
+addappid(213245, 1, "4e00251a8724dd36d4c79d0e8de87186c7413b119b9a12b0b15564b5b75f3b56") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - Linux NasturtiumVDay German
+setManifestid(213245, "3766550320387817631", 51485790)
+addappid(213246, 1, "ce3f7005d4d7d5eabd287bc453b3dccb52348fff0682478c75feca3041adbb08") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - Linux NasturtiumVDay Italian
+setManifestid(213246, "118064106179455999", 52957359)
+addappid(213247, 1, "55ce23c95c3b297b4bd93b887e87de88d0d30f708ff5eae72475b0770d7a4e66") -- Borderlands 2 Headhunter 4 Wedding Day Massacre - Linux NasturtiumVDay Spanish
+setManifestid(213247, "6037143513289109980", 49562607)
+-- Borderlands 2 Headhunter 5 Son of Crawmerax (AppID: 245970)
+addappid(245970) --Dlcname Borderlands 2 Headhunter 5 Son of Crawmerax
+addappid(245971, 1, "506792f445f540de1f31e9e03115ddb2bd0cb5232931610daf2c645e7295b6db") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster content
+setManifestid(245971, "2038865418232723102", 324999754)
+addappid(245972, 1, "1129300ed5bc9c3fdec41cd016900c2a88a8e3deef7a423b97d5ed27b13e096c") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster English Audio
+setManifestid(245972, "212348193058135192", 155571111)
+addappid(245973, 1, "9fd7ea7f326fcb7ef1c0d1f2ad88f4f6bcc68e90cf22a026fc010d670730fedc") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster French Audio
+setManifestid(245973, "4928468541509176162", 52382410)
+addappid(245974, 1, "c13b285c6726a09b827c578604cbe0fef3cf7db9d1c72ba9bacc384d86177aad") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster German Audio
+setManifestid(245974, "1407087102860079778", 51485790)
+addappid(245975, 1, "c4597ec357cc2b3f4af8423864f4045bb0575c4b77893b1be21bac4435a25a52") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster Italian Audio
+setManifestid(245975, "9213125153049969324", 52957359)
+addappid(245976, 1, "95f727d6572b17c45c657356e83cc57a66ef1b6ab20ccb98b930de36ce8714e4") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster Japanese Audio
+setManifestid(245976, "3507606099834933502", 52467427)
+addappid(245977, 1, "579f4b72ce36db4e43c0d00de1d3029dc3cc6e45e11b867f43771fc488f12f19") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster Spanish Audio
+setManifestid(245977, "8411047624127452847", 49562607)
+addappid(245978, 1, "629ae68ab244083aaa30e778a1125183d487040f57431f7978bd68b31d5c3499") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster Korean Audio
+setManifestid(245978, "7099910009559486294", 155571111)
+addappid(245979, 1, "bbfd7ab4a9e4cf3b0724bde7c90db03c29b54c1b9957fed5e40a041ed7196a61") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster Content OSX
+setManifestid(245979, "4403962270363511084", 480570863)
+addappid(245980, 1, "b72688b3cdbb448bfa816d5f5635ead050f2abcc835c3ce8f6f6a150e44ef308") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster English Audio OSX
+setManifestid(245980, "162283970409859317", 155571111)
+addappid(245981, 1, "ab8ee34825a2c9991b2169d808ea1be5d3fe0d9ed3625bbb59dd34eaa7f61b4c") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster French Audio OSX
+setManifestid(245981, "70588849846076473", 52382410)
+addappid(245982, 1, "346b35ab7a0ee96c33f89abbea82cca50ef26b46f7334a37d87ebcc1ae0bf3a3") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster German Audio OSX
+setManifestid(245982, "1689485392579498583", 51485790)
+addappid(245983, 1, "719e667cd83e2639f36dbcba10232c5f465176a41f1a9917a183441814d960cc") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster Italian Audio OSX
+setManifestid(245983, "108383124367372481", 52957359)
+addappid(245984, 1, "73f318aef46467fb58074727e78af88567528a1643bf6ac8a4d2dd83394a4e50") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster Spanish Audio OSX
+setManifestid(245984, "596813681594266118", 49562607)
+addappid(245985, 1, "8c68f6728334813e8b7bf2a4fb177a2b061f4c9a41de88c06e89b9863dce4254") -- Borderlands 2 Headhunter 5 Son of Crawmerax - NasturtiumEaster Traditional Chinese Audio
+setManifestid(245985, "368303272592858038", 155571111)
+addappid(213248, 1, "ab1a1961de4c06d62c55f7184fce0178f10fe8f8888044e1f05ba5646a415350") -- Borderlands 2 Headhunter 5 Son of Crawmerax - Linux NasturtiumEaster Content
+setManifestid(213248, "4914813222506200715", 324999752)
+addappid(213249, 1, "d86085d2ac0ee53f98c2bf41643e5210eef46ff3cdbcd9037884f9551912d59f") -- Borderlands 2 Headhunter 5 Son of Crawmerax - Linux NasturtiumEaster English
+setManifestid(213249, "203717901548168956", 155571111)
+addappid(213266, 1, "69c112aba211fb48e6f1aa457381e36b856f33f081cc557e7bb48b2e5cbf5cea") -- Borderlands 2 Headhunter 5 Son of Crawmerax - Linux NasturtiumEaster French
+setManifestid(213266, "8571937741263274933", 52382410)
+addappid(213267, 1, "b1ce9a8f7ebb477214adcefced270b7fed73f766628e46791b6e67312175a429") -- Borderlands 2 Headhunter 5 Son of Crawmerax - Linux NasturtiumEaster German
+setManifestid(213267, "838095251225813298", 51485790)
+addappid(213268, 1, "3d34e83f5d99abdb757117232f734cdd71a8f2e94fd70bfd2721ec2dddc56f42") -- Borderlands 2 Headhunter 5 Son of Crawmerax - Linux NasturtiumEaster Italian
+setManifestid(213268, "3122404479367773966", 52957359)
+addappid(213269, 1, "69ded5ce98793c56a808ab2cad6d06d13ac26e6073b9b890b456231ace5c4830") -- Borderlands 2 Headhunter 5 Son of Crawmerax - Linux NasturtiumEaster Spanish
+setManifestid(213269, "7110930046452853489", 49562607)
+-- Borderlands 2 Commander Lilith  the Fight for Sanctuary (AppID: 872280)
+addappid(872280) --Dlcname Borderlands 2 Commander Lilith  the Fight for Sanctuary
+addappid(213791, 1, "8c8c80602bd970921f780cc969aa99de9f2d118cf2ced8e7d738dc90cb59a668") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - MCarlson test 1
+setManifestid(213791, "6306400325686335292", 3149090733)
+addappid(213792, 1, "f8703592f3915de4406545a219155520c030f6d3d7630dba306b3fda360adc5a") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - MCarlson test 2
+setManifestid(213792, "240413457369596999", 307770186)
+addappid(213793, 1, "547be19cb3a6c76b498622d80501a642eeef2ea469d6956b07c48b5235f45947") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - MCarlson test 3
+setManifestid(213793, "1692291784299773", 163353026)
+addappid(213794, 1, "d65f0673bd57c19e82376ecd90fc4e6ac70ef0689ad8cdb2127f74e409e86dcc") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - MCarlson test 4
+setManifestid(213794, "44863762011167199", 171601571)
+addappid(213795, 1, "12f3597a1de3fe38795289336c4ea97f504e499839080d9a2fb0fb8c3a454fbd") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - MCarlson test 5
+setManifestid(213795, "109793205357062098", 167616108)
+addappid(213796, 1, "b52cb3d86a69454844ba3d7211b6eb41be62548d9ced293f15a6ba21439f3359") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - MCarlson test 6
+setManifestid(213796, "139491503828123349", 168206742)
+addappid(213797, 1, "42c6f6e642787c7ee1d25d91ba8fb20a8a7ab1e20299491f6cbe22134c0e2442") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - MCarlson test 7
+setManifestid(213797, "95510986430470288", 177934100)
+addappid(213798, 1, "92bef392480e313e039ff2b2231d391dcec5b50fbef5441eb98398acb4893266") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - MCarlson test 8
+setManifestid(213798, "216936767210133682", 307770186)
+addappid(213799, 1, "d900da4d0684a539f68cac7882f75b40d35819086877bb617ebc7e237569a22d") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - MCarlson test 9
+setManifestid(213799, "161312362208274525", 307770186)
+addappid(224159, 1, "b38aa462a9b6baa77478510e870938a5940576cbd00ceb4f1fb882d0c204f441") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - OSX MCarlson Content
+setManifestid(224159, "5006454141002089920", 3456860822)
+addappid(224170, 1, "d2276fbd90c203c4552f8ebf58d63ea24acd036d30a5e322de8816274d68be5e") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - OSX MCarlson English
+setManifestid(224170, "6360575762517217850", 307770186)
+addappid(224171, 1, "b2291e393c742742cf788cfcebcccfd99656a5a651cc47ffb244a54c726d9874") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - OSX MCarlson French
+setManifestid(224171, "7181018686484437901", 163353026)
+addappid(224172, 1, "d38887116fde703f9e61d610561b427277a7dd9e060c294d720b6e4a58b0822e") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - OSX MCarlson German
+setManifestid(224172, "2701302233016787896", 171601571)
+addappid(224173, 1, "86ef10a7645596477a161a1db6fb67a0b0cd0cceb7c26af006b9b015b13bfcd5") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - OSX MCarlson Italian
+setManifestid(224173, "1896578269414670454", 167616108)
+addappid(224175, 1, "2ca978670e2203e207e6a9a074a411bafa7c31d985612843b299b0ca6355fec6") -- Borderlands 2 Commander Lilith  the Fight for Sanctuary - OSX MCarlson Spanish
+setManifestid(224175, "3459097871919002372", 177934100)
+-- Borderlands 2 Ultra HD Texture Pack (AppID: 941170)
+addappid(941170) --Dlcname Borderlands 2 Ultra HD Texture Pack
+addappid(941171, 1, "316c136d8170346879c02ff4cd565510941eccd08ef113df4e0209aba6307bc3") -- Borderlands 2 Ultra HD Texture Pack - Mancana Content
+setManifestid(941171, "4367749780405090030", 10097404007)
+addappid(224158, 1, "272622eacbf08ca8c81238461460358737996d50f93a1519236977dba2888c71") -- Borderlands 2 Ultra HD Texture Pack - OSX Mancana Content
+setManifestid(224158, "6000586705965887507", 9588338441)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(208690) --Dlcname Borderlands 2 Creature Slaughterdome --NoDepot
+addappid(213230) --Dlcname Borderlands 2 Mechromancer Pack --NoDepot
+addappid(213780) --Dlcname Borderlands 2 Collectors Edition Pack --NoDepot
+addappid(218560) --Dlcname Borderlands 2 Season Pass --NoDepot
+addappid(221710) --Dlcname Borderlands 2 Orchid OSX --NoDepot
+-- EMPTY DEPOTS (no content on any branch)
+-- addappid(224176) -- Depot 224176 (empty depot)
+-- addappid(224177) -- Depot 224177 (empty depot)
+-- addappid(224196) -- Depot 224196 (empty depot)
+-- addappid(224197) -- Depot 224197 (empty depot)
+-- addappid(224199) -- Depot 224199 (empty depot)
+-- addappid(224203) -- Depot 224203 (empty depot)
+-- addappid(224204) -- Depot 224204 (empty depot)
+-- addappid(224205) -- Depot 224205 (empty depot)
+-- addappid(224206) -- Depot 224206 (empty depot)
+-- addappid(224207) -- Depot 224207 (empty depot)
+-- addappid(224208) -- Depot 224208 (empty depot)
+-- addappid(224209) -- Depot 224209 (empty depot)
+-- addappid(224210) -- Depot 224210 (empty depot)
+-- addappid(224211) -- Depot 224211 (empty depot)
+-- addappid(224212) -- Depot 224212 (empty depot)
+-- addappid(224213) -- Depot 224213 (empty depot)
+-- addappid(224214) -- Depot 224214 (empty depot)
+-- addappid(224215) -- Depot 224215 (empty depot)
+-- addappid(224216) -- Depot 224216 (empty depot)
+-- addappid(224217) -- Depot 224217 (empty depot)
+-- addappid(224218) -- Depot 224218 (empty depot)
+-- addappid(224219) -- Depot 224219 (empty depot)
+-- addappid(941172) -- Depot 941172 (empty depot)
+-- addappid(941173) -- Depot 941173 (empty depot)
+-- addappid(941174) -- Depot 941174 (empty depot)
+-- addappid(941175) -- Depot 941175 (empty depot)
+-- addappid(941176) -- Depot 941176 (empty depot)
+-- addappid(941177) -- Depot 941177 (empty depot)
+-- addappid(941178) -- Depot 941178 (empty depot)
+-- addappid(941179) -- Depot 941179 (empty depot)
