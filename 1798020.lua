@@ -4,7 +4,6 @@ setManifestid(228988,"6645201662696499616")
 addappid(228990)
 setManifestid(228990,"1829726630299308803")
 addappid(1798021,0,"f49976dd7ad37fed5c3d06d4e728237fcff43f31868c0ba63e8c92d630191d01")
-setManifestid(1798021,"7279312862268001028")
 -- 1798020's Lua and Manifest Created by Hubcap Manifest
 -- Mega Man Battle Network Legacy Collection Vol. 2
 -- Created: September 18, 2026 at 18:09:46 EDT
