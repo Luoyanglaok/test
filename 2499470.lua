@@ -1,7 +1,6 @@
 addappid(2499470)
 setManifestid(228990,"1829726630299308803")
 addappid(2499471,0,"ce51bb1be6fb214a9e0607240e38f892a836c472795de236e298e82261dc9f35")
-setManifestid(2499471,"8317215444559974023")
 -- 2499470's Lua and Manifest Created by Hubcap Manifest
 -- Pumping Simulator 2
 -- Created: September 18, 2026 at 20:57:17 EDT
