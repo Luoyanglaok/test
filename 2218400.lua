@@ -3,7 +3,6 @@
 --Gamename Greedland
 addappid(2218400, 1, "804812cc2b767b4cefc84084e995e5b89076e4d81c022c04f257568c229aac7d") --Mainappid Greedland
 addappid(2218401, 1, "50ce9e04af153be16d359d90ff3f2cc322ab4f88e8407139c48e34e6d6477091") --Main Windows Depot Greedland
-setManifestid(2218401, "4832089619917844876", 4430280592)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
