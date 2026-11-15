@@ -1,6 +1,5 @@
 addappid(1656930)
 addappid(1656931,0,"b376bdb0502d1e99844e5c84dd2cd9b178186f17f4ec21d2b4a4c7cc5fff47cf")
-setManifestid(1656931,"8601370253448974041")
 -- 1656930's Lua and Manifest Created by Hubcap Manifest
 -- Coridden
 -- Created: September 18, 2026 at 10:49:04 EDT
