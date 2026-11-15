@@ -1,6 +1,5 @@
 addappid(2459750)
 addappid(2459751,0,"82dc4d1024f9965fd0116391d2d66a0d2cb57c9d92b32dc4f4e6e18a6cf39bc3")
-setManifestid(2459751,"6769506322955827221")
 -- 2459750's Lua and Manifest Created by Hubcap Manifest
 -- Yohane the Parhelion - NUMAZU in the MIRAGE -
 -- Created: September 19, 2026 at 05:01:15 EDT
