@@ -6,7 +6,6 @@ addappid(2492660, 1, "d29d0bda914296e83a25fe2d2410225d6dca71044fda3a44a41d94a3b2
 addappid(2492661, 1, "51ef63054c63f673fbbca785ad1e04651bbff2630f95fff817df726a10a85499") --Main Windows Depot METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version
 setManifestid(2492661, "4302260201423465645", 20452811584)
 addappid(2492671, 1, "a74a5c0f9354b87ee132746f97dca2e436e66f48b1e4e1bca974e23415b04471") --Main Windows Depot METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version
-setManifestid(2492671, "6782152574437743549", 21912251680)
 addappid(2492672, 1, "a74a5c0f9354b87ee132746f97dca2e436e66f48b1e4e1bca974e23415b04471") --Main Windows Depot METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version
 setManifestid(2492672, "7496442033949535610", 22135072272)
 addappid(3036720, 1, "1cbb64e056b59f863902252c92a84bf68464e5e50b26b2107fb2684365880c93") --Main Windows Depot METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version
@@ -24,7 +23,6 @@ addappid(2492662, 1, "51ef63054c63f673fbbca785ad1e04651bbff2630f95fff817df726a10
 setManifestid(2492662, "8543725475614044819", 18963824624)
 --Dlcname METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version Japanese Language Pack
 addappid(2743890, 1, "01eed52ca6695cc38890967aa0a0030b0bec13a0d4a1e2848ebb544cb93d7618") --Dlcname METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version Japanese Language Pack
-setManifestid(2743890, "7191183747285391364", 13530653968)
 --Dlcname METAL GEAR SOLID MASTER COLLECTION Vol.2 BONUS CONTENT
 --Dlcname METAL GEAR SOLID MASTER COLLECTION Vol.2
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Dlc Windows Depot METAL GEAR SOLID MASTER COLLECTION Vol.2
