@@ -1,8 +1,6 @@
 addappid(1696440)
-setManifestid(228989,"3514306556860204959")
 setManifestid(228990,"1829726630299308803")
 addappid(1696441,0,"d9d9203084ea5a76bb40325b0d450fda89e2f4b27f1c4a336f062110ed51c526")
-setManifestid(1696441,"8905387756851237751")
 -- 1696440's Lua and Manifest Created by Hubcap Manifest
 -- 绝世好武功 The Matchless Kungfu
 -- Created: September 19, 2026 at 05:29:33 EDT
