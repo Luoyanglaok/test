@@ -1,6 +1,5 @@
 addappid(1288410)
 addappid(1288412,0,"8e93de9550733121cd06c68c17220b700006a764d0f09d597c66addf4fb90e83")
-setManifestid(1288412,"8517937603820660991")
 -- 1288410's Lua and Manifest Created by Hubcap Manifest
 -- Outshine
 -- Created: September 18, 2026 at 19:57:06 EDT
