@@ -1,6 +1,5 @@
 addappid(2091550)
 addappid(2091551,0,"b6863c86e01e38ffc8fd3e4370e9f503e3bff12fdb0f78a2e9c34cf679566419")
-setManifestid(2091551,"8047248613977667084")
 -- 2091550's Lua and Manifest Created by Hubcap Manifest
 -- 赌神模拟器：亚洲风云
 -- Created: September 19, 2026 at 05:36:11 EDT
