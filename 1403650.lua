@@ -2,7 +2,6 @@ addappid(1403650)
 setManifestid(228988,"6645201662696499616")
 setManifestid(228990,"1829726630299308803")
 addappid(1403651,0,"05a2c84ec7278d6ab3d89d68bd1078d2def724ffd621fe4e9143d9cec8329bd3")
-setManifestid(1403651,"4788315344691624007")
 -- 1403650's Lua and Manifest Created by Hubcap Manifest
 -- Everdream Valley
 -- Created: September 18, 2026 at 13:10:13 EDT
