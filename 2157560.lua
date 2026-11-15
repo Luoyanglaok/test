@@ -3,7 +3,6 @@
 --Gamename Granblue Fantasy Versus: Rising
 addappid(2157560, 1, "fa86886b96d801843cb92ec52dee82d4ae3367fadd5c72c628c65a35a2d9e81f") --Mainappid Granblue Fantasy Versus: Rising
 addappid(2157561, 1, "ffd9dda329bdf010ea5cf3d9006024b8a321b4678cdee77fa6f753ee3e54b855") --Main Windows Depot Granblue Fantasy Versus: Rising
-setManifestid(2157561, "9065655402870495914", 23853047648)
 addappid(3405111, 1, "98e72af94321e64594f25c0e5c0f762ae32fda1990eff7cf95ab6e50dbfb52c8") --Main Windows Depot Granblue Fantasy Versus: Rising
 setManifestid(3405111, "1829896255882084979", 526678576)
 --Dlcname Granblue Fantasy Versus: Rising Original Soundtrack
