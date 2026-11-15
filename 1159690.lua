@@ -1,8 +1,6 @@
 addappid(1159690)
-setManifestid(228989,"3514306556860204959")
 setManifestid(228990,"1829726630299308803")
 addappid(1159691,0,"399feb028d40b4631439972a222c8dfcfc7f5fc3672f5671782a08a75614af78")
-setManifestid(1159691,"8433403322443364341")
 -- 1159690's Lua and Manifest Created by Hubcap Manifest
 -- Voidtrain
 -- Created: October 12, 2026 at 14:24:58 EDT
