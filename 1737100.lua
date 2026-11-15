@@ -33,11 +33,8 @@ setManifestid(3556194, "7716607156506895666", 8336849904)
 addappid(3556195, 1, "E410904C8BB689183BDDBE459832B7F788C6C8CF4FF4AE1431E92BD97FAB015F") --Main Linux Language Depot Schinese Treasure of Nadia
 setManifestid(3556195, "1146942864372468857", 8330953552)
 addappid(3556196, 1, "61a3c7a212765e0a28e0eac7a1c148de6a18eb6e422cf88bd50bac8cafbb0787") --Main Windows Language Depot German Treasure of Nadia
-setManifestid(3556196, "2222414159203528694", 8266141856)
 addappid(3556197, 1, "c839ff0ba290ef2d2b62977fcb68362fbf6500c947cfc5a689b3186f006cfa23") --Main Macos Language Depot German Treasure of Nadia
-setManifestid(3556197, "4276619162709939069", 8272343440)
 addappid(3556198, 1, "5877ecb94ad81e7effc8f1ae7d7f86eca37069e7aa88e46cf554cb2343ff81d7") --Main Linux Language Depot German Treasure of Nadia
-setManifestid(3556198, "1280847298162055088", 8266846896)
 -- 1737100's Lua and Manifest Created by Hubcap Manifest
 -- Treasure of Nadia
 -- Created: October 16, 2026 at 02:56:10 EDT
