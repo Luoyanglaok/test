@@ -1,6 +1,5 @@
 addappid(3029340)
 addappid(3029341,0,"df025614ea1feba68d97f2e6530cc592b9c120dfd0c4fe6a5086a99013a72205")
-setManifestid(3029341,"938306042395602813")
 -- 3029340's Lua and Manifest Created by Hubcap Manifest
 -- The Photographer (Nymphs)
 -- Created: September 19, 2026 at 01:27:00 EDT
