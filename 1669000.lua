@@ -3,9 +3,7 @@
 --Gamename Age of Wonders 4
 addappid(1669000, 1, "af2a71eb151a9b1847e1be622c9084650267ff44d0f8a29cf9c516b8aaf92284") --Mainappid Age of Wonders 4
 addappid(1669001, 1, "c9f8c2fa2410e5cdca74811acc196b199d9831a62e6f4365e521fcadca9d12a5") --Main Windows Depot Age of Wonders 4
-setManifestid(1669001, "8937939406577346694", 18820057168)
 addappid(1669002, 1, "c4f706f7261dee685e2d74998d61a7b4fb175bb47659cce89b560f89fe30ff61") --Main Windows Depot Age of Wonders 4
-setManifestid(1669002, "7982519639553059305", 138813248)
 --Dlcname Age of Wonders 4: Pre-Order Content Pack
 addappid(2257970, 1, "2725cc874450911b4c09f09607e3a3125e1daa5574ee01d74fe2b27e7d8400f0") --Dlcname Age of Wonders 4: Pre-Order Content Pack
 setManifestid(2257970, "2865807012584769022", 164768)
