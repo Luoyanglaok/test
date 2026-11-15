@@ -1,6 +1,5 @@
 addappid(1431610)
 addappid(1431611,0,"ab9cf3dd8c91121722616f043cedaf0818d16b182724e0186d729a80bc7bdfaf")
-setManifestid(1431611,"6204272324906123766")
 -- 1431610's Lua and Manifest Created by Hubcap Manifest
 -- Prison Simulator: Prologue
 -- Created: September 18, 2026 at 20:46:38 EDT
