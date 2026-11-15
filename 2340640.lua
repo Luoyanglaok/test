@@ -1,6 +1,5 @@
 addappid(2340640)
 addappid(2340641,0,"14e50324bb0e022a36bff91f7c952fa874f3fb0948d944e34923d84ab67d8e66")
-setManifestid(2340641,"6081253446357828990")
 -- 2340640's Lua and Manifest Created by Hubcap Manifest
 -- SNOW BROS. 2 SPECIAL
 -- Created: September 18, 2026 at 23:16:14 EDT
