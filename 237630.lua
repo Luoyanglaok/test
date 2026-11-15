@@ -2,7 +2,6 @@ addappid(237630)
 setManifestid(228983,"8124929965194586177")
 setManifestid(228990,"1829726630299308803")
 addappid(237631,0,"8109a2506a5c0b1d757517edf3b1fb809c43ea094e293acf57dd46c2c6314127")
-setManifestid(237631,"4457871223247518358")
 -- 237630's Lua and Manifest Created by Hubcap Manifest
 -- DuckTales Remastered
 -- Created: September 18, 2026 at 12:30:10 EDT
