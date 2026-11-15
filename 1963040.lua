@@ -3,7 +3,6 @@
 --Gamename The Lost Village
 addappid(1963040) --Mainappid The Lost Village
 addappid(1963041, 1, "0960237e0bdfa0375c4556be4c342956e5f6d446657bc4d0a9644f32316b9c76") --Main Windows Depot The Lost Village
-setManifestid(1963041, "7151174632794435826", 5961430080)
 addappid(1963042, 1, "61e5e1650a0b0a2ee690399ead28cc4d11ac3a1058dfd64ceb46f82bc9ce948f") --Main Windows Depot The Lost Village
 setManifestid(1963042, "5729363257035477947", 4736772144)
 --Dlcname TheLostVillage - 扩展包
