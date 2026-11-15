@@ -1,0 +1,23 @@
+-- 4321510's Lua and Manifest Created by Hubcap Manifest
+-- With the Devilish Her…
+-- Created: November 06, 2026 at 12:33:52 EST
+-- Website: https://hubcapmanifest.com/
+-- Build: 25319434 (public branch)
+-- Build Date: September 15, 2026 at 05:34:15 EDT (1789464855)
+-- Total Depots: 5
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(4321510, 1, "912dcead1b399a3428912eae339937f0e1671ab0a7da6ee9fc99cf6327c7b24e") -- With the Devilish Her…
+addtoken(4321510, "9753973817982200178")
+-- MAIN APP DEPOTS
+addappid(4321511, 1, "d4227fc3eb916ccb589039354cc3a20da2c3d1d88dc6281446fa72d60067c8f9") -- Depot 4321511
+setManifestid(4321511, "8275333131716008404", 10727351940)
+addappid(4321512, 1, "6e7e9625d0e43e72ca1777078393733e1f0a20992a720159b19e041cc26f789a") -- Depot 4321512
+setManifestid(4321512, "1175303386624664291", 10725208217)
+addappid(4321513, 1, "b51d0e3b845e49febb3fa2b476c981e806017601e5305bfb9bc9dc6a3bb46425") -- Depot 4321513
+setManifestid(4321513, "2454201209027722119", 10739285756)
+addappid(4321515, 1, "63741d1b48fda4d5d6c16f231da158a266029292083f7490b40299d570d481d0") -- Depot 4321515
+setManifestid(4321515, "141799310254195651", 10775663681)
+addappid(4321514, 1, "5293c0118b7ced213608ac1f029ec58ff9c835f273a8501b5483de5ae9720777") -- Depot 4321514
+setManifestid(4321514, "4518989300727636522", 10749065934)
