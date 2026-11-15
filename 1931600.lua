@@ -1,6 +1,5 @@
 addappid(1931600)
 addappid(1931601,0,"dc427ffc7bb4d6efeb5f0a08857b657d1bad927e05bb2d743bb090816a07784a")
-setManifestid(1931601,"8747293818036118417")
 -- 1931600's Lua and Manifest Created by Hubcap Manifest
 -- ネジ込みシミュレーターVol4
 -- Created: September 19, 2026 at 04:32:42 EDT
