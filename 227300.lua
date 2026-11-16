@@ -1,9 +1,9 @@
 -- 227300's Lua and Manifest Created by Hubcap Manifest
 -- Euro Truck Simulator 2
--- Created: November 13, 2026 at 09:52:36 EST
+-- Created: November 16, 2026 at 05:13:39 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26644872 (public branch)
--- Build Date: November 13, 2026 at 08:06:04 EST (1794575164)
+-- Build: 26648804 (public branch)
+-- Build Date: November 13, 2026 at 11:00:14 EST (1794585614)
 -- Total Depots: 111
 -- Total DLCs: 105 (3 excluded)
 -- Blacklisted Depots: 1
@@ -19,7 +19,7 @@ setManifestid(227302, "7691732562235471638", 62688328)
 addappid(227303, 1, "f764a1a949001dd100176a10f3f0b50531c353122118ba0e41bea9eaafb0437f") -- Euro Truck Simulator 2 - GNU/Linux
 setManifestid(227303, "4310132446662237527", 57461872)
 addappid(227304, 1, "32ab4f23d2cb9a8cb610b299d0012509d1b2b64dc694616d8a8c711a2d605057") -- Euro Truck Simulator 2 - macOS
-setManifestid(227304, "2500548285529179840", 107057646)
+setManifestid(227304, "2398327200192741394", 107057646)
 addappid(388473, 1, "22cd4aa20d6c0e57938157b6ad3001ebb15b2b82ed99ee59b7beeda3d720d358") -- Euro Truck Simulator 2 - PC Gamer DLC (388473) Depot
 setManifestid(388473, "7958922419590227872", 0)
 addappid(388478, 1, "37e441d79e75d5e2fc7af4075ea3afbb4309ce05a27fc63f81419867ee29cc84") -- Euro Truck Simulator 2 - Rocket League Promo (388478) Depot
