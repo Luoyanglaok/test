@@ -1,9 +1,9 @@
 -- 3841510's Lua and Manifest Created by Hubcap Manifest
 -- DYNASTY WARRIORS 3: Complete Edition Remastered
--- Created: October 07, 2026 at 21:55:39 EDT
+-- Created: November 15, 2026 at 20:36:41 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 25630985 (public branch)
--- Build Date: September 30, 2026 at 11:07:46 EDT (1790780866)
+-- Build: 26371984 (public branch)
+-- Build Date: November 01, 2026 at 23:18:40 EST (1793593120)
 -- Total Depots: 3
 -- Total DLCs: 2
 -- Shared Depots: 2
@@ -12,7 +12,7 @@
 addappid(3841510) -- DYNASTY WARRIORS 3: Complete Edition Remastered
 -- MAIN APP DEPOTS
 addappid(3841511, 1, "30fc7eb787065afd70dd4f00b8e25837571a36adcd30dc24ed1f33eabed367c0") -- Depot 3841511
-setManifestid(3841511, "2101304844357282040", 63894292797)
+setManifestid(3841511, "8952020709472457159", 63918855021)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
