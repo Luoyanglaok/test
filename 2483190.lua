@@ -1,11 +1,11 @@
 -- 2483190's Lua and Manifest Created by Hubcap Manifest
 -- Forza Horizon 6
--- Created: November 05, 2026 at 16:08:38 EST
+-- Created: November 16, 2026 at 12:43:55 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 26422872 (public branch)
 -- Build Date: November 03, 2026 at 22:54:55 EST (1793764495)
 -- Total Depots: 3
--- Total DLCs: 39 (2 excluded)
+-- Total DLCs: 40 (2 excluded)
 -- Shared Depots: 2
 
 -- MAIN APPLICATION
@@ -66,6 +66,7 @@ addappid(5067170) --Dlcname Forza Horizon 6 1972 Datsun 240Z 5 Rallye --NoDepot
 addappid(5067180) --Dlcname Forza Horizon 6 2024 Ferrari Purosangue --NoDepot
 addappid(5067200) --Dlcname Forza Horizon 6 2024 Mercedes-AMG GT 63 4MATIC --NoDepot
 addappid(5104170) --Dlcname Forza Horizon 6 2025 Ford Mustang GTD --NoDepot
+addappid(5104200) --Dlcname Forza Horizon 6 2025 Volkswagen Electric Buzz --NoDepot
 addappid(5134010) --Dlcname Forza Horizon 6 1990 Eunos Cosmo --NoDepot
 -- EXCLUDED DLCS:
 -- UNRELEASED DLCS (COMMENTED OUT)
