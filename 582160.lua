@@ -1,6 +1,6 @@
 -- 582160's Lua and Manifest Created by Hubcap Manifest
 -- Assassin's Creed Origins
--- Created: November 05, 2026 at 08:11:09 EST
+-- Created: November 18, 2026 at 09:18:49 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 16965472 (public branch)
 -- Build Date: January 10, 2025 at 09:16:34 EST (1736518594)
@@ -29,7 +29,7 @@ addappid(582169, 1, "e87fde80316a793368f114df1d49b86a00d9cc4f7d857923160900ff97b
 setManifestid(582169, "5694571365631700045", 508509193)
 -- SHARED DEPOTS (from other apps)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") -- Ubisoft Connect PC Client Content (Shared from App 1716750)
-setManifestid(1716751, "6945505966615327303", 263096496)
+setManifestid(1716751, "2472729118411997173", 263174264)
 -- DLCS WITH DEDICATED DEPOTS
 -- Assassins Creed Origins - The Hidden Ones (AppID: 662350)
 addappid(662350) --Dlcname Assassins Creed Origins - The Hidden Ones
