@@ -1,9 +1,9 @@
 -- 3540610's Lua and Manifest Created by Hubcap Manifest
 -- Astral Hunter: Homebound
--- Created: November 15, 2026 at 00:27:30 EST
+-- Created: November 17, 2026 at 06:33:49 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26661116 (public branch)
--- Build Date: November 13, 2026 at 23:00:29 EST (1794628829)
+-- Build: 26726398 (public branch)
+-- Build Date: November 17, 2026 at 04:20:21 EST (1794907221)
 -- Total Depots: 3
 -- Total DLCs: 0
 -- Shared Depots: 2
@@ -12,7 +12,7 @@
 addappid(3540610, 1, "c5dbb8dc87b86a4716f20d2afdea81afd8f38b379908f9f45586b4d267aeb267") -- Astral Hunter: Homebound
 -- MAIN APP DEPOTS
 addappid(3540611, 1, "94beeb0f88ad1062b5b880ff8410cd354e396d7b09bded0c201f809538e623b5") -- Depot 3540611
-setManifestid(3540611, "3363596788623882151", 2666686285)
+setManifestid(3540611, "4012637678643176586", 2666900189)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
