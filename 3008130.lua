@@ -1,11 +1,11 @@
 -- 3008130's Lua and Manifest Created by Hubcap Manifest
 -- Dying Light: The Beast
--- Created: November 05, 2026 at 08:03:05 EST
+-- Created: November 16, 2026 at 12:44:13 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 26402545 (public branch)
 -- Build Date: November 03, 2026 at 05:01:32 EST (1793700092)
 -- Total Depots: 29
--- Total DLCs: 11
+-- Total DLCs: 12
 -- Shared Depots: 3
 
 -- MAIN APPLICATION
@@ -86,3 +86,4 @@ addappid(4355460) --Dlcname Dying Light The Beast -  Hunter Essentials --NoDepot
 addappid(4355470) --Dlcname Dying Light The Beast - Fire Lotus Weapon Pack --NoDepot
 addappid(4355480) --Dlcname Dying Light The Beast - Discharge Weapon Pack --NoDepot
 addappid(4537200) --Dlcname Dying Light The Beast Definitive Upgrade --NoDepot
+addappid(5202030) --Dlcname Immerse Gamepack Dying Light --NoDepot
