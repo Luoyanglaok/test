@@ -1,6 +1,6 @@
 -- 939960's Lua and Manifest Created by Hubcap Manifest
 -- Far Cry New Dawn
--- Created: November 05, 2026 at 12:05:40 EST
+-- Created: November 18, 2026 at 10:35:31 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 18765526 (public branch)
 -- Build Date: June 06, 2025 at 07:53:59 EDT (1749210839)
@@ -43,7 +43,7 @@ setManifestid(229004, "5220958916987797232", 70000464)
 addappid(229005, 1, "aa18a527cdc103aeb3d12caafd6f581689a14467aa55658ba583a9af6e90313a") -- .NET 4.6 Redist (Shared from App 228980)
 setManifestid(229005, "7992454656023763365", 62009092)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") -- Ubisoft Connect PC Client Content (Shared from App 1716750)
-setManifestid(1716751, "6945505966615327303", 263096496)
+setManifestid(1716751, "2472729118411997173", 263174264)
 -- DLCS WITH DEDICATED DEPOTS
 -- Far Cry New Dawn - HD Textures Pack (AppID: 996970)
 addappid(996970) --Dlcname Far Cry New Dawn - HD Textures Pack
