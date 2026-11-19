@@ -1,9 +1,9 @@
 -- 4017880's Lua and Manifest Created by Hubcap Manifest
 -- ANOMALITH
--- Created: November 12, 2026 at 05:15:29 EST
+-- Created: November 17, 2026 at 05:17:39 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26589957 (public branch)
--- Build Date: November 11, 2026 at 06:31:06 EST (1794396666)
+-- Build: 26692922 (public branch)
+-- Build Date: November 15, 2026 at 21:40:12 EST (1794796812)
 -- Total Depots: 5
 -- Total DLCs: 4
 
@@ -11,7 +11,7 @@
 addappid(4017880) -- ANOMALITH
 -- MAIN APP DEPOTS
 addappid(4017881, 1, "db7d62499861f5c8b0a07e93903761de2284ac92a08453cc771f9995a8a32734") -- Depot 4017881
-setManifestid(4017881, "5420373845724161017", 23393656678)
+setManifestid(4017881, "246742169865175552", 23393623901)
 -- DLCS WITH DEDICATED DEPOTS
 -- ANOMALITH  (AppID: 4383910)
 addappid(4383910) --Dlcname ANOMALITH
