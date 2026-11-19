@@ -1,11 +1,11 @@
 -- 582010's Lua and Manifest Created by Hubcap Manifest
 -- Monster Hunter: World
--- Created: September 18, 2026 at 18:38:53 EDT
+-- Created: November 17, 2026 at 05:42:08 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 15539686 (public branch)
 -- Build Date: August 29, 2024 at 23:50:04 EDT (1724989804)
 -- Total Depots: 2
--- Total DLCs: 229
+-- Total DLCs: 243
 
 -- MAIN APPLICATION
 addappid(582010, 1, "0891b9c128dc04f20718b3ff6be13d601741e81b7a80bec80d3b9b9f70542ab9") -- Monster Hunter: World
@@ -18,6 +18,18 @@ addappid(960781) --Dlcname Monster Hunter World - High Resolution Texture Pack
 addappid(582012, 1, "92d06583c95939873c5c33658cd8b1111fa209a4c7576207565e942fa78eb888") -- Monster Hunter World - High Resolution Texture Pack - MONSTER HUNTER: WORLD Depot
 setManifestid(582012, "5526886592091189537", 50644138247)
 -- DLCS WITHOUT DEDICATED DEPOTS
+addappid(601100) --Dlcname Monster Hunter World - Origin Armor Set --NoDepot
+addtoken(601100, "17962436155033060771")
+addappid(743980) --Dlcname Monster Hunter World - Fair Wind Charm --NoDepot
+addtoken(743980, "1782879713785509081")
+addappid(759450) --Dlcname Monster Hunter World - Samurai Set --NoDepot
+addtoken(759450, "3563002530143689390")
+addappid(759451) --Dlcname Monster Hunter World - Gesture Zen --NoDepot
+addtoken(759451, "6574382732742458533")
+addappid(759452) --Dlcname Monster Hunter World - Gesture Ninja Star --NoDepot
+addtoken(759452, "3834830759551103192")
+addappid(759453) --Dlcname Monster Hunter World - Gesture Sumo Slap --NoDepot
+addtoken(759453, "3261063398587591693")
 addappid(759454) --Dlcname Monster Hunter World - Gesture Passionate --NoDepot
 addappid(759455) --Dlcname Monster Hunter World - Gesture Spin-O-Rama --NoDepot
 addappid(761590) --Dlcname Monster Hunter World - Gesture Air Splits --NoDepot
@@ -28,11 +40,23 @@ addappid(761594) --Dlcname Monster Hunter World - Gesture Play Possum --NoDepot
 addappid(761595) --Dlcname Monster Hunter World - Gesture Kowtow --NoDepot
 addappid(761596) --Dlcname Monster Hunter World - Gesture Sleep --NoDepot
 addappid(761597) --Dlcname Monster Hunter World - Gesture Kneel --NoDepot
+addappid(761598) --Dlcname Monster Hunter World - Classic Gesture Dance --NoDepot
+addtoken(761598, "2898845548066732373")
+addappid(761599) --Dlcname Monster Hunter World - Classic Gesture Prance --NoDepot
+addtoken(761599, "10689114943303670656")
+addappid(762170) --Dlcname Monster Hunter World - Classic Gesture Rant --NoDepot
+addtoken(762170, "4454645109991915799")
+addappid(762171) --Dlcname Monster Hunter World - Classic Gesture Clap --NoDepot
+addtoken(762171, "3381164888051711569")
 addappid(762174) --Dlcname Monster Hunter World - Gesture Devil May Cry Dual Guns --NoDepot
 addappid(762176) --Dlcname Monster Hunter World - Gesture Spirit Fingers --NoDepot
 addappid(762177) --Dlcname Monster Hunter World - Gesture Windmill Whirlwind --NoDepot
 addappid(762178) --Dlcname Monster Hunter World - Gesture Disco Fever --NoDepot
 addappid(762179) --Dlcname Monster Hunter World - Gesture Squat Day --NoDepot
+addappid(762910) --Dlcname Monster Hunter World - Sticker Set MH All-Stars Set --NoDepot
+addtoken(762910, "13193558585082592365")
+addappid(762911) --Dlcname Monster Hunter World - Sticker Set Sir Loin Set --NoDepot
+addtoken(762911, "8943040469927994625")
 addappid(762912) --Dlcname Monster Hunter World - Sticker Set Poogie Set --NoDepot
 addappid(762913) --Dlcname Monster Hunter World - Sticker Set Guild Lasses Set --NoDepot
 addappid(762914) --Dlcname Monster Hunter World - Sticker Set Endemic Life Set --NoDepot
@@ -40,9 +64,13 @@ addappid(762915) --Dlcname Monster Hunter World - Sticker Set Classic Monsters S
 addappid(762916) --Dlcname Monster Hunter World - Sticker Set Research Commission Set --NoDepot
 addappid(762918) --Dlcname Monster Hunter World - Sticker Set Devil May Cry Set --NoDepot
 addappid(762919) --Dlcname Monster Hunter World - Sticker Set Mega Man Set --NoDepot
+addappid(763690) --Dlcname Monster Hunter World - Face Paint Wyvern --NoDepot
+addtoken(763690, "11324971425634981673")
 addappid(763691) --Dlcname Monster Hunter World - Face Paint Shade Pattern --NoDepot
 addappid(763692) --Dlcname Monster Hunter World - Face Paint Heart Shape --NoDepot
 addappid(763693) --Dlcname Monster Hunter World - Face Paint Eye Shadow --NoDepot
+addappid(763694) --Dlcname Monster Hunter World - Hairstyle Topknot --NoDepot
+addtoken(763694, "13190898475555211451")
 addappid(763695) --Dlcname Monster Hunter World - Hairstyle Provisions Manager --NoDepot
 addappid(763696) --Dlcname Monster Hunter World - Hairstyle Field Team Leader --NoDepot
 addappid(763697) --Dlcname Monster Hunter World - Hairstyle The Handler --NoDepot
