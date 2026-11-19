@@ -1,9 +1,9 @@
 -- 5175310's Lua and Manifest Created by Hubcap Manifest
 -- Worst Class Ever
--- Created: November 17, 2026 at 03:15:28 EST
+-- Created: November 19, 2026 at 03:39:55 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26723953 (public branch)
--- Build Date: November 17, 2026 at 01:46:10 EST (1794897970)
+-- Build: 26775687 (public branch)
+-- Build Date: November 18, 2026 at 22:51:46 EST (1795060306)
 -- Total Depots: 2
 -- Total DLCs: 0
 -- Shared Depots: 1
@@ -12,7 +12,7 @@
 addappid(5175310, 1, "682dd897303c1dcacc48d7f33c9a52839f031c179636f9809e0ef3fc5bae450a") -- Worst Class Ever
 -- MAIN APP DEPOTS
 addappid(5175311, 1, "82541b454589136fdaf293e8aeb3d3abd54e26ae91d548fc6e532f5ce9d1f9bd") -- Depot 5175311
-setManifestid(5175311, "7592630965268538948", 2138316437)
+setManifestid(5175311, "3466895192348016781", 2138317468)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
