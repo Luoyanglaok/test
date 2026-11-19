@@ -1,6 +1,6 @@
 -- 812140's Lua and Manifest Created by Hubcap Manifest
 -- Assassin's Creed Odyssey
--- Created: November 05, 2026 at 08:10:30 EST
+-- Created: November 18, 2026 at 07:33:37 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 17083392 (public branch)
 -- Build Date: January 21, 2025 at 17:20:18 EST (1737498018)
@@ -29,7 +29,7 @@ addappid(812148, 1, "c86367c01d5724d576682c66d4ba21c57a3524633d185a5bf0cbf3fa962
 setManifestid(812148, "3408766981981870757", 2016870599)
 -- SHARED DEPOTS (from other apps)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") -- Ubisoft Connect PC Client Content (Shared from App 1716750)
-setManifestid(1716751, "6945505966615327303", 263096496)
+setManifestid(1716751, "2472729118411997173", 263174264)
 -- DLCS WITH DEDICATED DEPOTS
 -- Assassins Creed Odyssey - Legacy of the First Blade (AppID: 937891)
 addappid(937891) --Dlcname Assassins Creed Odyssey - Legacy of the First Blade
