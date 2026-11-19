@@ -1,9 +1,9 @@
 -- 699130's Lua and Manifest Created by Hubcap Manifest
 -- World War Z
--- Created: November 12, 2026 at 08:38:33 EST
+-- Created: November 19, 2026 at 09:19:22 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26291645 (public branch)
--- Build Date: October 29, 2026 at 03:53:00 EDT (1793260380)
+-- Build: 26732902 (public branch)
+-- Build Date: November 17, 2026 at 09:32:08 EST (1794925928)
 -- Total Depots: 2
 -- Total DLCs: 25
 -- Shared Depots: 1
@@ -12,7 +12,7 @@
 addappid(699130, 1, "cea3b55dec0169ec0c0c08823356b8c1ad1b3b5e5b56f00dd2bd9459abff53dd") -- World War Z
 -- MAIN APP DEPOTS
 addappid(699131, 1, "8e1c37df6ec32e30f09ea256f8732eb98b7955ec82c51c49960f0d078d057fbb") -- World War Z Content
-setManifestid(699131, "6879187820030159931", 84474674452)
+setManifestid(699131, "3725445713487146323", 84463106740)
 -- SHARED DEPOTS (from other apps)
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
 setManifestid(228988, "6645201662696499616", 29212173)
