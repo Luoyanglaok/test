@@ -1,6 +1,6 @@
 -- 368500's Lua and Manifest Created by Hubcap Manifest
 -- Assassin's Creed Syndicate
--- Created: November 05, 2026 at 08:13:47 EST
+-- Created: November 18, 2026 at 07:24:45 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 21071986 (public branch)
 -- Build Date: December 05, 2025 at 10:36:24 EST (1764948984)
@@ -25,7 +25,7 @@ setManifestid(228984, "2547553897526095397", 13742505)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
 setManifestid(228990, "1829726630299308803", 102931551)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") -- Ubisoft Connect PC Client Content (Shared from App 1716750)
-setManifestid(1716751, "6945505966615327303", 263096496)
+setManifestid(1716751, "2472729118411997173", 263174264)
 -- DLCS WITH DEDICATED DEPOTS
 -- Assassins Creed Syndicate - Jack The Ripper (AppID: 405080)
 addappid(405080) --Dlcname Assassins Creed Syndicate - Jack The Ripper
