@@ -1,9 +1,9 @@
 -- 770810's Lua and Manifest Created by Hubcap Manifest
 -- Good Pizza, Great Pizza
--- Created: November 14, 2026 at 04:13:36 EST
+-- Created: November 19, 2026 at 04:26:43 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26661855 (public branch)
--- Build Date: November 14, 2026 at 00:09:49 EST (1794632989)
+-- Build: 26778924 (public branch)
+-- Build Date: November 19, 2026 at 02:54:15 EST (1795074855)
 -- Total Depots: 55
 -- Total DLCs: 51
 -- Shared Depots: 4
@@ -12,9 +12,9 @@
 addappid(770810, 1, "7a7ea55e87708579fe1154c24fd52e7301ed5e83e01a9f046d53c1b3a6e87de5") -- Good Pizza, Great Pizza
 -- MAIN APP DEPOTS
 addappid(770811, 1, "53885f672671f1cab932380f2c152ea3409de15ce3eb9c52c9ac4b51c8d4c3c8") -- Good Pizza, Great Pizza Content
-setManifestid(770811, "8376908305594418490", 1322604434)
+setManifestid(770811, "5389071190493414529", 1325426176)
 addappid(770812, 1, "a9613751b6df3094c478b8b20ecbc614e332e7b46b4e0d5bad2cffd8868963dc") -- Good Pizza, Great Pizza Content for Mac
-setManifestid(770812, "562791285616768079", 2584757661)
+setManifestid(770812, "641868527315844213", 2584813713)
 -- SHARED DEPOTS (from other apps)
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") -- VC 2010 Redist (Shared from App 228980)
 setManifestid(228983, "8124929965194586177", 19265607)
