@@ -1,6 +1,6 @@
 -- 447040's Lua and Manifest Created by Hubcap Manifest
 -- Watch_Dogs 2
--- Created: November 05, 2026 at 13:28:50 EST
+-- Created: November 18, 2026 at 08:04:32 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 11638094 (public branch)
 -- Build Date: July 06, 2023 at 04:33:14 EDT (1688632394)
@@ -61,7 +61,7 @@ setManifestid(228989, "5753583882400741046", 25674515)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
 setManifestid(228990, "1829726630299308803", 102931551)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") -- Ubisoft Connect PC Client Content (Shared from App 1716750)
-setManifestid(1716751, "6945505966615327303", 263096496)
+setManifestid(1716751, "2472729118411997173", 263174264)
 -- DLCS WITH DEDICATED DEPOTS
 -- Watch_Dogs 2 -T-Bone Pack (AppID: 525000)
 addappid(525000) --Dlcname Watch_Dogs 2 -T-Bone Pack
