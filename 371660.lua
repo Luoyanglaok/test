@@ -1,6 +1,6 @@
 -- 371660's Lua and Manifest Created by Hubcap Manifest
 -- Far Cry Primal
--- Created: November 05, 2026 at 12:04:53 EST
+-- Created: November 18, 2026 at 09:14:36 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 8384708 (public branch)
 -- Build Date: March 16, 2022 at 14:53:57 EDT (1647456837)
@@ -25,7 +25,7 @@ setManifestid(229002, "7260605429366465749", 50450161)
 addappid(229004, 1, "56ebe05d052f59ad2e9b101102de603dca17402a9bb2ef0015962c6b3275a2d0") -- .NET 4.5.2 Redist (Shared from App 228980)
 setManifestid(229004, "5220958916987797232", 70000464)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") -- Ubisoft Connect PC Client Content (Shared from App 1716750)
-setManifestid(1716751, "6945505966615327303", 263096496)
+setManifestid(1716751, "2472729118411997173", 263174264)
 -- DLCS WITH DEDICATED DEPOTS
 -- Far Cry Primal - HD Texture Pack (AppID: 456310)
 addappid(456310) --Dlcname Far Cry Primal - HD Texture Pack
