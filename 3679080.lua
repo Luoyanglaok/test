@@ -1,9 +1,9 @@
 -- 3679080's Lua and Manifest Created by Hubcap Manifest
 -- The Seven Deadly Sins: Origin
--- Created: November 06, 2026 at 04:37:36 EST
+-- Created: November 18, 2026 at 20:19:56 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26404012 (public branch)
--- Build Date: November 03, 2026 at 06:14:58 EST (1793704498)
+-- Build: 26727996 (public branch)
+-- Build Date: November 17, 2026 at 05:35:14 EST (1794911714)
 -- Total Depots: 3
 -- Total DLCs: 0
 -- Shared Depots: 2
@@ -12,7 +12,7 @@
 addappid(3679080, 1, "9ff051463e937779a18fd6a2194fbd773f9ca821fbdc20023701e5968a0b9665") -- The Seven Deadly Sins: Origin
 -- MAIN APP DEPOTS
 addappid(3679081, 1, "9c4b635704762f0245f0f3a01460bddf32d55d49865332dbf5e53b10dfd2a3fc") -- Depot 3679081
-setManifestid(3679081, "878805943695892656", 33367518839)
+setManifestid(3679081, "4637461020215802648", 31688358757)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
