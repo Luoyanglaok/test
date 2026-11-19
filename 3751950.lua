@@ -1,6 +1,6 @@
 -- 3751950's Lua and Manifest Created by Hubcap Manifest
 -- Assassin's Creed Black Flag Resynced
--- Created: November 05, 2026 at 08:03:42 EST
+-- Created: November 18, 2026 at 07:43:00 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 25795103 (public branch)
 -- Build Date: October 08, 2026 at 00:08:44 EDT (1791432524)
@@ -31,7 +31,7 @@ setManifestid(3751959, "6456623308878089663", 261947392)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") -- Ubisoft Connect PC Client Content (Shared from App 1716750)
-setManifestid(1716751, "6945505966615327303", 263096496)
+setManifestid(1716751, "2472729118411997173", 263174264)
 -- DLCS WITHOUT DEDICATED DEPOTS
 addappid(4496490) --Dlcname Assassins Creed Black Flag Resynced - Master Assassin Character Pack --NoDepot
 addappid(4496500) --Dlcname Assassins Creed Black Flag Resynced - Master Assassin Character Pack - Ubisoft Activation --NoDepot
