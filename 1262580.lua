@@ -1,6 +1,6 @@
 -- 1262580's Lua and Manifest Created by Hubcap Manifest
 -- Need for Speed™ Payback
--- Created: November 04, 2026 at 23:51:36 EST
+-- Created: November 16, 2026 at 14:44:18 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 10351388 (public branch)
 -- Build Date: January 18, 2023 at 14:11:13 EST (1674069073)
@@ -43,7 +43,7 @@ setManifestid(228988, "6645201662696499616", 29212173)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
 setManifestid(228990, "1829726630299308803", 102931551)
 addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") -- Depot 3340991 (Shared from App 3340990)
-setManifestid(3340991, "556631282418311229", 254018335)
+setManifestid(3340991, "477702137572216299", 270091527)
 -- DLCS WITHOUT DEDICATED DEPOTS
 addappid(1262590) --Dlcname Need for Speed Payback - All DLC Cars Bundle --NoDepot
 addtoken(1262590, "13551047604711171187")
