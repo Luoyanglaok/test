@@ -1,7 +1,7 @@
 -- Downloaded using DepotBox - https://depotbox.lol/
 -- Original file: 3764200.lua
 --Gamename Resident Evil Requiem
-addappid(3764200) --Mainappid Resident Evil Requiem
+addappid(3764200, 1, "d29b7ad461b8b74dce38b7137fc00d4b5a885c5be1211767a4ecae0eaf8ddd96") --Mainappid Resident Evil Requiem
 addappid(3764201, 1, "bdf443ffde6449192b9863c0fa5e3cda31fdaa5e4d33e5bcded62dc2085b7cb8") --Main Windows Depot Resident Evil Requiem
 setManifestid(3764201, "2990234554016452841", 78360773568)
 addappid(3764202, 1, "3b6b7669a064598e8f48e38776d1862941f78d515a88b89333c2dbde0a07fcff") --Main Windows Depot Resident Evil Requiem
