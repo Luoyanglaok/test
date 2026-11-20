@@ -1,9 +1,9 @@
 -- 2920220's Lua and Manifest Created by Hubcap Manifest
 -- Terrible Lizards
--- Created: November 14, 2026 at 15:14:53 EST
+-- Created: November 19, 2026 at 17:46:19 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26670797 (public branch)
--- Build Date: November 14, 2026 at 13:39:52 EST (1794681592)
+-- Build: 26791934 (public branch)
+-- Build Date: November 19, 2026 at 12:50:59 EST (1795110659)
 -- Total Depots: 3
 -- Total DLCs: 0
 -- Shared Depots: 2
@@ -12,7 +12,7 @@
 addappid(2920220) -- Terrible Lizards
 -- MAIN APP DEPOTS
 addappid(2920221, 1, "a933d48e761bf27ada5d3f105447c40395eec548fa23b0bc61f98d37e2bb29b1") -- Depot 2920221
-setManifestid(2920221, "1607197094471112312", 16985113925)
+setManifestid(2920221, "5130754209136578724", 16985204149)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
