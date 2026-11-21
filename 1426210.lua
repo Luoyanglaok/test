@@ -1,9 +1,9 @@
 -- 1426210's Lua and Manifest Created by Hubcap Manifest
 -- It Takes Two
--- Created: October 15, 2026 at 11:12:00 EDT
+-- Created: November 17, 2026 at 08:08:46 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 24799639 (public branch)
--- Build Date: August 18, 2026 at 11:11:38 EDT (1787065898)
+-- Build: 26237470 (public branch)
+-- Build Date: October 27, 2026 at 03:31:18 EDT (1793086278)
 -- Total Depots: 3
 -- Total DLCs: 1
 -- Shared Depots: 2
@@ -12,7 +12,7 @@
 addappid(1426210, 1, "ec7aca2b989b0dad7b2f7880268887d67d9656bfd0f47146e9cad7d411785250") -- It Takes Two
 -- MAIN APP DEPOTS
 addappid(1426211, 1, "c450c44e032e27d0308cf864259fb2af91bcfc58401a0caf33bb8efba85bb323") -- It Takes Two - Content
-setManifestid(1426211, "4041802098386028734", 48392303260)
+setManifestid(1426211, "5650795010740380119", 48306095150)
 -- SHARED DEPOTS (from other apps)
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
 setManifestid(228988, "6645201662696499616", 29212173)
