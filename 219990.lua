@@ -1,9 +1,9 @@
 -- 219990's Lua and Manifest Created by Hubcap Manifest
 -- Grim Dawn
--- Created: October 08, 2026 at 16:38:09 EDT
+-- Created: November 16, 2026 at 12:54:17 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 25813250 (public branch)
--- Build Date: October 08, 2026 at 16:07:26 EDT (1791490046)
+-- Build: 26655545 (public branch)
+-- Build Date: November 13, 2026 at 16:35:37 EST (1794605737)
 -- Total Depots: 14
 -- Total DLCs: 8
 -- Shared Depots: 6
@@ -12,7 +12,7 @@
 addappid(219990, 1, "f526be8add966b86be32ef5a4b61c78a5cd1f1621dfcd168368922397abc39cb") -- Grim Dawn
 -- MAIN APP DEPOTS
 addappid(219991, 1, "24ba5f38bc31d02b7075c9464e178e08c9552de08a183056fbf1aa79b405e4c6") -- Grim Dawn Content
-setManifestid(219991, "382249031910927652", 5101084927)
+setManifestid(219991, "8464398994049966088", 5101528522)
 -- SHARED DEPOTS (from other apps)
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") -- VC 2010 Redist (Shared from App 228980)
 setManifestid(228983, "8124929965194586177", 19265607)
@@ -30,25 +30,25 @@ setManifestid(229003, "8740933542064151477", 43001447)
 -- Grim Dawn - Crucible Mode DLC (AppID: 483840)
 addappid(483840) --Dlcname Grim Dawn - Crucible Mode DLC
 addappid(483840, 1, "25fb87a62fad42ff98bde06d9be0995cc02349c65bc47637fc8e713ed6d9d3e1") -- Grim Dawn - Crucible Mode DLC - Grim Dawn - Crucible Mode DLC (483840) Depot
-setManifestid(483840, "178282164098390168", 177081858)
+setManifestid(483840, "4802972888012956325", 177081858)
 -- Grim Dawn - Ashes of Malmouth Expansion (AppID: 642280)
 addappid(642280) --Dlcname Grim Dawn - Ashes of Malmouth Expansion
 addappid(642280, 1, "af5387c55c30f622c2cb2aafa8bb289785c75d67ee675b5a2db9a1dc40b0e55d") -- Grim Dawn - Ashes of Malmouth Expansion - Grim Dawn - Ashes of Malmouth Expansion (642280) Depot
-setManifestid(642280, "2297395734672769022", 2535207560)
+setManifestid(642280, "8750017042853433693", 2535196086)
 addappid(642281, 1, "40263ca158fa164ef993b52a491845a7508f4b9a784e0a4b1f6a78fb1109e9f9") -- Grim Dawn - Ashes of Malmouth Expansion - Grim Dawn - Ashes of Malmouth Crucible
-setManifestid(642281, "5465271382564252634", 19629628)
+setManifestid(642281, "3337715934810311686", 19629628)
 -- Grim Dawn - Forgotten Gods Expansion (AppID: 897670)
 addappid(897670) --Dlcname Grim Dawn - Forgotten Gods Expansion
 addappid(897670, 1, "9e9fdd83057e0d41385fd8bb3461125aecaed7e3ff3cc7890834639322e00e30") -- Grim Dawn - Forgotten Gods Expansion - Grim Dawn - Forgotten Gods Expansion (897670) Depot
-setManifestid(897670, "828958375820738551", 3282317793)
+setManifestid(897670, "8772725139836571761", 3282336442)
 addappid(897671, 1, "deefcab56ed487ca3ff25be38f578ead6650ae4e1b1fbe39450cdd9ccd737333") -- Grim Dawn - Forgotten Gods Expansion - Grim Dawn - Forgotten Gods Crucible
-setManifestid(897671, "6073288963336035726", 5462987)
+setManifestid(897671, "709642994047003409", 5464681)
 -- Grim Dawn - Fangs of Asterkarn (AppID: 2699230)
 addappid(2699230) --Dlcname Grim Dawn - Fangs of Asterkarn
 addappid(2699230, 1, "4843e2630d30639c182670a20fcd1a15b455f6917c345f7824fc2062fdc46a11") -- Grim Dawn - Fangs of Asterkarn - Depot 2699230
-setManifestid(2699230, "6198629158109164801", 5705740468)
+setManifestid(2699230, "8401884794176359273", 5714881055)
 addappid(2699231, 1, "336117c2e4cd9ad52a8bdd10e432814d6ac7e4ffb6ac21fc8ba7872a9e825a7d") -- Grim Dawn - Fangs of Asterkarn - Depot 2699231
-setManifestid(2699231, "4405566710545875850", 22116544)
+setManifestid(2699231, "4256338827404987976", 22129174)
 -- DLCS WITHOUT DEDICATED DEPOTS
 addappid(565610) --Dlcname Grim Dawn - Steam Loyalist Upgrade --NoDepot
 addappid(1088290) --Dlcname Grim Dawn - Steam Loyalist 2 DLC --NoDepot
