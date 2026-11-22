@@ -1,9 +1,9 @@
 -- 3446240's Lua and Manifest Created by Hubcap Manifest
 -- 宗门起源
--- Created: October 27, 2026 at 05:45:15 EDT
+-- Created: November 20, 2026 at 19:28:00 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26239524 (public branch)
--- Build Date: October 27, 2026 at 05:25:03 EDT (1793093103)
+-- Build: 26801334 (public branch)
+-- Build Date: November 19, 2026 at 21:36:53 EST (1795142213)
 -- Total Depots: 4
 -- Total DLCs: 0
 -- Shared Depots: 3
@@ -13,7 +13,7 @@ addappid(3446240, 1, "72025f6589adbe085fe83773d0423225dadb0c32b0eeb2f865984c8d71
 addtoken(3446240, "12366859424522752049")
 -- MAIN APP DEPOTS
 addappid(3446241, 1, "ddbae286524f900e39fb2c0e6d35401e7a94444b87a43825104ae7a128279543") -- Depot 3446241
-setManifestid(3446241, "6890248774555958626", 17645534133)
+setManifestid(3446241, "8063047846522783754", 27057434112)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
