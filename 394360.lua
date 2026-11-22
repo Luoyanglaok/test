@@ -1,24 +1,24 @@
 -- 394360's Lua and Manifest Created by Hubcap Manifest
 -- Hearts of Iron IV
--- Created: November 12, 2026 at 09:36:20 EST
+-- Created: November 19, 2026 at 10:17:24 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26479645 (public branch)
--- Build Date: November 06, 2026 at 03:35:27 EST (1793954127)
--- Total Depots: 60
--- Total DLCs: 57 (4 excluded)
+-- Build: 26733403 (public branch)
+-- Build Date: November 17, 2026 at 09:53:05 EST (1794927185)
+-- Total Depots: 62
+-- Total DLCs: 59 (2 excluded)
 -- Shared Depots: 3
 
 -- MAIN APPLICATION
 addappid(394360, 1, "a09cbdd6eeae20e20407d50e195fedab8839228dcc83cc6987b8aef41685a596") -- Hearts of Iron IV
 -- MAIN APP DEPOTS
 addappid(394361, 1, "da88f81230255452b07b325f7be45cd8687fecfeff239c0710f2d72b8bffd282") -- Hearts of Iron IV Content
-setManifestid(394361, "3969542038148902551", 6497743496)
+setManifestid(394361, "9076471027266462385", 6522558198)
 addappid(394362, 1, "80b524708536855cdbc85dbd45a0bdb6274e1ab1b06961b5e6cd4a5f63779df0") -- Hearts of Iron IV Windows
-setManifestid(394362, "5623650948763976164", 222653858)
+setManifestid(394362, "6403792003996442134", 222675362)
 addappid(394363, 1, "b578cbe65008f0d3cc71bb38fbc935a1b6e2fb05b4c1b4fb9059e3b0d10d425f") -- Hearts of Iron IV Linux
-setManifestid(394363, "6029983942413021400", 259132624)
+setManifestid(394363, "949754702801275085", 259149008)
 addappid(394364, 1, "ef69e4ac301c2cd428a66f4461d055a1845a65138a390d204fbf212930328342") -- Hearts of Iron IV OSX
-setManifestid(394364, "6191372461249246900", 472253215)
+setManifestid(394364, "3186166981238772206", 472271703)
 addappid(460552, 1, "d536fe0cc54d83308e711a12974d557070399c39c057a1a05ffe6be9239710bd") -- Hearts of Iron IV: Famous Battleships Unit Pack (460552) Depot
 setManifestid(460552, "7892184416916918423", 0)
 addappid(471560, 1, "db8a0365c4b8fdc7db0ff80ee05163634e378e1a3e2fb04d836a710e86e8f6eb") -- Hearts of Iron IV Preview (471560) Depot
@@ -247,6 +247,14 @@ setManifestid(3796270, "7626713667245954061", 49948828)
 addappid(3796290) --Dlcname Theater Pack - Hearts of Iron IV Thunder at our Gates
 addappid(3796290, 1, "8821214b21dff74fce396367da9dfc70dede95f7d12504fc24fb230515fdd3f2") -- Theater Pack - Hearts of Iron IV Thunder at our Gates - Depot 3796290
 setManifestid(3796290, "1362151780629472947", 494951513)
+-- Hearts of Iron IV Songs of Liberty (AppID: 4758590)
+addappid(4758590) --Dlcname Hearts of Iron IV Songs of Liberty
+addappid(4758590, 1, "1ece183d71f0faa8be34f9443f1b33a56da1fa3ab5131d15c79cd80be01304b3") -- Hearts of Iron IV Songs of Liberty - Depot 4758590
+setManifestid(4758590, "2682797079467542841", 26430264)
+-- Focus Pack - Hearts of Iron IV To the Bitter End (AppID: 4758610)
+addappid(4758610) --Dlcname Focus Pack - Hearts of Iron IV To the Bitter End
+addappid(4758610, 1, "d4f20918c05c96b5e5a826ea8a47852302c65da72627ad30027c9ada6cfab397") -- Focus Pack - Hearts of Iron IV To the Bitter End - Depot 4758610
+setManifestid(4758610, "505785445014793256", 32171565)
 -- DLCS WITHOUT DEDICATED DEPOTS
 addappid(445630) --Dlcname Hearts of Iron IV War Stories --NoDepot
 addtoken(445630, "16694871766851180349")
@@ -258,15 +266,10 @@ addappid(3654400) --Dlcname Hearts of Iron IV Bonus Songs Pack --NoDepot
 addappid(3796240) --Dlcname Hearts of Iron IV Expansion Pass 2 --NoDepot
 addappid(4758580) --Dlcname Hearts of Iron IV Expansion Pass 3 --NoDepot
 -- EXCLUDED DLCS:
--- DLCS EXCLUDED (MISSING DEPOT KEYS)
--- Hearts of Iron IV Songs of Liberty (AppID: 4758590) - missing depot keys
--- addappid(4758590)
 -- UNRELEASED DLCS (COMMENTED OUT)
 -- addappid(4758600) -- DLC 4758600 (unreleased)
--- addappid(4758610) -- DLC 4758610 (unreleased)
 -- addappid(4758620) -- DLC 4758620 (unreleased)
 -- EMPTY DEPOTS (no content on any branch)
 -- addappid(445630) -- Depot 445630 (empty depot)
 -- addappid(4758600) -- Depot 4758600 (empty depot)
--- addappid(4758610) -- Depot 4758610 (empty depot)
 -- addappid(4758620) -- Depot 4758620 (empty depot)
