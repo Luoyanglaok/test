@@ -1,9 +1,9 @@
 -- 1669000's Lua and Manifest Created by Hubcap Manifest
 -- Age of Wonders 4
--- Created: November 06, 2026 at 09:04:18 EST
+-- Created: November 19, 2026 at 09:15:32 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26482553 (public branch)
--- Build Date: November 06, 2026 at 06:05:49 EST (1793963149)
+-- Build: 26731706 (public branch)
+-- Build Date: November 17, 2026 at 08:39:04 EST (1794922744)
 -- Total Depots: 22
 -- Total DLCs: 22 (2 excluded)
 -- Shared Depots: 3
@@ -12,9 +12,9 @@
 addappid(1669000, 1, "af2a71eb151a9b1847e1be622c9084650267ff44d0f8a29cf9c516b8aaf92284") -- Age of Wonders 4
 -- MAIN APP DEPOTS
 addappid(1669001, 1, "c9f8c2fa2410e5cdca74811acc196b199d9831a62e6f4365e521fcadca9d12a5") -- Depot 1669001
-setManifestid(1669001, "4591284591102499311", 34785309196)
+setManifestid(1669001, "4226754419164431912", 34785267590)
 addappid(1669002, 1, "c4f706f7261dee685e2d74998d61a7b4fb175bb47659cce89b560f89fe30ff61") -- Depot 1669002
-setManifestid(1669002, "7322959566172874391", 373233020)
+setManifestid(1669002, "7156149917981807377", 373333884)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
@@ -99,5 +99,5 @@ addappid(4143090) --Dlcname Age of Wonders 4 Collectors Bundle --NoDepot
 addappid(5094350) --Dlcname Age of Wonders 4 Expansion Pass 4 --NoDepot
 -- EXCLUDED DLCS:
 -- UNRELEASED DLCS (COMMENTED OUT)
--- addappid(5094380) -- DLC 5094380 (unreleased)
--- addappid(5094390) -- DLC 5094390 (unreleased)
+-- addappid(5094380) -- Age of Wonders 4: Court of the Archfey (unreleased)
+-- addappid(5094390) -- Age of Wonders 4: Forge of the Firstborn (unreleased)
