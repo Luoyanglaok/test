@@ -1,6 +1,6 @@
 -- 2698940's Lua and Manifest Created by Hubcap Manifest
 -- The Crew Motorfest
--- Created: November 05, 2026 at 08:37:53 EST
+-- Created: November 18, 2026 at 09:08:53 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 25268546 (public branch)
 -- Build Date: September 12, 2026 at 03:48:25 EDT (1789199305)
@@ -15,7 +15,7 @@ addappid(2698941, 1, "d883429e0c229f4e0634265ea029ccf4200bf0a6d171047809fab73ae8
 setManifestid(2698941, "9202952830123017932", 88687706014)
 -- SHARED DEPOTS (from other apps)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") -- Ubisoft Connect PC Client Content (Shared from App 1716750)
-setManifestid(1716751, "6945505966615327303", 263096496)
+setManifestid(1716751, "2472729118411997173", 263174264)
 -- DLCS WITHOUT DEDICATED DEPOTS
 addappid(2716050) --Dlcname The Crew Motorfest - Ubisoft Activation --NoDepot
 addappid(2805000) --Dlcname The Crew Motorfest  Year 1 Pass --NoDepot
