@@ -1,6 +1,6 @@
 -- 2369390's Lua and Manifest Created by Hubcap Manifest
 -- Far Cry 6
--- Created: November 05, 2026 at 08:35:21 EST
+-- Created: November 18, 2026 at 07:30:46 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 11359732 (public branch)
 -- Build Date: May 31, 2023 at 08:35:53 EDT (1685536553)
@@ -19,7 +19,7 @@ setManifestid(2369392, "8390405336387105870", 1)
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
 setManifestid(228988, "6645201662696499616", 29212173)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") -- Ubisoft Connect PC Client Content (Shared from App 1716750)
-setManifestid(1716751, "6945505966615327303", 263096496)
+setManifestid(1716751, "2472729118411997173", 263174264)
 -- DLCS WITH DEDICATED DEPOTS
 -- Far Cry 6 - HD Textures (AppID: 2432590)
 addappid(2432590) --Dlcname Far Cry 6 - HD Textures
