@@ -1,9 +1,9 @@
 -- 1606180's Lua and Manifest Created by Hubcap Manifest
 -- 下一站江湖Ⅱ
--- Created: November 11, 2026 at 04:10:15 EST
+-- Created: November 17, 2026 at 02:32:40 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26585359 (public branch)
--- Build Date: November 11, 2026 at 02:00:52 EST (1794380452)
+-- Build: 26639277 (public branch)
+-- Build Date: November 13, 2026 at 03:29:42 EST (1794558582)
 -- Total Depots: 2
 -- Total DLCs: 23
 
@@ -11,7 +11,7 @@
 addappid(1606180, 1, "8ac605401cca020b8849769c24cbdab583d22e6aea9f5a5394d3df1334cd2582") -- 下一站江湖Ⅱ
 -- MAIN APP DEPOTS
 addappid(1606181, 1, "78085baa1a1489cac9f2593fc792421a3c773edf3317721f5b02ccb7b9c07898") -- Depot 1606181
-setManifestid(1606181, "2407268642899905459", 20144398543)
+setManifestid(1606181, "7801493657431503878", 20144334143)
 -- DLCS WITH DEDICATED DEPOTS
 -- -DLC (AppID: 2905470)
 addappid(2905470) --Dlcname -DLC
