@@ -1,18 +1,18 @@
 -- 3787390's Lua and Manifest Created by Hubcap Manifest
 -- Love or Lust Beach Stories
--- Created: November 05, 2026 at 15:17:05 EST
+-- Created: November 12, 2026 at 14:30:05 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26466768 (public branch)
--- Build Date: November 05, 2026 at 14:20:38 EST (1793906438)
+-- Build: 26619496 (public branch)
+-- Build Date: November 12, 2026 at 09:18:23 EST (1794493103)
 -- Total Depots: 7
--- Total DLCs: 4
+-- Total DLCs: 4 (1 excluded)
 -- Shared Depots: 2
 
 -- MAIN APPLICATION
 addappid(3787390) -- Love or Lust Beach Stories
 -- MAIN APP DEPOTS
 addappid(3787391, 1, "4452ac30a0f14688007d3a29adad5ce97a716bb7aeda1e95fe2999f17b0a7d6f") -- Depot 3787391
-setManifestid(3787391, "3881215964589546408", 8695678032)
+setManifestid(3787391, "5639084560904908809", 8698939407)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
@@ -30,8 +30,11 @@ setManifestid(4973440, "6036803234924221173", 38)
 -- Love or Lust Beach Stories Artbook (AppID: 5485310)
 addappid(5485310) --Dlcname Love or Lust Beach Stories Artbook
 addappid(5485311, 1, "f39d061c3a646837dea557f0989a9dff4322c70590a4b63f910073a9fe134ccf") -- Love or Lust Beach Stories Artbook - Depot 5485311
-setManifestid(5485311, "127480989049030534", 56194405)
+setManifestid(5485311, "3714342907146095619", 56194405)
 -- Love or Lust Beach Stories Wallpapers Pack (AppID: 5485320)
 addappid(5485320) --Dlcname Love or Lust Beach Stories Wallpapers Pack
 addappid(5485321, 1, "2a4784ec99739b7a2b07894a7ccd9cd945cd87116e6dd22fd30b406fb90d38a3") -- Love or Lust Beach Stories Wallpapers Pack - Depot 5485321
-setManifestid(5485321, "8203597120045661340", 175064640)
+setManifestid(5485321, "2215761936662859612", 175064640)
+-- EXCLUDED DLCS:
+-- UNRELEASED DLCS (COMMENTED OUT)
+-- addappid(4626260) -- Love or Lust Beach Stories: Night Receptionist (unreleased)
