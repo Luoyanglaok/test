@@ -1,9 +1,9 @@
 -- 2185060's Lua and Manifest Created by Hubcap Manifest
 -- Two Point Museum
--- Created: November 02, 2026 at 05:10:09 EST
+-- Created: November 20, 2026 at 07:01:52 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26287332 (public branch)
--- Build Date: October 28, 2026 at 22:41:40 EDT (1793241700)
+-- Build: 26582093 (public branch)
+-- Build Date: November 10, 2026 at 22:12:10 EST (1794366730)
 -- Total Depots: 22
 -- Total DLCs: 6
 -- Shared Depots: 1
@@ -12,11 +12,11 @@
 addappid(2185060, 1, "2340a2fa4b9bb44e786eb62e5866d2f8b2b4c5d73c0173273064b5a6424c5d1d") -- Two Point Museum
 -- MAIN APP DEPOTS
 addappid(2185061, 1, "a98101165ba3b99b3d98c5866360aa7cb08eeffd31ec95a9d024a824ff57c792") -- Depot 2185061
-setManifestid(2185061, "5511300802320527074", 5959520895)
+setManifestid(2185061, "7320748544851201134", 5954225142)
 addappid(2185062, 1, "50e06e5a50d397f8af97494176ecfb9f75bb4082443bbe1fb111f44715c18d61") -- Depot 2185062
-setManifestid(2185062, "4138123137759458018", 5779644575)
+setManifestid(2185062, "791412673020509252", 5779645847)
 addappid(2185063, 1, "e68d0e65f0ced4a31e4932edecd8ff65ad2f1b503bff1b0e74faa05ae4d5356c") -- Depot 2185063
-setManifestid(2185063, "3913008428060350272", 6097869564)
+setManifestid(2185063, "6733701695363298904", 6097935049)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
@@ -64,11 +64,11 @@ setManifestid(4114073, "7446614187806024462", 47021638)
 -- Two Point Museum Rides  Relics (AppID: 4511680)
 addappid(4511680) --Dlcname Two Point Museum Rides  Relics
 addappid(4511681, 1, "b2a147724bf5d25de1ee3575973bedc2da49b646c8878cba3a9cdb3677bac44c") -- Two Point Museum Rides  Relics - Depot 4511681
-setManifestid(4511681, "1760821341017146624", 77589242)
+setManifestid(4511681, "5825968380880963884", 77587854)
 addappid(4511682, 1, "fcbc05a098e074739eef05524be1c90423613e6f1bbb8a15e51827b72592e871") -- Two Point Museum Rides  Relics - Depot 4511682
-setManifestid(4511682, "7262225626534655890", 78668453)
+setManifestid(4511682, "2529031597699851306", 78671148)
 addappid(4511683, 1, "a808144aec88210bd385b5f2abc93f080b0ac09432f96c084ae791f5d073b9b3") -- Two Point Museum Rides  Relics - Depot 4511683
-setManifestid(4511683, "3874816167935473667", 80415566)
+setManifestid(4511683, "4242042558061265954", 80421748)
 -- EMPTY DEPOTS (no content on any branch)
 -- addappid(4511821) -- Depot 4511821 (empty depot)
 -- addappid(4511822) -- Depot 4511822 (empty depot)
