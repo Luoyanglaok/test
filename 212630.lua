@@ -1,6 +1,6 @@
 -- 212630's Lua and Manifest Created by Hubcap Manifest
 -- Tom Clancy's Ghost Recon Future Soldier
--- Created: November 08, 2026 at 06:32:16 EST
+-- Created: November 19, 2026 at 10:11:48 EST
 -- Website: https://hubcapmanifest.com/
 -- Build: 11475740 (public branch)
 -- Build Date: June 15, 2023 at 04:17:03 EDT (1686817023)
@@ -15,7 +15,7 @@ addappid(212631, 1, "c43bec7fffe8fe518d4671a68ab7c973971699ba8ac2f4cc955a56d8bbf
 setManifestid(212631, "5952855941513904570", 18069087214)
 -- SHARED DEPOTS (from other apps)
 addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675") -- Ubisoft Connect PC Client Content (Shared from App 1716750)
-setManifestid(1716751, "6945505966615327303", 263096496)
+setManifestid(1716751, "2472729118411997173", 263174264)
 -- DLCS WITH DEDICATED DEPOTS
 -- Tom Clancys Ghost Recon Future Soldier - Arctic Strike DLC (AppID: 212671)
 addappid(212671) --Dlcname Tom Clancys Ghost Recon Future Soldier - Arctic Strike DLC
