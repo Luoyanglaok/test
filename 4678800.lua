@@ -1,11 +1,11 @@
 -- 4678800's Lua and Manifest Created by Hubcap Manifest
 -- Train Sim World® 7
--- Created: November 13, 2026 at 00:38:38 EST
+-- Created: November 23, 2026 at 05:54:03 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26272722 (public branch)
--- Build Date: October 28, 2026 at 10:17:23 EDT (1793197043)
+-- Build: 26643764 (public branch)
+-- Build Date: November 13, 2026 at 07:11:59 EST (1794571919)
 -- Total Depots: 172
--- Total DLCs: 167 (5 excluded)
+-- Total DLCs: 167 (6 excluded)
 -- Shared Depots: 3
 
 -- MAIN APPLICATION
@@ -13,7 +13,7 @@ addappid(4678800, 1, "8c5b245d7607580c9af56dd8796bc182eb122d94b5dd8e4bed8fe6a652
 addtoken(4678800, "3288917701616793416")
 -- MAIN APP DEPOTS
 addappid(4678801, 1, "06ce225a462eb997e46c9c7dffc230f07821451eece35b478c2376b42c5dc75c") -- Depot 4678801
-setManifestid(4678801, "8207127183899038210", 8097206919)
+setManifestid(4678801, "6302434966894402861", 8150812120)
 addappid(4679250, 1, "e87b322d54de737a140a2976a9a40ca4afd387993ae426248f24e850ff4e1dec") -- Depot 4679250
 setManifestid(4679250, "1154793197866009851", 7026460144)
 -- SHARED DEPOTS (from other apps)
@@ -51,7 +51,7 @@ setManifestid(4678870, "2789305232890315936", 4840134446)
 -- Train Sim World 7 BR Class 33 Loco Add-On (AppID: 4678880)
 addappid(4678880) --Dlcname Train Sim World 7 BR Class 33 Loco Add-On
 addappid(4678880, 1, "9b4a182e62203d39a4df6d9f09647582b32d6c8199f01a335aac56420460c021") -- Train Sim World 7 BR Class 33 Loco Add-On - Depot 4678880
-setManifestid(4678880, "9070696664439794363", 87817958)
+setManifestid(4678880, "6255389769278052004", 68382062)
 -- Train Sim World 7 Main Spessart Bahn Aschaffenburg - Gemnden Route Add-On (AppID: 4678890)
 addappid(4678890) --Dlcname Train Sim World 7 Main Spessart Bahn Aschaffenburg - Gemnden Route Add-On
 addappid(4678890, 1, "d76278de1b99dd49041f79c57e62fcd5d958b1f70be0c13ca4f219b6ecbce5ce") -- Train Sim World 7 Main Spessart Bahn Aschaffenburg - Gemnden Route Add-On - Depot 4678890
@@ -67,7 +67,7 @@ setManifestid(4678910, "7305703387227023226", 152446577)
 -- Train Sim World 7 BR Class 52 Western Loco Add-On (AppID: 4678920)
 addappid(4678920) --Dlcname Train Sim World 7 BR Class 52 Western Loco Add-On
 addappid(4678920, 1, "6487c82052f5781648942d8566d5a6158e72963cbb11a5d92f9b77c6c35d2d73") -- Train Sim World 7 BR Class 52 Western Loco Add-On - Depot 4678920
-setManifestid(4678920, "6897916213297716340", 85166118)
+setManifestid(4678920, "8863755242497147444", 68853243)
 -- Train Sim World 7 BR Heavy Freight Pack Loco Add-On (AppID: 4678930)
 addappid(4678930) --Dlcname Train Sim World 7 BR Heavy Freight Pack Loco Add-On
 addappid(4678930, 1, "d3c636bd3ad92b96ff18dab23c983061a9038ad51e3a3d99c803e47c5473d64a") -- Train Sim World 7 BR Heavy Freight Pack Loco Add-On - Depot 4678930
@@ -87,7 +87,7 @@ setManifestid(4678970, "745194560124681067", 4455644014)
 -- Train Sim World 7 BR Class 31 Loco Add-On (AppID: 4678980)
 addappid(4678980) --Dlcname Train Sim World 7 BR Class 31 Loco Add-On
 addappid(4678980, 1, "a393ca38d307845d48fbb37968b4c2d42ba77b0ceb827a7bd939e17566e2d38a") -- Train Sim World 7 BR Class 31 Loco Add-On - Depot 4678980
-setManifestid(4678980, "8321706851799766926", 135145685)
+setManifestid(4678980, "7420819819807875082", 121299684)
 -- Train Sim World 7 East Coastway Remastered Brighton - Eastbourne  Seaford Route Add-On (AppID: 4679000)
 addappid(4679000) --Dlcname Train Sim World 7 East Coastway Remastered Brighton - Eastbourne  Seaford Route Add-On
 addappid(4679000, 1, "6754c573085b1cb1f7c6d5485f226decef0a3d2b7b840bf70134f2f19e77835f") -- Train Sim World 7 East Coastway Remastered Brighton - Eastbourne  Seaford Route Add-On - Depot 4679000
@@ -159,7 +159,7 @@ setManifestid(4679170, "3267746548391271816", 209040755)
 -- Train Sim World 7 Diesel Legends of the Great Western Add-On (AppID: 4679190)
 addappid(4679190) --Dlcname Train Sim World 7 Diesel Legends of the Great Western Add-On
 addappid(4679190, 1, "12116629e5fdc6915d6c011407a179867ff1470b33dfd98fa74454436e972dcd") -- Train Sim World 7 Diesel Legends of the Great Western Add-On - Depot 4679190
-setManifestid(4679190, "1883850266662125011", 446784601)
+setManifestid(4679190, "9075133859587524499", 420055190)
 -- Train Sim World 7 Clinchfield Railroad Elkhorn - Dante Route Add-On (AppID: 4679200)
 addappid(4679200) --Dlcname Train Sim World 7 Clinchfield Railroad Elkhorn - Dante Route Add-On
 addappid(4679200, 1, "64e6430634c41591e5a9423cd8c5fa2e66095f8cad773d96bbb293c326ae215f") -- Train Sim World 7 Clinchfield Railroad Elkhorn - Dante Route Add-On - Depot 4679200
@@ -179,7 +179,7 @@ setManifestid(4679230, "7794545260010949163", 3364799973)
 -- Train Sim World 7 London Underground 1938 Stock EMU Add-On (AppID: 4679240)
 addappid(4679240) --Dlcname Train Sim World 7 London Underground 1938 Stock EMU Add-On
 addappid(4679240, 1, "0dd65c0d9e3a47efff355578a625bae1ad049d02b4f0ac4c16be087ba9d1f340") -- Train Sim World 7 London Underground 1938 Stock EMU Add-On - Depot 4679240
-setManifestid(4679240, "1869570440429228967", 246502160)
+setManifestid(4679240, "2076289672581135972", 246496016)
 -- Train Sim World 7 Brighton Main Line London Victoria - Brighton Route Add-On (AppID: 4679260)
 addappid(4679260) --Dlcname Train Sim World 7 Brighton Main Line London Victoria - Brighton Route Add-On
 addappid(4679260, 1, "a8990985144b60abbf75c69726ceb42a8b87f25f2037b9576f87255a520d7142") -- Train Sim World 7 Brighton Main Line London Victoria - Brighton Route Add-On - Depot 4679260
@@ -251,7 +251,7 @@ setManifestid(4679410, "7157929534299322076", 4200425018)
 -- Train Sim World 7 Bakerloo Line Route Add-On (AppID: 4679420)
 addappid(4679420) --Dlcname Train Sim World 7 Bakerloo Line Route Add-On
 addappid(4679420, 1, "9ca7899c6b933e3562fc46e4151d1016f4411f6627f43506b0110f468dac126a") -- Train Sim World 7 Bakerloo Line Route Add-On - Depot 4679420
-setManifestid(4679420, "301930833816342564", 4615047955)
+setManifestid(4679420, "8529038973622493684", 4662622228)
 -- Train Sim World 7 Sand Patch Grade Route Add-On (AppID: 4679430)
 addappid(4679430) --Dlcname Train Sim World 7 Sand Patch Grade Route Add-On
 addappid(4679430, 1, "e09a21ce530159567c31d89cf50d7c18489b0220d4200712a3fee91e9572be37") -- Train Sim World 7 Sand Patch Grade Route Add-On - Depot 4679430
@@ -287,7 +287,7 @@ setManifestid(4679550, "3975801020423458360", 4958837999)
 -- Train Sim World 7 New Journeys - Silver 1972 Stock Add-On (AppID: 4679560)
 addappid(4679560) --Dlcname Train Sim World 7 New Journeys - Silver 1972 Stock Add-On
 addappid(4679560, 1, "df9697dddf728a69bc47437db7b29c68e9e6e64a4ebf294b56f309839dc43e58") -- Train Sim World 7 New Journeys - Silver 1972 Stock Add-On - Depot 4679560
-setManifestid(4679560, "5267102010079185592", 165192263)
+setManifestid(4679560, "7340995214917234726", 165190215)
 -- Train Sim World 7 New Journeys - CSX SD40 Add-On (AppID: 4679570)
 addappid(4679570) --Dlcname Train Sim World 7 New Journeys - CSX SD40 Add-On
 addappid(4679570, 1, "7aef27ab5ca350ff61bf01fd06ac8fcc8f89971789e7d14a4bc2fcec988568d5") -- Train Sim World 7 New Journeys - CSX SD40 Add-On - Depot 4679570
@@ -327,7 +327,7 @@ setManifestid(4679670, "8537791660059893619", 7090912814)
 -- Train Sim World 7 Blackpool Branches Preston - Blackpool  Ormskirk Route Add-On (AppID: 4679690)
 addappid(4679690) --Dlcname Train Sim World 7 Blackpool Branches Preston - Blackpool  Ormskirk Route Add-On
 addappid(4679690, 1, "7396f721175fb071ddf692d4fe38957f22724b974d4385fbd165251a7b703ed5") -- Train Sim World 7 Blackpool Branches Preston - Blackpool  Ormskirk Route Add-On - Depot 4679690
-setManifestid(4679690, "1796477296747989000", 9510856637)
+setManifestid(4679690, "55129796775639133", 9510891469)
 -- Train Sim World 7 Linke Rheinstrecke Mainz - Koblenz Route Add-On (AppID: 4679720)
 addappid(4679720) --Dlcname Train Sim World 7 Linke Rheinstrecke Mainz - Koblenz Route Add-On
 addappid(4679720, 1, "15f46c3df9a959bb04d28acd3360bfa0796cb43ee33fd127e8533920b3e81655") -- Train Sim World 7 Linke Rheinstrecke Mainz - Koblenz Route Add-On - Depot 4679720
@@ -352,7 +352,7 @@ setManifestid(4679780, "4960233929419420940", 443361288)
 addappid(4679800) --Dlcname Train Sim World 7 Railpool BR 193 Vectron Loco Add-On
 addtoken(4679800, "654649589512093725")
 addappid(4679800, 1, "34a99ff3f12beea5a5339e23426f6d7718c4e6f7d48b68fb97b01acab4e5e0da") -- Train Sim World 7 Railpool BR 193 Vectron Loco Add-On - Depot 4679800
-setManifestid(4679800, "8574877102708946234", 155526244)
+setManifestid(4679800, "7084987462743371865", 155520100)
 -- Train Sim World 7 Glossop Line Manchester - Hadfield  Glossop Route Add-On (AppID: 4679810)
 addappid(4679810) --Dlcname Train Sim World 7 Glossop Line Manchester - Hadfield  Glossop Route Add-On
 addappid(4679810, 1, "530cf0a07aa9d7308e58d598c49f2d887d5ed4b193e8ff2d068374df2c245dd0") -- Train Sim World 7 Glossop Line Manchester - Hadfield  Glossop Route Add-On - Depot 4679810
@@ -416,7 +416,7 @@ setManifestid(4680000, "6884623457219462024", 6808190881)
 -- Train Sim World 7 London Overground Suffragette line Gospel Oak - Barking Riverside Route Add-On (AppID: 4680010)
 addappid(4680010) --Dlcname Train Sim World 7 London Overground Suffragette line Gospel Oak - Barking Riverside Route Add-On
 addappid(4680010, 1, "b63de6ab619ad31921fd1779979a618d6c81b1f65c7457e7d54e64e91549a9aa") -- Train Sim World 7 London Overground Suffragette line Gospel Oak - Barking Riverside Route Add-On - Depot 4680010
-setManifestid(4680010, "3930033824876173223", 5555047800)
+setManifestid(4680010, "641703069568405443", 5526336868)
 -- Train Sim World 7 Cargo Line Vol. 2 - Aggregates (AppID: 4680020)
 addappid(4680020) --Dlcname Train Sim World 7 Cargo Line Vol. 2 - Aggregates
 addappid(4680020, 1, "07a5ed9018d9e12b9094fcb0c35ed270d76c5a601238363b5105b2f3de04369b") -- Train Sim World 7 Cargo Line Vol. 2 - Aggregates - Depot 4680020
@@ -440,7 +440,7 @@ setManifestid(4680070, "3127585313122576289", 6825383402)
 -- Train Sim World 7 West Coast Main Line Preston - Carlisle Route Add-On (AppID: 4680080)
 addappid(4680080) --Dlcname Train Sim World 7 West Coast Main Line Preston - Carlisle Route Add-On
 addappid(4680080, 1, "1bdfca22cbc3ed2718c4913838bfa5211b51ca28a400e4eb5470832cdb8cc321") -- Train Sim World 7 West Coast Main Line Preston - Carlisle Route Add-On - Depot 4680080
-setManifestid(4680080, "308473100700888751", 17787817807)
+setManifestid(4680080, "1711347741166915554", 17787821911)
 -- Train Sim World 7 DB BR 218 Diesel Loco Add-On (AppID: 4680090)
 addappid(4680090) --Dlcname Train Sim World 7 DB BR 218 Diesel Loco Add-On
 addappid(4680090, 1, "0f968c5d0e3844475c8460d124881633353c3e92693f842bd42c1e37ee1fe47a") -- Train Sim World 7 DB BR 218 Diesel Loco Add-On - Depot 4680090
@@ -464,7 +464,7 @@ setManifestid(4680130, "4195312546318664818", 8694607346)
 -- Train Sim World 7 Frankfurt - Fulda Kinzigtalbahn Route Add-On (AppID: 4680140)
 addappid(4680140) --Dlcname Train Sim World 7 Frankfurt - Fulda Kinzigtalbahn Route Add-On
 addappid(4680140, 1, "b9ac73d336c4da40aae33bb77f73de5dab3b73e7f593c9f774917f41020176f2") -- Train Sim World 7 Frankfurt - Fulda Kinzigtalbahn Route Add-On - Depot 4680140
-setManifestid(4680140, "8627729028520370683", 10359026337)
+setManifestid(4680140, "5952186917493947870", 10337118127)
 -- Train Sim World 7 Avanti West Coast BR Class 390 Pendolino EMU Add-On (AppID: 4680150)
 addappid(4680150) --Dlcname Train Sim World 7 Avanti West Coast BR Class 390 Pendolino EMU Add-On
 addappid(4680150, 1, "d97285330854630d6ae0aa788d6bd48e8b63c91467a254f716dc79808c5dede0") -- Train Sim World 7 Avanti West Coast BR Class 390 Pendolino EMU Add-On - Depot 4680150
@@ -472,7 +472,7 @@ setManifestid(4680150, "1655226839577799035", 338995679)
 -- Train Sim World 7 FlixTrain BR 193 Vectron Loco Add-On (AppID: 4680160)
 addappid(4680160) --Dlcname Train Sim World 7 FlixTrain BR 193 Vectron Loco Add-On
 addappid(4680160, 1, "11022e3a398485b4bffaf8c0989904fccbb80201aea2dafd14c9544155211b06") -- Train Sim World 7 FlixTrain BR 193 Vectron Loco Add-On - Depot 4680160
-setManifestid(4680160, "6542489355090605363", 317704491)
+setManifestid(4680160, "6706802343894490962", 317712687)
 -- Train Sim World 7 Mittenwaldbahn Innsbruck - Garmisch-Partenkirchen Route Add-On (AppID: 4680170)
 addappid(4680170) --Dlcname Train Sim World 7 Mittenwaldbahn Innsbruck - Garmisch-Partenkirchen Route Add-On
 addappid(4680170, 1, "2f40669b4a076c174c55936e66b067f1ee134a53fa14e698b156a52c250f2061") -- Train Sim World 7 Mittenwaldbahn Innsbruck - Garmisch-Partenkirchen Route Add-On - Depot 4680170
@@ -496,7 +496,7 @@ setManifestid(4680210, "6285197103125948611", 228535467)
 -- Train Sim World 7 Cardiff City Network Radur  Coryton  Penarth  Bae Caerdydd Route Add-On (AppID: 4680220)
 addappid(4680220) --Dlcname Train Sim World 7 Cardiff City Network Radur  Coryton  Penarth  Bae Caerdydd Route Add-On
 addappid(4680220, 1, "7c891edafd8a8d8091168c4fc4703060a321baead578eb01b93e2b5261fad5f5") -- Train Sim World 7 Cardiff City Network Radur  Coryton  Penarth  Bae Caerdydd Route Add-On - Depot 4680220
-setManifestid(4680220, "7470821803243828926", 3368960360)
+setManifestid(4680220, "8482040543014022726", 3368972652)
 -- Train Sim World 7 Thomas  Friends Visit the West Somerset Railway (AppID: 4680230)
 addappid(4680230) --Dlcname Train Sim World 7 Thomas  Friends Visit the West Somerset Railway
 addappid(4680230, 1, "5a5de1419f67e7f1942feaf2395ee0b5ddb6f7ff11a4389bd10bd6eccd5b6a33") -- Train Sim World 7 Thomas  Friends Visit the West Somerset Railway - Depot 4680230
@@ -524,7 +524,7 @@ setManifestid(4680290, "1332518609197611522", 251103004)
 -- Train Sim World 7 Frankfurt S-Bahn S1, S8  S9 Route Add-On (AppID: 4680300)
 addappid(4680300) --Dlcname Train Sim World 7 Frankfurt S-Bahn S1, S8  S9 Route Add-On
 addappid(4680300, 1, "d4160801ca4c319d3094810141a1a4f0eb21dae3a1f1c0012222403c71c5f928") -- Train Sim World 7 Frankfurt S-Bahn S1, S8  S9 Route Add-On - Depot 4680300
-setManifestid(4680300, "1728568681945106947", 8703207669)
+setManifestid(4680300, "1575516834920803625", 8703232213)
 -- Train Sim World 7 Thomas  Friends 80th Anniversary Expansion (AppID: 4680310)
 addappid(4680310) --Dlcname Train Sim World 7 Thomas  Friends 80th Anniversary Expansion
 addappid(4680310, 1, "7ffa02291b0791d7cd81b5eaa33ca5201265603f939abb5c9700f1f1eaff175e") -- Train Sim World 7 Thomas  Friends 80th Anniversary Expansion - Depot 4680310
@@ -536,11 +536,11 @@ setManifestid(4680320, "4421200830286067760", 9700764752)
 -- Train Sim World 7 Bahnstrecke Leipzig - Dresden Route Add-On (AppID: 4680330)
 addappid(4680330) --Dlcname Train Sim World 7 Bahnstrecke Leipzig - Dresden Route Add-On
 addappid(4680330, 1, "7ae8c0ef54580692087a19ff3badc867eba26a3ecdc6f807883697121782798b") -- Train Sim World 7 Bahnstrecke Leipzig - Dresden Route Add-On - Depot 4680330
-setManifestid(4680330, "6786562694009204772", 11751789894)
+setManifestid(4680330, "6147692564690939783", 11751853390)
 -- Train Sim World 7 Riviera Line Exeter  Plymouth  Paignton Route Add-On (AppID: 4680340)
 addappid(4680340) --Dlcname Train Sim World 7 Riviera Line Exeter  Plymouth  Paignton Route Add-On
 addappid(4680340, 1, "2d36e2381346f97ae90dc22930cfc1597378c836dfd9d0e87592ebc85dda662f") -- Train Sim World 7 Riviera Line Exeter  Plymouth  Paignton Route Add-On - Depot 4680340
-setManifestid(4680340, "9182523938666684102", 6866747271)
+setManifestid(4680340, "7973318147421183327", 6795127655)
 -- Train Sim World 7 NJ TRANSIT ALP-45DP Loco Add-On (AppID: 4680350)
 addappid(4680350) --Dlcname Train Sim World 7 NJ TRANSIT ALP-45DP Loco Add-On
 addappid(4680350, 1, "d74288cc14bfb771654e588ae9419135e39b109fb09a86005b68594c2eefe4aa") -- Train Sim World 7 NJ TRANSIT ALP-45DP Loco Add-On - Depot 4680350
@@ -552,7 +552,7 @@ setManifestid(4680360, "8851483430397604028", 161006524)
 -- Train Sim World 7 CrossCountry BR Class 220 Voyager DEMU Add-On (AppID: 4680370)
 addappid(4680370) --Dlcname Train Sim World 7 CrossCountry BR Class 220 Voyager DEMU Add-On
 addappid(4680370, 1, "e1fb07d87a01a56b12dc430928bf606368e3d3fa0d9b4ae167870687257e2221") -- Train Sim World 7 CrossCountry BR Class 220 Voyager DEMU Add-On - Depot 4680370
-setManifestid(4680370, "2966120588939918025", 215604044)
+setManifestid(4680370, "5767975942354988389", 177283376)
 -- Train Sim World 7 Cargo Line Vol. 4 - Military (AppID: 4680390)
 addappid(4680390) --Dlcname Train Sim World 7 Cargo Line Vol. 4 - Military
 addappid(4680390, 1, "5c545c9eeb50b8eb660b136db1d7bc5c715ac00c27c11c8547e28700a33f616a") -- Train Sim World 7 Cargo Line Vol. 4 - Military - Depot 4680390
@@ -596,15 +596,15 @@ setManifestid(4680530, "5398688948587894285", 10565371628)
 -- Train Sim World 7 West Coast Main Line Crewe - Preston Route Add-On (AppID: 4680540)
 addappid(4680540) --Dlcname Train Sim World 7 West Coast Main Line Crewe - Preston Route Add-On
 addappid(4680540, 1, "95b7ca84d9003e71a3f72dcbc069fa101b05ff141d9d4b99d54ad2fc86486e14") -- Train Sim World 7 West Coast Main Line Crewe - Preston Route Add-On - Depot 4680540
-setManifestid(4680540, "8252215170441618104", 14350189845)
+setManifestid(4680540, "486284692777672371", 14350876073)
 -- Train Sim World 7 West Coast Main Line Birmingham - Crewe Route Add-On (AppID: 4680550)
 addappid(4680550) --Dlcname Train Sim World 7 West Coast Main Line Birmingham - Crewe Route Add-On
 addappid(4680550, 1, "b94e647cc0366137bd1c7844bd421e1f097c50cedf5ef5dad3067e6aed50e680") -- Train Sim World 7 West Coast Main Line Birmingham - Crewe Route Add-On - Depot 4680550
-setManifestid(4680550, "4543037648441051083", 12190182526)
+setManifestid(4680550, "5189603833001460724", 12168121321)
 -- Train Sim World 7 Avanti West Coast BR Class 805 Evero BMU Add-On (AppID: 4680560)
 addappid(4680560) --Dlcname Train Sim World 7 Avanti West Coast BR Class 805 Evero BMU Add-On
 addappid(4680560, 1, "2b4fa04f21b8fbda6b43f2528e572867fae1003953ef187db1e8fb9f6f708030") -- Train Sim World 7 Avanti West Coast BR Class 805 Evero BMU Add-On - Depot 4680560
-setManifestid(4680560, "2968503903019305023", 454726609)
+setManifestid(4680560, "2256420099981516423", 444804877)
 -- Train Sim World 7 Schnellfahrstrecke Nrnberg - Ingolstadt Route Add-On (AppID: 4680590)
 addappid(4680590) --Dlcname Train Sim World 7 Schnellfahrstrecke Nrnberg - Ingolstadt Route Add-On
 addappid(4680590, 1, "9d8a7a5e645c54d648c071ba5e634dac4aee62071b555426f5ffd44f6ff0421e") -- Train Sim World 7 Schnellfahrstrecke Nrnberg - Ingolstadt Route Add-On - Depot 4680590
@@ -668,7 +668,7 @@ setManifestid(4680750, "4252286613533179182", 4412458536)
 -- Train Sim World 7 Great British Railways Class 802 BMU Add-On (AppID: 4680760)
 addappid(4680760) --Dlcname Train Sim World 7 Great British Railways Class 802 BMU Add-On
 addappid(4680760, 1, "e2dfe70f2744b6c544b44dc4f48554d403b8fd0e330c76a24c3ab37ec5007cb6") -- Train Sim World 7 Great British Railways Class 802 BMU Add-On - Depot 4680760
-setManifestid(4680760, "1915248494356390327", 352325689)
+setManifestid(4680760, "3117985065738233867", 320425883)
 -- Train Sim World 7 Cargo Line Vol. 6 - Gas (AppID: 4680770)
 addappid(4680770) --Dlcname Train Sim World 7 Cargo Line Vol. 6 - Gas
 addappid(4680770, 1, "dc6a409d25dcec2fc00f9ae46b8406659e20a8cdd489df77f51da3cfdd74d1fb") -- Train Sim World 7 Cargo Line Vol. 6 - Gas - Depot 4680770
@@ -681,7 +681,7 @@ setManifestid(4680780, "2199747143954296461", 73709592)
 addappid(4680800) --Dlcname Train Sim World 7 Bahnstrecke Nrnberg - Wrzburg Route Add-On
 addtoken(4680800, "9077880630010020721")
 addappid(4680800, 1, "6ffea1a12cb6c366786d24e6c4a01284a535d208c9e5a775e8b25255d3756ebb") -- Train Sim World 7 Bahnstrecke Nrnberg - Wrzburg Route Add-On - Depot 4680800
-setManifestid(4680800, "4638759937094755713", 9065960829)
+setManifestid(4680800, "906372236749434474", 9065958629)
 -- Train Sim World 7 Florida Tri-Rail Miami - Boca Raton Route Add-On (AppID: 4680810)
 addappid(4680810) --Dlcname Train Sim World 7 Florida Tri-Rail Miami - Boca Raton Route Add-On
 addtoken(4680810, "2844657118638720369")
@@ -691,7 +691,7 @@ setManifestid(4680810, "8790445716557303968", 6211726747)
 addappid(4714890) --Dlcname Train Sim World 7 Airedale  Wharfedale Network Leeds  Bradford - Skipton  Ilkley Route Add-On
 addtoken(4714890, "12236726871434023279")
 addappid(4714890, 1, "b47fdc99dc61c2fdd14e0d1f6519d94aa734729e601d54f5a258b97d42166293") -- Train Sim World 7 Airedale  Wharfedale Network Leeds  Bradford - Skipton  Ilkley Route Add-On - Depot 4714890
-setManifestid(4714890, "5798649136188649073", 6328198895)
+setManifestid(4714890, "5458070214431021119", 6328196981)
 -- Train Sim World 7 Tri-Rail GP49H-3 Loco Add-On (AppID: 4714910)
 addappid(4714910) --Dlcname Train Sim World 7 Tri-Rail GP49H-3 Loco Add-On
 addtoken(4714910, "6884407096305012552")
@@ -706,9 +706,10 @@ setManifestid(4714920, "789420366776967836", 185750690)
 addappid(4714930) --Dlcname Train Sim World 7 DB BR 412 ICE 4 High Speed EMU Add-On
 addtoken(4714930, "10247586407768226735")
 addappid(4714930, 1, "7117e15185a32efeb4f69dc6e5c4885b3f049c6a5ff4945f6c8b46d9597dd2c7") -- Train Sim World 7 DB BR 412 ICE 4 High Speed EMU Add-On - Depot 4714930
-setManifestid(4714930, "6225216764966804015", 268785611)
+setManifestid(4714930, "7979634112228583489", 268774794)
 -- EXCLUDED DLCS:
 -- UNRELEASED DLCS (COMMENTED OUT)
+-- addappid(4680790) -- Train Sim World® 7: Cargo Line Vol. 8 - Taschenwagen (unreleased)
 -- addappid(4714940) -- Train Sim World® 7: Neckartalbahn: Heidelberg - Neckarelz Route Add-On (unreleased)
 -- addappid(4714950) -- Train Sim World® 7: Birmingham - Shrewsbury Route Add-On (unreleased)
 -- addappid(4714960) -- Train Sim World® 7: East Coast Main Line: London King’s Cross - Peterborough Route Add-On (unreleased)
@@ -716,7 +717,6 @@ setManifestid(4714930, "6225216764966804015", 268785611)
 -- addappid(4952530) -- Train Sim World® 7: Lisbon - Setúbal Route Add-On (unreleased)
 -- EMPTY DEPOTS (no content on any branch)
 -- addappid(4714900) -- Depot 4714900 (empty depot)
--- addappid(4714960) -- Depot 4714960 (empty depot)
 -- addappid(4714970) -- Depot 4714970 (empty depot)
 -- addappid(4714980) -- Depot 4714980 (empty depot)
 -- addappid(4952530) -- Depot 4952530 (empty depot)
@@ -727,7 +727,6 @@ setManifestid(4714930, "6225216764966804015", 268785611)
 -- addappid(4952580) -- Depot 4952580 (empty depot)
 -- addappid(4952590) -- Depot 4952590 (empty depot)
 -- addappid(4952600) -- Depot 4952600 (empty depot)
--- addappid(4952610) -- Depot 4952610 (empty depot)
 -- addappid(5270830) -- Depot 5270830 (empty depot)
 -- addappid(5270840) -- Depot 5270840 (empty depot)
 -- addappid(5270850) -- Depot 5270850 (empty depot)
@@ -743,3 +742,13 @@ setManifestid(4714930, "6225216764966804015", 268785611)
 -- addappid(5270950) -- Depot 5270950 (empty depot)
 -- addappid(5270960) -- Depot 5270960 (empty depot)
 -- addappid(5270970) -- Depot 5270970 (empty depot)
+-- addappid(5637730) -- Depot 5637730 (empty depot)
+-- addappid(5637740) -- Depot 5637740 (empty depot)
+-- addappid(5637760) -- Depot 5637760 (empty depot)
+-- addappid(5637770) -- Depot 5637770 (empty depot)
+-- addappid(5637790) -- Depot 5637790 (empty depot)
+-- addappid(5637800) -- Depot 5637800 (empty depot)
+-- addappid(5637810) -- Depot 5637810 (empty depot)
+-- addappid(5637830) -- Depot 5637830 (empty depot)
+-- addappid(5637840) -- Depot 5637840 (empty depot)
+-- addappid(5637850) -- Depot 5637850 (empty depot)
