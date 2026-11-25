@@ -1,22 +1,22 @@
 -- 255710's Lua and Manifest Created by Hubcap Manifest
 -- Cities: Skylines
--- Created: September 18, 2026 at 10:27:10 EDT
+-- Created: November 24, 2026 at 14:15:13 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 22724702 (public branch)
--- Build Date: April 10, 2026 at 01:12:55 EDT (1775797975)
--- Total Depots: 95
--- Total DLCs: 76
+-- Build: 25432556 (public branch)
+-- Build Date: September 21, 2026 at 04:33:34 EDT (1789979614)
+-- Total Depots: 98
+-- Total DLCs: 79
 -- Shared Depots: 2
 
 -- MAIN APPLICATION
 addappid(255710, 1, "624bcd6cc6783aaaf17722fb0bfb8a17b1d687e7b76c32b6f038307e1deab622") -- Cities: Skylines
 -- MAIN APP DEPOTS
 addappid(255711, 1, "125653faaac1bad58ea92c82059dcbe10705c04cd5c97e847c4f68b535fe24a6") -- Cities: Skylines Windows
-setManifestid(255711, "2922595189637474747", 17128372956)
+setManifestid(255711, "6792445949527122635", 17305889637)
 addappid(255712, 1, "8b92cc0e5effe6aae01b10e49408f561ebd6a8b4f72c8d9534758e123eba3464") -- Cities: Skylines OSX
-setManifestid(255712, "2825015326950880727", 17153305864)
+setManifestid(255712, "4274322267635292067", 17342313613)
 addappid(255713, 1, "7a309e01d09daf057aee177d1645ffb3233b7199a24da2fe28fbf4cb87ac5c91") -- Cities: Skylines Linux
-setManifestid(255713, "6935597419420162829", 17068508039)
+setManifestid(255713, "1501830901329595599", 17259463726)
 addappid(352510, 1, "e65d744bca9d5cb2a7fe1e16d8d3c2f8d4fafc219d4cc7bdd9ef5c03f89157ed") -- Cities: Skylines - Soundtrack (352510) Depot
 setManifestid(352510, "7123489600763198871", 296695160)
 addappid(352511, 1, "3885ecb5bdd0348394a2b36d74b88c1278f63c4d74a6311ba7dddd93512fbf5f") -- Cities: Skylines - The Architecture Artbook (352511) Depot
@@ -261,6 +261,14 @@ addappid(1616458, 1, "3d85fcc861795b2bb0ca5283bc569895f8d753f7a8a4d55d131af54940
 setManifestid(1616458, "9175086803368134282", 61166263)
 addappid(1616459, 1, "06cc873bcf0ba8acc2cad50aadf0909ff262770f9cfaaa299e19301f8b9e45d9") -- Cities Skylines - 8 Gear Radio - Depot 1616459
 setManifestid(1616459, "6779695878280318264", 61166263)
+-- Cities Skylines - Blueprint Beats (AppID: 4771390)
+addappid(4771390) --Dlcname Cities Skylines - Blueprint Beats
+addappid(4771399, 1, "8b6874dcd150cc126ca861f1ade0c787bd906d8872094fee7f4d99553ffc2da6") -- Cities Skylines - Blueprint Beats - Depot 4771399
+setManifestid(4771399, "2666558050628315777", 55631142)
+addappid(4771398, 1, "9d89607d895cfdba59f87849c6d2bb05d0ba087e61837e0881956a69ff4e45ee") -- Cities Skylines - Blueprint Beats - Depot 4771398
+setManifestid(4771398, "7118578134468025693", 55631142)
+addappid(4771397, 1, "47612b71a45fab29d77868fc0820f9d8d72dc06cff84b3ac975d1441e0572441") -- Cities Skylines - Blueprint Beats - Depot 4771397
+setManifestid(4771397, "8076907196006025539", 55631142)
 -- DLCS WITHOUT DEDICATED DEPOTS
 addappid(346791) --Dlcname Cities Skylines - Deluxe Edition Upgrade Pack --NoDepot
 addtoken(346791, "2840039886544960915")
@@ -310,6 +318,8 @@ addappid(3731510) --Dlcname Cities Skylines - Content Creator Pack Map Pack 4 --
 addappid(4031130) --Dlcname Cities Skylines - Race Day --NoDepot
 addappid(4031140) --Dlcname Cities Skylines - Content Creator Pack Renewed History --NoDepot
 addappid(4031150) --Dlcname Cities Skylines - Content Creator Pack Iconic Brutalism --NoDepot
+addappid(4771370) --Dlcname Cities Skylines - Content Creator Pack Holiday Getaways --NoDepot
+addappid(4771380) --Dlcname Cities Skylines - Content Creator Pack Mansions  Manors --NoDepot
 -- EMPTY DEPOTS (no content on any branch)
 -- addappid(340160) -- Depot 340160 (empty depot)
 -- addappid(346790) -- Depot 346790 (empty depot)
@@ -367,6 +377,3 @@ addappid(4031150) --Dlcname Cities Skylines - Content Creator Pack Iconic Brutal
 -- addappid(3731530) -- Depot 3731530 (empty depot)
 -- addappid(4031160) -- Depot 4031160 (empty depot)
 -- addappid(4771390) -- Depot 4771390 (empty depot)
--- addappid(4771397) -- Depot 4771397 (empty depot)
--- addappid(4771398) -- Depot 4771398 (empty depot)
--- addappid(4771399) -- Depot 4771399 (empty depot)
