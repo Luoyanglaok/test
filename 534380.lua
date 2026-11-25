@@ -1,9 +1,9 @@
 -- 534380's Lua and Manifest Created by Hubcap Manifest
 -- Dying Light 2: Reloaded Edition
--- Created: November 16, 2026 at 12:44:19 EST
+-- Created: November 25, 2026 at 08:07:44 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26404378 (public branch)
--- Build Date: November 03, 2026 at 06:36:35 EST (1793705795)
+-- Build: 26889205 (public branch)
+-- Build Date: November 24, 2026 at 04:23:30 EST (1795512210)
 -- Total Depots: 39
 -- Total DLCs: 32
 -- Shared Depots: 3
@@ -12,15 +12,15 @@
 addappid(534380, 1, "da5060467c4b9199432fb5d9ba41ae2896a9c4a4705bc8e8f426155dc8efae83") -- Dying Light 2: Reloaded Edition
 -- MAIN APP DEPOTS
 addappid(534381, 1, "fec776617825a7f3e61dd191f407bd23c6f60ba1056a506f1facb4fd74d9f7e2") -- data_common
-setManifestid(534381, "4862495769748157001", 25023031277)
+setManifestid(534381, "4195132515074621844", 25023031276)
 addappid(534382, 1, "cf933660206b892b3d32060682d4063e7a42482428b1cbb3f0b8fed43cdfee45") -- binaries_windows
-setManifestid(534382, "3632493278703534112", 446752947)
+setManifestid(534382, "7554497126183830216", 446758579)
 addappid(534383, 1, "1a2b6e67c39a9803c80ab38c1be8b25b112ae32eaa1872b6cd42db109049e007") -- data_windows
 setManifestid(534383, "5957587775476414865", 47760395787)
 addappid(534384, 1, "b5e4f819a4ac1b9e78bca8293db8428a4eea8a95b6913fc32842010060db425e") -- data_lang_en
 setManifestid(534384, "1423416569169103279", 4837669356)
 addappid(534385, 1, "c7a22e2cab3e656efbdaceb8e2a7b76748c1790517faf3283beaa2cf761f5dc0") -- data_windows_lang_en
-setManifestid(534385, "4858857409211430106", 852118816)
+setManifestid(534385, "2649756499377420909", 852118816)
 addappid(534386, 1, "0f124b03d74178f173d00c78c84573dc7cef743f0d0835edea668a5ed3ba116e") -- DEV_WINDOWS
 setManifestid(534386, "1344544806272816313", 1)
 addappid(534387, 1, "d3fcdef424d1ec4c1a72bc78a8ae5364b74a5abd23ef7cbeca64996cad28b24b") -- data_lang_ar
