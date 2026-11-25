@@ -1,0 +1,25 @@
+-- Downloaded using DepotBox - https://depotbox.lol/
+-- Original file: 550.lua
+--Gamename Left 4 Dead 2
+addappid(550, 1, "a9d2d20daeb7f800ba35ca3974916dc4a2ab5b5c6adf1de9a62b1b634cdf95de") --Mainappid Left 4 Dead 2
+addappid(551, 1, "133d1039d438364b5569e91221c10fcd640f141d7700c921c02721ebe87c0459") --Main Windows Depot Left 4 Dead 2
+setManifestid(551, "6414216332926769076", 5228952128)
+addappid(552, 1, "2585a22b53c3e040982897d140378d942a22994ffae3ae2085eddf36af94f84d") --Main Windows Depot Left 4 Dead 2
+setManifestid(552, "2832412114477253308", 3308505952)
+addappid(553, 1, "7bc7ab0b0631017e69adc7251eed912215e5ec3629c4e493aed3d59f7647e206") --Main Macos Depot Left 4 Dead 2
+setManifestid(553, "7156914421218846636", 488371360)
+addappid(554, 1, "0c3a5e0ba83eb05f47677cb62ca99c7066627aa92de37c4ebde5de2f57b63b91") --Main Linux Depot Left 4 Dead 2
+setManifestid(554, "6727840828467256899", 441195424)
+addappid(555, 1, "ba7293680729c4c2f0335c1eb7e63230a542519312576e0a2da68072b247cbad") --Main Windows Depot Left 4 Dead 2
+setManifestid(555, "2234565508087190544", 741537232)
+addappid(556, 1, "fe84c8d4b2c27f6155d890d88f0621f11f094610f3c90b0c47f896daddf75e19") --Main Windows Language Depot French Left 4 Dead 2
+setManifestid(556, "600438406960901575", 1858149440)
+addappid(557, 1, "4a93866c750e2a770cad19228d2659175631748b443f8813b0b60e652a9a00ef") --Main Windows Language Depot German Left 4 Dead 2
+setManifestid(557, "1340205998014749215", 1857924144)
+addappid(558, 1, "b118e5db5c1f6b7671ed8b832dcb8826cc50b86018c97d995a752f4419757c50") --Main Windows Language Depot Spanish Left 4 Dead 2
+setManifestid(558, "4218948412924209416", 1831018864)
+addappid(559, 1, "aa6a7da182c33f764eb15b5f323b9806273e9fed6c8b60b32e4577b0b5e0d339") --Main Windows Language Depot Russian Left 4 Dead 2
+setManifestid(559, "1496422773544297255", 2503055472)
+addappid(565) --Dlcname Left 4 Dead 2 Preorder DLC
+addappid(271840) --Dlcname Left 4 Dead 2 - Christmas 2013
+addappid(322070) --Dlcname AppID 322070
