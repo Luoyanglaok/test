@@ -3,7 +3,7 @@
 --Gamename Astral Hunter: Homebound
 addappid(3540610) --Mainappid Astral Hunter: Homebound
 addappid(3540611, 1, "94beeb0f88ad1062b5b880ff8410cd354e396d7b09bded0c201f809538e623b5") --Main Windows Depot Astral Hunter: Homebound
-setManifestid(3540611, "6362039160705474955", 377732320)
+setManifestid(3540611, "5289360927759987155", 384513712)
 --Share Depots
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Share Windows Depot Steamworks Common Redistributables
 setManifestid(228989, "5753583882400741046", 25108528)
