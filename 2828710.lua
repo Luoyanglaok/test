@@ -1,9 +1,9 @@
 -- 2828710's Lua and Manifest Created by Hubcap Manifest
 -- Valor Mortis
--- Created: November 23, 2026 at 13:13:04 EST
+-- Created: November 26, 2026 at 15:47:28 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26788083 (public branch)
--- Build Date: November 19, 2026 at 10:05:18 EST (1795100718)
+-- Build: 26954193 (public branch)
+-- Build Date: November 26, 2026 at 12:37:03 EST (1795714623)
 -- Total Depots: 4
 -- Total DLCs: 1
 -- Shared Depots: 3
@@ -12,7 +12,7 @@
 addappid(2828710, 1, "c60a39aed552498b0f0fc6c8cc936984029fc203e5a1dc254a5f4f668864224b") -- Valor Mortis
 -- MAIN APP DEPOTS
 addappid(2828711, 1, "3aa7bf74ac09da6be0b60fa92b918131bca6fa16306a8b4bd1a9084fd06a54e0") -- Depot 2828711
-setManifestid(2828711, "3983702389391769129", 46261606374)
+setManifestid(2828711, "2469324028718802641", 46257396543)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
