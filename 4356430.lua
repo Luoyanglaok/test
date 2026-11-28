@@ -1,11 +1,11 @@
 -- 4356430's Lua and Manifest Created by Hubcap Manifest
 -- NBA 2K27
--- Created: October 20, 2026 at 02:05:09 EDT
+-- Created: November 27, 2026 at 11:17:29 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26004539 (public branch)
--- Build Date: October 17, 2026 at 01:18:51 EDT (1792214331)
+-- Build: 26799507 (public branch)
+-- Build Date: November 19, 2026 at 19:39:27 EST (1795135167)
 -- Total Depots: 3
--- Total DLCs: 13
+-- Total DLCs: 18
 -- Shared Depots: 1
 
 -- MAIN APPLICATION
@@ -13,7 +13,7 @@ addappid(4356430, 1, "da0457cd701ea98a184543bf867722ae607be456e2fd7da486ff49e8e7
 addtoken(4356430, "13716260120817756824")
 -- MAIN APP DEPOTS
 addappid(4356431, 1, "a1ccdda87579dfa269b9015cc7ba18b7eb8339848b5eb408bfea8bdfb31eb8a4") -- Depot 4356431
-setManifestid(4356431, "5503080387321127732", 81902854560)
+setManifestid(4356431, "4689238194381754335", 82742042172)
 -- SHARED DEPOTS (from other apps)
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
 setManifestid(228988, "6645201662696499616", 29212173)
@@ -22,7 +22,7 @@ setManifestid(228988, "6645201662696499616", 29212173)
 addappid(4687050) --Dlcname NBA 2K27 - High Resolution Textures
 addtoken(4687050, "7614811867666966860")
 addappid(4687050, 1, "c96a0954f3836680afb31e3b837546bb92606ccaebcc3e1bf8cd3761b8221c25") -- NBA 2K27 - High Resolution Textures - Depot 4687050
-setManifestid(4687050, "555764085587409647", 30179837192)
+setManifestid(4687050, "2504413747923031507", 30586951135)
 -- DLCS WITHOUT DEDICATED DEPOTS
 addappid(4357560) --Dlcname NBA 2K27 Pro Pass Season 1 --NoDepot
 addtoken(4357560, "11490798856557241078")
@@ -33,10 +33,15 @@ addappid(4357600) --Dlcname NBA 2K27 - Pro Pass Season 2 --NoDepot
 addappid(4357610) --Dlcname NBA 2K27 - Hall of Fame Pass Season 2 --NoDepot
 addappid(4357620) --Dlcname NBA 2K27 - MyCareer Bundle Season 2 --NoDepot
 addappid(4357630) --Dlcname NBA 2K27 MyTEAM Bonus Offer Season 2 --NoDepot
+addappid(4357650) --Dlcname NBA 2K27 Pro Pass Season 3 --NoDepot
+addappid(4357660) --Dlcname NBA 2K27 Hall of Fame Pass Season 3 --NoDepot
+addappid(4357670) --Dlcname NBA 2K27 MyCAREER Bonus Offer Season 3 --NoDepot
+addappid(4357690) --Dlcname NBA 2K27 MyTEAM Bonus Offer Season 3 --NoDepot
 addappid(4691140) --Dlcname NBA 2K27 Bonus Pack --NoDepot
 addtoken(4691140, "137551546670174222")
 addappid(4691150) --Dlcname NBA 2K27 Limited-Time Offer Bonus Pack --NoDepot
 addtoken(4691150, "17233423616215550412")
+addappid(4691160) --Dlcname NBA 2K27 Vice City Bonus Pack --NoDepot
 addappid(4691180) --Dlcname NBA 2K27 Deluxe Bonus --NoDepot
 addtoken(4691180, "11900496500442026758")
 addappid(4691190) --Dlcname NBA 2K27 Ultra Bonus --NoDepot
