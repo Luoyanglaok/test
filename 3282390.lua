@@ -1,9 +1,9 @@
 -- 3282390's Lua and Manifest Created by Hubcap Manifest
 --  完蛋！我被美女包围了！ 2
--- Created: September 19, 2026 at 10:56:55 EDT
+-- Created: November 19, 2026 at 11:17:31 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 23128529 (public branch)
--- Build Date: May 07, 2026 at 08:47:25 EDT (1778158045)
+-- Build: 26755765 (public branch)
+-- Build Date: November 18, 2026 at 06:10:05 EST (1795000205)
 -- Total Depots: 4
 -- Total DLCs: 1
 -- Shared Depots: 1
@@ -12,9 +12,9 @@
 addappid(3282390, 1, "94ca322a74d529ae7492e04f3d0dfb18fb738f63f51c6699ff8dedc120bef3ae") --  完蛋！我被美女包围了！ 2
 -- MAIN APP DEPOTS
 addappid(3282391, 1, "07a83387135b433b3c5183af9d897c8be8cca42628bfcc25fd8beed93c7c3966") -- Depot 3282391
-setManifestid(3282391, "7095565209306972683", 31771852672)
+setManifestid(3282391, "7948488828722517596", 31771535012)
 addappid(3282392, 1, "8faceae292b941e688bebce259ef4d83ab39c7c02a46223b84b4be13a09aa052") -- Depot 3282392
-setManifestid(3282392, "1078977718156198127", 31911146580)
+setManifestid(3282392, "7119942149211139547", 31911134805)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
