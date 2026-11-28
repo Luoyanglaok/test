@@ -1,0 +1,107 @@
+-- 1985820's Lua and Manifest Created by Hubcap Manifest
+-- Call of Duty®: Vanguard
+-- Created: September 24, 2026 at 12:06:03 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 25235735 (public branch)
+-- Build Date: September 10, 2026 at 12:48:32 EDT (1789058912)
+-- Total Depots: 35
+-- Total DLCs: 12
+
+-- MAIN APPLICATION
+addappid(1985820, 1, "106f61b359ae39ccbcac3525debeeeac3bd3ba8a469a01250d3fdd590da9522e") -- Call of Duty®: Vanguard
+-- MAIN APP DEPOTS
+addappid(1985821, 1, "7ba5a7877674892cefe31026350d7ec57b1f793de70f0f7f7a6837e2a756f3e7") -- Depot 1985821
+setManifestid(1985821, "8597882226195604157", 397661978)
+addappid(1985822, 1, "43213b67597307c6575144964f31ab8499be19de0a87864d1992c2d188db5a4d") -- Depot 1985822
+setManifestid(1985822, "6467296692112315043", 37938802536)
+addappid(2093481, 1, "60b7a8701a3ff931a3eecb3d0f56a34140f6ff4dc0061414e3576bfbe6e1e076") -- Depot 2093481
+setManifestid(2093481, "4351629546800988521", 28668056)
+addappid(1985823, 1, "ebf01c13443a21615b4d387b25ec8988c115052febe0322bacc26af1a8e32467") -- Depot 1985823
+setManifestid(1985823, "4076547217358446641", 1294130436)
+addappid(2093482, 1, "6ca3f2e97418fb866afdea56d7e0437a1cf064314ac5126138b0e5ba9ca0d575") -- Depot 2093482
+setManifestid(2093482, "5910606411886739689", 28782744)
+addappid(1985824, 1, "c5b1116289e7d1e674ab9e46cbd6aa75dd25d70d2611000ee8b478fe150714b4") -- Depot 1985824
+setManifestid(1985824, "2721200489203277389", 2440727964)
+addappid(1985828, 1, "6bc5796d24577e77954aadded9c5909baec45e3a6b3182bd55a60bc4b8d86554") -- Depot 1985828
+setManifestid(1985828, "8525689701384336797", 2548730932)
+addappid(2089207, 1, "f31dd9bbbd4d5d1cf2b9bfead13fa42b4ccc5045e1bd41b7b6bbf4c721bec298") -- Depot 2089207
+setManifestid(2089207, "8886926879677318769", 1311561676)
+addappid(2089202, 1, "d66b68f5f81222a78609493b049e84e20d65d3d8b840d18d3e743a8a270851c2") -- Depot 2089202
+setManifestid(2089202, "7245362470703777816", 1421371280)
+addappid(2089209, 1, "f39281ffc37f79fbf56dc8dd2c04e0dc29a4176ef164ef273d018a37df3238bc") -- Depot 2089209
+setManifestid(2089209, "7914329495593210778", 1395183852)
+addappid(2093483, 1, "ec2f2f50a2a830f9dbeaed3b648441563be377b35d11850e1119a2abbbb2187d") -- Depot 2093483
+setManifestid(2093483, "5529248281599289337", 128480172)
+addappid(1985825, 1, "6596c8409480cbc4103523b0dcbe995e69815489539b92692cbb31508b9f7c1f") -- Depot 1985825
+setManifestid(1985825, "3509175134924030364", 3889875968)
+addappid(1985826, 1, "39e90555cdd3f7982cb622869c3b6b83cc70301bd59946346f326df7f1404e70") -- Depot 1985826
+setManifestid(1985826, "2839792009963714471", 4008030008)
+addappid(1985827, 1, "bd15afd262bdab1179b08a92d49e51dc5705e8f4dcd86e81ecdc91bb52b94995") -- Depot 1985827
+setManifestid(1985827, "7176116127193532333", 3847381304)
+addappid(2093472, 1, "e7faac9519d5fc76537228e599cb226ea4b98a1e14584afe0deafe27cfd016d5") -- Depot 2093472
+setManifestid(2093472, "7722070553339978132", 1416386596)
+addappid(2093470, 1, "cf315b1e4f9939023a6cfd0ca74f3cc35f5c3ab6377609f4a0786e1c9d09d732") -- Depot 2093470
+setManifestid(2093470, "5996781392422963825", 3867636380)
+addappid(2093479, 1, "5c900549395e36937340c1c996166816aeca6a376348db598c5e29c7dd210604") -- Depot 2093479
+setManifestid(2093479, "3548983171933937367", 1424378340)
+addappid(2093477, 1, "31f2c0f13d393f6c82a51f3ebb20e75eb7ab6a7039dc69de63442364d39b7f78") -- Depot 2093477
+setManifestid(2093477, "2579422453040736195", 1418740316)
+-- DLCS WITH DEDICATED DEPOTS
+-- Call of Duty Vanguard - Campaign (AppID: 2089200)
+addappid(2089200) --Dlcname Call of Duty Vanguard - Campaign
+addappid(2089200, 1, "e2c033cdbf3cc41a3cd1f46d7e7512efb092c2257a3be0f287ce71ee3af4dfa5") -- Call of Duty Vanguard - Campaign - Depot 2089200
+setManifestid(2089200, "3994384730834716296", 19740426492)
+addappid(2089201, 1, "65c8bb5ab31ca28776d7e5f4a334554190369f96037e5daf14c8df62f22f4f96") -- Call of Duty Vanguard - Campaign - Depot 2089201
+setManifestid(2089201, "7067355685948904751", 660467420)
+addappid(2089206, 1, "c81a056c1a7852b9029153e297e2c4c8e4668e3c89412eecf7fb5cc7ebfa16c6") -- Call of Duty Vanguard - Campaign - Depot 2089206
+setManifestid(2089206, "4781239615114042890", 1020988124)
+addappid(2089208, 1, "5105d1bbc5e66bf6a0ae4ebf0761c23b4c59c551c580512559e86d40b735f866") -- Call of Duty Vanguard - Campaign - Depot 2089208
+setManifestid(2089208, "5727001053559248738", 668652780)
+addappid(2089203, 1, "0fdf9c6ddfa8cd6b58fa05fb71d6d6100e91c4a485e48623f52b6db49d247ff0") -- Call of Duty Vanguard - Campaign - Depot 2089203
+setManifestid(2089203, "4582648428637551612", 694243864)
+addappid(2093471, 1, "8bc630ba3d0d8d8c09916c402d5eceb5c9aac605ec35be1e1472065c5957744d") -- Call of Duty Vanguard - Campaign - Depot 2093471
+setManifestid(2093471, "2183861751417116698", 706939264)
+addappid(2089204, 1, "8625f32d3553641912c8e6c97eed5970c301520ecfc170e018c3f772f71471c0") -- Call of Duty Vanguard - Campaign - Depot 2089204
+setManifestid(2089204, "3212282336664992685", 1700528844)
+addappid(2089205, 1, "54e67466bb3606e951a5f6ddb846b3159a0b73582073c796363d13e2bb360252") -- Call of Duty Vanguard - Campaign - Depot 2089205
+setManifestid(2089205, "7667399819722123074", 1711511964)
+addappid(1985829, 1, "2b6b1d8abec6994607bf4394341b325c1dd425fd72c986f611206d9300a893fb") -- Call of Duty Vanguard - Campaign - Depot 1985829
+setManifestid(1985829, "3849524285081379673", 1714616648)
+addappid(2093473, 1, "4fe0d0b758650510deea545bba19d84e1d1e13797c94da5bafbc5ddca8aff4bc") -- Call of Duty Vanguard - Campaign - Depot 2093473
+setManifestid(2093473, "1119029176337778758", 715523532)
+addappid(2093474, 1, "2627af54db95fea8d873d9d647282120fd41d0ffd22fe9d8088aee937edd8de2") -- Call of Duty Vanguard - Campaign - Depot 2093474
+setManifestid(2093474, "3706151115402636505", 1727845984)
+addappid(2093480, 1, "bda9eb0c1344e1d84794c33b6cbfae18fdf39826ceca6c1b8631bd5a225166ae") -- Call of Duty Vanguard - Campaign - Depot 2093480
+setManifestid(2093480, "2848936690765968861", 705917840)
+addappid(2093478, 1, "9e40c24c2b909c7f821e117389155df730d1823f2702bf4c69ca662b4bf03ec3") -- Call of Duty Vanguard - Campaign - Depot 2093478
+setManifestid(2093478, "2594615187251252853", 703651288)
+addappid(2093484, 1, "1b16780788f7c897de6cfb84e9e48d00840173ad686584e1b45bd7c53b1a8575") -- Call of Duty Vanguard - Campaign - Depot 2093484
+setManifestid(2093484, "4754256537128088080", 1021135580)
+addappid(2093475, 1, "08534fa3535c2662d0d6098f4b70eca2f12b139553b79cf936c19b394b638f4a") -- Call of Duty Vanguard - Campaign - Depot 2093475
+setManifestid(2093475, "2919749160357006710", 9772032)
+addappid(2093476, 1, "2a07077ccdcff78939de555edac41c0c1ea6ee8bb0e1fe3dc1f087f6389d515e") -- Call of Duty Vanguard - Campaign - Depot 2093476
+setManifestid(2093476, "3568969356523392663", 3743008008)
+addappid(2093485, 1, "099306c4b71bf84636ba390b1939bbd967ee17b201cfab937156784039928e9e") -- Call of Duty Vanguard - Campaign - Depot 2093485
+setManifestid(2093485, "5035808175532081895", 9837568)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(2289410) --Dlcname Call of Duty Endowment (C.O.D.E.) - Timeless Pack --NoDepot
+addappid(2289411) --Dlcname Call of Duty Endowment (C.O.D.E.) - Gift of Honor Bundle --NoDepot
+addappid(2289412) --Dlcname Call of Duty Vanguard - Skull Collector Pro Pack --NoDepot
+addappid(2289413) --Dlcname Call of Duty Vanguard - Death Bite Pro Pack --NoDepot
+addappid(2289414) --Dlcname Call of Duty Vanguard - Island Expedition Pro Pack --NoDepot
+addappid(2289415) --Dlcname Call of Duty Vanguard - Hell Hounds Mastercraft Ultimate Pack --NoDepot
+addappid(2289416) --Dlcname Call of Duty Vanguard - Tracer Pack Violet Stealth Pro Pack --NoDepot
+addappid(2289417) --Dlcname Call of Duty Vanguard - Tracer Pack PsyOps Assassin Pro Pack --NoDepot
+addappid(2289418) --Dlcname Call of Duty Vanguard - Elegant Threat Pro Pack --NoDepot
+addappid(2296290) --Dlcname Call of Duty Vanguard - CoD Points --NoDepot
+addappid(2305250) --Dlcname Call of Duty Vanguard - Frontline Weapons Pack --NoDepot
+-- EMPTY DEPOTS (no content on any branch)
+-- addappid(2289410) -- Depot 2289410 (empty depot)
+-- addappid(2289411) -- Depot 2289411 (empty depot)
+-- addappid(2289412) -- Depot 2289412 (empty depot)
+-- addappid(2289413) -- Depot 2289413 (empty depot)
+-- addappid(2289414) -- Depot 2289414 (empty depot)
+-- addappid(2289415) -- Depot 2289415 (empty depot)
+-- addappid(2289416) -- Depot 2289416 (empty depot)
+-- addappid(2289417) -- Depot 2289417 (empty depot)
+-- addappid(2289418) -- Depot 2289418 (empty depot)
