@@ -1,9 +1,9 @@
 -- 2529790's Lua and Manifest Created by Hubcap Manifest
 -- GRIME II
--- Created: September 20, 2026 at 05:10:05 EDT
+-- Created: November 26, 2026 at 12:55:43 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 23303136 (public branch)
--- Build Date: May 19, 2026 at 05:31:27 EDT (1779183087)
+-- Build: 25903147 (public branch)
+-- Build Date: October 13, 2026 at 05:09:11 EDT (1791882551)
 -- Total Depots: 1
 -- Total DLCs: 0
 
@@ -11,4 +11,4 @@
 addappid(2529790) -- GRIME II
 -- MAIN APP DEPOTS
 addappid(2529791, 1, "03c60dc289ec3cdddbc924a04d5f9cf10a1f248a2fa65ccc021fdeb6670499ca") -- Depot 2529791
-setManifestid(2529791, "8975283305344371275", 22659992342)
+setManifestid(2529791, "6480722276373646260", 33225303942)
