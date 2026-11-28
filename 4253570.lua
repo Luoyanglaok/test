@@ -1,9 +1,9 @@
 -- 4253570's Lua and Manifest Created by Hubcap Manifest
 -- Reshine
--- Created: November 26, 2026 at 10:46:52 EST
+-- Created: November 27, 2026 at 10:47:20 EST
 -- Website: https://hubcapmanifest.com/
--- Build: 26947901 (public branch)
--- Build Date: November 26, 2026 at 07:50:56 EST (1795697456)
+-- Build: 26976401 (public branch)
+-- Build Date: November 27, 2026 at 10:16:06 EST (1795792566)
 -- Total Depots: 4
 -- Total DLCs: 2
 -- Shared Depots: 2
@@ -12,7 +12,7 @@
 addappid(4253570, 1, "7242bf3aa9b08a2080dae19e314141318119dfb32fd70272d192c8ae5f782200") -- Reshine
 -- MAIN APP DEPOTS
 addappid(4253571, 1, "e0d4c54438777b0a41414e4ca804ec6f1e55c92e0bef13d057dfd50417d4b724") -- Depot 4253571
-setManifestid(4253571, "4298447713024105911", 5088082686)
+setManifestid(4253571, "8981618468552329352", 5088105214)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
